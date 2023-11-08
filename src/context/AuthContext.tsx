@@ -1,6 +1,7 @@
 'use client'
 import { createContext, useContext, useEffect, useState, ReactNode } from 'react';
 import { getAuth, onAuthStateChanged, User } from 'firebase/auth';
+import Image from 'next/image';
 import firebase_app from '@/firebase/config';
 
 // Initialize Firebase auth instance
@@ -42,7 +43,7 @@ export function AuthContextProvider( { children }: AuthContextProviderProps ): J
   // Provide the authentication context to child components
   return (
     <AuthContext.Provider value={{ user }}>
-      {loading ? <div>Loading...</div> : children}
+      {loading ? <div><Image width="1000" height="1000" alt="loading" src="/loading.gif"></Image></div> : children}
     </AuthContext.Provider>
   );
 }

@@ -1,10 +1,12 @@
 import { AuthContextProvider } from '@/context/AuthContext';
-import { Inter } from 'next/font/google';
+import { Roboto } from 'next/font/google';
 import './globals.css';
 
-// Load the Inter font with 'latin' subset
-const inter = Inter( { subsets: [ 'latin' ] } );
-
+const roboto = Roboto({
+  weight: '400', // Specify the weight you need
+  preload: true, // Assuming you want to preload the font
+  subsets: ['latin'] // Specify any subsets you need
+});
 // Metadata for the application
 export const metadata = {
   title: 'Next.js + Firebase Starter',
