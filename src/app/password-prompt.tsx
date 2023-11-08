@@ -8,7 +8,6 @@ export default function PasswordPrompt() {
     const handleSubmit = (event) => {
         event.preventDefault();
 
-        // Replace 'password' with the actual password                                  
         if (password === 'password') {
             localStorage.setItem('hasVisited', 'true');
             router.push('/');
@@ -16,7 +15,7 @@ export default function PasswordPrompt() {
             alert('Incorrect password');
         }
     };
-
+    
     return (
         <div>
             <h1>Please enter the password:</h1>

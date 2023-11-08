@@ -1,25 +1,88 @@
 'use client'
 import  Navbar from './components/navBar';
 import Image from 'next/image';
+import { useEffect, useState } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+
 
 export default function Home() {
+  const [pageReady, setPageReady] = useState(false);
 
-  const style = {
-    display: 'block',
-    width: '100%',
-    height: '100%',
-    overflow: 'visible',
-    opacity: 1.0,
-    minHeight: '1px',
-    stroke: '#ffffff',
-    fill: '#ffffff',
-    background: "url('data:image/png;base64,')"
+  useEffect(() => {
+    // Simulate a loading time for page setup tasks or data fetching
+    const timer = setTimeout(() => {
+      setPageReady(true);
+    }, 2000); // Adjust time as needed for your setup
+
+    // Cleanup the timer if the component unmounts before the timer fires
+    return () => clearTimeout(timer);
+  }, []);
+
+
+  const centerImageVariants = {
+    hidden: { opacity: 0, scale: 0.3 },
+    visible: {
+      opacity: 1,
+      scale: 1,
+      transition: {
+        duration: 1,
+        delay: 4 // Delay the animation by 0.5 seconds
+      }
+    },
+  };
+
+  const loadingVariants = {
+    hidden: { opacity: 0 },
+    visible: { opacity: 1 },
+  };
+
+  const leftImageVariants = {
+    hidden: { opacity: 0, x: -100 }, // Start 100 pixels to the left of the final position
+    visible: { opacity: 1, x: 0, transition: { duration: 3 } },
+  };
+
+  const centerImageClassName = "absolute top-[60%] z-10 left-[28%] -translate-x-1/2 -translate-y-1/2 md:top-1/1";
+  const leftImageClassName = "absolute bottom-[20%] right-[64%]";
+
+  if (!pageReady) {
+    return (
+      <AnimatePresence>
+        <motion.div
+          initial="hidden"
+          animate="visible"
+          exit="hidden"
+          transition={{ duration: 0.5 }}
+          className="flex justify-center items-center h-screen"
+          key="loader"
+        >
+          <Image src="/loading.gif" alt="Loading" width={800} height={800} />
+        </motion.div>
+      </AnimatePresence>
+    );
   }
-
   return (
-      <>
-    <Navbar />
-      <div className="isolate bg-black">
+    <>
+      <Navbar />
+      <AnimatePresence>
+        {!pageReady && (
+          <motion.div
+            initial="hidden"
+            animate="visible"
+            exit="hidden"
+            // your defined variants for loading animation
+            transition={{ duration: 0.5 }}
+            className="flex justify-center items-center h-screen"
+            key="loader"
+          >
+            <Image src="/loading.gif" alt="Loading" width={800} height={800} />
+          </motion.div>
+        )}
+      </AnimatePresence>
+      <motion.div className="isolate bg-black"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ duration: 3 }}
+      >
         <video
           autoPlay
           muted
@@ -28,32 +91,42 @@ export default function Home() {
           className="z-0 overflow-hidden object-cover min-w-full"
         >
           <source
-            width='100%'
-            height={1000}
+            width={10}
+            height={90}
             src="https://elovera.my.canva.site/your-paragraph-text/videos/fb6e4467e7053efb0979ec228db7d7e1.mp4"
             type="video/mp4"
           />
         </video>
-      </div>
-
+      </motion.div>
       <div className="pt-6">
+      <motion.div
+          className={centerImageClassName}
+        initial="hidden"
+        animate="visible"
+        variants={centerImageVariants} // Use the defined variants
+      >
         {/* Centered Image */}
         <Image
-          width={1100}
-          height={1100}
+          width={700}
+          height={700}
           src="https://elovera.my.canva.site/your-paragraph-text/images/513c180505cdae6d658f1092b700074a.png"
           alt="Centered Image"
-          className="absolute top-1/2 mt-36 ml-15 left-1/2 z-10 h-48 -translate-x-1/2 -translate-y-1/2 md:top-1/1"></Image>
+          ></Image>
+      </motion.div>
 
-
-        {/* Left Image */}
+      <motion.div
+        className={leftImageClassName}
+        initial="hidden"
+        animate="visible"
+        variants={leftImageVariants} // Use the defined variants
+      >
         <Image
-          width={600}
-          height={500}
-          src="https://elovera.my.canva.site/your-paragraph-text/videos/bd98568cfc6ee9c87da323693e0e2e9f.gif"
+          width={270}
+          height={270}
+          src="/walking-logo-white.gif"
           alt="Left Image"
-          className="absolute bottom-[10%] right-[60%] h-[900px] -translate-x-10"></Image>
-        
+          ></Image>
+      </motion.div>
       </div>
       <div className="z-20">
         <button className="font-bold absolute bottom-0 left-1/2 -translate-x-1/2 pb-10 text-white md:text-lg">

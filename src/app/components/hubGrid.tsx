@@ -1,8 +1,22 @@
 import React, { useState, useEffect } from 'react';
 import Popup from 'react-animated-popup';
 import Youtube from 'react-youtube';
+import { motion } from 'framer-motion';
+
 
 export default function HubGrid() {
+
+    const gridItemVariants = {
+        hidden: { scale: 0.95, opacity: 0 },
+        visible: { scale: 1, opacity: 1, transition: { duration: 0.3 } },
+        hover: { scale: 1.05 }
+    };
+    const popupVariants = {
+        hidden: { scale: 0.95, opacity: 0 },
+        visible: { scale: 1, opacity: 1, transition: { duration: 0.3 } }
+    };
+
+
     const [data, setData] = useState([]);
     const [activeIndex, setActiveIndex] = useState(null);
     const [popupContent, setPopupContent] = useState('');
@@ -59,13 +73,30 @@ export default function HubGrid() {
     };
 
     return (
+        
         <div className="p-5 w-full min-h-screen">
+            <div className="flex space-x-7 justify-center mb-5">
+                <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-1 px-4 rounded-lg">
+                    Music
+                </button>
+                <button className="bg-red-500 hover:bg-red-700 text-white font-bold py-1 px-4 rounded-lg">
+                    Events
+                </button>
+                <button className="bg-green-500 hover:bg-green-700 text-white font-bold py-1 px-4 rounded-lg">
+                    Mixes
+                </button>
+                <button className="bg-yellow-500 hover:bg-yellow-700 text-white font-bold py-1 px-4 rounded-lg">
+                    Videos
+                </button>
+            </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full h-full">
                 {data.map((item, index) => (
-                    <div
+                    <motion.div
                         key={item.id}
-                        className="p-4 border rounded-lg cursor-pointer bg-white"
+                        className="p-4 border cursor-pointer bg-white"
                         onClick={() => handleClick(index)}
+                        variants={gridItemVariants}
+                        whileHover="hover"
                     >
                         <h3 className="text-lg font-semibold">{item.title}</h3>
                         <div className="video-container">
@@ -73,14 +104,19 @@ export default function HubGrid() {
                         <Youtube videoId={item.content} opts={videoOpts} />
                     </div>
                     </div>
-                    </div>
+                    </motion.div>
                 ))}
             </div>
             <Popup visible={isPopupVisible} style={popupStyle} onClose={() => setIsPopupVisible(false)}>
-                <div className="p-4">
+                
+                <motion.div className="p-4"
+                    variants={popupVariants}
+                    initial="hidden"
+                    animate={isPopupVisible ? "visible" : "hidden"}
+                >
                     <h3 className="text-lg font-semibold">Details</h3>
                     <Youtube videoId={popupContent} opts={videoOpts} />
-                </div>
+                </motion.div>
             </Popup>
         </div>
     );

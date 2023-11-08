@@ -41,18 +41,20 @@ export default function Nav() {
                         <Image src="/logo-white.svg" width={30} height={30} alt="logo" />
 
                     </Link>
+                    <Link href="/signin" passHref>
                     <button className="px-2 pl-20 text-white">Sign in</button>
+                    </Link>
                 </div>
 
                 <div className="flex items-center pt-1 space-x-10 md:w-full md:justify-center lg:w-auto md:ml-42 text-2xl">
                     <Link href="/about" passHref>
-                        <div className="text-white transition duration-300 underline-effect">ABOUT</div>
+                        <div className={`text-white transition duration-300 underline-effect ${pathname === '/about' ? 'border-b-2 border-white' : ''}`}>ABOUT</div>
                     </Link>
                     <Link href="/hub" passHref>
-                        <div className="text-white transition duration-300 cursor-pointer underline-effect">HUB</div>
+                        <div className={`text-white transition duration-300 underline-effect ${pathname === '/hub' ? 'border-b-2 border-white' : ''}`}>HUB</div>
                     </Link>
                     <Link href="/shop" passHref>
-                        <div className="text-white transition duration-300 cursor-pointer underline-effect">SHOP</div>
+                        <div className={`text-white transition duration-300 underline-effect ${pathname === '/shop' ? 'border-b-2 border-white' : ''}`}>SHOP</div>
                     </Link>
                 </div>
 

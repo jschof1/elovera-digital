@@ -1,49 +1,39 @@
-'use client'
+'use client';
 import { createContext, useContext, useEffect, useState, ReactNode } from 'react';
 import { getAuth, onAuthStateChanged, User } from 'firebase/auth';
-import Image from 'next/image';
 import firebase_app from '@/firebase/config';
 
-// Initialize Firebase auth instance
-const auth = getAuth( firebase_app );
+// Initialize the Firebase auth
+const auth = getAuth(firebase_app);
 
-// Create the authentication context
-export const AuthContext = createContext( {} );
+// Create the context for auth with a default value
+export const AuthContext = createContext({});
 
-// Custom hook to access the authentication context
-export const useAuthContext = () => useContext( AuthContext );
+// Custom hook to use the auth context
+export const useAuthContext = () => useContext(AuthContext);
 
 interface AuthContextProviderProps {
   children: ReactNode;
 }
 
-export function AuthContextProvider( { children }: AuthContextProviderProps ): JSX.Element {
-  // Set up state to track the authenticated user and loading status
-  const [ user, setUser ] = useState<User | null>( null );
-  const [ loading, setLoading ] = useState( true );
+export function AuthContextProvider({ children }: AuthContextProviderProps): JSX.Element {
+  const [user, setUser] = useState<User | null>(null);
 
-  useEffect( () => {
-    // Subscribe to the authentication state changes
-    const unsubscribe = onAuthStateChanged( auth, ( user ) => {
-      if ( user ) {
-        // User is signed in
-        setUser( user );
-      } else {
-        // User is signed out
-        setUser( null );
-      }
-      // Set loading to false once authentication state is determined
-      setLoading( false );
-    } );
+  useEffect(() => {
+    // Subscribe to the auth state changes
+    const unsubscribe = onAuthStateChanged(auth, (user) => {
+      setUser(user); // Set the user or null if not logged in
+    });
 
-    // Unsubscribe from the authentication state changes when the component is unmounted
-    return () => unsubscribe();
-  }, [] );
+    // Clean up the subscription on unmount
+    return () => {
+      unsubscribe();
+    };
+  }, []); // Empty dependency array means this effect runs once on mount and then on unmount
 
-  // Provide the authentication context to child components
   return (
     <AuthContext.Provider value={{ user }}>
-      {loading ? <div><Image width="1000" height="1000" alt="loading" src="/loading.gif"></Image></div> : children}
+      {children}
     </AuthContext.Provider>
   );
 }

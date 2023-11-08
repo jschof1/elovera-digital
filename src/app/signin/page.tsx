@@ -1,5 +1,6 @@
 'use client'
 import signIn from "@/firebase/auth/signIn";
+import Navbar from "../components/navBar";
 import { useRouter } from 'next/navigation';
 import { useState } from "react";
 
@@ -31,7 +32,25 @@ function Page(): JSX.Element {
   }
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen">
+    <>
+    <Navbar/>
+      <div className="relative isolate bg-black h-screen"> {/* Set the container to position relative and full screen */}
+        <video
+          autoPlay
+          muted
+          loop
+          id="bgVideo"
+          className="z-0 overflow-hidden object-cover min-w-full"
+        >
+          <source
+            width='100%'
+            height={1000}
+            src="https://elovera.my.canva.site/your-paragraph-text/videos/fb6e4467e7053efb0979ec228db7d7e1.mp4"
+            type="video/mp4"
+          />
+        </video>
+      </div>
+      <div className="absolute inset-0 z-10 flex items-center justify-center"> {/* Set sign-in form to absolute position */}
       <div className="w-full max-w-xs">
         <form onSubmit={handleForm} className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
           <h1 className="text-3xl font-bold mb-6 text-black">Sign In</h1>
@@ -66,7 +85,7 @@ function Page(): JSX.Element {
           <div className="flex items-center justify-between">
             <button
               type="submit"
-              className="w-full bg-blue-500 text-white font-semibold py-2 rounded"
+              className="w-full bg-primary text-white font-semibold py-2 rounded"
             >
               Sign In
             </button>
@@ -74,6 +93,7 @@ function Page(): JSX.Element {
         </form>
       </div>
     </div>
+    </>
   );
 }
 

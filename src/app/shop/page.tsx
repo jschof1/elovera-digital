@@ -63,6 +63,7 @@ export default function Shop() {
                             }).map((product) => {
                             const hasImages = product.images && product.images[0] && product.images[0].src;
                             const isFavorite = favorites[product.id];
+                            {console.log(product.id)}
                             return (
                                 <li key={product.id} className="mb-1">
                                     {hasImages ? (

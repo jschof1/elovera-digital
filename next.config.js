@@ -6,6 +6,7 @@ const nextConfig = {
       "shop.doverstreetmarket.com",
       "elovera.my.canva.site",
       "goodhoodstore.com",
+      "i.postimg.cc ",
     ],
   },
 };
