@@ -3,6 +3,12 @@ import Popup from 'react-animated-popup';
 import Youtube from 'react-youtube';
 import { motion } from 'framer-motion';
 
+// Define a type for the item in the data array
+type GridItem = {
+    id: number;
+    title: string;
+    content: string;
+};
 
 export default function HubGrid() {
 
@@ -16,16 +22,16 @@ export default function HubGrid() {
         visible: { scale: 1, opacity: 1, transition: { duration: 0.3 } }
     };
 
-
-    const [data, setData] = useState([]);
-    const [activeIndex, setActiveIndex] = useState(null);
-    const [popupContent, setPopupContent] = useState('');
-    const [isPopupVisible, setIsPopupVisible] = useState(false);
+    // Use TypeScript's generic to define the state's type
+    const [data, setData] = useState<GridItem[]>([]);
+    const [activeIndex, setActiveIndex] = useState<number | null>(null);
+    const [popupContent, setPopupContent] = useState<string>('');
+    const [isPopupVisible, setIsPopupVisible] = useState<boolean>(false);
 
     useEffect(() => {
         // Simulate fetching data
         const fetchData = async () => {
-            const fakeData = new Array(10).fill(null).map((_, index) => ({
+            const fakeData: GridItem[] = new Array(10).fill(null).map((_, index) => ({
                 id: index,
                 title: `Item ${index + 1}`,
                 content: 'XPrENGpf81I',
@@ -36,7 +42,7 @@ export default function HubGrid() {
         fetchData();
     }, []);
 
-    const handleClick = (index) => {
+    const handleClick = (index: number) => {
         // Toggle popup visibility and set content
         if (activeIndex === index) {
             // Close popup if the same item is clicked
@@ -49,17 +55,18 @@ export default function HubGrid() {
         }
     };
 
-    const popupStyle = {
-        width: '80%', // Adjust width as needed
-        height: '80%', // Adjust height as needed
-        maxWidth: 'none', // This prevents the popup from being too small on larger screens
-        maxHeight: 'none', // This prevents the popup from being too small on larger screens
-        margin: '0 auto', // This will horizontally center the popup
-        transform: 'translateY(-50%)', // This will vertically center the popup
-        top: '50%', // Works with transform to center vertically
-        left: '0', // Aligns with the left edge of the screen
-        right: '0', // Aligns with the right edge of the screen
-        position: 'fixed', // This makes the popup stay in place even when scrolling
+    // Define a type for the style object
+    const popupStyle: React.CSSProperties = {
+        width: '80%',
+        height: '80%',
+        maxWidth: 'none',
+        maxHeight: 'none',
+        margin: '0 auto',
+        transform: 'translateY(-50%)',
+        top: '50%',
+        left: '0',
+        right: '0',
+        position: 'fixed',
     };
 
     const videoOpts = {
@@ -71,7 +78,6 @@ export default function HubGrid() {
             showinfo: 0,
         },
     };
-
     return (
         
         <div className="p-5 w-full min-h-screen">

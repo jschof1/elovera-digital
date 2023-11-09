@@ -1,29 +1,46 @@
-// pages/shop/[id].js
+
 import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
-import { Products } from '@/data';
-import Image from 'next/image'
 
-const ProductPage = () => {
+
+const ProductPage: React.FC = () => {
     const router = useRouter();
     const { id } = router.query;
 
-    // State for the product details
-    const [product, setProduct] = useState(null);
+    const [product, setProduct] = useState<typeof Products[number] | null>(null);
 
-    // Fetch product data when `id` changes
+
     useEffect(() => {
-        const productData = Products.find((product) => product.id.toString() === id);
+        const productData = Products.find((p) => p.id.toString() === id);
         if (productData) {
             setProduct(productData);
         }
     }, [id]);
 
     return (
-    <>
-    {Products.title}
-    </>
+        <>
+            {product ? (
+                <div>
+                    {/* Render your product details here using `product` */}
+                    <h1>{product.title}</h1>
+                    {/* ... other product details */}
+                </div>
+            ) : (
+                'Product not found'
+            )}
+        </>
     );
-}
+};
 
 export default ProductPage;
+
+export const getStaticPaths = async () => {
+
+    const paths = Products.map((product) => ({
+        params: { id: product.id.toString() },
+    }));
+
+
+
+    return { paths, fallback: 'blocking' };
+};

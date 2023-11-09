@@ -1,33 +1,32 @@
 'use client'
-import { useState } from 'react';
-import { useRouter } from 'next/router';
+import React, { useState, FormEvent } from 'react';
 import Image from 'next/image'
 
+const Enter: React.FC = () => {
+    const [loading, setLoading] = useState<boolean>(false);
 
-export default function Enter() {
-    const [loading, setLoading] = useState(false);
-    const router = useRouter();
-
-    const handleSubmit = (event) => {
-        event.preventDefault();
-        setLoading(true);
-        // Simulate loading / API call
-        setTimeout(() => {
-            setLoading(false);
-            router.push('/');
-        }, 2000);
-    };
+    // const handleSubmit = (event: FormEvent) => {
+    //     event.preventDefault();
+    //     setLoading(true);
+    //     // Simulate loading / API call
+    //     setTimeout(() => {
+    //         setLoading(false);
+    //         router.push('/');
+    //     }, 2000);
+    // };
 
     return (
         <div>
             {loading ? (
-                <div><Image alt="loading" src="/loading.gif"></Image></div> 
+                <div><Image alt="loading" src="/loading.gif" width={500} height={300} /></div>
             ) : (
-                <form onSubmit={handleSubmit}>
+                <>
                     <input type="password" placeholder="Enter password" />
                     <button type="submit">Enter</button>
-                </form>
+              </>  
             )}
         </div>
     );
 }
+
+export default Enter;

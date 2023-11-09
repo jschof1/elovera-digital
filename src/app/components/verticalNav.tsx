@@ -1,15 +1,20 @@
 import Head from 'next/head';
+import React from 'react'; // Import React (sometimes needed depending on your setup)
 
-const VerticalNav = ({ onCategoryClick, selectedCategory }) => {
-    const verticalStyle = {
+interface VerticalNavProps {
+    onCategoryClick: (category: string) => void; // Define the function type
+    selectedCategory: string; // Define the string type
+}
+
+const VerticalNav: React.FC<VerticalNavProps> = ({ onCategoryClick, selectedCategory }) => {
+    const verticalStyle: React.CSSProperties = {
         padding: '0px 0px 10px 10px',
         whiteSpace: 'nowrap',
-        // add hover effect
-        
+        // TypeScript will ensure you add valid CSS properties here
     };
 
-    const handleCategoryClick = (category) => {
-        // Assume the category names are always plural and end with 'S'
+    const handleCategoryClick = (category: string) => {
+        // TypeScript will ensure that 'category' is a string
         const singularCategory = category.endsWith('S') ? category.slice(0, -1) : category;
         onCategoryClick(singularCategory);
     };
@@ -34,12 +39,11 @@ const VerticalNav = ({ onCategoryClick, selectedCategory }) => {
                         onClick={() => handleCategoryClick("RECORDS")}
                     >
                         RECORDS
-                    </li>;
-
+                    </li>
                 </ul>
             </div>
         </>
     );
 };
 
-export default VerticalNav
+export default VerticalNav;

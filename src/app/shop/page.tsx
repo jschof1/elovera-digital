@@ -3,10 +3,15 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
 import { Products } from '@/data';
-import  Navbar from '../components/navBar';
+import Navbar from '../components/navBar';
 import VerticalNav from '../components/verticalNav';
 
-const HeartIcon = ({ isFavorite, onClick }) => {
+interface HeartIconProps {
+    isFavorite: boolean;
+    onClick: () => void;
+}
+
+const HeartIcon: React.FC<HeartIconProps> = ({ isFavorite, onClick }) => {
     const fill = isFavorite ? "#d32f2f" : "none"; // Red fill if favorite, otherwise transparent
 
     return (
@@ -27,14 +32,12 @@ const HeartIcon = ({ isFavorite, onClick }) => {
 };
 
 
-export default function Shop() {
+type Favorites = {
+    [key: string]: boolean;
+};
 
-
-    type Favorites = {
-        [key: string]: boolean;
-    };
-
-    const [selectedCategory, setSelectedCategory] = useState(null);
+const Shop: React.FC = () => {
+    const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
     const [favorites, setFavorites] = useState<Favorites>({});
 
     const toggleFavorite = (id: string) => {
@@ -50,8 +53,10 @@ export default function Shop() {
         <Navbar/>
         <div className="container p-5 mt-10 max-h-full">
             <div className="flex">
-                    <VerticalNav selectedCategory={selectedCategory}
-                        onCategoryClick={setSelectedCategory} />
+                    <VerticalNav
+                        selectedCategory={selectedCategory ?? ''}
+                        onCategoryClick={setSelectedCategory}
+                    />
                 <ul className="w-full">
                         <div className="ml-36 grid grid-cols-2 gap-12 px-8 pt-20">
                             {Products.filter(product => {
@@ -99,3 +104,6 @@ export default function Shop() {
         </>
     );
 }
+
+
+export default Shop;

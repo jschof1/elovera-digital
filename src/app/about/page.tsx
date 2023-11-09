@@ -17,25 +17,7 @@ export default function About() {
                                     </h1>
                                 </div>
                                 <p className="text-2xl mb-10 leading-7 text-gray-500 dark:text-gray-400 text-center">
-                                    Welcome to Elovera, a groundbreaking platform at the intersection of music sharing and [
-                                    creative collaboration. More than just a website, Elovera is a dynamic space that unites the
-                                    global dancing community, fostering a shared passion for rhythm and innovation.
-                                    Elovera sets itself apart by seamlessly pulling data from platforms like You Tube and radio,
-                                    creating a centralized hub where users can effortlessly share and explore a diverse range of
-                                    music. This goes beyond conventional boundaries, allowing users to discover new artists
-                                    and genres within a unified virtual space.
-                                    What makes Elovera truly unique is its ability to blend content from various platforms,
-                                    breaking down genre silos and encouraging a sense of unity among music communities. The
-                                    platform goes beyond being a mere music-sharing space; it's a collaborative hub where
-                                    users engage in discussions, share insights, and collaborate on creative projects.
-                                    Elovera comes alive through its virtual parties, serving as a global dance floor where the
-                                    community connects in real-time. These events bring together music enthusiasts from
-                                    around the world, creating an electrifying fusion of music, dance, and shared experiences.
-                                    Whether you're a music aficionado, aspiring artist, or simply looking to discover new beats,
-                                    Elovera invites you to join its rhythmic journey. Experience the fusion of music and ideas in a
-                                    dynamic space where every click propels you into a world of sounds and creativity. Welcome
-                                    to Elovera, where the beat is eternal, and the possibilities are limitless.
-                                    amet.
+                                    
                                 </p>
 
                             </div>

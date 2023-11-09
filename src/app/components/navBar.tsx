@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useEffect, FormEvent } from 'react';
 import { usePathname, useSearchParams } from 'next/navigation';;
 import { useState } from 'react';
 import Image from 'next/image'
@@ -6,32 +6,37 @@ import Link from 'next/link';
 
 
 
+
 export default function Nav() {
-    // New hooks from next/navigation
     const pathname = usePathname();
     const [searchParams, setSearchParams] = useSearchParams();
 
+    const suggestions: string[] = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew"];
+    const [searchInput, setSearchInput] = useState<string>('');
+    const [filteredSuggestions, setFilteredSuggestions] = useState<string[]>([]);
 
-    const suggestions = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew"];
-    const [searchInput, setSearchInput] = useState('');
-    const [filteredSuggestions, setFilteredSuggestions] = useState([]);
-
+    
     useEffect(() => {
-        // This will run when the component mounts and anytime the searchInput changes
-        setFilteredSuggestions(suggestions.filter(suggestion => suggestion.toLowerCase().startsWith(searchInput.toLowerCase())));
+        // Convert searchParams to an array before filtering
+        const suggestionsArray = Array.from(suggestions);
+        setFilteredSuggestions(suggestionsArray.filter(suggestion =>
+            suggestion.toLowerCase().startsWith(searchInput.toLowerCase())
+        ));
     }, [searchInput]);
 
-    function handleInput(event) {
+    function handleInput(event: React.ChangeEvent<HTMLInputElement>) {
         const input = event.target.value;
         setSearchInput(input);
     }
-
-    const handleSearchSubmit = (event) => {
-        event.preventDefault();
-        // Use setSearchParams to update the search parameters in the URL
-        setSearchParams({ query: searchInput });
+    const executeSearch = (suggestion: string): void => {
+        setSearchInput(suggestion);
+        // You may want to implement actual search logic here
     };
 
+    const handleSearchSubmit = (event: FormEvent<HTMLFormElement>): void => {
+        event.preventDefault();
+        executeSearch(searchInput);
+    };
 
     return (
         <>
@@ -114,17 +119,14 @@ export default function Nav() {
                                     placeholder="."
                                 />
                                 <button type="submit" className="hidden">Search</button>
-                                {searchInput.length > 0 && (
-                                    <div className="absolute left-0 w-full bg-white rounded-full shadow-lg">
-                                        {filteredSuggestions.map((suggestion, index) => (
-                                            <div key={index} className="px-3 py-1 bg-opacity-50 hover:bg-gray-200 cursor-pointer rounded-3xl" onClick={() => {
-                                                setSearchInput(suggestion);
-                                                handleSearchSubmit();
-                                            }}>
-                                                {suggestion}
-                                            </div>
-                                        ))}
-                                    </div>
+                                    {searchInput.length > 0 && (
+                                        <div className="absolute left-0 w-full bg-white rounded-full shadow-lg">
+                                            {filteredSuggestions.map((suggestion, index) => (
+                                                <div key={index} className="px-3 py-1 bg-opacity-50 hover:bg-gray-200 cursor-pointer rounded-3xl" onClick={() => executeSearch(suggestion)}>
+                                                    {suggestion}
+                                                </div>
+                                            ))}
+                                        </div>
                                 )}
                             </form>
                         </div>

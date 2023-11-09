@@ -1,11 +1,11 @@
-import { useState } from 'react';
+import React, { useState, FormEvent, ChangeEvent } from 'react';
 import { useRouter } from 'next/router';
 
-export default function PasswordPrompt() {
-    const [password, setPassword] = useState('');
+const PasswordPrompt: React.FC = () => {
+    const [password, setPassword] = useState<string>('');
     const router = useRouter();
 
-    const handleSubmit = (event) => {
+    const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
         event.preventDefault();
 
         if (password === 'password') {
@@ -15,7 +15,11 @@ export default function PasswordPrompt() {
             alert('Incorrect password');
         }
     };
-    
+
+    const handlePasswordChange = (event: ChangeEvent<HTMLInputElement>) => {
+        setPassword(event.target.value);
+    };
+
     return (
         <div>
             <h1>Please enter the password:</h1>
@@ -23,10 +27,12 @@ export default function PasswordPrompt() {
                 <input
                     type="password"
                     value={password}
-                    onChange={(event) => setPassword(event.target.value)}
+                    onChange={handlePasswordChange}
                 />
                 <button type="submit">Submit</button>
             </form>
         </div>
     );
 }
+
+export default PasswordPrompt;
