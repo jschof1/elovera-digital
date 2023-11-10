@@ -24,8 +24,8 @@ const VerticalNav: React.FC<VerticalNavProps> = ({ onCategoryClick, selectedCate
             <Head>
                 <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;700&display=swap" rel="stylesheet" />
             </Head>
-            <div className="w-1/8 py-12 mt-9 ml-16" style={{ fontFamily: "'League Spartan Variable', sans-serif" }}>
-                <ul>
+            <div className="w-1/8 py-12 mt-9 ml-16 mr-20 " style={{ fontFamily: "'League Spartan Variable', sans-serif" }}>
+                <ul className='md:block flex justify-around gap-5'>
                     <li style={verticalStyle} className={`font-bold text-5xl cursor-pointer hover:text-primary ${selectedCategory === 'T-SHIRT' ? 'text-primary' : ''}`}
                         onClick={() => handleCategoryClick('T-SHIRTS')}>T-SHIRTS</li>
                     <li style={verticalStyle} className={`font-bold text-5xl cursor-pointer hover:text-primary ${selectedCategory === 'HOODIE' ? 'text-primary' : ''}`}

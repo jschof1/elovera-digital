@@ -1,9 +1,8 @@
 import { useEffect, FormEvent } from 'react';
-import { usePathname, useSearchParams } from 'next/navigation';;
+import { usePathname, useSearchParams } from 'next/navigation';
 import { useState } from 'react';
 import Image from 'next/image'
 import Link from 'next/link';
-
 
 
 
@@ -15,7 +14,15 @@ export default function Nav() {
     const [searchInput, setSearchInput] = useState<string>('');
     const [filteredSuggestions, setFilteredSuggestions] = useState<string[]>([]);
 
-    
+    const largeNavFont = {
+       fontSize: '12rem'
+    }
+
+        const [isActive, setIsActive] = useState(false);
+
+        const toggleActive = () => {
+            setIsActive(!isActive);
+        };
     useEffect(() => {
         // Convert searchParams to an array before filtering
         const suggestionsArray = Array.from(suggestions);
@@ -40,7 +47,29 @@ export default function Nav() {
 
     return (
         <>
-            <nav className="relative flex w-full items-center justify-between md:flex-col lg:flex-row z-10 py-5 pr-70 bg-primary">
+        {/* fixed nav */}
+        <nav className="fixed top-0 z-40 pt-6 flex items-center justify-between w-full py-5 bg-primary md:hidden">
+    <div className={`tham tham-e-squeeze scale-[120%] z-60 tham-w-12 px-6 py-9 ${isActive ? 'tham-active' : ''} lg:hidden`} onClick={toggleActive}>
+                <div className="tham-box">
+        <div className="tham-inner p-0 bg-white z-50"/>
+</div>
+    </div>
+    </nav>
+            {isActive && (
+                <div className="fixed top-0 left-0 h-full w-full z-behind flex flex-col items-center justify-center bg-primary">
+                    <Link href="/about">
+                        <div onClick={toggleActive} style={largeNavFont} className="text-white font-extrabold py-2">ABOUT</div>
+                    </Link>
+                    <Link href="/hub">
+                        <div onClick={toggleActive} style={largeNavFont} className="text-white font-extrabold py-2">HUB</div>
+                    </Link>
+                    <Link href="/shop">
+                        <div onClick={toggleActive} style={largeNavFont} className="text-white font-extrabold py-2">SHOP</div>
+                    </Link>
+                    {/* Add other links here */}
+                </div>
+            )}
+            <nav className="relative flex w-full items-center justify-between md:flex-col lg:flex-row z-10 py-5 pr-70 bg-primary invisible md:visible md:flex">
                 <div className="flex items-center md:w-full md:justify-center lg:w-auto text-2xl px-12">
                     <Link href="/" passHref>
                         <Image src="/logo-white.svg" width={30} height={30} alt="logo" />

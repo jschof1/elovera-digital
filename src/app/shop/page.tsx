@@ -3,7 +3,6 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
 import { Products } from '@/data';
-import Navbar from '../components/navBar';
 import VerticalNav from '../components/verticalNav';
 
 interface HeartIconProps {
@@ -50,57 +49,58 @@ const Shop: React.FC = () => {
 
     return (
         <>
-        <Navbar/>
-        <div className="container p-5 mt-10 max-h-full">
-            <div className="flex">
-                    <VerticalNav
-                        selectedCategory={selectedCategory ?? ''}
-                        onCategoryClick={setSelectedCategory}
-                    />
-                <ul className="w-full">
-                        <div className="ml-36 grid grid-cols-2 gap-12 px-8 pt-20">
-                            {Products.filter(product => {
-                                const category = selectedCategory && selectedCategory.endsWith('S')
-                                    ? selectedCategory.slice(0, -1).toUpperCase()
-                                    : selectedCategory?.toUpperCase();
-
-                                return !category || product.type.toUpperCase() === category;
-                            }).map((product) => {
-                            const hasImages = product.images && product.images[0] && product.images[0].src;
-                            const isFavorite = favorites[product.id];
-                            {console.log(product.id)}
-                            return (
-                                <li key={product.id} className="mb-1">
-                                    {hasImages ? (
-                                        <Link href={`/shop/${product.id}`} passHref>
-
-                                            <Image
-                                                className="object-cover mb-2"
-                                                src={product.thumb_src}
-                                                alt={product.thumb_alt || 'Product Image'}
-                                                width={500}
-                                                height={300}
-                                                layout="responsive"
-                                            />
-                                        </Link>
-                                    ) : (
-                                        <p>No image available</p>
-                                    )}
-                                    <div className='flex justify-between'>
-                                        <div className="font-bold">{product.title}</div>
-                                        <div>£{product.price}</div>
-                                        <HeartIcon
-                                            isFavorite={isFavorite}
-                                            onClick={() => toggleFavorite(product.id)}
-                                        />
-                                    </div>
-                                </li>
-                            );
-                        })}
+            <div className="container mx-auto mt-10">
+                <div className="flex flex-col md:flex-row w-fit"> {/* Stacks on mobile and side-by-side on larger screens */}
+                    <div className="w-full md:w-auto"> {/* Allows the nav to take full width on mobile and auto width on larger screens */}
+                        <VerticalNav
+                            selectedCategory={selectedCategory ?? ''}
+                            onCategoryClick={setSelectedCategory}
+                        />
                     </div>
-                </ul>
+                    <div className="flex flex-col items-center w-full"> {/* Centers the content and ensures full width */}
+                        <ul className="w-full">
+                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-12 px-8 pt-20"> {/* Adjusts the number of columns based on the screen size */}
+                                {Products.filter(product => {
+                                    const category = selectedCategory && selectedCategory.endsWith('S')
+                                        ? selectedCategory.slice(0, -1).toUpperCase()
+                                        : selectedCategory?.toUpperCase();
+
+                                    return !category || product.type.toUpperCase() === category;
+                                }).map((product) => {
+                                    const hasImages = product.images && product.images[0] && product.images[0].src;
+                                    const isFavorite = favorites[product.id];
+                                    return (
+                                        <li key={product.id} className="mb-1">
+                                            {hasImages ? (
+                                                <Link href={`/${product.id}`} passHref>
+                                                    <Image
+                                                        className="object-cover mb-2"
+                                                        src={product.thumb_src}
+                                                        alt={product.thumb_alt || 'Product Image'}
+                                                        width={500}
+                                                        height={300}
+                                                        layout="responsive"
+                                                    />
+                                                </Link>
+                                            ) : (
+                                                <p>No image available</p>
+                                            )}
+                                            <div className='flex justify-between'>
+                                                <div className="font-bold">{product.title}</div>
+                                                <div>£{product.price}</div>
+                                                <HeartIcon
+                                                    isFavorite={isFavorite}
+                                                    onClick={() => toggleFavorite(product.id)}
+                                                />
+                                            </div>
+                                        </li>
+                                    );
+                                })}
+                            </div>
+                        </ul>
+                    </div>
+                </div>
             </div>
-        </div>
         </>
     );
 }

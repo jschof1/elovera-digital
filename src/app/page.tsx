@@ -1,5 +1,4 @@
 'use client'
-import  Navbar from './components/navBar';
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -7,6 +6,16 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 export default function Home() {
   const [pageReady, setPageReady] = useState(false);
+  
+  const videoStyle = {
+    position: 'fixed', // Use fixed or absolute depending on your use case
+    top: 0,
+    left: 0,
+    width: '100%',
+    height: '100%',
+    objectFit: 'cover',
+    zIndex: -1, // Ensures the video stays in the background
+  };
 
   useEffect(() => {
     // Simulate a loading time for page setup tasks or data fetching
@@ -41,63 +50,19 @@ export default function Home() {
     visible: { opacity: 1, x: 0, transition: { duration: 3 } },
   };
 
-  const centerImageClassName = "absolute top-[60%] z-10 left-[28%] -translate-x-1/2 -translate-y-1/2 md:top-1/1";
-  const leftImageClassName = "absolute bottom-[20%] right-[64%]";
-
-  if (!pageReady) {
-    return (
-      <AnimatePresence>
-        <motion.div
-          initial="hidden"
-          animate="visible"
-          exit="hidden"
-          transition={{ duration: 0.5 }}
-          className="flex justify-center items-center h-screen"
-          key="loader"
-        >
-          <Image src="/loading.gif" alt="Loading" width={800} height={800} />
-        </motion.div>
-      </AnimatePresence>
-    );
-  }
+  const centerImageClassName = "absolute top-[55%] z-10 left-[28%] -translate-x-1/2 -translate-y-1/2 md:top-1/1";
+  const leftImageClassName = "absolute bottom-[30%] right-[64%]";
+  
   return (
     <>
-      <Navbar />
-      <AnimatePresence>
-        {!pageReady && (
-          <motion.div
-            initial="hidden"
-            animate="visible"
-            exit="hidden"
-            // your defined variants for loading animation
-            transition={{ duration: 0.5 }}
-            className="flex justify-center items-center h-screen"
-            key="loader"
-          >
-            <Image src="/loading.gif" alt="Loading" width={800} height={800} />
-          </motion.div>
-        )}
-      </AnimatePresence>
-      <motion.div className="isolate bg-black"
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 3 }}
-      >
-        <video
-          autoPlay
-          muted
-          loop
-          id="bgVideo"
-          className="z-0 overflow-hidden object-cover min-w-full"
-        >
+      <div style={{ width: '100%', height: '100%', position: 'fixed', zIndex: '-1' }}>
+        <video autoPlay loop muted style={videoStyle}>
           <source
-            width={10}
-            height={90}
             src="https://elovera.my.canva.site/your-paragraph-text/videos/fb6e4467e7053efb0979ec228db7d7e1.mp4"
             type="video/mp4"
           />
+          Your browser does not support the video tag.
         </video>
-      </motion.div>
       <div className="pt-6">
       <motion.div
           className={centerImageClassName}
@@ -157,6 +122,7 @@ export default function Home() {
             </g>
           </svg>
         </p>
+      </div>
       </div>
     </>
   );

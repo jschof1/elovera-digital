@@ -5,7 +5,6 @@ import Navbar from '../components/navBar';
 export default function About() {
     return (
         <div>
-            <Navbar/>
             <section className="py-10 lg:py-20 bg-stone-100 font-poppins dark:bg-gray-800">
                 <div className="max-w-6xl py-4 mx-auto lg:py-6 md:px-6">
                     <div className="flex flex-wrap ">
@@ -17,7 +16,7 @@ export default function About() {
                                     </h1>
                                 </div>
                                 <p className="text-2xl mb-10 leading-7 text-gray-500 dark:text-gray-400 text-center">
-                                    
+                                    words words lots of words about words words words lots of words about wordswords words lots of words about wordswords words lots of words about wordswords words lots of words about words
                                 </p>
 
                             </div>

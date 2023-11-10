@@ -2,6 +2,7 @@
 import { createContext, useContext, useEffect, useState, ReactNode } from 'react';
 import { getAuth, onAuthStateChanged, User } from 'firebase/auth';
 import firebase_app from '@/firebase/config';
+import Nav from '@/app/components/navBar';
 
 // Initialize the Firebase auth
 const auth = getAuth(firebase_app);
@@ -33,6 +34,7 @@ export function AuthContextProvider({ children }: AuthContextProviderProps): JSX
 
   return (
     <AuthContext.Provider value={{ user }}>
+      <Nav />
       {children}
     </AuthContext.Provider>
   );
