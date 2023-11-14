@@ -14,8 +14,12 @@ export default function Nav() {
     const [searchInput, setSearchInput] = useState<string>('');
     const [filteredSuggestions, setFilteredSuggestions] = useState<string[]>([]);
 
+    const shadow = 'shadow-lg'; // Tailwind class for larger shadow
+    const scale = 'transform hover:scale-105 transition-transform duration-200'; // Scale effect on hover
+    const perspective = 'perspective[1000px]'; // Custom class to add perspective (this will need to be defined in your CSS)
+
     const largeNavFont = {
-       fontSize: '12rem'
+       fontSize: '6rem'
     }
 
         const [isActive, setIsActive] = useState(false);
@@ -47,8 +51,7 @@ export default function Nav() {
 
     return (
         <>
-        {/* fixed nav */}
-        <nav className="fixed top-0 z-40 pt-6 flex items-center justify-between w-full py-5 bg-primary md:hidden">
+    <nav className={`fixed top-0 z-40 flex items-center justify-between w-full bg-primary md:hidden ${shadow} ${perspective}`}>
     <div className={`tham tham-e-squeeze scale-[120%] z-60 tham-w-12 px-6 py-9 ${isActive ? 'tham-active' : ''} lg:hidden`} onClick={toggleActive}>
                 <div className="tham-box">
         <div className="tham-inner p-0 bg-white z-50"/>
@@ -56,46 +59,56 @@ export default function Nav() {
     </div>
     </nav>
             {isActive && (
-                <div className="fixed top-0 left-0 h-full w-full z-behind flex flex-col items-center justify-center bg-primary">
-                    <Link href="/about">
-                        <div onClick={toggleActive} style={largeNavFont} className="text-white font-extrabold py-2">ABOUT</div>
-                    </Link>
+                <div className={`bg-primary fixed top-0 left-0 h-full w-full ${shadow}`}>
+                <div className="fixed top-0 left-0 h-full w-full z-behind flex flex-col items-center justify-center">
                     <Link href="/hub">
                         <div onClick={toggleActive} style={largeNavFont} className="text-white font-extrabold py-2">HUB</div>
                     </Link>
                     <Link href="/shop">
                         <div onClick={toggleActive} style={largeNavFont} className="text-white font-extrabold py-2">SHOP</div>
                     </Link>
-                    {/* Add other links here */}
+                    <Link href="/about">
+                        <div onClick={toggleActive} style={largeNavFont} className="text-white font-extrabold py-2">ABOUT</div>
+                    </Link>
                 </div>
+                    <div className="fixed p-4 bottom-0 left-0 z-60">
+                        <Image
+                            width={100}
+                            height={100}
+                            src="/walking-logo-white.gif"
+                            alt="Left Image"
+                            className="z-60"
+                        ></Image>
+                    </div>
+                    </div>
             )}
-            <nav className="relative flex w-full items-center justify-between md:flex-col lg:flex-row z-10 py-5 pr-70 bg-primary invisible md:visible md:flex">
+            <nav className={`sticky flex w-full items-center justify-between md:flex-col lg:flex-row z-10 py-5 pr-70 bg-primary invisible md:visible md:flex ${shadow}`}>
                 <div className="flex items-center md:w-full md:justify-center lg:w-auto text-2xl px-12">
                     <Link href="/" passHref>
                         <Image src="/logo-white.svg" width={30} height={30} alt="logo" />
 
                     </Link>
                     <Link href="/signin" passHref>
-                    <button className="px-2 pl-20 text-white">Sign in</button>
+                    <button className="px-2 pl-24 text-white drop-shadow">Sign in</button>
                     </Link>
                 </div>
 
                 <div className="flex items-center pt-1 space-x-10 md:w-full md:justify-center lg:w-auto md:ml-42 text-2xl">
                     <Link href="/about" passHref>
-                        <div className={`text-white transition duration-300 underline-effect ${pathname === '/about' ? 'border-b-2 border-white' : ''}`}>ABOUT</div>
+                        <div className={`drop-shadow text-white transition duration-300 underline-effect ${pathname === '/about' ? 'border-b-2 border-white' : ''}`}>ABOUT</div>
                     </Link>
                     <Link href="/hub" passHref>
-                        <div className={`text-white transition duration-300 underline-effect ${pathname === '/hub' ? 'border-b-2 border-white' : ''}`}>HUB</div>
+                        <div className={`drop-shadow text-white transition duration-300 underline-effect ${pathname === '/hub' ? 'border-b-2 border-white' : ''}`}>HUB</div>
                     </Link>
                     <Link href="/shop" passHref>
-                        <div className={`text-white transition duration-300 underline-effect ${pathname === '/shop' ? 'border-b-2 border-white' : ''}`}>SHOP</div>
+                        <div className={`drop-shadow text-white transition duration-300 underline-effect ${pathname === '/shop' ? 'border-b-2 border-white' : ''}`}>SHOP</div>
                     </Link>
                 </div>
 
                 {pathname === '/shop' ? (
                     <div className="px-12">
                         <svg fill="none" height="30" viewBox="0 0 24 24" width="155" xmlns="http://www.w3.org/2000/svg">
-                            <g stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                            <g stroke="#fff" stroke-linecap="round" stroke-linejoin="round" strokeWidth="2">
                                 <path d="m3 3h1.37144c.94838 0 1.76637.66607 1.95852 1.59479l2.34008 11.31041c.19215.9287 1.01014 1.5948 1.95856 1.5948h6.8714" />
                                 <path d="m6.82422 7h12.85008c.6643 0 1.144.6359.9615 1.27472l-1.0141 3.54948c-.368 1.2879-1.5452 2.1758-2.8846 2.1758h-8.45976" />
                                 <g fill="#000">
@@ -144,7 +157,7 @@ export default function Nav() {
                                     value={searchInput}
                                     onChange={handleInput}
                                     type="text"
-                                        className="rounded-3xl border-2 border-white bg-transparent px-4 py-[2px] pl-8 text-white md:hidden lg:block tracking-widest outline-none"
+                                    className="drop-shadow rounded-3xl border-2 border-white bg-transparent px-4 py-[2px] pl-8 text-white md:hidden lg:block tracking-widest outline-none"
                                     placeholder="."
                                 />
                                 <button type="submit" className="hidden">Search</button>

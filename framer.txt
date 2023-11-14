@@ -1,0 +1,357 @@
+Examples
+Simple examples for animation, gestures, components, transforms and more.
+
+#Animation
+The animate prop can accept an object of values. When one of them changes, the motion component will automatically animate to the new state.
+
+The animation used can be configured using the transition prop.
+
+import { motion } from "framer-motion"
+
+export const MyComponent = () => (
+  <motion.div
+    initial={{ opacity: 0, scale: 0.5 }}
+    animate={{ opacity: 1, scale: 1 }}
+    transition={{ duration: 0.5 }}
+  />
+)
+import { motion } from "framer-motion"
+
+export const MyComponent = () => (
+  <motion.div
+    initial={{ opacity: 0, scale: 0.5 }}
+    animate={{ opacity: 1, scale: 1 }}
+    transition={{ duration: 0.5 }}
+  />
+)
+
+Learn more
+
+#Keyframes
+Set a value as an array and Motion will animate through each of these values in turn.
+
+By default, each keyframe will be spaced evenly throughout the animation, but the exact timing and easing can be configured via the transition property.
+
+import { motion } from "framer-motion"
+
+export const MyComponent = () => (
+  <motion.div
+    animate={{
+      scale: [1, 2, 2, 1, 1],
+      rotate: [0, 0, 270, 270, 0],
+      borderRadius: ["20%", "20%", "50%", "50%", "20%"],
+    }}
+  />
+)
+import { motion } from "framer-motion"
+
+export const MyComponent = () => (
+  <motion.div
+    animate={{
+      scale: [1, 2, 2, 1, 1],
+      rotate: [0, 0, 270, 270, 0],
+      borderRadius: ["20%", "20%", "50%", "50%", "20%"],
+    }}
+  />
+)
+
+Learn more
+
+#Variants
+Variants are pre-defined visual states that a component can be in. By giving a component and its children variants with matching names, whole React trees can be animated by changing a single prop.
+
+By using variants, a parent can easily orchestrate the animations of its children with special transition props like staggerChildren.
+
+Variants can also be dynamic functions that return different props based on data passed to each component's custom prop.
+
+import { motion } from "framer-motion"
+
+const variants = {
+  open: { opacity: 1, x: 0 },
+  closed: { opacity: 0, x: "-100%" },
+}
+
+export const MyComponent = () => {
+  const [isOpen, setIsOpen] = useState(false)
+
+  return (
+    <motion.nav
+      animate={isOpen ? "open" : "closed"}
+      variants={variants}
+    >
+      <Toggle onClick={() => setIsOpen(isOpen => !isOpen)} />
+      <Items />
+    </motion.nav>
+  )
+}
+import { motion } from "framer-motion"
+
+const variants = {
+  open: { opacity: 1, x: 0 },
+  closed: { opacity: 0, x: "-100%" },
+}
+
+export const MyComponent = () => {
+  const [isOpen, setIsOpen] = useState(false)
+
+  return (
+    <motion.nav
+      animate={isOpen ? "open" : "closed"}
+      variants={variants}
+    >
+      <Toggle onClick={() => setIsOpen(isOpen => !isOpen)} />
+      <Items />
+    </motion.nav>
+  )
+}
+
+Learn more
+
+#Gesture animations
+Motion provides whileHover, whileTap, whileDrag and whileFocus helper props, that will temporarily animate a component to a visual state while a gesture is active.
+
+Like animate, these can either be set as an object of properties (each with their own transition prop), or the name of a variant.
+
+Motion will also automatically handle the interplay of the two gestures, so if a component is being pressed while a hover gestures starts/stops, the whileTap gesture will take priority.
+
+import { motion } from "framer-motion"
+
+export const MyComponent = () => (
+  <motion.button
+    whileHover={{ scale: 1.1 }}
+    whileTap={{ scale: 0.9 }}
+  />
+)
+import { motion } from "framer-motion"
+
+export const MyComponent = () => (
+  <motion.button
+    whileHover={{ scale: 1.1 }}
+    whileTap={{ scale: 0.9 }}
+  />
+)
+
+Learn more
+
+#Drag
+A component can be made draggable with the addition of the drag prop. Lock it to either axis by setting drag to "x" or "y".
+
+The component can be constrained to a specific range, defined either in pixels, or by providing a ref to another DOM element.
+
+These constraints are elastic, and the strength of this elasticity can be configured with the dragElastic prop.
+
+import { motion } from "framer-motion"
+
+export const MyComponent = () => (
+  <motion.div
+    drag
+    dragConstraints={{
+      top: -50,
+      left: -50,
+      right: 50,
+      bottom: 50,
+    }}
+  />
+)
+import { motion } from "framer-motion"
+
+export const MyComponent = () => (
+  <motion.div
+    drag
+    dragConstraints={{
+      top: -50,
+      left: -50,
+      right: 50,
+      bottom: 50,
+    }}
+  />
+)
+
+Learn more
+
+#MotionValues
+Motion uses MotionValues to track the state and velocity of every animating value.
+
+By making MotionValues yourself, you can create declarative chains of values that map from one into the other.
+
+import {
+  motion,
+  useMotionValue,
+  useTransform,
+} from "framer-motion"
+
+export const MyComponent = () => {
+  const x = useMotionValue(0)
+  const background = useTransform(
+    x,
+    [-100, 0, 100],
+    ["#ff008c", "#7700ff", "rgb(230, 255, 0)"]
+  )
+
+  return (
+    <motion.div style={{ background }}>
+      <motion.div
+        drag="x"
+        dragConstraints={{ left: 0, right: 0 }}
+        style={{ x }}
+      >
+        <Icon x={x} />
+      </motion.div>
+    </motion.div>
+  )
+}
+import {
+  motion,
+  useMotionValue,
+  useTransform,
+} from "framer-motion"
+
+export const MyComponent = () => {
+  const x = useMotionValue(0)
+  const background = useTransform(
+    x,
+    [-100, 0, 100],
+    ["#ff008c", "#7700ff", "rgb(230, 255, 0)"]
+  )
+
+  return (
+    <motion.div style={{ background }}>
+      <motion.div
+        drag="x"
+        dragConstraints={{ left: 0, right: 0 }}
+        style={{ x }}
+      >
+        <Icon x={x} />
+      </motion.div>
+    </motion.div>
+  )
+}
+
+Learn more
+
+#Scroll-triggered animations
+Motion also provides a whileInView prop that defines a visual state to animate to while a component is in the viewport.
+
+<motion.div
+  initial={{ opacity: 0 }}
+  whileInView={{ opacity: 1 }}
+  viewport={{ once: true }}
+/>
+<motion.div
+  initial={{ opacity: 0 }}
+  whileInView={{ opacity: 1 }}
+  viewport={{ once: true }}
+/>
+
+Learn more
+
+#Scroll-linked animations
+The useScroll hook provides four read-only MotionValues, two that return the viewport's x/y scroll position in pixels, and two that return it as progress value between 0 and 1.
+
+You can use these MotionValues to declaratively drive features like progress indicators or parallax effects.
+
+import { motion, useScroll } from "framer-motion"
+
+export const CircleIndicator = () => {
+  const { scrollYProgress } = useScroll()
+
+  return (
+    <motion.path
+      d="M 0, 20 a 20, 20 0 1,0 40,0 a 20, 20 0 1,0 -40,0"
+      style={{ pathLength: scrollYProgress }}
+    />
+  )
+}
+import { motion, useScroll } from "framer-motion"
+
+export const CircleIndicator = () => {
+  const { scrollYProgress } = useScroll()
+
+  return (
+    <motion.path
+      d="M 0, 20 a 20, 20 0 1,0 40,0 a 20, 20 0 1,0 -40,0"
+      style={{ pathLength: scrollYProgress }}
+    />
+  )
+}
+
+Learn more
+
+#Exit animations
+In React, it's usually difficult to animate components once they've been removed from the DOM.
+
+By wrapping motion components with AnimatePresence, they gain the use of an exit property that can define either a set of values or a variant name to animate to before being removed.
+
+import { motion, AnimatePresence } from "framer-motion"
+
+export const Slideshow = ({ image }) => (
+  <AnimatePresence>
+    <motion.img
+      key={image.src}
+      src={image.src}
+      initial={{ opacity: 0, y: 200 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+    />
+  </AnimatePresence>
+)
+import { motion, AnimatePresence } from "framer-motion"
+
+export const Slideshow = ({ image }) => (
+  <AnimatePresence>
+    <motion.img
+      key={image.src}
+      src={image.src}
+      initial={{ opacity: 0, y: 200 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+    />
+  </AnimatePresence>
+)
+
+Learn more
+
+#Layout animations
+To automatically animate the layout of a motion component when its size or position changes, give it a layout prop.
+
+<motion.div layout />
+<motion.div layout />
+
+It doesn't matter what causes the layout change, whether it's a parent flexbox direction, width, top/right etc, the animation itself will be performed with transforms for maximum performance.
+
+Learn more
+
+#Shared layout animations
+When a new motion component is added, it can be automatically animated from another one by giving them both the same layoutId prop.
+
+isSelected ? <motion.div layoutId="underline" /> : null
+isSelected ? <motion.div layoutId="underline" /> : null
+
+Learn more
+
+#Line drawing
+Line drawing animations are made simple with the special pathLength, pathSpacing and pathOffset properties available on many SVG elements.
+
+<motion.circle
+  initial={{ pathLength: 0 }}
+  animate={{ pathLength: 1 }}
+/>
+<motion.circle
+  initial={{ pathLength: 0 }}
+  animate={{ pathLength: 1 }}
+/>
+
+#Path morphing
+With the help of external libraries like Flubber, it's possible to animate between very different SVG shapes.
+
+
+#React Router 6 page transitions
+It's possible to mix React Router 6 with AnimatePresence to make these fade-in/fade-out page transitions:
+
+
+Or we can animate a privacy screen to hide the change of page:
+
+
+#Animating gradients
+Framer Motion can animate properties that CSS can't, like gradients. For instance here we're animating mask-image with a repeating-linear-gradient to create this image-reveal effect.
+

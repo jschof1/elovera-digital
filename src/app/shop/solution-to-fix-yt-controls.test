@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import Popup from 'react-animated-popup';
 import Youtube from 'react-youtube';
 import { motion } from 'framer-motion';
-import Image from 'next/image';
 
 type GridItem = {
     id: number;
@@ -29,16 +28,11 @@ const videoOpts = {
     },
 };
 
-
-
 export default function HubGrid() {
     const [data, setData] = useState<GridItem[]>([]);
     const [popupContent, setPopupContent] = useState<string>('');
     const [isPopupVisible, setIsPopupVisible] = useState<boolean>(false);
     const [numOfCols, setNumOfCols] = useState(8);
-    const [dimensions, setDimensions] = useState({ width: 70, height: 70 });
-
-
 
     const randomizeColumns = () => {
         // Assuming you want between 2 to 4 columns
@@ -46,7 +40,6 @@ export default function HubGrid() {
         setNumOfCols(randomCols);
     };
 
-    const getRandomSize = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min
 
     useEffect(() => {
         randomizeColumns();
@@ -54,7 +47,7 @@ export default function HubGrid() {
             const fakeData: GridItem[] = Array.from({ length: 10 }, (_, index) => ({
                 id: index,
                 title: `Item`,
-                content: 'XPrENGpf81I',
+                content: 'XPrENGpf81I?autoplay=1&mute=1&controls=0&modestbranding=1&showinfo=0&rel=0',
                  colSpan: Math.ceil(Math.random() * 3), // Random column span from 1 to 3
                 rowSpan: Math.ceil(Math.random() * 3), // Random row span from 1 to 3
             }));
@@ -62,14 +55,6 @@ export default function HubGrid() {
         };
         fetchData();
     }, []);
-
-    useEffect(() => {
-        setDimensions({
-            width: getRandomSize(50, 50),
-            height: getRandomSize(500, 700)
-        });
-    }, []); // Empty dependency array ensures this runs once on mount
-
 
     const togglePopup = (content: string) => {
         setIsPopupVisible(!isPopupVisible);
@@ -98,11 +83,7 @@ export default function HubGrid() {
                     gridTemplateColumns: `repeat(${numOfCols}, minmax(0, 1fr))`
                 }}
             >
-                    {data.map((item) => {
-                        const dynamicWidth = getRandomSize(50, 100); // Set your desired min and max width
-                        const dynamicHeight = getRandomSize(100, 500); 
-                    
-                        return (
+                    {data.map((item) => (
                         <motion.div
                             key={item.id}
                             className={`p-4 m-8 border cursor-pointer bg-white shadow-2xl rounded col-span-${item.colSpan} row-span-${item.rowSpan}`}
@@ -114,16 +95,15 @@ export default function HubGrid() {
                             variants={gridItemVariants}
                             whileHover="hover"
                         >
-                            <Image
-                                src="/walking-logo-black.gif"
-                                    width={dynamicWidth}
-                                    height={dynamicHeight}
-                                alt="logo"
-                            />
-                            
-                </motion.div>
-                );
-                })}
+                            <h3 className="text-lg font-semibold">{item.title}</h3>
+                            <div className="video-container">
+                                <div className="iframe-wrapper">
+                                    <iframe width="500" height="280" src={`https://www.youtube.com/embed/${item.content}`} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                        allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </motion.div>
+                    ))}
             </div>
             {isPopupVisible && (
                 <Popup visible={true} style={{

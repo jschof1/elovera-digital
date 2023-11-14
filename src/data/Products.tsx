@@ -177,7 +177,7 @@ export const Products = [
         "thumb_src": "https://goodhoodstore.com/cdn/shop/files/T.I.M.E.-A.K.-T.I.M.E.-HOODIE---OFF-WHITE_AW23_GOODHOOD.jpg?v=1692886681",
         "thumb_alt": "iPhone_thumb",
         "color": "Blue",
-        "title": "iPhone",
+        "title": "Elo Jumper",
         "type": "hoodie",
         "images": [
           {

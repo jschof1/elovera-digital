@@ -56,7 +56,7 @@ const ProductPage = () => {
                                     ELOVERA
                                 </div>
                                 <h1 className="text-4xl font-semibold text-gray-700 dark:text-gray-300 leading-loose tracking-wide max-w-xl -mt-6">
-                                    Classic T-shirt
+                                    Original Logo T-Shirt
                                 </h1>
                                 <p className="text-2xl font-semibold text-gray-700 dark:text-gray-400 mt-36">
                                     £40
@@ -94,13 +94,10 @@ const ProductPage = () => {
                                         </svg>
                                     </button>
                                 </div>
-                                <a href="#" className="w-full px-4 py-3 text-center text-primary bg-blue-100 border border-primary dark:hover:bg-gray-900 dark:text-gray-400 dark:border-gray-700 dark:bg-gray-700 hover:bg-primary hover:text-gray-100 lg:w-1/2 rounded-xl">
-                                    Add to cart
-                                </a>
                             </div>
                             <div className="flex gap-4 mb-6">
                                 <a href="#" className="w-full px-4 py-3 text-center text-gray-100 bg-primary border border-transparent dark:border-gray-700 hover:border-primary hover:text-primary hover:bg-blue-100 dark:text-gray-400 dark:bg-gray-700 dark:hover:bg-gray-900 rounded-xl">
-                                    Buy now</a>
+                                    Add to Cart</a>
                             </div>
                         </div>
                     </div>

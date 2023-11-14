@@ -29,7 +29,7 @@ export default function About() {
                                 src="/walking-logo-black.gif"
                                 alt="Walking logo"
                             />
-                            <div className="flex justify-center space-x-6 mt-10 ">
+                            <div className="flex justify-center space-x-6">
                                 {/* Facebook Icon */}
                                 <Image
                                     src="https://elovera.my.canva.site/your-paragraph-text/images/4e04b0dff84dbc306ebe87bb08fb1a31.svg"

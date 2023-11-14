@@ -10,6 +10,8 @@
     opacity: 0;
   }
 }
+
+
 :root { 
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -105,3 +107,15 @@ body {
       pointer-events: none;
       /* Make sure clicks pass through to elements below */
     }
+
+.iframe-wrapper {
+  height: 280px;
+  overflow: hidden;
+}
+.perspective\[1000px\] {
+  perspective: 1000px;
+}
+.iframe-wrapper iframe {
+  height: 400px;
+  margin-top: -60px;
+}

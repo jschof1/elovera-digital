@@ -2,19 +2,18 @@ import Head from 'next/head';
 import React from 'react'; // Import React (sometimes needed depending on your setup)
 
 interface VerticalNavProps {
-    onCategoryClick: (category: string) => void; // Define the function type
-    selectedCategory: string; // Define the string type
+    onCategoryClick: (category: string) => void;
+    selectedCategory: string;
+    categories: string[];
 }
 
-const VerticalNav: React.FC<VerticalNavProps> = ({ onCategoryClick, selectedCategory }) => {
-    const verticalStyle: React.CSSProperties = {
-        padding: '0px 0px 10px 10px',
-        whiteSpace: 'nowrap',
-        // TypeScript will ensure you add valid CSS properties here
-    };
+const verticalStyle: React.CSSProperties = {
+    padding: '0px 0px 10px 10px',
+    whiteSpace: 'nowrap',
+};
 
+const VerticalNav: React.FC<VerticalNavProps> = ({ onCategoryClick, selectedCategory, categories = [] }) => { // Default categories to an empty array
     const handleCategoryClick = (category: string) => {
-        // TypeScript will ensure that 'category' is a string
         const singularCategory = category.endsWith('S') ? category.slice(0, -1) : category;
         onCategoryClick(singularCategory);
     };
@@ -24,22 +23,17 @@ const VerticalNav: React.FC<VerticalNavProps> = ({ onCategoryClick, selectedCate
             <Head>
                 <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;700&display=swap" rel="stylesheet" />
             </Head>
-            <div className="w-1/8 py-12 mt-9 ml-16 mr-20 " style={{ fontFamily: "'League Spartan Variable', sans-serif" }}>
+            <div className="sticky top-0 z-50 w-1/8 mt-9 ml-16 mr-20 md:py-12" style={{ fontFamily: "'League Spartan Variable', sans-serif" }}>
                 <ul className='md:block flex justify-around gap-5'>
-                    <li style={verticalStyle} className={`font-bold text-5xl cursor-pointer hover:text-primary ${selectedCategory === 'T-SHIRT' ? 'text-primary' : ''}`}
-                        onClick={() => handleCategoryClick('T-SHIRTS')}>T-SHIRTS</li>
-                    <li style={verticalStyle} className={`font-bold text-5xl cursor-pointer hover:text-primary ${selectedCategory === 'HOODIE' ? 'text-primary' : ''}`}
-                        onClick={() => handleCategoryClick('HOODIES')}>HOODIES</li>
-                    <li style={verticalStyle} className={`font-bold text-5xl cursor-pointer hover:text-primary ${selectedCategory === 'HAT' ? 'text-primary' : ''}`}
-                        onClick={() => handleCategoryClick('HATS')}>HATS</li>
-                    <li
-                        style={verticalStyle}
-                        className={`font-bold text-5xl cursor-pointer hover:text-primary ${selectedCategory === "RECORD" ? "text-primary" : ""
-                            }`}
-                        onClick={() => handleCategoryClick("RECORDS")}
-                    >
-                        RECORDS
-                    </li>
+                    {categories.map((category) => (
+                        <li key={category}
+                            style={verticalStyle}
+                            className={`font-bold md:text-5xl sm:text-xl cursor-pointer hover:text-primary ${selectedCategory === category ? 'text-primary' : ''}`}
+                            onClick={() => handleCategoryClick(category)}
+                        >
+                            {category}
+                        </li>
+                    ))}
                 </ul>
             </div>
         </>
