@@ -3,7 +3,7 @@ import { usePathname, useSearchParams } from 'next/navigation';
 import { useState } from 'react';
 import Image from 'next/image'
 import Link from 'next/link';
-
+import Head from 'next/head';
 
 
 export default function Nav() {
@@ -51,6 +51,9 @@ export default function Nav() {
 
     return (
         <>
+            <Head>
+                <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;700&display=swap" rel="stylesheet" />
+            </Head>
     <nav className={`fixed top-0 z-40 flex items-center justify-between w-full bg-primary md:hidden ${shadow} ${perspective}`}>
     <div className={`tham tham-e-squeeze scale-[120%] z-60 tham-w-12 px-6 py-9 ${isActive ? 'tham-active' : ''} lg:hidden`} onClick={toggleActive}>
                 <div className="tham-box">

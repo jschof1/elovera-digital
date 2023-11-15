@@ -1,0 +1,365 @@
+{
+    "_id": "bias-in-data-g-1",
+    "_parentId": "bias-in-data-b-1",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for Introduction",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-2",
+    "_parentId": "bias-in-data-b-2",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "graphic for Bias",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-5",
+    "_parentId": "bias-in-data-b-5",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for Q: What are the risks of not checking for bias during data preparation?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-6",
+    "_parentId": "bias-in-data-b-6",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "graphic for The stages of the data preparation process.",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-7",
+    "_parentId": "bias-in-data-b-7",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for Data cleaning",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-9",
+    "_parentId": "bias-in-data-b-9",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for The impact of outliers",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-10",
+    "_parentId": "bias-in-data-b-10",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "graphic for Techniques for handling outliers and preventing overfitting",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-12",
+    "_parentId": "bias-in-data-b-12",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "graphic for Data transformation",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-13",
+    "_parentId": "bias-in-data-b-13",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for Changing the structure of data",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-15",
+    "_parentId": "bias-in-data-b-15",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for Encoding ",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-17",
+    "_parentId": "bias-in-data-b-17",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for Scaling",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-18",
+    "_parentId": "bias-in-data-b-18",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "graphic for Feature extraction",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-19",
+    "_parentId": "bias-in-data-b-19",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for Mitigating bias at the data preparation stage",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "bias-in-data-g-20",
+    "_parentId": "bias-in-data-b-20",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "graphic for Summary",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://via.placeholder.com/600x400",
+      "small": "https://via.placeholder.com/600x400",
+      "attribution": "NO ATTRIBUTION",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  }
+]

@@ -4,9 +4,13 @@ import Image from 'next/image';
 import { useState } from 'react';
 import { Products } from '@/data';
 import VerticalNav from '../components/verticalNav';
-// pass the categories to VerticalNav
-// Pass the categories as prop to VerticalNav
+import { motion, LayoutGroup, useScroll, useSpring, AnimatePresence } from 'framer-motion';
 
+
+const gridItemVariants = {
+    hidden: { opacity: 0, y: 50 },
+    visible: { opacity: 1, y: 0 },
+};
 
 interface HeartIconProps {
     isFavorite: boolean;
@@ -43,6 +47,14 @@ const Shop: React.FC = () => {
     const [favorites, setFavorites] = useState<Favorites>({});
     const categories = ['T-SHIRTS', 'HOODIES', 'HATS', 'RECORDS'];
 
+
+    const { scrollYProgress } = useScroll();
+    const scaleX = useSpring(scrollYProgress, {
+        stiffness: 1000,
+        damping: 100,
+        restDelta: 0.001
+    });
+
     const toggleFavorite = (id: string) => {
         setFavorites((prevFavorites) => ({
             ...prevFavorites,
@@ -50,19 +62,22 @@ const Shop: React.FC = () => {
         }));
     };
 
-    return (
-        <>
+ return (
+        <AnimatePresence>
             <div className="container mx-auto mt-10">
                 <div className="flex flex-col sm:flex-row sm:w-auto">
                     <div className="w-full sm:w-1/3 sm:pr-4">
                         <VerticalNav
                             selectedCategory={selectedCategory ?? ''}
                             onCategoryClick={setSelectedCategory}
-                            categories={categories} // Pass the categories to VerticalNav
+                            categories={categories}
                         />
                     </div>
-                    <div className="w-full sm:w-2/3"> {/* Full width on mobile, 2/3 width on sm screens */}
-                        <ul className="w-full">
+                    <div className="w-full sm:w-2/3">
+                     <motion.ul className="w-full" layout
+                         initial="hidden"
+                         animate="visible"
+                         variants={gridItemVariants}>
                             <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6 md:gap-8 lg:gap-12 px-4 sm:px-6 md:px-8 pt-10 sm:pt-15 md:pt-20">
                                 {Products.filter(product => {
                                     const category = selectedCategory && selectedCategory.endsWith('S')
@@ -76,17 +91,22 @@ const Shop: React.FC = () => {
                                     return (
                                         <li key={product.id} className="mb-4 flex flex-col">
                                             {hasImages ? (
-                                                <Link className="w-full overflow-hidden" href="/product" passHref>
-                                                    <div className="hover:grayscale-0 grayscale transition duration-300 ease-in-out">
-                                                        <Image
-                                                            className="object-cover mb-2"
-                                                            src={product.thumb_src}
-                                                            alt={product.thumb_alt || 'Product Image'}
-                                                            width={500}
-                                                            height={300}
-                                                            layout="responsive"
-                                                        />
-                                                        </div>
+                                                <Link href={`/product/${product.id}`} passHref>
+                                                    <div className="w-full overflow-hidden">
+                                                        <motion.div
+                                                            className="hover:grayscale-0 grayscale transition duration-300 ease-in-out"
+                                                            variants={gridItemVariants}
+                                                        >
+                                                            <Image
+                                                                className="object-cover mb-2"
+                                                                src={product.images[0].src}
+                                                                alt={product.title || 'Product Image'}
+                                                                width={500}
+                                                                height={300}
+                                                                layout="responsive"
+                                                            />
+                                                        </motion.div>
+                                                    </div>
                                                 </Link>
                                             ) : (
                                                 <p>No image available</p>
@@ -98,18 +118,18 @@ const Shop: React.FC = () => {
                                                     onClick={() => toggleFavorite(product.id)}
                                                 />
                                             </div>
-                                                <div className="text-xl font-light">£{product.price}</div>
+                                            <div className="text-xl font-light">£{product.price}</div>
                                         </li>
                                     );
                                 })}
                             </div>
-                        </ul>
+                        </motion.ul>
                     </div>
                 </div>
             </div>
-        </>
+        </AnimatePresence>
     );
-}
-
+};
 
 export default Shop;
+

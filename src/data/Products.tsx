@@ -73,7 +73,7 @@ export const Products = [
         "thumb_alt": "watch-image",
         "images": [
           {
-            "src": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
+            "src": "https://goodhoodstore.com/cdn/shop/files/BRAIN-DEAD-VISION-MESH-PANELED-BUCKET-HAT---NAVY-MULTI_SS23_GOODHOOD_36726_1296x.jpg?v=1684428969",
             "alt": "first_image"
           },
           {
