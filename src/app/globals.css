@@ -119,3 +119,37 @@ body {
   height: 400px;
   margin-top: -60px;
 }
+
+@keyframes slideInLeft {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+
+.animate-left-slideIn {
+  animation: slideInLeft 5s ease-out forwards;
+}
+
+/* Animation for sliding in from the right */
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+    opacity: 1;
+  }
+
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animate-right-slideIn {
+  /* Start invisible */
+  opacity: 0;
+  animation: slideInRight 5s ease-out forwards;
+  animation-delay: 2s;
+}

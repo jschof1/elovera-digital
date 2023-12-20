@@ -345,7 +345,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wTghGT0PGKE",
-            "Title": "PHD & MC Conrad - Reminiscent Rhythms",
+            "title": "PHD & MC Conrad - Reminiscent Rhythms",
             "Channel ID": "UCXFFMYAhI_FR80UCdXCS7Kg",
             "Author": "Forgotten Gems",
             "Description": "PHD & MC Conrad - Reminiscent Rhythms 1997 Ascendant Grooves",
@@ -371,7 +371,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RuE09ianOT0",
-            "Title": "LITTLE GEM 011",
+            "title": "LITTLE GEM 011",
             "Channel ID": "UCSoW6PGON2SNX0OVXECvVtw",
             "Author": "NUGGETS",
             "Description": "UK, 1996",
@@ -397,7 +397,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "f8sKs9d0MyI",
-            "Title": "Benjamin - Ob Checkpoint [POO008]",
+            "title": "Benjamin - Ob Checkpoint [POO008]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: https://bit.ly/3CeFcOs |",
@@ -423,7 +423,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0sDWYnPYXJ4",
-            "Title": "10 Minute SPICY Salmon Rice",
+            "title": "10 Minute SPICY Salmon Rice",
             "Channel ID": "UCt80koRTG61DmNCp4oybLSg",
             "Author": "Senpai Kai",
             "Description": "#shorts #sushi #lunch  THAILAND 2022: https://www.trovatrip.com/trips/thailand-with-kai-.-nov-2022.html  I buy all my Wagyu/Steaks/Fish from CrowdCow $25 off coupon on your FIRST order of A5 WAGYU BEEF (: https://www.crowdcow.com/l/uywukadcief  ------------------------------------  Business inquiries: stowellkaito1@gmail.com  ------------------------------------  Instagram: https://www.instagram.com/chino_cappucino/ TikTok: http://tiktok.com/@chino_frappuccino  ------------------------------------  USEFUL KITCHEN GEAR 🧷 Chef Tweezers: https://amzn.to/33389KU 🌡Thermapen Thermometer: https://amzn.to/3aNrZ1i ⚖ Scale: https://amzn.to/3e4aDPB 🍴 Beginners Chef's knife: https://amzn.to/3e2qa2k 🔪 Nicer Chef's Knife: https://amzn.to/3gOkdrw 🥘 Cast iron pan: https://amzn.to/3t7dZpj 🍳 Saucepan: https://amzn.to/3gBjmY3​ 🪓 Wooden Cutting Board: https://amzn.to/3eLgB7d",
@@ -449,7 +449,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6SG9JTJli2I",
-            "Title": "Paolo Mosca - Sinergy",
+            "title": "Paolo Mosca - Sinergy",
             "Channel ID": "UCZgdYblXyFY5UBL9sVGR6Ng",
             "Author": "CGI",
             "Description": "This is for promotion only. Please contact me if there are any copyright issues. I will remove it directly upon request.  Release Paolo Mosca - 'Transition' on Slow Life [SL034] https://www.discogs.com/release/24559070-Paolo-Mosca-Transition-  BUY https://www.phonicarecords.com/product/paolo-mosca-transition-lp-pre-order-slow-life/182369  https://www.juno.co.uk/products/paolo-mosca-transition/894070-01/  https://deejay.de/Paolo_Mosca_Transition_SL034_Vinyl__1003358  https://www.decks.de/track/paolo_mosca-transition/ck0-g9  https://www.hhv.de/shop/de/artikel/paolo-mosca-transition-935936    My Social Media IG: kicos_ https://soundcloud.com/clean_kicos",
@@ -475,7 +475,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Ex6SmvJKNSE",
-            "Title": "Man/ipulate - Make it Sweat",
+            "title": "Man/ipulate - Make it Sweat",
             "Channel ID": "UCZgdYblXyFY5UBL9sVGR6Ng",
             "Author": "CGI",
             "Description": "Artist: https://www.instagram.com/man__ipulate/  https://soundcloud.com/man_ipulate  Release Man/ipulate – WATATSUMI on Sentaku [SENTAKU007] https://www.discogs.com/de/release/24178439-Manipulate-Watatsumi  contact https://linktr.ee/kicos_",
@@ -501,7 +501,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tlOxraeReE8",
-            "Title": "Man/ipulate - Dimension",
+            "title": "Man/ipulate - Dimension",
             "Channel ID": "UCZgdYblXyFY5UBL9sVGR6Ng",
             "Author": "CGI",
             "Description": "This is for promotion only. Please contact me if there are any copyright issues. I will remove it directly upon request.  Artist: https://www.instagram.com/man__ipulate/  https://soundcloud.com/user-165526914  Release Man/ipulate – WATATSUMI on Sentaku [SENTAKU007] https://www.discogs.com/de/release/24178439-Manipulate-Watatsumi  contact linktr.ee/kicos_",
@@ -527,7 +527,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "d0Wh1tALxjY",
-            "Title": "Maximo - Required [LFDO001]",
+            "title": "Maximo - Required [LFDO001]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Bandcamp: https://lunfardo.bandcamp.com/  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -553,7 +553,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3jfVv3ehBd4",
-            "Title": "DJ Pipe - Mobile Craft [GN02]",
+            "title": "DJ Pipe - Mobile Craft [GN02]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://subwax.es/product/gn02/ 🎵 Follow the label: https://www.instagram.com/deejaypipe/ 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/release/24150389-DJ-Pipe-The-Night-Time-Economy-EP  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -579,7 +579,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "dmhBZecWSZ0",
-            "Title": "DJ Pipe - Escuela de la Vida (ft. Andrea) [GN02]",
+            "title": "DJ Pipe - Escuela de la Vida (ft. Andrea) [GN02]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://subwax.es/product/gn02/ 🎵 Follow the label: https://www.instagram.com/deejaypipe/ 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/release/24150389-DJ-Pipe-The-Night-Time-Economy-EP  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -605,7 +605,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hPSUiUI9H7E",
-            "Title": "Benny Bergdølmo - Space D [CON003]",
+            "title": "Benny Bergdølmo - Space D [CON003]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/3QMFFvj Decks: https://bit.ly/3BcddNT Technique: https://bit.ly/3BcdgJz Subwax: https://bit.ly/3BEBa1L HHV: https://bit.ly/3UbGTDB Akwax: https://bit.ly/3U85IQH   ➤ Release info: https://www.discogs.com/release/24286754-Various-Various-Friends-EP |",
@@ -631,7 +631,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tea4Wvk2TuI",
-            "Title": "Kosh - Square One [Convergence – CONV002]",
+            "title": "Kosh - Square One [Convergence – CONV002]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow Convergence Records: https://soundcloud.com/convergencerec 🎵 Buy Record: https://www.decks.de/track/kosh-square_one_ep/cj5-qr 🚀 More music: https://soundcloud.com/dofunkk      - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -657,7 +657,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "s1JdkkggNEQ",
-            "Title": "Orange Bud -  Blend (Care In The Community Remix) [Engagement Music Promo - 2004]",
+            "title": "Orange Bud -  Blend (Care In The Community Remix) [Engagement Music Promo - 2004]",
             "Channel ID": "UCp9zLU9nkULzKsq8nxCEjmg",
             "Author": "vurshon1",
             "Description": "I don't own the rights to this music and the video is uploaded to fill some gaps on the Youtube platform and help spread the music. Support the artists and give thanks. If you are the rights owner to this music and would like it removed please get in touch and I will take it down immediately.  https://www.discogs.com/release/248283-Orange-Bud-3-Earshift-Blend-Away-Care-In-The-Community-Remixes",
@@ -683,7 +683,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "98A0A-EJaM8",
-            "Title": "Zero Zero - Waiting (Mix 1)",
+            "title": "Zero Zero - Waiting (Mix 1)",
             "Channel ID": "UCoVHlPdjf5f15lpaW2ciABw",
             "Author": "SMELT",
             "Description": "https://www.discogs.com/release/549466-Zero-Zero-Waiting",
@@ -709,7 +709,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "E_6DpBE5dp8",
-            "Title": "Korean Chili Garlic Gnocchi",
+            "title": "Korean Chili Garlic Gnocchi",
             "Channel ID": "UC4KWYlW-B2oqxc36TH_RcXw",
             "Author": "SenyaiGrubs",
             "Description": "#shorts   https://uppbeat.io/t/soundroll/all-the-things-you-love License code: I3KIYKMDT7AEZY6P",
@@ -735,7 +735,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SeJw1zD2esw",
-            "Title": "Axis - Solutions",
+            "title": "Axis - Solutions",
             "Channel ID": "UCXFFMYAhI_FR80UCdXCS7Kg",
             "Author": "Forgotten Gems",
             "Description": "Axis - Solutions 1996 Looking Good Records",
@@ -761,7 +761,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "w4FSMh_O9j8",
-            "Title": "Central Cee Gives A UK Slang Lesson In The Middle Of His Freestyle 🔥 [via @power106]",
+            "title": "Central Cee Gives A UK Slang Lesson In The Middle Of His Freestyle 🔥 [via @power106]",
             "Channel ID": "UCsCG_QHCeyxxO7RtfRnwNxg",
             "Author": "Rap Marathon",
             "Description": "",
@@ -787,7 +787,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "AWGzbMH1H7k",
-            "Title": "Charasmatix – SFX Mixed Up (Der Dritte Raum Rmx)",
+            "title": "Charasmatix – SFX Mixed Up (Der Dritte Raum Rmx)",
             "Channel ID": "UCHYXjvRJNa5ufq3e1KL-crA",
             "Author": "PENTHAUS103",
             "Description": "Karl Rademacher, Martin Schoenauer, 2002  https://www.discogs.com/es/release/158356-Charasmatix-SFX-Mixed-Up  FOR PROMOTIONAL USE. WILL REMOVE ON REQUEST. UPLOADED IN BAD QUALITY.",
@@ -813,7 +813,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Ateroqql_Sk",
-            "Title": "Freetful - Eye Luv U",
+            "title": "Freetful - Eye Luv U",
             "Channel ID": "UCNxOwULMnjHyoE0eINGyNjA",
             "Author": "Dick Deckard",
             "Description": "Boulevard Recordings, Spain, 2004  https://www.discogs.com/release/2269645-Freetful-Sublevation",
@@ -839,7 +839,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oA1MMRyH0_E",
-            "Title": "Surge - Dubmerge 1",
+            "title": "Surge - Dubmerge 1",
             "Channel ID": "UCH2ykOuivtAfbhcgLp4et6Q",
             "Author": "The Orange Room",
             "Description": "Andy Bell & Dave Bell, 1995 https://www.discogs.com/release/1463690-Surge-Submerge  Message me if you own this and would like me to take it down!",
@@ -865,7 +865,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "x1RFqlTjYNM",
-            "Title": "Abacus - Sunrayz",
+            "title": "Abacus - Sunrayz",
             "Channel ID": "UChx-Ur_lk_FEKbLVXB1qY4A",
             "Author": "Lonho Archive",
             "Description": "Abacus – The Earthly Pleasures E.P. 83 West Records – ET-010  Discogs Link :  https://www.discogs.com/release/9541-Abacus-The-Earthly-Pleasures-EP  =================================== This is a nonprofit video. I upload music from my vinyl collection as an archive at 128kbp.  If you are not happy with the upload of one of your tracks, then please send me a private message and I will remove it. Please Enjoy and share:)",
@@ -891,7 +891,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "YZkAQnhBoqk",
-            "Title": "Mosca - God Of Thunder",
+            "title": "Mosca - God Of Thunder",
             "Channel ID": "UCzeR0_RWnpNHe6y4DTLwE5Q",
             "Author": "hurfyd",
             "Description": "💳 Buy: https://rent.bandcamp.com/track/god-of-thunder  📓 Info: Artist: Mosca Label: Rent Release Date: September 2, 2022 Format: Digital  “Artists like Horsepower / Benny Ill, El-B, Ghost, Darqwan, Menta, Groove Chronicles etc were a massive inspiration for me. That dark garage sound, the roots of dubstep - so perfect for clubs, cars, radio, just sitting in a mates bedroom... Big Apple, Tempa, Velvet Rooms, DPR, Transition, FWD - all crucial.   There's actually very little of this style released so I hope u enjoy adding to your collection with this one. Angular but rolling, funky but tense, electronic but organic... rainforest ambience meets soundsystem pressure meets wisps of smoked out jazz…”  👀 Want more music? Bass, Breaks & Garage: https://bit.ly/3SqQc1D Progressive & Tech House: https://bit.ly/3QlxQNB  ➡️ Submissions: hurfyd@gmail.com  💾 Pssst... Do you ever find yourself wanting to download a bunch of your purchases at once on Bandcamp? I developed a Chrome Extension to add bulk download functionality to Bandcamp. Install Batchcamp here https://bit.ly/3vFXUeb — hope you enjoy! 🥰",
@@ -917,7 +917,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "T5PEbRNJnLM",
-            "Title": "Deeper Side",
+            "title": "Deeper Side",
             "Channel ID": "UCt9Zt6iLkyeqzJ5KqLYN8GQ",
             "Author": "FUNKAVELI - Topic",
             "Description": "Provided to YouTube by DistroKid  Deeper Side · Funkaveli  Deeper Side  ℗ FUNKAVELI 2021  Released on: 2022-09-02  Auto-generated by YouTube.",
@@ -943,7 +943,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tumAUcf6x2Y",
-            "Title": "Beneath Usual - Imagin'R  [LMR004]",
+            "title": "Beneath Usual - Imagin'R  [LMR004]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Chat Noir: https://chatnoir-store.com/release/1657116313/Various-75006-EP  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -969,7 +969,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "B1tj6MGy6i0",
-            "Title": "Darkform-False rotations",
+            "title": "Darkform-False rotations",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://www.junodownload.com/products/darkform-false-rotations-ep/1199082-02/",
@@ -995,7 +995,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "l2jKR1YM7JU",
-            "Title": "Velvet Velour - First Filter [NUIT010]",
+            "title": "Velvet Velour - First Filter [NUIT010]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Deejay.de: https://www.deejay.de/Velvet_Velour_Cloud_Beats_EP_NUIT010_Vinyl__998779  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -1021,7 +1021,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oxan0-c1gK8",
-            "Title": "Intro - Under Your Spell (Instr. Dub)",
+            "title": "Intro - Under Your Spell (Instr. Dub)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1990. https://www.discogs.com/release/1416573-Intro-Under-Your-Spell",
@@ -1047,7 +1047,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IqY3BBOXqak",
-            "Title": "Vil-N-X Featuring Jacqui Gray - De' Jah Voo (Rendezvous Mix) (Island Noyze Records, 1992)",
+            "title": "Vil-N-X Featuring Jacqui Gray - De' Jah Voo (Rendezvous Mix) (Island Noyze Records, 1992)",
             "Channel ID": "UC_ZBS370CjlMCM9lXITVD7w",
             "Author": "RawhausTrax / David Mast",
             "Description": "https://www.discogs.com/release/53220-Vil-N-X-Featuring-Jacqui-Gray-De-Jah-Voo",
@@ -1073,7 +1073,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9KfkonmxzsI",
-            "Title": "Turquoise Kingdom",
+            "title": "Turquoise Kingdom",
             "Channel ID": "UCSEe0NixII6zeSJzmvXEdSQ",
             "Author": "Fio Fa - Topic",
             "Description": "Turquoise Kingdom · Fio Fa  Sunset Drifters EP  ℗ Sunset Drifters  Released on: 2022-08-26  Producer: Fio Fa Composer: Fio Fa  Auto-generated by YouTube.",
@@ -1099,7 +1099,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XJ7C21JvvEc",
-            "Title": "A∞x - Ceramic City [Nduja]",
+            "title": "A∞x - Ceramic City [Nduja]",
             "Channel ID": "UC4-9_tIZquuE27OBwtQoVVA",
             "Author": "Esencia",
             "Description": "Support the artist, buy it here: https://www.discogs.com/release/23846288-Ax-idp4 https://connectwithnduja.bandcamp.com/album/i-d-p-4  ----------------------------------------------------------------------------------------------------------------  For more music:  https://www.discoesencia.com https://soundcloud.com/esenciamx https://www.facebook.com/discoesencia https://www.instagram.com/discoesencia/  ----------------------------------------------------------------------------------------------------------------   DISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.",
@@ -1125,7 +1125,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SI9seuCBm2c",
-            "Title": "[PROMO] T.A.H.L. - Pulse 2 | Not On Label [2022]",
+            "title": "[PROMO] T.A.H.L. - Pulse 2 | Not On Label [2022]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality. For listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir Instagram (Some Uncertain Sir):  https://www.instagram.com/someuncertainsir Twitter (Some Uncertain Sir):  https://twitter.com/uncertainsir  • Label/Artist Info • Linktree: https://linktr.ee/Pulse_II Facebook: https://www.facebook.com/pulsetwo/ Soundcloud: https://soundcloud.com/pulsetwo Instagram: https://www.instagram.com/________rno/ Instagram: https://www.instagram.com/pulse2__/  Bandcamp: https://pulse2music.bandcamp.com/album/vrtx-series-06  Track: T.A.H.L. Artist: Pulse 2 Album: VRTX Series 06 Label: Not on label Country: Greece Year: 2022",
@@ -1151,7 +1151,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vG6rgrdNv1E",
-            "Title": "Antoine Sy - Ozgor Konecsion (Asymptomatic Mix) [VLS07]",
+            "title": "Antoine Sy - Ozgor Konecsion (Asymptomatic Mix) [VLS07]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/3ClsgXA Juno: https://bit.ly/3A6voUs 3345: https://bit.ly/3AddnUK   ➤ Release info: https://www.discogs.com/release/24276749-FCE-Antoine-Sy-Capeesh- |",
@@ -1177,7 +1177,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "z8-vdci37xY",
-            "Title": "Justin David - It Can Be........",
+            "title": "Justin David - It Can Be........",
             "Channel ID": "UCYSnzepaiE0X-dcrquSHSeQ",
             "Author": "wfvs",
             "Description": "Justin David - It Can Be........  Label: Blue Basique – BLUBQ003 Format: Vinyl, 12\", 45 RPM, 33 ⅓ RPM Country: UK Released: 30 de set. de 1996 Genre: #Electronic Style: #Techno #TechHouse   Discogs https://www.discogs.com/release/44165-Justin-David-It-Can-Be  The only purpose of this channel is to give you/artists the recognition they deserve. No copyright intended! So if you still don't want your music to be online, please contact me and I'll remove.  Contact Instagram: https://www.instagram.com/___w1l/ Gmail: will.fvs@gmail.com",
@@ -1203,7 +1203,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "gatf46q4JmM",
-            "Title": "Liquid Earth - Bubblepop [LEP001]",
+            "title": "Liquid Earth - Bubblepop [LEP001]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: https://subwax.es/product/lep001/ |",
@@ -1229,7 +1229,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6Z2jtKH9LCQ",
-            "Title": "Brain 2 Brain-Musique C'est L'art de future(Future piano mix)",
+            "title": "Brain 2 Brain-Musique C'est L'art de future(Future piano mix)",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://www.discogs.com/release/123524-Brain-2-Brain-Musique-Cest-LArt-De-Future",
@@ -1255,7 +1255,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VWzDGn8td5k",
-            "Title": "DJ Taucher  -Just Like You (Blue Room Project Remix)",
+            "title": "DJ Taucher  -Just Like You (Blue Room Project Remix)",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "https://www.facebook.com/sleeplesssssssssssss",
@@ -1281,7 +1281,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IJL9QlOT44M",
-            "Title": "Coco Bryce - Kissed It Up",
+            "title": "Coco Bryce - Kissed It Up",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Coco Bryce Album: KISS 01 Year: 2022 Genre: Drum & Bass, Jungle Label: Myor Buy link: https://myor.bandcamp.com/album/kiss-01 Discogs:  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.  Discord: https://discord.gg/Wp7Ee29Hct Instagram: https://www.instagram.com/bluedollarbillz/ Twitch: https://www.twitch.tv/bluedollarbillz Facebook: https://www.facebook.com/Bluedollarbillz/ Twitter: https://twitter.com/Bluedollarbillz Tumblr: https://bluedollarbillzmusic.tumblr.com/",
@@ -1307,7 +1307,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "22VE7rGxWZ8",
-            "Title": "Shaque & DJ Tjizza - Falling C [PICNIC005]",
+            "title": "Shaque & DJ Tjizza - Falling C [PICNIC005]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Deejay.de; https://www.deejay.de/Data_Memory_Access_DJ_Tjizza_Shaque_PICNIC005_EP_PICNIC005_Vinyl__1002256  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -1333,7 +1333,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "iM4Vhrk4irY",
-            "Title": "sticky scroll",
+            "title": "sticky scroll",
             "Channel ID": "UCs5Y5_7XK8HLDX0SLNwkd3w",
             "Author": "Visual Studio Code",
             "Description": "",
@@ -1359,7 +1359,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rmmX2xUB2iI",
-            "Title": "The Chill - Ligne Hermetik",
+            "title": "The Chill - Ligne Hermetik",
             "Channel ID": "UCfeIQ46zajtfRuGVqE8ZDyQ",
             "Author": "bluntboy",
             "Description": "https://www.discogs.com/release/96258-The-Chill-Vs-Monsieur-X-Tha-Banana-Splif-EP",
@@ -1385,7 +1385,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "W-QlFoRfy-c",
-            "Title": "Amadeezy - Wetty",
+            "title": "Amadeezy - Wetty",
             "Channel ID": "UCY2mgHbe4QiYjLHrtF5FMYQ",
             "Author": "OOUKFunkyOO",
             "Description": "https://amadeezy.bandcamp.com/album/100-very-rare-house-hits-summer-anthems-vol-2 https://on.soundcloud.com/A3CgCL47cYT8q8ms7",
@@ -1411,7 +1411,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nGn4AvnySCU",
-            "Title": "Phantom Power-Travelogue('94 trance mix)",
+            "title": "Phantom Power-Travelogue('94 trance mix)",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉 groovesegment@gmail.com  https://phantompower-cribrecords.bandcamp.com/track/travelogue-94-trance-mix",
@@ -1437,7 +1437,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Tcwn1Gu-6W0",
-            "Title": "Ancut & Onirik - Mystified [OTG001]",
+            "title": "Ancut & Onirik - Mystified [OTG001]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • OTG Distribution: https://otg-records.com/release/1656972122/Ancut-and-Onirik-and-Views-OTG001  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -1463,7 +1463,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "a9K3hl-kkqs",
-            "Title": "Ray Hurley - Pressure (Mix 2)",
+            "title": "Ray Hurley - Pressure (Mix 2)",
             "Channel ID": "UCAySG82ra866kPwMBv2Xe9w",
             "Author": "ModeratorUK",
             "Description": "Ray Hurley - Pressure (Mix 2)  https://www.discogs.com/release/4316508-Ray-Hurley-Pressure",
@@ -1489,7 +1489,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Iy2TGRyfDSU",
-            "Title": "Fantastic Man - Alpha",
+            "title": "Fantastic Man - Alpha",
             "Channel ID": "UCzeR0_RWnpNHe6y4DTLwE5Q",
             "Author": "hurfyd",
             "Description": "💳 Buy: https://kalaharioystercult.bandcamp.com/album/alltogethernow-ep  📓 Info: Label: Kalahari Oyster Cult Artist: Fantastic Man Release Date: August 5, 2022 Format: Vinyl/Digital  Esteemed proponent of outré dancefloor manoeuvres, Superconscious Records co-founder Fantastic Man makes his Kalahari debut proper.  Having shown up for rework duties on a couple of occasions, we find the mutable oddball at his most trippy and esoteric. In fact, OYSTER42 is the handiwork of a producer who has his formula of balmy, lysergic dance music down to an exact science.  ‘Alltogethernow’ gets on a swaggering cosmic tip, all sub-loaded and celestial as levitational arpeggios and funked-up groove dovetail to mesmeric effect. ‘Alpha’, on the other hand, takes a vision quest through enchanted jungle terrain. Initiating with a hypnotic ritual chant, it’s tunnelling and murkily psychedelic; occulted dancefloor rapture tailor-made for the wormhole interior.  As if it were some artefact from a distant ‘90s utopia, Bioxy’ evokes a time when warehouse parties littered the Melbourne landscape. Where its predecessor evokes ceremony and ritual, this is an anachronistic, dilated flashback to simpler times. FM kicks it languid and life-affirming on the closing number. Radiant synth lines flutter with a gentle headiness as ‘Trojan Force’ takes us full circle with a reprise of the rainforest FX.  👀 Want more music? Bass, Breaks & Garage: https://bit.ly/3SqQc1D Progressive & Tech House: https://bit.ly/3QlxQNB  ➡️ Submissions: hurfyd@gmail.com  💾 Pssst... Do you ever find yourself wanting to download a bunch of your purchases at once on Bandcamp? I developed a Chrome Extension to add bulk download functionality to Bandcamp. Install Batchcamp here https://bit.ly/3vFXUeb — hope you enjoy! 🥰",
@@ -1515,7 +1515,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tcHrC5mOJl0",
-            "Title": "Write cleaner JSON with this JSON Stringify tip #shorts",
+            "title": "Write cleaner JSON with this JSON Stringify tip #shorts",
             "Channel ID": "UCsrVDPJBYeXItETFHG0qzyw",
             "Author": "Web Dev Cody",
             "Description": "You'll often need to use JSON.stringify to print JSON objects out, but often the output of this method is hard to read.  Here is a trick to keep the output cleaner and indented correctly.  ------------  🤑  Patreon https://www.patreon.com/webdevjunkie 🔔  Newsletter http://eepurl.com/hnderP 💬  Discord https://discord.gg/4kGbBaa 📁. GitHub https://github.com/codyseibert/youtube",
@@ -1541,7 +1541,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Iu4UEYMwXS8",
-            "Title": "Post Play - Citron [MOVES003]",
+            "title": "Post Play - Citron [MOVES003]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Ba Dum Tish: https://bit.ly/3aZpR9Y   ➤ Release info: https://www.discogs.com/release/23727323-Sweater-7-John-Raffaele-Bobby-Banks-Post-Moves |",
@@ -1567,7 +1567,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LrHoxLvkiyQ",
-            "Title": "Post Play - Frankford Ave [MOVES003]",
+            "title": "Post Play - Frankford Ave [MOVES003]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Ba Dum Tish: https://bit.ly/3aZpR9Y   ➤ Release info: https://www.discogs.com/release/23727323-Sweater-7-John-Raffaele-Bobby-Banks-Post-Moves |",
@@ -1593,7 +1593,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2cQefTrmO9A",
-            "Title": "Post Play - Tell Me I'm Crazy [MOVES003]",
+            "title": "Post Play - Tell Me I'm Crazy [MOVES003]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Ba Dum Tish: https://bit.ly/3aZpR9Y   ➤ Release info: https://www.discogs.com/release/23727323-Sweater-7-John-Raffaele-Bobby-Banks-Post-Moves |",
@@ -1619,7 +1619,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LNrU2duztrc",
-            "Title": "Aerofunk - FREE [PRTY001]",
+            "title": "Aerofunk - FREE [PRTY001]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Ready when you are: https://instagram.com/__diskevich/   Support the artists:   https://partytricks.bandcamp.com/ https://soundcloud.com/partytricksmusic/",
@@ -1645,7 +1645,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "gzyMivqXVLA",
-            "Title": "Tru Kons - Feel So Good (About 2 vs. Deepsound)",
+            "title": "Tru Kons - Feel So Good (About 2 vs. Deepsound)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Tru Kons Album: Feel So Good [TRUKON002] Year: 2004 Genre: UK Garage Label: Not on label Buy link: Discogs: https://www.discogs.com/release/438405-Tru-Kons-Feel-So-Good  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.  Discord: https://discord.gg/Wp7Ee29Hct Instagram: https://www.instagram.com/bluedollarbillz/ Facebook: https://www.facebook.com/Bluedollarbillz/ Twitter: https://twitter.com/Bluedollarbillz Tumblr: https://bluedollarbillzmusic.tumblr.com/",
@@ -1671,7 +1671,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Prf0GTmKX4o",
-            "Title": "Mura Masa, Pa Salieu, Skillibeng - blessing me (Official Video)",
+            "title": "Mura Masa, Pa Salieu, Skillibeng - blessing me (Official Video)",
             "Channel ID": "UCLetbGrP6bzfeLi5Kk1miIg",
             "Author": "MuraMasaVEVO",
             "Description": "New album 'demon time' is out now: https://muramasa.lnk.to/demontime  TikTok Dance Credit: https://www.tiktok.com/@ch6nts?lang=en  Mura Masa Mailing list — https://www.muramasa.me/ Soundcloud — https://soundcloud.com/muramasamusic Insta — https://www.instagram.com/the_mura_masa/ Tik Tok - https://www.tiktok.com/@the_mura_masa  Twitter — https://twitter.com/mura_masa_ Facebook — https://www.facebook.com/MuramasaMusic/ Website — http://www.muramasa.me  Pa Salieu Instagram - https://www.instagram.com/pa_salieu/ Facebook - https://www.facebook.com/pasalieuofficial/ Twitter - https://twitter.com/KING_SALIEU Soundcloud -  https://soundcloud.com/pasalieu  Skillibeng Instagram: https://www.instagram.com/badevryday Twitter: https://twitter.com/skillibeng Facebook: https://www.facebook.com/skillibeng   Lyrics  Baby, bend over, bless me Baby, why you temptin' me? Tell me baby, can you ride with me? (With who?) Baby, come and ride on me (Mhm) Baby, how you move so dangerously? Don't you know, don't you know you a dangerous b? (Mhm) Baby, when you move, it a stressing me (Stress) Baby, why you blessing me? (Bless) [Chorus] Baby, why you blessing me? Baby, why you blessing me? (Woo, woo, woo) Baby, why you temptin' me? (Temptin') Baby, don't worry, keep blessing me Baby, why you blessing me? (Bless) Baby, why you blessing me? (Bless) Baby, why you temptin' me? (Temptin') Baby, don't worry, keep blessing me (Brrrrrrr)  Bless mi, baptize mi cocky Mi love yuh right and nuh like jalopy Wet up yuh pussy like pipe weh yuh drip Slap up yuh batty when yuh ridin' my D Bless, bless, bless, bless, bless mi Coca-Cola shape, a nuh Pepsi When mi rev, yuh summon out X6 Koenigsegg, suh mi mek yuh come quick Love see you, and mi cock a French kiss Weh yuh seh, yuh man apprentice Nah, mek yuh come, him selfish Mek mi tek yuh to di trenches Fuck yuh, like mi headsick Mi nuh old man, mi nuh tek pill (Pill) Tek yuh to my hood, gi yuh body good Proverbs 5, verse 18 [Refrain] Baby, bend over, bless me Baby, why you temptin' me? (Temptin') Teachin' me baby, can you ride with me? (With who?) Baby, come and ride on me (Uh huh) Baby, how you move so dangerously Don't you know, don't you know you a dangerous b? Baby, when you move, it a stressing me (Stress) Baby, why you blessing me? (Bless)  Look, like my killy ching Give her the vaccine, uh Baby, bend low, see me lean, codeine Mighty morph, I knock out like morphine She want the hammer, me badder than lowkey (Pull up) She want Skilli, but she so gifted (Mhm) Baby, show me how you're freaky with it, bless me And you and she have her own money Do you hear? Make me want, I'll still give you anything I see the way you control it, dial it I know you can go crazy, work it Open up like dictionary Serious gyal, she don't Netflix chill (Huh) Rain like Amazon, insert the Fire Stick Darlin', when you elevate, it feel like magic Make the kitty wild out like Tom and Jerry Wild out like Tom and Jerry  Baby, why you blessing me? (Huh) Baby, why you blessing me? (Uh) Baby, why you temptin' me? (Temptin') Baby, don't worry, keep blessing me Baby, why you blessing me? (Bless) Baby, why you blessing me? Baby, why you temptin' me? (Temptin') Baby, why you blessing me?  #blessingme #muramasa  Music video by Mura Masa, Pa Salieu, Skillibeng performing blessing me. A Polydor Records recording; © 2022 Anchor Point Records, under exclusive licence to Polydor Records, a division of Universal Music Operations Limited  http://vevo.ly/JCxqNr",
@@ -1697,7 +1697,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4fb0q6yGFKY",
-            "Title": "Sugar (Mix 2) - Playchild | This Is Housemusic [1996]",
+            "title": "Sugar (Mix 2) - Playchild | This Is Housemusic [1996]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality. For listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir Instagram (Some Uncertain Sir):  https://www.instagram.com/someuncertainsir Twitter (Some Uncertain Sir):  https://twitter.com/uncertainsir  Discogs: https://www.discogs.com/Playchild-Sugar/release/710475  Track: Sugar (Mix 2) Artist: Playchild  Album: Sugar Label: This Is Housemusic Cat #: TIHM 005-6 Country: Germany Year: 1996",
@@ -1723,7 +1723,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "s4oZ7eUn4NU",
-            "Title": "DJ Di'jital – Chronicles Of David Banner (-6%)",
+            "title": "DJ Di'jital – Chronicles Of David Banner (-6%)",
             "Channel ID": "UCauW8AmcEN-VZC4h9DSUd9Q",
             "Author": "Apartment Acht",
             "Description": "Artist: DJ Di'jital  Label: Instruction  Country: Italy Released: 2019 Genre/Style: Electro  https://www.discogs.com/de/release/14302614-DJ-Dijital-The-Chronicles-Of-David-Banner-EP  Any request? Remove The Video? Contact us: mail@plasticdreams.eu  This channel is for promotional use only (128kbps - no club use), out of love for the music and to spread unique and extraordinary artistic work. No money is being made here, will remove immediately if requested.  https://www.instagram.com/plasticdreams.eu/",
@@ -1749,7 +1749,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZFJ7g5XXHbM",
-            "Title": "Linval Thompson – Jah Jah Is A Guiding Star (Dubphonic Rmx)",
+            "title": "Linval Thompson – Jah Jah Is A Guiding Star (Dubphonic Rmx)",
             "Channel ID": "UC4vkDmheBGKCBb6sfWItN8Q",
             "Author": "Zaqaria",
             "Description": "Label - Select Cuts Country - Germany Released - 2001 Style - Dub, Downtempo",
@@ -1775,7 +1775,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4n80y_bq2qE",
-            "Title": "The Specials - Ghost Town (Pj Bridger Refix)",
+            "title": "The Specials - Ghost Town (Pj Bridger Refix)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Pj Bridger Album: Pj Dubs 04 Year: 2022 Genre: UK Garage, Speed Garage Label: Not on label Buy link: https://pjbridger.bandcamp.com/album/pj-bridger-pj-dubs-04 Discogs:  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.  Discord: https://discord.gg/Wp7Ee29Hct Instagram: https://www.instagram.com/bluedollarbillz/ Facebook: https://www.facebook.com/Bluedollarbillz/ Twitter: https://twitter.com/Bluedollarbillz Tumblr: https://bluedollarbillzmusic.tumblr.com/",
@@ -1801,7 +1801,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pfl7OJoibZw",
-            "Title": "A better way to doing if statements in javascript #shorts",
+            "title": "A better way to doing if statements in javascript #shorts",
             "Channel ID": "UCsrVDPJBYeXItETFHG0qzyw",
             "Author": "Web Dev Cody",
             "Description": "Instead of using a large if statement block to set a variable, try using a lookup map instead in javascript.  #shorts  ------------  🤑  Patreon https://www.patreon.com/webdevjunkie 🔔  Newsletter http://eepurl.com/hnderP 💬  Discord https://discord.gg/4kGbBaa 📁. GitHub https://github.com/codyseibert/youtube",
@@ -1827,7 +1827,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Y6zlFVSmWB4",
-            "Title": "Snoozin' B - Under The Velvet [ZZZ01]",
+            "title": "Snoozin' B - Under The Velvet [ZZZ01]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Ba Dum Tish: https://badumtish.world/products/zzz01  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -1853,7 +1853,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VXkkgqsZ2-8",
-            "Title": "As One - Asa Nisi Masa",
+            "title": "As One - Asa Nisi Masa",
             "Channel ID": "UCCZzrgSavFLFG8PiDBYle0A",
             "Author": "dPs _",
             "Description": "New Electronica - elec 4lp - 1994",
@@ -1879,7 +1879,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qcljSMNwvUw",
-            "Title": "Unknown - Unknown A1 [TELUM009]",
+            "title": "Unknown - Unknown A1 [TELUM009]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Deejay.de: https://www.deejay.de/Unknown_TELUM_009_TELUM009_Vinyl__993426  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -1905,7 +1905,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "7lm3lY1fmR4",
-            "Title": "Patrick Turner & Community Recordings-Conviction",
+            "title": "Patrick Turner & Community Recordings-Conviction",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://www.discogs.com/master/788224-Patrick-Turner-Community-Recordings-Conviction-How-Bad-You-Want-It",
@@ -1931,7 +1931,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tvt7drP2R7Q",
-            "Title": "Alexis Cabrera  - Body Parts ( Feat  The Magic Olives  Meditation Mix)",
+            "title": "Alexis Cabrera  - Body Parts ( Feat  The Magic Olives  Meditation Mix)",
             "Channel ID": "UCK7DAoQDc1XVT_UwdVi_zdA",
             "Author": "feygun",
             "Description": "Love For Ukraine Album · 2022",
@@ -1957,7 +1957,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "UAxBtVEbi00",
-            "Title": "Ratman - So In Love",
+            "title": "Ratman - So In Love",
             "Channel ID": "UCHSE0GGdkpb-rE382yE5oaQ",
             "Author": "Slippin Discs",
             "Description": "https://idlehandsbristol.com/product/so-in-love-inc-exclusive-insert-only-at-idle-hands/",
@@ -1983,7 +1983,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SXWoiplFxYY",
-            "Title": "Ratman - Social Dub",
+            "title": "Ratman - Social Dub",
             "Channel ID": "UCHSE0GGdkpb-rE382yE5oaQ",
             "Author": "Slippin Discs",
             "Description": "https://idlehandsbristol.com/product/so-in-love-inc-exclusive-insert-only-at-idle-hands/",
@@ -2009,7 +2009,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9DiMVqtkpMg",
-            "Title": "Interference - City Of Glass [SWITCH 4]",
+            "title": "Interference - City Of Glass [SWITCH 4]",
             "Channel ID": "UCSoW6PGON2SNX0OVXECvVtw",
             "Author": "NUGGETS",
             "Description": "Discogs: https://www.discogs.com/release/1013755-Interference-Untitled  Artist: Interference Track: City Of Glass EP Title: Untitled Label: Switch Catalog #: SWITCH 4 Genre: Techno Year: ????  Just here to share our passion for good music. Any copyright issues? Please contact",
@@ -2035,7 +2035,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XlO_S0WBC9Y",
-            "Title": "Knife N Fork - The Phenomen (Diver's Acidedit) (1996)",
+            "title": "Knife N Fork - The Phenomen (Diver's Acidedit) (1996)",
             "Channel ID": "UCQlycsVJVrgjo_7gNpEBofQ",
             "Author": "Tibor Tury",
             "Description": "https://www.discogs.com/release/344313-Knife-N-Fork-The-Phenomen-Pad-Unique-Remixes  Promotional Use Only. All Rights belong to their respective owners.",
@@ -2061,7 +2061,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "62fwQSBEF1o",
-            "Title": "Laurine & Cecilio - Era Un Ravero [SL033]",
+            "title": "Laurine & Cecilio - Era Un Ravero [SL033]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Deejay.de: httpss://www.deejay.de/Various_Artist_Chromophore_Vol_2_SL033_Vinyl__999496  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -2087,7 +2087,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zGT3UgPRDd0",
-            "Title": "Baldo - Hotplay (Paramida's Hotpants Remix) [PE011]",
+            "title": "Baldo - Hotplay (Paramida's Hotpants Remix) [PE011]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://subwax.es/product/pe011/ 🎵 Follow the label: https://soundcloud.com/physicaleducationrecords 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/release/23530400-Baldo-Groove-Radiance  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -2113,7 +2113,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "a9SVkRuca_U",
-            "Title": "Alexander Skancke - Are you Happy [Quirk – QRK005]",
+            "title": "Alexander Skancke - Are you Happy [Quirk – QRK005]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow Quirk: https://soundcloud.com/alexanderskancke 🎵 Buy Record: https://kma60.com/product/alexander-skancke-are-you-happy/ 🚀 More music: https://soundcloud.com/dofunkk      - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -2139,7 +2139,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Fv4JSVa5w4k",
-            "Title": "B2 - Zone - Don't You Want Some More (Mix 3)",
+            "title": "B2 - Zone - Don't You Want Some More (Mix 3)",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -2165,7 +2165,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "38U991on5Mo",
-            "Title": "Danil Babentsev - 10-289",
+            "title": "Danil Babentsev - 10-289",
             "Channel ID": "UCXaEiRCfkeVx0UMICVtnI8g",
             "Author": "Deep Real",
             "Description": "Label: ECOUL SND Buy here https://ecoulsnd.bandcamp.com/album/l-code  Any contact at our pages https://www.facebook.com/DeepReal.official/ https://www.instagram.com/deepreal_official/?hl=es-la Check Deep Real Tv for Podcast and mixes https://www.youtube.com/channel/UCGZh7TMf_bfg1hTH8MrZC4w This Track was Uploaded to Youtube with the Consent of the Label if you want to delete it contact me at fb page.",
@@ -2191,7 +2191,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "CwTvnOjDryY",
-            "Title": "Mankz  -  You're My Solution (Original Mix)",
+            "title": "Mankz  -  You're My Solution (Original Mix)",
             "Channel ID": "UCGkzJmg31dgczktvAikK7Qg",
             "Author": "Free is in Da House",
             "Description": "2003. You're My Solution Vinyl, 12\"  -  Seasons Limited  Written and produced by Mankz. Vocals by Matilda Friman, guitar by Ola Lilia",
@@ -2217,7 +2217,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-3paEqQ1SSs",
-            "Title": "Pancratio - Korghettini Electronics #5 [OTTA5]",
+            "title": "Pancratio - Korghettini Electronics #5 [OTTA5]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Redeye: https://bit.ly/3yE9Qz5 Juno: https://bit.ly/3ydF52B Viniil: https://bit.ly/3Idlap3 Phonica: https://bit.ly/3yhwfB7 Deejay: https://bit.ly/3nC0w8I Borderline: https://bit.ly/3ukTUzc HHV: https://bit.ly/3yBDLIm |",
@@ -2243,7 +2243,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "m89-_aVz61g",
-            "Title": "Máté Si - To My Loved Ones",
+            "title": "Máté Si - To My Loved Ones",
             "Channel ID": "UCY2mgHbe4QiYjLHrtF5FMYQ",
             "Author": "OOUKFunkyOO",
             "Description": "https://soundcloud.com/mate-sipos https://soundcloud.com/podvodo/sets/mate-si-untitled https://podvodorecords.bandcamp.com/album/m-t-si-a-few-of-moods-ep",
@@ -2269,7 +2269,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZMM-d50n6OA",
-            "Title": "Plasticjunk - It's My Duty",
+            "title": "Plasticjunk - It's My Duty",
             "Channel ID": "UCM7rP8jN4-IQ9Tu88gOH_Fw",
             "Author": "Found it",
             "Description": "Vinyl 2002  Downtempo, Breaks, Trip Hop  Discogs: https://www.discogs.com/release/35296-Tom-Middleton-The-Sound-Of-The-Cosmos   📍The use of this track is to listen to or buy the album, not to use in clubs or podcasts due to the bit rate that is 128.",
@@ -2295,7 +2295,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_axL5ACvBQw",
-            "Title": "Fantastic Man - Low World Order",
+            "title": "Fantastic Man - Low World Order",
             "Channel ID": "UCIKa2Pu2N43KwIMJEeHB1SA",
             "Author": "Superconscious Records",
             "Description": "Fantastic Man - Visions of Dance Vol 1  Superconscious Records - SCR016 https://www.discogs.com/release/23572760-Fantastic-Man-Visions-of-Dance-Vol-1",
@@ -2321,7 +2321,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "A15BHHlj4ms",
-            "Title": "Fantastic Man - Party Rug",
+            "title": "Fantastic Man - Party Rug",
             "Channel ID": "UCIKa2Pu2N43KwIMJEeHB1SA",
             "Author": "Superconscious Records",
             "Description": "Fantastic Man - Visions of Dance Vol 1  Superconscious Records - SCR016 https://www.discogs.com/release/23572760-Fantastic-Man-Visions-of-Dance-Vol-1",
@@ -2347,7 +2347,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_5xITkDOJb8",
-            "Title": "Eternalist - Skydub",
+            "title": "Eternalist - Skydub",
             "Channel ID": "UC4vkDmheBGKCBb6sfWItN8Q",
             "Author": "Zaqaria",
             "Description": "Label - LoveCat Music Country - US Released - 1998 Style - Progressive House, House",
@@ -2373,7 +2373,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ltgpbOS_b_8",
-            "Title": "Lapsus - Did You Test? (Faster Pussy Mix)",
+            "title": "Lapsus - Did You Test? (Faster Pussy Mix)",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "https://www.facebook.com/sleeplesssssssssssss/",
@@ -2399,7 +2399,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "7aQ4nCqC3vI",
-            "Title": "Flying Pop's  - Open Your Mind",
+            "title": "Flying Pop's  - Open Your Mind",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "-10%  https://www.facebook.com/sleeplesssssssssssss/",
@@ -2425,7 +2425,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Znn8L6gksaA",
-            "Title": "PRZ - One Day [USR022]",
+            "title": "PRZ - One Day [USR022]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP •   Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -2451,7 +2451,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pZvamQtut7o",
-            "Title": "CHIMPIZM - Summertime Dub",
+            "title": "CHIMPIZM - Summertime Dub",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): CHIMPIZM Album: Summertime Dub Year: 2022 Genre: UK Garage Label: Buy link: Discogs:  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.  Discord: https://discord.gg/Wp7Ee29Hct Instagram: https://www.instagram.com/bluedollarbillz/ Facebook: https://www.facebook.com/Bluedollarbillz/ Twitter: https://twitter.com/Bluedollarbillz Tumblr: https://bluedollarbillzmusic.tumblr.com/",
@@ -2477,7 +2477,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "N9VcC2R1tjY",
-            "Title": "Like This (S.A.M. Remix)",
+            "title": "Like This (S.A.M. Remix)",
             "Channel ID": "UCaYP-asZIHX6EI3Dbalx0Cw",
             "Author": "Aurèle - Topic",
             "Description": "Provided to YouTube by Pschent  Like This (S.A.M. Remix) · Aurèle · Fareed · S.A.M.  Aurèle & Friends Vol. 1  ℗ 2022 !DM01  Auto-generated by YouTube.",
@@ -2503,7 +2503,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WM1jpCHT5D0",
-            "Title": "Bassam - Brescko",
+            "title": "Bassam - Brescko",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/release/23562878-Various-Perspective-005-  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld  Follow : https://www.instagram.com/kermesseworld/  For promotional purpose only",
@@ -2529,7 +2529,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jx7t3JtbR_Q",
-            "Title": "Thrust - Spiral Trance (Into The Light Mix)",
+            "title": "Thrust - Spiral Trance (Into The Light Mix)",
             "Channel ID": "UCqj95nBLMcAc20Ztzfy1Ccg",
             "Author": "Bunker Headz",
             "Description": "",
@@ -2555,7 +2555,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HoYQwxgmwJI",
-            "Title": "Sweely - Energy Bars [BSU007]",
+            "title": "Sweely - Energy Bars [BSU007]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://www.juno.co.uk/products/sweely-closer-energy/873772-01/ 👉 Get your copy: https://buttersideup.bandcamp.com/ 🎵 Follow the label: https://soundcloud.com/butter-side-up 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/release/22817552-Sweely-Closer-Energy-LP-  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -2581,7 +2581,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_O2q8ayqYKk",
-            "Title": "Relative Progress - Be Real [EPHCS003}",
+            "title": "Relative Progress - Be Real [EPHCS003}",
             "Channel ID": "UCByc6t1_4qS1GA7Y-5bLEzg",
             "Author": "The W.A.P Station",
             "Description": "https://www.discogs.com/release/16791738-Relative-Progress-Evolutionary-Perspective  For promotional purposes only. Please email for any copyright issues and the video will be removed. https://www.instagram.com/wapstation/",
@@ -2607,7 +2607,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_G_zFUGCK38",
-            "Title": "Drawbridge FM - ???",
+            "title": "Drawbridge FM - ???",
             "Channel ID": "UCNxOwULMnjHyoE0eINGyNjA",
             "Author": "Dick Deckard",
             "Description": "",
@@ -2633,7 +2633,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3XatUDKzuZs",
-            "Title": "Vitess - RR3",
+            "title": "Vitess - RR3",
             "Channel ID": "UCgSC4NFr_xwN-lBfBbLqprw",
             "Author": "Novaj 新し",
             "Description": "Novaj 新し Sensations & feelings   Listen on Soundcloud https://bit.ly/3OvEOie  Get it https://sq.lnk.to/RFLP001_S1  Vitess https://soundcloud.com/vitess1 https://www.facebook.com/VitessMusic1/ https://www.instagram.com/vitess.music/ https://vitess.bandcamp.com/  Retro Futura https://soundcloud.com/retrofuturarecords https://www.instagram.com/retrofuturarecords/  ------------------------------------------ Support us with a donation 🤝♥ https://paypal.me/NovajRecords ------------------------------------------  💿 Novaj 新し Records 💿 Facebook: https://www.facebook.com/Novajrecords/ Bandamp: https://novaj.bandcamp.com/ Beatport: https://www.beatport.com/label/novaj-records/75830 Traxsource: https://www.traxsource.com/label/44374/novaj-records Spotify: https://spoti.fi/3nYyOBe  /// Youtube Channels //  - Novaj 新し  Youtube: https://bit.ly/3fHactJ Soundcloud: https://bit.ly/3fHZQKg  - Novaj 新し Dubvision  https://bit.ly/367EItA  Novaj 新し Soul https://bit.ly/3pW9xtf  -------------------------------------------------------------- Wanna be featured?  - Send a message by mail:  novajrecordings@gmail.com",
@@ -2659,7 +2659,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kNcHpy4NA38",
-            "Title": "[PROMO] Limbo - Pulse 2 | Not On Label [2022]",
+            "title": "[PROMO] Limbo - Pulse 2 | Not On Label [2022]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality. For listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir Instagram (Some Uncertain Sir):  https://www.instagram.com/someuncertainsir Twitter (Some Uncertain Sir):  https://twitter.com/uncertainsir  Facebook: https://www.facebook.com/pulsetwo Soundcloud: https://soundcloud.com/pulsetwo Instagram: https://www.instagram.com/andreus____/  & https://www.instagram.com/pulse2__/  Bandcamp: https://pulse2music.bandcamp.com/  Track: Limbo  Artist: Pulse 2 Album: VRTX Series 05 Label: Not On Label  Country: Greece Year: 2022",
@@ -2685,7 +2685,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ABmUsVc_DiU",
-            "Title": "Anonymous - Lately. (Dub Mix) [HMECTS001]",
+            "title": "Anonymous - Lately. (Dub Mix) [HMECTS001]",
             "Channel ID": "UC7t3crQwaLij5pULT1rBSBQ",
             "Author": "Rayzeh",
             "Description": "Premiere contact: rayzeh.premieres@gmail.com  Rayzeh: https://soundcloud.com/rayzeh https://www.instagram.com/rayzeh.music https://www.facebook.com/Rayzeh.official https://rayzeh.bandcamp.com",
@@ -2711,7 +2711,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hOYUxVQppXg",
-            "Title": "Tom Clark - Albino",
+            "title": "Tom Clark - Albino",
             "Channel ID": "UC3S1F-o0ooYuRdmcFhcnW3Q",
             "Author": "buurman vdb",
             "Description": "killer from the owner of high grade himself!  Thomas if you want this removed just let me know  https://www.discogs.com/release/1948279-Tom-Clark-Scorpio",
@@ -2737,7 +2737,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jE45ud4lu7g",
-            "Title": "Little WiFi Trick! #shorts",
+            "title": "Little WiFi Trick! #shorts",
             "Channel ID": "UCpPmrbnoicvhkGRiYLoi8WA",
             "Author": "Veraxity",
             "Description": "ty 0x ;3",
@@ -2763,7 +2763,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bpsjhLD1AXQ",
-            "Title": "Voice Of The Underground - Red Light (Houze Factory, 1994)",
+            "title": "Voice Of The Underground - Red Light (Houze Factory, 1994)",
             "Channel ID": "UC_ZBS370CjlMCM9lXITVD7w",
             "Author": "RawhausTrax / David Mast",
             "Description": "https://www.discogs.com/release/354422-Voice-Of-The-Underground-Deep-House-The-Album",
@@ -2789,7 +2789,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ILtKVLu5Q0o",
-            "Title": "Jorge Caiado - Plant A New Garden ft. Mel (Life Shifting Mix) [CARPET007]",
+            "title": "Jorge Caiado - Plant A New Garden ft. Mel (Life Shifting Mix) [CARPET007]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://bit.ly/3xHUo58 (Carpet online shop) / https://bit.ly/3OpBMN5 (Carpet Bandcamp) 🎵 Follow the label: https://www.instagram.com/carpetandsnares/ 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/release/22685951-Jorge-Caiado-New-Garden  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -2815,7 +2815,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NpwuKNN-WO4",
-            "Title": "DJ Excess - Back To The Music (Portland's Mix)",
+            "title": "DJ Excess - Back To The Music (Portland's Mix)",
             "Channel ID": "UC1Id6hmb4bmwDLEDRIM_Hgw",
             "Author": "Ricky Razu",
             "Description": "Switzerland, 1998  https://www.discogs.com/release/11277497-DJ-Excess-Back-To-The-Music",
@@ -2841,7 +2841,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VhSxLoTLULI",
-            "Title": "DJ Fary - Punjabi Fantasy",
+            "title": "DJ Fary - Punjabi Fantasy",
             "Channel ID": "UCLbDngg7xrEbndFuiJdPeyQ",
             "Author": "ColdCuts // HotWax",
             "Description": "Episode 8 in the Magic Carpet saga sees our intrepid explorers venture back in time in search of forgotten magic. Following a series of hare-brained escapades through the mid-90s they encounter the mighty DJ Fary.  Once revived from his shock at modern day Discogs prices, Fary entrusts our travellers with the DAT tapes of his most original work. Two timeless tracks, brought back to the future and arranged back to back. Enjoy the ride!  BUY: magiccarpetrecords.bandcamp.com/  SUPPORT: @magiccarpetrecords  SUPPORT: www.instagram.com/magiccarpetrecords/",
@@ -2867,7 +2867,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GGETY_H8Lkk",
-            "Title": "Judson Spence - If You Don't Like It (Acid Dub) [SAM 525]",
+            "title": "Judson Spence - If You Don't Like It (Acid Dub) [SAM 525]",
             "Channel ID": "UCByc6t1_4qS1GA7Y-5bLEzg",
             "Author": "The W.A.P Station",
             "Description": "https://www.discogs.com/release/1852914-Judson-Spence-If-You-Dont-Like-It  For promotional purposes only. Please email for any copyright issues and the video will be removed. https://www.instagram.com/wapstation/",
@@ -2893,7 +2893,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jHz4iO5Ojr4",
-            "Title": "Skepta feat. Erykah Badu - Nasty",
+            "title": "Skepta feat. Erykah Badu - Nasty",
             "Channel ID": "UC6LgaJ3s333WHKAhOr4cvPw",
             "Author": "empe3",
             "Description": "Erykah Badu - Didn't Cha Know Skepta - Nasty  mp3 files of all my mashups: https://www.patreon.com/empe3",
@@ -2919,7 +2919,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1K1TTafL0Tw",
-            "Title": "Andrés - Sunday Kinda Love",
+            "title": "Andrés - Sunday Kinda Love",
             "Channel ID": "UCOlpBEEnB4l5eWJeo6Z-Ipg",
             "Author": "Tajak",
             "Description": "*** If You are the one who owns a copyright for this track and you do not wish to have this kind of promotion on YouTube, please let me know and I will remove the video immediately. *** ↓ ↓ ↓ Artist: Andrés EP: Sunday Kinda Love (2018) Label: MotorCity Wine Recordings https://www.discogs.com/release/23409563-Andr%C3%A9s-Sunday-Kinda-Love",
@@ -2945,7 +2945,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MvedFikpU0o",
-            "Title": "Viktor Vaughn - Raedawn (vault.'s Paying Homage Dub)",
+            "title": "Viktor Vaughn - Raedawn (vault.'s Paying Homage Dub)",
             "Channel ID": "UC8oP_tOmavLzdit03JYwpmQ",
             "Author": "Verzila",
             "Description": "Free download mp3 on Hypeddit: https://hypeddit.com/exulsv The wav version will be available to download after 100 SoundCloud reposts: https://bit.ly/3Hthm3K  vault.: https://www.soundcloud.com/groove-vault https://www.facebook.com/groove.vault https://www.instagram.com/groove.vault  Contact and premiere requests at arikutufu@gmail.com  Verzila Social Pages: https://www.soundcloud.com/verzila https://www.facebook.com/verzilamusic https://www.instagram.com/verzilamusic  Tags: #vault #verzilapremiere2022",
@@ -2971,7 +2971,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TSWnq3tAbBw",
-            "Title": "Tornado Wallace Presents - Sea Translation",
+            "title": "Tornado Wallace Presents - Sea Translation",
             "Channel ID": "UCUywekMKbfs1rs5xEAiwlRA",
             "Author": "Basic Spirit",
             "Description": "Forthcoming: https://basicspirit.bandcamp.com Written by: Tornado Wallace",
@@ -2997,7 +2997,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1_hgTWyDNJc",
-            "Title": "JT Donaldson  -  Get A Life",
+            "title": "JT Donaldson  -  Get A Life",
             "Channel ID": "UCGkzJmg31dgczktvAikK7Qg",
             "Author": "Free is in Da House",
             "Description": "2002. Get A Life / Phil My Monkey Vinyl, 12\"  -  Gallery  'Get A Life' samples Rae & Christian feat. Bobby Womack 'Get A Life' (2000.)",
@@ -3023,7 +3023,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "J5M2nH6uEP0",
-            "Title": "Smoud Beats - SMOUDY TUNES VOL​.​1",
+            "title": "Smoud Beats - SMOUDY TUNES VOL​.​1",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow Smoud Traxx: https://soundcloud.com/user-25965187 🎵 Buy Record: https://smoudtraxx.bandcamp.com/track/smoudy-tunes-vol-1 🚀 More music: https://soundcloud.com/dofunkk      - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -3049,7 +3049,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0X9leXvMKBU",
-            "Title": "FURIOUS GEORGE - MUSIC'S HERE TO STAY [HS172]",
+            "title": "FURIOUS GEORGE - MUSIC'S HERE TO STAY [HS172]",
             "Channel ID": "UCrgSrKO2ZUYJCirOP9bzDQg",
             "Author": "Maslow Unknown",
             "Description": "Old-school NY House from Henry Street Music.  Taken from The Adventures Of \"Furious\" George EP released in 95. Buy: https://www.discogs.com/release/41210-Furious-George-The-Adventures-Of-Furious-George Please email maslowunknown@gmail.com if you would like the track removed.",
@@ -3075,7 +3075,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ULf6ao8NUiU",
-            "Title": "Ian O'Brien - It's An Everday World!",
+            "title": "Ian O'Brien - It's An Everday World!",
             "Channel ID": "UChx-Ur_lk_FEKbLVXB1qY4A",
             "Author": "Lonho Archive",
             "Description": "Ian O'Brien – It's An Everyday World! 4th Wave – 4w-OB 1  Discogs Link :  https://www.discogs.com/release/17984-Ian-OBrien-Its-An-Everyday-World  =================================== This is a nonprofit video. I upload music from my vinyl collection as an archive at 128kbp.  If you are not happy with the upload of one of your tracks, then please send me a private message and I will remove it. Please Enjoy and share:)",
@@ -3101,7 +3101,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LZUFZeK95rc",
-            "Title": "Laj & Quakerman - Hot Cake",
+            "title": "Laj & Quakerman - Hot Cake",
             "Channel ID": "UChx-Ur_lk_FEKbLVXB1qY4A",
             "Author": "Lonho Archive",
             "Description": "Laj & Quakerman – Fat Cow / Hot Cake Fiasco Records – FRB001  Discogs Link :  https://www.discogs.com/release/50832-Laj-Quakerman-Fat-Cow-Hot-Cake  =================================== This is a nonprofit video. I upload music from my vinyl collection as an archive at 128kbp.  If you are not happy with the upload of one of your tracks, then please send me a private message and I will remove it. Please Enjoy and share:)",
@@ -3127,7 +3127,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4siMO4h0DNM",
-            "Title": "Rozzo - Beat Around The Bush",
+            "title": "Rozzo - Beat Around The Bush",
             "Channel ID": "UCNxOwULMnjHyoE0eINGyNjA",
             "Author": "Dick Deckard",
             "Description": "Trackdown Records, 1997, Switzerland  https://www.discogs.com/release/140213-Rozzo-On-To-You",
@@ -3153,7 +3153,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "w0YDZqeKMnU",
-            "Title": "Man​/​ipulate - Primary [OPIA012]",
+            "title": "Man​/​ipulate - Primary [OPIA012]",
             "Channel ID": "UCN5P7Z0hskk9vIUv_lyzbzA",
             "Author": "TGF",
             "Description": "Buy Here : https://www.redeyerecords.co.uk/vinyl/145383-opia012-man-ipulate-trance-and-dance-ep   Opia Records  https://www.instagram.com/opiarecords/  https://soundcloud.com/opia_recs  Man/ipulate  https://soundcloud.com/user-165526914  https://www.instagram.com/man__ipulate/  Distributed By – Subwax Distribution Manufactured By – R.A.N.D. Muzik Mastered By – Justin Drake  Please contact me if you want your music deleted, and I will do it as quickly as possible.",
@@ -3179,7 +3179,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bfbjTjEq14k",
-            "Title": "Nicolas Barnes - Idealist",
+            "title": "Nicolas Barnes - Idealist",
             "Channel ID": "UC7t3crQwaLij5pULT1rBSBQ",
             "Author": "Rayzeh",
             "Description": "Premiere contact: rayzeh.premieres@gmail.com  Rayzeh: https://soundcloud.com/rayzeh https://www.instagram.com/rayzeh.music https://www.facebook.com/Rayzeh.official https://rayzeh.bandcamp.com",
@@ -3205,7 +3205,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LywK9HoP-D4",
-            "Title": "Sunaas - Aqua Storm [3MA001]",
+            "title": "Sunaas - Aqua Storm [3MA001]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: https://bit.ly/3GgPtKv |",
@@ -3231,7 +3231,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cVFRAYq4LPg",
-            "Title": "Omni A.M. - Vanilla Chinchilla (Terry Francis Remix)   [Euphoria Records – ahh-007]",
+            "title": "Omni A.M. - Vanilla Chinchilla (Terry Francis Remix)   [Euphoria Records – ahh-007]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow Euphoria Records: https://soundcloud.com/euphoria-records 🎵 Buy Record: https://euphoriarecords.bandcamp.com/album/vanilla-chinchilla 🚀 More music: https://soundcloud.com/dofunkk      - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -3257,7 +3257,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1U0RhAljcNA",
-            "Title": "JJ Fortune - Freak [PACHINKO1]",
+            "title": "JJ Fortune - Freak [PACHINKO1]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow  Pachinko: https://soundcloud.com/user-83442422 🎵 Buy Record: https://www.viniil.com/en/ecommerce/dettaglio/pachinko-1-various-artists-round-1-12-quot-vinyl-pachinko 🚀 More music: https://soundcloud.com/dofunkk      - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -3283,7 +3283,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cn-KwYSrBSo",
-            "Title": "Anthony Teasdale - Entwined Minds (For Andrew Weatherall) [Euphoric State]",
+            "title": "Anthony Teasdale - Entwined Minds (For Andrew Weatherall) [Euphoric State]",
             "Channel ID": "UCPTTi79dRwJCl4DWzDzeCXg",
             "Author": "Torture the Artist",
             "Description": "Exclusive: Anthony Teasdale - Entwined Minds (For Andrew Weatherall)  Iconic UK artist Anthony Teasdale is back with his Decades of Deep EP on Euphoric State and delivers, just like the EP title suggest, some deeper facets of House Music with a breathe of Electro. Besides four unreleased tracks Teasdale's EP also contains Deep In NW5, a tune that was originally out in 1996 and considered to be as one of the key records of the UK Deep House scene in a 2021 edit. However, it's the B1, Entwined Minds (For Andrew Weatherall), we want to draw the attention to as this one holds, according to Teasdale,  'a special place for [him]', since he remixed Andrew Weatherall in 1997. The track contains Deep House elements as well as Electro-elements and due its hybrid character and string breakdown comes in as an euphoric dance floor heater . As soon as the 808 drums kick back in Entwined Minds captivates the last dance floor grouch and sprinkles its musical magic in the club.  Anthony Teasdale's Decades of Deep EP is out on Euphoric State.  Buy the EP: https://subwax.es/product/ephcs004  Artist & label information Anthony Teasdale: https://facebook.com/DJAnthonyTeasdale // https://soundcloud.com/anthony-teasdale // https://instagram.com/anthonyteasdale Euphoric State/ OPIA Records: https://facebook.com/OPIARECORDINGS // https://soundcloud.com/opia_recs // https://instagram.com/opia_records_euphoric_state  Visit & follow Torture the Artist at: https://torturetheartist.net https://facebook.com/torturetheartist https://soundcloud.com/torture-the-artist https://instagram.com/torture_the_artist https://twitter.com/TorturingArt https://youtube.com/torturetheartist",
@@ -3309,7 +3309,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6GeVN8IdQ4Q",
-            "Title": "Drop De Tiddies",
+            "title": "Drop De Tiddies",
             "Channel ID": "UCuI4-tWBIEY3WYyw5OX5ZQg",
             "Author": "Kolter - Topic",
             "Description": "Provided to YouTube by Label Worx Limited  Drop De Tiddies · Kolter  Ying Yang  ℗ Constant Sound  Released on: 2022-05-20  Producer: Johannes Kolter Composer: Johannes Kolter Music  Publisher: Copyright Control  Auto-generated by YouTube.",
@@ -3335,7 +3335,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JuWNaORuB0I",
-            "Title": "ABLETON MAKES YOUR 808's FOR YOU...",
+            "title": "ABLETON MAKES YOUR 808's FOR YOU...",
             "Channel ID": "UCt5xUzBaL6uykDGBkICg-ZQ",
             "Author": "Fearless Beatz",
             "Description": "No more excuses for out of key 808's...Ableton literally does it for you...",
@@ -3361,7 +3361,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xlY3Ff7rSv8",
-            "Title": "Major League Mango - Hit Then Run (Dub)",
+            "title": "Major League Mango - Hit Then Run (Dub)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Major League Mango Album: Dubs Vol. 1 Year: 2022 Genre: UK Garage Label: Not on label  Buy link: https://majorleaguemango.bandcamp.com/album/dubs-vol-1 Discogs:  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -3387,7 +3387,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3J-ugP8rZeI",
-            "Title": "Man/ipulate - WWA",
+            "title": "Man/ipulate - WWA",
             "Channel ID": "UCm54BvSK--nIal2tZIH1f4w",
             "Author": "Gasper",
             "Description": "Only purpose of this channel is to give the artist recognition they deserve.  If you want your track to be removed please contact me and i will remove it as soon as possible.",
@@ -3413,7 +3413,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MpYTI0LOYtg",
-            "Title": "Bobby Caldwell - What You Won't Do For Love (Jack Roy Edit) (Free Download) [FTY070]",
+            "title": "Bobby Caldwell - What You Won't Do For Love (Jack Roy Edit) (Free Download) [FTY070]",
             "Channel ID": "UC03oMSvckBz1CjrLfGvXzcQ",
             "Author": "Frooty Recordings",
             "Description": "Download your copy now via our SoundCloud page!  Frooty Recordings SoundCloud: https://soundcloud.com/frootyrecordings  Artist: Jack Roy https://soundcloud.com/jackroymusic",
@@ -3439,7 +3439,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "im85gJYb1bs",
-            "Title": "Sir George Of Club Session  -  Reminiscence",
+            "title": "Sir George Of Club Session  -  Reminiscence",
             "Channel ID": "UCGkzJmg31dgczktvAikK7Qg",
             "Author": "Free is in Da House",
             "Description": "2002. Let the Flow Vinyl, 12\"  -  Trax Of Interest bUIaggqydZk BBx-Z1uKqoQ Written by Sir George, Sax by Yves Bertelle",
@@ -3465,7 +3465,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SflznBashJ8",
-            "Title": "BWK Project - Say My Name Dub",
+            "title": "BWK Project - Say My Name Dub",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): BWK Project Album: Say My Name Dub Year: 2022 Genre: UK Garage Label: Not on label Buy link: https://bwkproject.bandcamp.com/track/say-my-name-dub Discogs:  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -3491,7 +3491,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3YOsdDWlsNA",
-            "Title": "Rudolf C - 504 Open Space [TSOL003]",
+            "title": "Rudolf C - 504 Open Space [TSOL003]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://linktr.ee/tsol003 🎵 Follow the label: https://soundcloud.com/limousine-dream 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/fr/release/22958924-Rudolf-C-Totally-Refracted  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -3517,7 +3517,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kj4zJa5ciI8",
-            "Title": "DJ Popup - PU's MPC (Central Remix) (Safe Archive, 2022)",
+            "title": "DJ Popup - PU's MPC (Central Remix) (Safe Archive, 2022)",
             "Channel ID": "UC_ZBS370CjlMCM9lXITVD7w",
             "Author": "RawhausTrax / David Mast",
             "Description": "https://www.discogs.com/release/23197460-Manmade-DeeJay-Central-Safe-Archive-01",
@@ -3543,7 +3543,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Tb98aS_iUpw",
-            "Title": "DJ Mastra - Flying Buffet",
+            "title": "DJ Mastra - Flying Buffet",
             "Channel ID": "UCH2ykOuivtAfbhcgLp4et6Q",
             "Author": "The Orange Room",
             "Description": "Stefan Willenegger, 2005 https://www.discogs.com/release/366942-DJ-Mastra-Minibar-EP  Message me if you own this and would like me to take it down!",
@@ -3569,7 +3569,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "S6oROwcj75U",
-            "Title": "Do Or Die - Q+++",
+            "title": "Do Or Die - Q+++",
             "Channel ID": "UCZgdYblXyFY5UBL9sVGR6Ng",
             "Author": "CGI",
             "Description": "This is for promotion only. Please contact me if there are any copyright issues. I will remove it directly upon request.",
@@ -3595,7 +3595,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SXV8axV0Yyg",
-            "Title": "Cee-Mix - Com-Unique-Ation (Syncode Mix) (Incoming!, 1996)",
+            "title": "Cee-Mix - Com-Unique-Ation (Syncode Mix) (Incoming!, 1996)",
             "Channel ID": "UC_ZBS370CjlMCM9lXITVD7w",
             "Author": "RawhausTrax / David Mast",
             "Description": "https://www.discogs.com/release/332573-Cee-Mix-Home-Is-Where-The-Bass-Is",
@@ -3621,7 +3621,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "CMjitvg9t0g",
-            "Title": "Pancratio - Korghettini Electronics #1 [Onetriptoavyon – OTTA4]",
+            "title": "Pancratio - Korghettini Electronics #1 [Onetriptoavyon – OTTA4]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow One Trip To Avyon: https://soundcloud.com/pancratio 🎵 Buy Record: https://kma60.com/product/pancratio-presents-otta4-x-korghettini-electronics 🚀 More music: https://soundcloud.com/dofunkk      - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -3647,7 +3647,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IqvRmOCYDXI",
-            "Title": "Souldoubt - Pyroclasticks [BOSH1208]",
+            "title": "Souldoubt - Pyroclasticks [BOSH1208]",
             "Channel ID": "UCByc6t1_4qS1GA7Y-5bLEzg",
             "Author": "The W.A.P Station",
             "Description": "https://www.discogs.com/release/113688-Souldoubt-Purespace-EP  For promotional purposes only. Please email for any copyright issues and the video will be removed. https://www.instagram.com/wapstation/",
@@ -3673,7 +3673,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cclHGEsHhk0",
-            "Title": "Wildkats - Lyrics Galore (Original Mix)",
+            "title": "Wildkats - Lyrics Galore (Original Mix)",
             "Channel ID": "UCHSE0GGdkpb-rE382yE5oaQ",
             "Author": "Slippin Discs",
             "Description": "https://www.discogs.com/release/5064394-Wildkats-Lyrics-Galore  Label:  A Klass Entertainment – AKE 002 Format: Vinyl, 12\" Country: UK Released:  Genre:  Electronic Style:  UK Garage",
@@ -3699,7 +3699,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "T3sxgNb4s5w",
-            "Title": "50 Cent Featuring Destiny's Child - Thug Love (UK Garage Vocal Mix)",
+            "title": "50 Cent Featuring Destiny's Child - Thug Love (UK Garage Vocal Mix)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Album: Thug Love (UK Garage Remix) [TL 001] Year: 2000 Genre: UK Garage Label: Not on label Buy link: Discogs: https://www.discogs.com/release/1386408-50-Cent-Featuring-Destinys-Child-Thug-Love-UK-Garage-Remix  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -3725,7 +3725,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nSLmEq-ill8",
-            "Title": "Omar-S - Start This Over Again",
+            "title": "Omar-S - Start This Over Again",
             "Channel ID": "UCafaVQ7KFT8Y9dBEKK-ioQA",
             "Author": "Basement Tracks",
             "Description": "Label: FXHE Release Date: Apr 22, 2022  Into great new and classic techno & ambient as well? https://www.youtube.com/channel/UC4KGaumASCwGC8SB-k_DbCw/videos  ARE YOU THE COPYRIGHT OWNER? First off, thank you for the music! I am a music enthusiast, vinyl collector (20K+ pieces of wax and counting!) and a brick and mortar record store owner. We promote your vinyl release and if we upload it, it's because we loved it and have or had it in our record store! In fact, feel free to contact us to see if we can help you distribute your vinyl records: https://radialstore.com/contact​.  If you don't want this on my channel I totally understand, drop me a line via  vinilum@gmail.com and I will remove it immediately from this channel.",
@@ -3751,7 +3751,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Urjje_syIs0",
-            "Title": "Charonne - On The Street",
+            "title": "Charonne - On The Street",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/release/22696679-Charonne-Icare-EP  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld  Follow : https://www.instagram.com/kermesseworld/  For promotional purpose only",
@@ -3777,7 +3777,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SqSMxb9txSw",
-            "Title": "Nintendo Switch Sports - Launch Trailer - Nintendo Switch",
+            "title": "Nintendo Switch Sports - Launch Trailer - Nintendo Switch",
             "Channel ID": "UCGIY_O-8vW4rfX98KlMkvRg",
             "Author": "Nintendo of America",
             "Description": "Bring the thrill of your favorite sports to life in Nintendo Switch Sports, available now! Swing, kick, and spike your way to victory locally or online with friends and family, aim for the Pro League in each sport, and create your Sportsmate or use a Mii character to show up to Spocco Square in style. You ready to play?  https://nintendoswitchsports.nintendo.com/en/  Subscribe for more Nintendo fun! https://goo.gl/HYYsot  Visit Nintendo.com for all the latest! http://www.nintendo.com/  Like Nintendo on Facebook: http://www.facebook.com/Nintendo Follow us on Twitter: http://twitter.com/NintendoAmerica Follow us on Instagram: http://instagram.com/Nintendo Follow us on Pinterest: http://pinterest.com/Nintendo",
@@ -3803,7 +3803,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1trkslFpKpo",
-            "Title": "Unknown Artist - Dummy02.4 [DUMMY02]",
+            "title": "Unknown Artist - Dummy02.4 [DUMMY02]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://bit.ly/373PNiM |",
@@ -3829,7 +3829,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Hbtd9n2854A",
-            "Title": "Karaba - Club Simulator [HAWS016]",
+            "title": "Karaba - Club Simulator [HAWS016]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://hawscardiff.bandcamp.com/album/digital-mystery 🎵 Follow the label: https://soundcloud.com/hawsmusic 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/release/23000183-Karaba-Digital-Mystery  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -3855,7 +3855,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zCUoLYsphvg",
-            "Title": "Contacto - You will not return",
+            "title": "Contacto - You will not return",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://bit.ly/37LxEqc |",
@@ -3881,7 +3881,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "yJ2siLsD8JQ",
-            "Title": "Noiro - Nebula [PL001]",
+            "title": "Noiro - Nebula [PL001]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://www.smallblackdots.net/release/1649088999/Noiro-and-DJ-Void-Dream-Drivers-EP 🎵 Follow the label: https://soundcloud.com/private-lane/pl001 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/release/22762868-Noiro-DJ-Void-Dream-Drivers-Ep  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -3907,7 +3907,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FWmeg2ic5eg",
-            "Title": "Andronicus - Make You Whole (Original Mix)",
+            "title": "Andronicus - Make You Whole (Original Mix)",
             "Channel ID": "UCpMKOMYkxD0SnVhC5qsbfMw",
             "Author": "davepeo77",
             "Description": "Andronicus - Make You Whole (Original Mix)",
@@ -3933,7 +3933,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "D3uKpCcuNjE",
-            "Title": "Man/ipulate - Why Don't You Move [NUIT009]",
+            "title": "Man/ipulate - Why Don't You Move [NUIT009]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Bandcamp: https://nuancesdenuit.bandcamp.com/merch/pre-order-nuances-de-nuit-vol-9-300-units-180g  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -3959,7 +3959,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "miAObvstAGM",
-            "Title": "Scoff - Untitled (A2) [SCOFF 1203]",
+            "title": "Scoff - Untitled (A2) [SCOFF 1203]",
             "Channel ID": "UCSoW6PGON2SNX0OVXECvVtw",
             "Author": "NUGGETS",
             "Description": "Discogs: https://www.discogs.com/release/404114-Scoff-If-Music-Be-The-Food-Of-Life-Vol-1  Artist: Scoff Track: Untitled (A2) EP Title: If Music Be The Food Of Life ! Vol. 1 Label: Scoff Records Catalog #: SCOFF 1203 Genre: Progressive House, House Year: 1995  Just here to share our passion for good music. Any copyright issues? Please contact",
@@ -3985,7 +3985,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "yszPjmDAxoc",
-            "Title": "Cristian Sarde - My Best Friend",
+            "title": "Cristian Sarde - My Best Friend",
             "Channel ID": "UCgkH9OOqoUmtjyqUv5jbvdA",
             "Author": "tanganazo",
             "Description": "https://www.discogs.com/release/22345309-Alex-Dima-Cristian-Sarde-Dimensione-Profonda-Ep",
@@ -4011,7 +4011,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Au12eajUEx0",
-            "Title": "Alexis Namur - A.G.I Got Funk [BMP101]",
+            "title": "Alexis Namur - A.G.I Got Funk [BMP101]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Bandcamp: https://bit.ly/3jANmqz Deejay: https://bit.ly/3Ehfb0G Decks: https://bit.ly/3jDaEvP Juno: https://bit.ly/3EaVPtU Yoyaku: https://bit.ly/3xstLRi Clone: https://bit.ly/3vghn4g Coldcuts: https://bit.ly/3uHrekL Subwax: https://bit.ly/3KXOxfT   ➤  Release info: https://www.discogs.com/release/22603214-Alexis-Namur-Fhloston-Paradise-EP |",
@@ -4037,7 +4037,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RzbjzcLSl5M",
-            "Title": "The Aquarian Conspiracy - Paradigm Shift",
+            "title": "The Aquarian Conspiracy - Paradigm Shift",
             "Channel ID": "UCkamJjO8QY--FfPA5nDVUig",
             "Author": "Radio Cisco",
             "Description": "A record from my own collection.  All tracks written, sequenced & produced by E. Sumner at G.G.R. Studios, Tynemouth. https://www.discogs.com/release/1625363-The-Aquarian-Conspiracy-EP-1 More music and dj stuff: https://www.instagram.com/cisco.fm_/",
@@ -4063,7 +4063,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "z16ChlEku3o",
-            "Title": "Gag - Cool? [TAB003]",
+            "title": "Gag - Cool? [TAB003]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: KMA60: https://bit.ly/38AsgpS |",
@@ -4089,7 +4089,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "U5QXvQKTNWw",
-            "Title": "UNKNOWN ARTIST - THE STORK [WiTA001]",
+            "title": "UNKNOWN ARTIST - THE STORK [WiTA001]",
             "Channel ID": "UCrgSrKO2ZUYJCirOP9bzDQg",
             "Author": "Maslow Unknown",
             "Description": "Unknown Artist - The Stork [WiTA001] supported by Archie Hamilton, Rossi, Toman and Rossko.  Released 22nd April via Bandcamp. PRE ORDER/BUY: https://semjacobs.bandcamp.com/album/the-stork-wita001",
@@ -4115,7 +4115,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "dj36-_QVpgc",
-            "Title": "Gene On Earth - Pinseeker [LD007]",
+            "title": "Gene On Earth - Pinseeker [LD007]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Follow the label & buy: https://linktr.ee/pinseeker 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/fr/release/22783517-Gene-On-Earth-Time-On-The-Vine  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -4141,7 +4141,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "7lQFVXt4J4A",
-            "Title": "Man/ipulate - The Beat Club [OPIA012]",
+            "title": "Man/ipulate - The Beat Club [OPIA012]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Deejay.de: https://www.deejay.de/Man_ipulate_Trance_and_Dance_EP_OPIA012_Vinyl__992633  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -4167,7 +4167,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RE471USep44",
-            "Title": "Gina Thompson Feat Missy Elliott - Yadiya (Pj's Uk Garage Mix)",
+            "title": "Gina Thompson Feat Missy Elliott - Yadiya (Pj's Uk Garage Mix)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Pj Album: Yadiya [pj001] Year: 2001 Genre: UK Garage Label: Not on label Buy link: Discogs: https://www.discogs.com/release/3196538-Gina-Thompson-Feat-Missy-Elliott-Yadiya  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -4193,7 +4193,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Fm7DtHxlvCE",
-            "Title": "Viola Wills - Get Along Without You Now (Andy G's Mellow Groove)",
+            "title": "Viola Wills - Get Along Without You Now (Andy G's Mellow Groove)",
             "Channel ID": "UCCL_rE8MCGxTlPESj4Rm9iw",
             "Author": "LukeyChoons",
             "Description": "https://www.discogs.com/release/1340400-Viola-Wills-Get-Along-Without-You-Now-Handbaggers-Remix",
@@ -4219,7 +4219,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oCXpIh8Jcnc",
-            "Title": "Usher - U Remind Me (4x4 Instrumental)",
+            "title": "Usher - U Remind Me (4x4 Instrumental)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Ghettofabulous Album: U Remind Me (The U.K. Remixes) [RAYMOND01] Year: 2001 Genre: UK Garage Label: Not on label Buy link: Discogs: https://www.discogs.com/release/1373233-Usher-U-Remind-Me-The-UK-Remixes  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -4245,7 +4245,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KCIh-FK_Pdo",
-            "Title": "Saunter - Lost-Mind Logic [Chat Noir Tools - CNT006]",
+            "title": "Saunter - Lost-Mind Logic [Chat Noir Tools - CNT006]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow Chat Noir: https://soundcloud.com/chatnoirdistribution 🎵 Buy Record: https://chatnoir-store.com/release/1648569955/Saunter-Lost-Mind-Logic-EP 🚀 More music: https://soundcloud.com/dofunkk      - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -4271,7 +4271,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "U9GaEeEAY9U",
-            "Title": "Two Shell - ꫀꪻꫀ᥅ꪀꪖꪶᦓꫀꫀᦔ (Eternalseed)",
+            "title": "Two Shell - ꫀꪻꫀ᥅ꪀꪖꪶᦓꫀꫀᦔ (Eternalseed)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Two Shell Album: ꫀꪻꫀ᥅ꪀꪖꪶᦓꫀꫀᦔ (Eternalseed)  Year: 2022 Genre: Electronic, Techno, UK Garage, Etc Label: Not on label Buy link: https://twoshell.bandcamp.com/album/--5 Discogs:  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -4297,7 +4297,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SWwU1V8lqZU",
-            "Title": "Michael Hunter - GTA San Andreas Theme Song (Licaica Edit)",
+            "title": "Michael Hunter - GTA San Andreas Theme Song (Licaica Edit)",
             "Channel ID": "UC8oP_tOmavLzdit03JYwpmQ",
             "Author": "Verzila",
             "Description": "Free download and streaming links: https://welterrecords.bandcamp.com/track/michael-hunter-gta-san-andreas-theme-song-licaica-edit https://soundcloud.com/welterrecords/michael-hunter-gta-san-andreas-theme-song-licaica-edit  Label: Welter Records Cat: WELTERFREEDL020 Format: Digital, Single, Free D/L Country: Romania Released: 3 April 2022 Genre: Electronic Style: Minimal, Techno  Tracklist: Michael Hunter - GTA San Andreas Theme Song (Licaica Edit  Licaica: https://www.soundcloud.com/licaicadj https://www.facebook.com/licaicadj https://www.instagram.com/licaicadj  Welter Records: https://www.soundcloud.com/welterrecords https://www.instagram.com/welterrecords https://www.facebook.com/welterrecords  Demos at welterrecords@gmail.com  Verzila Social Pages: https://www.soundcloud.com/verzila https://www.facebook.com/verzilamusic https://www.instagram.com/verzilamusic  Tags: #licaica #welterrecords #verzilapremiere2022",
@@ -4323,7 +4323,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pFfqk31Qf-k",
-            "Title": "Kam - Need 2 Freak [NUG-NET-02]",
+            "title": "Kam - Need 2 Freak [NUG-NET-02]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://subwax.es/product/nug-net-02/ 🎵 Follow the label: https://linktr.ee/thesoundoflimo 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/release/22346656-Various-Nug-Net-Class-of-2021-Part-2  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -4349,7 +4349,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9hTnjbGvVeg",
-            "Title": "Ritzman - Track 1000 [NUG-NET-02]",
+            "title": "Ritzman - Track 1000 [NUG-NET-02]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://subwax.es/product/nug-net-02/ 🎵 Follow the label: https://linktr.ee/thesoundoflimo 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/release/22346656-Various-Nug-Net-Class-of-2021-Part-2  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -4375,7 +4375,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "L9-ji7trQqc",
-            "Title": "Skins - 24 Hour Dub - SPNCTY001",
+            "title": "Skins - 24 Hour Dub - SPNCTY001",
             "Channel ID": "UCqgjsDIStMI4vlXIty3Gjww",
             "Author": "Reel Long Overdub",
             "Description": "Leeds based label & producer. Played out by Andrew James Gustav and Sugar Free !   https://www.discogs.com/release/18971641-Skins-24-Hour-Dub?ev=item-vc  [This channel may contain copyrighted material unauthorised by the owner. We are sharing tracks for the love of it, not for profit, and are happy to delete videos on request.]",
@@ -4401,7 +4401,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "d-1Ym6mo4dM",
-            "Title": "Underground Solution-Afterthought",
+            "title": "Underground Solution-Afterthought",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://www.discogs.com/master/159060-The-Underground-Solution-Luv-Dancin",
@@ -4427,7 +4427,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "dxI0qHZHJQo",
-            "Title": "Rob Amboule - 10101010",
+            "title": "Rob Amboule - 10101010",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "out today: https://badumtish.world/products/rob-amboule-instant-match-ep-match01",
@@ -4453,7 +4453,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MGfg4plfhJM",
-            "Title": "Rob Amboule - Lil Grey",
+            "title": "Rob Amboule - Lil Grey",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "out today: https://badumtish.world/products/rob-amboule-instant-match-ep-match01",
@@ -4479,7 +4479,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SUSUVNah8fk",
-            "Title": "Destinys Child - Cater To You (Solution Remix)",
+            "title": "Destinys Child - Cater To You (Solution Remix)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Various Artists Album: Pirates Vol.1 Year: 2006 Genre: UK Garage Label: Not on label Buy link: Discogs: https://www.discogs.com/release/770580-Various-Pirates-Vol1  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -4505,7 +4505,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Wi2JyVeANKI",
-            "Title": "Spunk-Disco libra",
+            "title": "Spunk-Disco libra",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://www.discogs.com/fr/release/187311-Spunk-Disco-Libra",
@@ -4531,7 +4531,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Z54yRom3sx0",
-            "Title": "Phil Evans - Up Top [FREIZEIT001]",
+            "title": "Phil Evans - Up Top [FREIZEIT001]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://badumtish.eu/products/phil-evans-from-da-attic-ep-freizeit001 🎵 Follow the label: https://www.freizeitrecords.de/ 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details:  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -4557,7 +4557,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cCr8q597tQc",
-            "Title": "LITTLE GEM 005",
+            "title": "LITTLE GEM 005",
             "Channel ID": "UCSoW6PGON2SNX0OVXECvVtw",
             "Author": "NUGGETS",
             "Description": "UK, 1994",
@@ -4583,7 +4583,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pnKt185bfP4",
-            "Title": "Levan Grdzelidze - Binny [GLSP004]",
+            "title": "Levan Grdzelidze - Binny [GLSP004]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://bit.ly/3qEX0MD |",
@@ -4609,7 +4609,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cD0lAjPq_SI",
-            "Title": "G.L.T. - Auf Basis [TRAFFIC018]",
+            "title": "G.L.T. - Auf Basis [TRAFFIC018]",
             "Channel ID": "UCByc6t1_4qS1GA7Y-5bLEzg",
             "Author": "The W.A.P Station",
             "Description": "https://www.discogs.com/release/21939334-GLT-Goal-Line-Techno-EP  For promotional purposes only. Please email for any copyright issues and the video will be removed. https://www.instagram.com/wapstation/",
@@ -4635,7 +4635,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "dMwAf_RXC_8",
-            "Title": "Cristian Sarde - Eyesight Wisdom [OTP02]",
+            "title": "Cristian Sarde - Eyesight Wisdom [OTP02]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/3tDLvXU Red Eye: https://bit.ly/3LasVw9 Coldcuts: https://bit.ly/3wQd16z Disco Più: https://bit.ly/3Nhyv1Q   ➤ Release info: https://www.discogs.com/release/21948133-Cristian-Sarde-Professional-Dancer |",
@@ -4661,7 +4661,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6ZeiN_QDFWM",
-            "Title": "Cristian Sarde - Changes [OTP02]",
+            "title": "Cristian Sarde - Changes [OTP02]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/3tDLvXU Red Eye: https://bit.ly/3LasVw9 Coldcuts: https://bit.ly/3wQd16z Disco Più: https://bit.ly/3Nhyv1Q   ➤ Release info: https://www.discogs.com/release/21948133-Cristian-Sarde-Professional-Dancer |",
@@ -4687,7 +4687,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IAnm2KZ5014",
-            "Title": "Easy Peelers - Flying",
+            "title": "Easy Peelers - Flying",
             "Channel ID": "UCmx1efQv-oDoL_I_EPEMYUQ",
             "Author": "House Six",
             "Description": "PREMIERE on Soundcloud :  https://bit.ly/36CPECm  Label: Fresh Take Records Artist: Easy Peelers Format: Digital EP Title: Polymorph Release Date: 25th March 2022  Support it: https://bit.ly/3trXw2q  The Irish duo Easy Peelers return to Fresh Take for an interplanetary 4-track journey.  Easy Peelers : https://soundcloud.com/easy-peelers https://instagr.am/easypeelers_dj https://fb.me/ezPeelers  Fresh Take Records : https://soundcloud.com/freshtakerecords https://instagr.am/freshtakerecords https://fb.me/freshtakerecords  ---------------------------------------------------------------------------------------------------------------------------------------------------------------  House Six : https://soundcloud.com/house-six https://fb.me/HouseSix.yt https://instagr.am/housesix_ https://spoti.fi/3pHAj7J housesixyt@gmail.com",
@@ -4713,7 +4713,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4Wx4vIcKSao",
-            "Title": "Chop - Test - Untitled B1 [????]",
+            "title": "Chop - Test - Untitled B1 [????]",
             "Channel ID": "UCFPUHoiz2DUiW6vtyuSXGXw",
             "Author": "DON BENITO",
             "Description": "https://www.discogs.com/release/7339655-Chop-Test",
@@ -4739,7 +4739,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "m62S8t2U9Ow",
-            "Title": "Elegia - Art Of Silence",
+            "title": "Elegia - Art Of Silence",
             "Channel ID": "UCb1l35fNY9I9bBmRBjS9X6A",
             "Author": "Outsider",
             "Description": "1996  https://www.discogs.com/release/169901-Elegia-Mother-EP",
@@ -4765,7 +4765,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-eB9iLFFpDU",
-            "Title": "Juls Kiyosaka - Orange",
+            "title": "Juls Kiyosaka - Orange",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow Juls Kiyosaka: https://soundcloud.com/user-83464125 🎵 Buy Record: https://julskiyosaka.bandcamp.com/releases 🚀 More music: https://soundcloud.com/dofunkk      - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -4791,7 +4791,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "--dTbNsKFBU",
-            "Title": "Juls Kiyosaka - Blue",
+            "title": "Juls Kiyosaka - Blue",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow Juls Kiyosaka: https://soundcloud.com/user-83464125 🎵 Buy Record: https://julskiyosaka.bandcamp.com/releases 🚀 More music: https://soundcloud.com/dofunkk      - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -4817,7 +4817,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "chPTrng2SI8",
-            "Title": "BufoBufo - Bobtail",
+            "title": "BufoBufo - Bobtail",
             "Channel ID": "UCZgdYblXyFY5UBL9sVGR6Ng",
             "Author": "CGI",
             "Description": "This is for promotion only. Please contact me if there are any copyright issues. I will remove it directly upon request.",
@@ -4843,7 +4843,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "DR6d1iNv5Ac",
-            "Title": "Watch Patrol -  It's Where You At [Telomere 015]",
+            "title": "Watch Patrol -  It's Where You At [Telomere 015]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://bit.ly/3InXZqp |",
@@ -4869,7 +4869,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "70RVy9B9574",
-            "Title": "Jucxi Feat. OutKast - One Night Slam (Dub Mix)",
+            "title": "Jucxi Feat. OutKast - One Night Slam (Dub Mix)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Jucxi Feat. OutKast Album: One Night Slam [OUT 001] Year: 2001 Genre: UK Garage Label: D@ts Dope Buy link: Discogs: https://www.discogs.com/release/2498820-Jucxi-Feat-OutKast-One-Night-Slam  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -4895,7 +4895,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MzHGWOC5yg0",
-            "Title": "So Inagawa - Fantaxia",
+            "title": "So Inagawa - Fantaxia",
             "Channel ID": "UCR2XQYvNR0zA3FOyFYgZL8g",
             "Author": "Vals",
             "Description": "Support: https://cabaretrecordingsforukraine.bandcamp.com/album/cababret-recordings-for-ukraine?from=twittercard _  So Inagawa: https://www.discogs.com/artist/284472-So-Inagawa https://soundcloud.com/soinagawa https://www.facebook.com/soinagawaofficial _  Cabaret Recordings: https://www.discogs.com/label/549436-CABARET-Recordings https://soundcloud.com/hauznated https://www.facebook.com/cabaret365 _  For more music: https://soundcloud.com/slavrecords https://youtube.com/c/slavrecords https://linktr.ee/slavtrax _  Slav House: https://www.facebook.com/groups/slavhouse https://www.reddit.com/r/slavhouse https://discord.gg/NaDgXm8 _  Slav Hoodies: https://slav-merch-3.creator-spring.com/? _  Send Music // Inquiries » slavtrax@pm.me  ...or soundcloud message would be best:)",
@@ -4921,7 +4921,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "igqPhWatAr8",
-            "Title": "Louding Crew - Morigan (Ta.La.Ri.Co. Sound)",
+            "title": "Louding Crew - Morigan (Ta.La.Ri.Co. Sound)",
             "Channel ID": "UCH2ykOuivtAfbhcgLp4et6Q",
             "Author": "The Orange Room",
             "Description": "Michele Talarico, 1994 https://www.discogs.com/release/514130-Louding-Crew-Morigan  Message me if you own this and would like me to take it down!",
@@ -4947,7 +4947,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xNBrOqV9RZw",
-            "Title": "Obzession - When You Touch Me (Touch Mix)",
+            "title": "Obzession - When You Touch Me (Touch Mix)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Polydor – 861 617-1 UK 1993",
@@ -4973,7 +4973,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Wwq2_XaZy_c",
-            "Title": "Adam Nahalewicz - The Fortune Teller [FPR010]",
+            "title": "Adam Nahalewicz - The Fortune Teller [FPR010]",
             "Channel ID": "UCZNyqn4nRF0VP7vzGdFv2_Q",
             "Author": "THYME",
             "Description": "Artists: Adam Nahalewicz Label: FLOORPIECE Cat: FPR010 Buy: https://www.deejay.de/Adam_Nahalewicz_The_Fortune_Teller_Ep_FPR010_Vinyl__985166    FLOORPIECE https://soundcloud.com/floorpiece-music    Adam Nahalewicz https://soundcloud.com/adamnahalewicz        THYME https://soundcloud.com/thymepromo",
@@ -4999,7 +4999,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "m0-r43qg16U",
-            "Title": "Gene On Earth - A New Start",
+            "title": "Gene On Earth - A New Start",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "Donate here: https://limousinedream.bandcamp.com/track/a-new-start Or there: https://www.gofundme.com/f/ukrainian-relief-at-sekta",
@@ -5025,7 +5025,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "J8vpnS22HGA",
-            "Title": "Levan Grdzelidze - Dub For Ukraine [4UA]",
+            "title": "Levan Grdzelidze - Dub For Ukraine [4UA]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "💛💙 Georgian artists from various genres unite under one compilation to support Ukrainian friends. All funds go to Ukrainian people.    ➤ Bandcamp: https://bit.ly/3J92Dd2   Artwork by Fu Mac |",
@@ -5051,7 +5051,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "lSsVX8OxSAk",
-            "Title": "Toke - Ortolan [4UA]",
+            "title": "Toke - Ortolan [4UA]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "💛💙 Georgian artists from various genres unite under one compilation to support Ukrainian friends. All funds go to Ukrainian people.    ➤ Bandcamp: https://bit.ly/3J92Dd2   Artwork by Fu Mac |",
@@ -5077,7 +5077,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zSlsldryePo",
-            "Title": "GIGI - Obscure Chants [4UA]",
+            "title": "GIGI - Obscure Chants [4UA]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "💛💙 Georgian artists from various genres unite under one compilation to support Ukrainian friends. All funds go to Ukrainian people.    ➤ Bandcamp: https://bit.ly/3J92Dd2   Artwork by Fu Mac |",
@@ -5103,7 +5103,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MQXcSfUVxJA",
-            "Title": "Soyouz-Let's go bro",
+            "title": "Soyouz-Let's go bro",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://thevoidproject90.bandcamp.com/album/the-void-digital-series-v-d-001-soyouz-ep",
@@ -5129,7 +5129,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "dYLKGi_b7Gs",
-            "Title": "Huerta - Desire",
+            "title": "Huerta - Desire",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "Hey guys, Steve sent over this track for which all proceeds will go to help Ukraine, so let's spread it around: https://leizuremusic.bandcamp.com/track/desire You can also support donating for ex to the Red Cross: https://www.icrc.org/en/donate/ukraine xoxo",
@@ -5155,7 +5155,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2C8hG9vrL84",
-            "Title": "Trip Guiz - Gozar (Bajo Mix) [PHA001]",
+            "title": "Trip Guiz - Gozar (Bajo Mix) [PHA001]",
             "Channel ID": "UCSoW6PGON2SNX0OVXECvVtw",
             "Author": "NUGGETS",
             "Description": "Discogs: https://www.discogs.com/release/2608613-Trip-Guiz-Gozar  Artist: Trip Guiz Track: Gozar (Bajo Mix) EP Title: Gozar Label: Phantom Records Catalog #: PHA001 Genre: House Year: 1995  Just here to share our passion for good music. Any copyright issues? Please contact",
@@ -5181,7 +5181,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "R-A7dKA5plc",
-            "Title": "Jos-Point of no return",
+            "title": "Jos-Point of no return",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://eyarecords.bandcamp.com/album/jos-tales-of-a-lonewolf-ep",
@@ -5207,7 +5207,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wpvAfSlvGao",
-            "Title": "Foghead-Six:thirty-two",
+            "title": "Foghead-Six:thirty-two",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://www.discogs.com/fr/release/20259-Foghead-Foghead",
@@ -5233,7 +5233,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jcG2S7clV0I",
-            "Title": "Space Beats",
+            "title": "Space Beats",
             "Channel ID": "UC9T9IKFnLx4-06nznvdfDBw",
             "Author": "Robert James - Topic",
             "Description": "Provided to YouTube by Label Worx Limited  Space Beats · Robert James  Space Beats EP  ℗ Trommel Music Ltd  Released on: 2022-03-04  Producer: Robert James Composer: Robert James Music  Publisher: Copyright Control  Auto-generated by YouTube.",
@@ -5259,7 +5259,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "f3ygn8fNOIU",
-            "Title": "Induction - Put Your Mind In A Trance (Leave Your Body Mix) [OBR 004]",
+            "title": "Induction - Put Your Mind In A Trance (Leave Your Body Mix) [OBR 004]",
             "Channel ID": "UCSoW6PGON2SNX0OVXECvVtw",
             "Author": "NUGGETS",
             "Description": "Discogs: https://www.discogs.com/release/808050-Induction-Put-Your-Mind-In-A-Trance  Artist: Induction Track: Put Your Mind In A Trance (Leave Your Body Mix) EP Title: Put Your Mind In A Trance Label: Obsessive Records Catalog #: OBR 004 Genre: Progressive House Year: 1993  Just here to share our passion for good music. Any copyright issues? Please contact",
@@ -5285,7 +5285,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jOKQm4S8w6s",
-            "Title": "SLOTH - Sound of the suburbs - Love innit-",
+            "title": "SLOTH - Sound of the suburbs - Love innit-",
             "Channel ID": "UCEEvc1dxP2D5C82Ls3b0eLg",
             "Author": "The Diggin Issue",
             "Description": "Label: Suspect Package – SUS 010 Format: Vinyl, 12\", 33 ⅓ RPM, EP Country: UK Released: Nov 29, 2019 Genre: Electronic Style: Tech House, House, Acid House  Dear producer/owner, the  purpose of this channel is to promote artists. No copyright infringement intended! If you want the music removed , please contact ispodkostele@gmail.com -  I will remove as soon as we see the email - Please don't contact youtube direct, it could mean the lose of my channel.",
@@ -5311,7 +5311,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bz8THY4jyuc",
-            "Title": "Vision Of Gandhi - Psychedelic Sequence [ONUSSEN02]",
+            "title": "Vision Of Gandhi - Psychedelic Sequence [ONUSSEN02]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Viniil: https://www.viniil.com/en/ecommerce/dettaglio/onussen-02-vision-of-gandhi-divine-science-ep-12-quot-vinyl-onussen-records   Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -5337,7 +5337,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-ZE2EASmjNk",
-            "Title": "Muelsa - Pretty Little Monsters [SEXTAPE002]",
+            "title": "Muelsa - Pretty Little Monsters [SEXTAPE002]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://subwax.es/product/sextape002/ 🎵 Follow the label: www.soundcloud.com/sextapesfrommars 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -5363,7 +5363,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1lPYhmyRS7A",
-            "Title": "Original Rockers - Push Push (Dubweiser Mix)",
+            "title": "Original Rockers - Push Push (Dubweiser Mix)",
             "Channel ID": "UCH2ykOuivtAfbhcgLp4et6Q",
             "Author": "The Orange Room",
             "Description": "Glyn Bush & Richard Whittingham, 1992 https://www.discogs.com/release/62684-Original-Rockers-Push-Push-The-Remix-EP  Message me if you own this and would like me to take it down!",
@@ -5389,7 +5389,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "abbNcmbjgZc",
-            "Title": "Bush Chemists - Dub The Bongo",
+            "title": "Bush Chemists - Dub The Bongo",
             "Channel ID": "UCaJZ-EPjKUZJqbbUOQFJd1A",
             "Author": "Adonai Sounds",
             "Description": "Bush Chemists - Dub The Bongo",
@@ -5415,7 +5415,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LGu-dKpgc1A",
-            "Title": "Whitney Houston - Its Not Right But Its Ok (Pj Bridger Refix)",
+            "title": "Whitney Houston - Its Not Right But Its Ok (Pj Bridger Refix)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Pj Bridger Album: Pj Dubs 03 Year: 2022 Genre: UK Garage Label: Not on label Buy link: https://pjbridger.bandcamp.com/album/pj-bridger-pj-dubs-03?from=search&search_item_id=2687182140&search_item_type=a&search_match_part=%253F&search_page_id=2019742004&search_page_no=0&search_rank=5&search_sig=75713c3c1cc80f3a124eba68b5570b58&logged_in_menubar=true Discogs:  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -5441,7 +5441,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GLn9EEryRuI",
-            "Title": "Sade - Smooth Operator (C.I.S.C.O Edit)",
+            "title": "Sade - Smooth Operator (C.I.S.C.O Edit)",
             "Channel ID": "UCBPWDW0AlC67wM9G6LhleRg",
             "Author": "Vengo Records",
             "Description": "VENGOEDIT001  Download link: https://vengorecords.bandcamp.com/track/sade-smooth-operator-c-i-s-c-o-edit  SADE X C.I.S.C.O  Instagram: @vengorecords",
@@ -5467,7 +5467,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kfcPZ7Wtri0",
-            "Title": "This Victorian Invention Saved Thousands In WW1 #Shorts",
+            "title": "This Victorian Invention Saved Thousands In WW1 #Shorts",
             "Channel ID": "UCr5qeBG9g7bGtMGyHG2GzbQ",
             "Author": "Absolute History",
             "Description": "The incredible Thomas Splint changed the mortality rate of broken femurs on the battlefield from an 80% chance of dying to an 80% chance of surviving.   Courtesy of Chalke Valley History Festival  📺 It's like Netflix for history... Sign up to History Hit, the world's best history documentary service and get 50% off using the code 'AbsoluteHistory' https://bit.ly/3vn5cSH  Any queries, please contact us at: owned-enquiries@littledotstudios.com  #AbsoluteHistory #ChalkeValleyHistoryFestival",
@@ -5493,7 +5493,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EevKrMyF_IE",
-            "Title": "Excessive - I Got You (Excessive Version) [UMD 117]",
+            "title": "Excessive - I Got You (Excessive Version) [UMD 117]",
             "Channel ID": "UCSoW6PGON2SNX0OVXECvVtw",
             "Author": "NUGGETS",
             "Description": "Discogs: https://www.discogs.com/release/4289424-Excessive-I-Got-You  Artist: Excessive Track: I Got You (Excessive Version) EP Title: I Got You Label: Underground Music Department Catalog #: UMD 117 Genre: House Year: 1994  Just here to share our passion for good music. Any copyright issues? Please contact",
@@ -5519,7 +5519,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5DGZs1zckS0",
-            "Title": "Jhobei - EBV [LKDNV01]",
+            "title": "Jhobei - EBV [LKDNV01]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Deejay.de: https://www.deejay.de/Various_LKDNV01_LKDNV01_Vinyl__981827  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -5545,7 +5545,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "G5LHGiZlNak",
-            "Title": "Nicolás Amaro, wilowm - Lepanto 280 [HR001] (Holistico Records) Video by @sydacidd aka Lil Vichy",
+            "title": "Nicolás Amaro, wilowm - Lepanto 280 [HR001] (Holistico Records) Video by @sydacidd aka Lil Vichy",
             "Channel ID": "UCByc6t1_4qS1GA7Y-5bLEzg",
             "Author": "The W.A.P Station",
             "Description": "Track from HR001: Lepanto 280 by Nicolás Amaro and wilowm -  // Video produced by @sydacidd aka Lil Vichy  https://www.discogs.com/release/19608481-Nicol%C3%A1s-Amaro-wilowm-P-i-HR-001  https://www.instagram.com/wapstation/",
@@ -5571,7 +5571,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GB7BTw9WeM4",
-            "Title": "JL. - Hope [MMBT003]",
+            "title": "JL. - Hope [MMBT003]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/3AyylwR Juno: https://bit.ly/32B7aFq Decks: https://bit.ly/3nXrGYb Phonica: https://bit.ly/3IsELR8 Coldcuts: https://bit.ly/33I6D57   ➤ Release info: https://www.discogs.com/release/21704560-JL-Sunny-Side-Up   ➤ Support the label: https://www.instagram.com/momosbasement/ https://soundcloud.com/momosbasement https://www.facebook.com/momosbasement / |",
@@ -5597,7 +5597,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "iviZ1dIOZuk",
-            "Title": "The Afro Love Project  -  One Love (Original Motion)",
+            "title": "The Afro Love Project  -  One Love (Original Motion)",
             "Channel ID": "UCGkzJmg31dgczktvAikK7Qg",
             "Author": "Free is in Da House",
             "Description": "1998. One Love Vinyl, 12\"  -  Tronicsole Everything is done by Fred Blais (Fred Everything) in Montreal",
@@ -5623,7 +5623,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZEQ5ce7BQ6g",
-            "Title": "Blue 6  -  Do Ya Like It? (Body & SOUL Dub)",
+            "title": "Blue 6  -  Do Ya Like It? (Body & SOUL Dub)",
             "Channel ID": "UCGkzJmg31dgczktvAikK7Qg",
             "Author": "Free is in Da House",
             "Description": "1998. Do Ya Like It? Vinyl, 12\"  -  Wave Music Produced and performed by Jay Denes. Vocals by Catherine Russell. Remix & additional production by François Kevorkian & Jay Denes Support Free is in Da House - https://paypal.me/FreeisinDaHouse",
@@ -5649,7 +5649,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0FAbnK7iGTs",
-            "Title": "Carlo Gambino – BYO",
+            "title": "Carlo Gambino – BYO",
             "Channel ID": "UCH2ykOuivtAfbhcgLp4et6Q",
             "Author": "The Orange Room",
             "Description": "Carlo Gambino, 2021 https://www.discogs.com/release/21368221-Various-Issue-One  Message me if you own this and would like me to take it down!",
@@ -5675,7 +5675,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OmTj5mKAr2A",
-            "Title": "Hudson - Pauil Duima [PPR003]",
+            "title": "Hudson - Pauil Duima [PPR003]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: http://lnk.to/PPR003 🎵 Follow the label: http://soundcloud.com/plutosplan 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/label/1862790-Plutos-Plan?  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -5701,7 +5701,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Mcu7Q_7yfC4",
-            "Title": "Nicolas Duque - Groove Town [RIDE06]",
+            "title": "Nicolas Duque - Groove Town [RIDE06]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Bandcamp: https://magiccarpetrecords.bandcamp.com/album/ride06-nicolas-duque  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -5727,7 +5727,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "yq58pP-Jlqw",
-            "Title": "Haf - Urgull [WAFTR002]",
+            "title": "Haf - Urgull [WAFTR002]",
             "Channel ID": "UC8oP_tOmavLzdit03JYwpmQ",
             "Author": "Verzila",
             "Description": "Buy: https://www.juno.co.uk/products/haf-foreign-dreams/837667-01 https://www.deejay.de/Haf_Foreign_Dreams_EP_WAFTR002_Vinyl__979119 https://www.decks.de/track/haf-foreign_dreams_ep/cig-0r https://www.technique.co.jp/item/242300,WAFTR002.html + many of your local record shops.  Label: We Are FTR Records Cat: WAFTR002 Format: Vinyl, 12\" Country: United Kingdom Released: 21 January 2022 Genre: Electronic Style: Minimal, Techno  Tracklist: A1. Haf - Paranoia A2. Haf- Shamooli B1. Haf - Urgull  Haf: https://www.soundcloud.com/hafdj https://www.facebook.com/hafdj https://www.instagram.com/haf.music  We Are FTR Records: https://www.soundcloud.com/weareftr https://www.facebook.com/WeAreFTR https://www.instagram.com/weareftr_  Upload made on request by the owner for promotional purposes only.  Contact and premiere requests at arikutufu@gmail.com  Verzila Social Pages: https://www.soundcloud.com/verzila https://www.facebook.com/verzilamusic https://www.instagram.com/verzilamusic  Tags: #haf #weareftrrecords #verzilapremiere2022",
@@ -5753,7 +5753,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "7LKTGZ7tZps",
-            "Title": "The Fair Sex - Cosmic (Feat. Stidda)",
+            "title": "The Fair Sex - Cosmic (Feat. Stidda)",
             "Channel ID": "UC-UyO3xVLubfCMZCTECPKAw",
             "Author": "KMA60",
             "Description": "Sixth release from our label Rezpektiva – featuring select cuts from the past that have made an impression on us over the years, released with the maximum respect. Rezpekt to Cosmic Underground ! Rezpekt to The Fair Sex !  Label: KMA60 Rezpektiva – REZ6six Format: Vinyl, 12\", EP,  Limited Edition Country: Germany Released: 2021 Genre: Electronic Style: Deep House, House",
@@ -5779,7 +5779,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rMcoNo4c22Y",
-            "Title": "Addison Groove - RudeGayl",
+            "title": "Addison Groove - RudeGayl",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Addison Groove Album:  Jimmy Mack [GROOVEDUB001] Year: 2020 Genre: Electronic, Dancehall, Juke, Footwork, Breaks Label: Groove Buy link: Discogs: https://www.discogs.com/release/15224700-Addison-Groove-Jimmy-Mack  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -5805,7 +5805,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oalxSqlr1mg",
-            "Title": "Kepler - Illusion [BMVMT005]",
+            "title": "Kepler - Illusion [BMVMT005]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Juno.co.uk: https://www.juno.co.uk/products/kepler-relpek-one-for-bill/835228-01/  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic • Merchandising: https://www.trommelmusic.com/shop  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -5831,7 +5831,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fRaF2JOP0MU",
-            "Title": "M. James-It's physical",
+            "title": "M. James-It's physical",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail  https://binarysoundmusic.bandcamp.com/album/binarysound-va-bye-bye-2021-ep",
@@ -5857,7 +5857,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ceue_zq9KWY",
-            "Title": "The Men from Atlantis - Control Freak",
+            "title": "The Men from Atlantis - Control Freak",
             "Channel ID": "UCZgdYblXyFY5UBL9sVGR6Ng",
             "Author": "CGI",
             "Description": "This is for promotion only. Please contact me if there are any copyright issues. I will remove it directly upon request.  https://www.discogs.com/release/20662384-The-Men-From-Atlantis-Lost-In-Atlantis  https://linktr.ee/kicos_",
@@ -5883,7 +5883,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "eEwhTZuMMIM",
-            "Title": "Knife N Fork - The Phenomen (Diver's Acidmix) (1996)",
+            "title": "Knife N Fork - The Phenomen (Diver's Acidmix) (1996)",
             "Channel ID": "UCwUsBIdhOToNZYrcPJJ1sCg",
             "Author": "SUPERPOSITION",
             "Description": "Infos & Sale: https://www.discogs.com/de/release/344313-Knife-N-Fork-The-Phenomen-Pad-Unique-Remixes IF YOU ARE THE COPYRIGHT OWNER AND WANT ME TO REMOVE THE VIDEO, PLEASE CONTACT ME AND I WILL DELETE IT",
@@ -5909,7 +5909,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pQJtKOaaFVg",
-            "Title": "Quenum - Mystic Full Moon (Cristi Cons Sunrise Mix) [ADM032]",
+            "title": "Quenum - Mystic Full Moon (Cristi Cons Sunrise Mix) [ADM032]",
             "Channel ID": "UC8oP_tOmavLzdit03JYwpmQ",
             "Author": "Verzila",
             "Description": "Buy: https://www.deejay.de/Quenum_Bolero_Soul_2x12_ADM027_Vinyl__962279 + many of your local record shops.  Label: AdMaiora Music Cat: ADM032 Format: Vinyl, 12\" Country: Netherlands Released: 14 January 2022 Genre: Electronic Style: Minimal, Techno  Tracklist: A1. Quenum - Bolero Soul B1. Quenum - Bolero Soul (Dewalta's Interstellar Mix) C1. Quenum - Mystic Full Moon D1. Quenum - Mystic Full Moon (Cristi Cons Remix) D2. Quenum - Mystic Full Moon (Cristi Cons Sunrise Mix)  Cristi Cons: https://www.soundcloud.com/cristi-cons https://www.facebook.com/CristiCons https://www.instagram.com/cristicons_  AdMaiora Music: https://www.soundcloud.com/admaiora-music https://www.facebook.com/admaioramusic https://www.instagram.com/admaiora.music  Upload made on request by the owner for promotional purposes only.  Contact and premiere requests at arikutufu@gmail.com  Verzila Social Pages: https://www.soundcloud.com/verzila https://www.facebook.com/verzilamusic https://www.instagram.com/verzilamusic  Tags: #cristicons #admaioramusic #verzilapremiere2022",
@@ -5935,7 +5935,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kgw6rLsyfho",
-            "Title": "Coverdrive - Nativity (Molina Version) [FLMIX 121]",
+            "title": "Coverdrive - Nativity (Molina Version) [FLMIX 121]",
             "Channel ID": "UCSoW6PGON2SNX0OVXECvVtw",
             "Author": "NUGGETS",
             "Description": "Discogs: https://www.discogs.com/release/356640-Coverdrive-Nativity  Artist: Coverdrive Track: Nativity (Molina Version) EP Title: Nativity Label: Vibes Records Catalog #: FLMIX 121 Genre: House, Acid House Year: 1995  Just here to share our passion for good music. Any copyright issues? Please contact",
@@ -5961,7 +5961,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rnf9KdX2Dtg",
-            "Title": "Backend Web Development Explained! #shorts",
+            "title": "Backend Web Development Explained! #shorts",
             "Channel ID": "UCJUmE61LxhbhudzUugHL2wQ",
             "Author": "codedamn",
             "Description": "So your front-end is ready and you're looking for the next steps?   Check out this video and follow through the next parts of your project. And, don't forget to tell us what you're working on in the comments below!  ⚛️ Learn Full Stack Development on codedamn: https://cdm.sh/fullstack  👉 Free HTML5 + CSS3 Course: https://cdm.sh/htmlcsscourse 👉 Free JavaScript Course: https://cdm.sh/jsbasicscourse 👉 Free ReactJS Course: https://cdm.sh/react 👉 Free NextS Course: https://cdm.sh/nextjsbasicscourse  💰 Refer codedamn to friends and earn $$: https://cdm.sh/refer  👉 Checkout codedamn on social: Instagram: https://cdm.sh/ig Twitter: https://cdm.sh/twt Facebook: https://cdm.sh/fb GitHub: https://cdm.sh/github  If you found the video valuable, please leave a like and subscribe ❤️ It helps the channel grow and helps me pump out more such content.  👋 About Me: Hey! I'm Mehul Mohan, a CSE'21 graduate from BITS Pilani, Goa. I started coding early in life, at the age of 13 when I created my first blog on Blogger. I am listed in Google, Microsoft, Sony, eSet, etc. Hall of Fame for reporting vulnerabilities in their systems.  🍎 I am Apple's WWDC'19 Scholar - visited San Francisco and attended WWDC. 📙 I am an author of 2 books, on JavaScript and React - https://cdm.sh/mehulbooks  🚀 Currently working on my own startup - codedamn.  Connect with me: 📸  Instagram: https://cdm.sh/mehulig 📱  Twitter: https://cdm.sh/mehultwitter 📝  LinkedIn: https://cdm.sh/mehullinkedin 📂  GitHub: https://cdm.sh/mehulgithub 🌎  Personal website: https://cdm.sh/mehulblog 💻  Start learning to code for free: https://cdm.sh/codedamn 🧑‍🤝‍🧑  Discord community: https://cdm.sh/discord  👉 HTML5 + CSS3 Tutorials: https://cdm.sh/htmlcssytplaylist 👉 Complete JavaScript Tutorial: https://cdm.sh/jstutorial 👉 Complete React Crash Course: https://cdm.sh/reacttutorial 👉 Next JS Tutorials: https://cdm.sh/nextjsytplaylist  🏷  Video Tags:   👉 Check out my other personal YouTube channel (it is in Hindi/English mix) where I share coding tips, tricks, and hacks: https://cdm.sh/mehulyt",
@@ -5987,7 +5987,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZExMlLq_UYA",
-            "Title": "DJ Deller - Romantic Call 2001",
+            "title": "DJ Deller - Romantic Call 2001",
             "Channel ID": "UCpTfeorSnr6vNvt4Gxx0UTA",
             "Author": "oldrinb17",
             "Description": "remaster from DRBAGAIN03 (2018)  https://www.discogs.com/release/11986400-Various-DRBAGAIN03 https://drbanana.co.uk/pages/records",
@@ -6013,7 +6013,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5-WKzkaKra0",
-            "Title": "Soul Mass Transit System - The Big Warper",
+            "title": "Soul Mass Transit System - The Big Warper",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Soul Mass Transit System Album: Ur Luv Year: 2021 Genre: Speed Garage, UK Garage Label: Warehouse Rave Buy link: https://warehouserave.bandcamp.com/album/soul-mass-transit-system-ur-luv Discogs:  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -6039,7 +6039,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "yKvoFFJX1c8",
-            "Title": "New York Project - What Kind Of Man (Dub)",
+            "title": "New York Project - What Kind Of Man (Dub)",
             "Channel ID": "UCwGuvPKdDGw2Rr90hNJVVjQ",
             "Author": "Motion Blür",
             "Description": "New York Project – What Kind Of Man  Label: Mondo Records (2) – MONL 006 Format: Vinyl, 12\", White Label Country: UK Released: Unknown Genre: Electronic Style: House, Disco",
@@ -6065,7 +6065,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FQLN7FM8nEk",
-            "Title": "Visnadi – Hybrid",
+            "title": "Visnadi – Hybrid",
             "Channel ID": "UCMqQP5RfEMScE2U5gveDztQ",
             "Author": "Floating In Space",
             "Description": "Visnadi – The Press  Label: TKN Productions – TKN 006 Country: Italy Released:  Oct 7, 1992 Genre: Electronic Style: Techno, House  https://www.discogs.com/release/531363-Visnadi-The-Press  I don't own the right to this track, the only purpose is to give credit to the artist. If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly",
@@ -6091,7 +6091,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jAbYFQnbBz8",
-            "Title": "Bring The House",
+            "title": "Bring The House",
             "Channel ID": "UCPpv_OyJcgvaJRzjHMB3uFQ",
             "Author": "Delroy Edwards - Topic",
             "Description": "Provided to YouTube by SEED  Bring The House · Delroy Edwards  Change The World  ℗ L.A. Club Resource  Released on: 2021-12-23  Auto-generated by YouTube.",
@@ -6117,7 +6117,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ENj8wZCIHCw",
-            "Title": "Il Est Vilaine feat. Narumi Herisson - Les Mystères de Lorient (Khidja Remix)",
+            "title": "Il Est Vilaine feat. Narumi Herisson - Les Mystères de Lorient (Khidja Remix)",
             "Channel ID": "UCHdDFF2UWku_zn7vomxQg-A",
             "Author": "Les Yeux Orange",
             "Description": "http://www.lesyeuxorange.com follow on facebook : http://www.facebook.com/lesyeuxorange follow on Instagram : https://www.instagram.com/lesyeuxorange  listen on soundcloud : https://soundcloud.com/les-yeux-orange/premiere-il-est-vilaine-feat-narumi-herisson-les-mysteres-de-lorient-khidja-remix buy : https://ilestvilaine.bandcamp.com/album/les-myst-res-de-lorient-remix",
@@ -6143,7 +6143,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3x6X1WqyuYw",
-            "Title": "AA1 - 50% - Obsession (Techno Cloud Mix)",
+            "title": "AA1 - 50% - Obsession (Techno Cloud Mix)",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -6169,7 +6169,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "E42olQBiTng",
-            "Title": "Royal Lemon – House Dream (Hard Mix)",
+            "title": "Royal Lemon – House Dream (Hard Mix)",
             "Channel ID": "UCMqQP5RfEMScE2U5gveDztQ",
             "Author": "Floating In Space",
             "Description": "Royal Lemon – House Dream  Label: Harmony House Recordings – HHR 002 Country: Germany Released: 1995 Genre: Electronic Style: House  https://www.discogs.com/release/687216-Royal-Lemon-House-Dream  I don't own the right to this track, the only purpose is to give credit to the artist. If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly",
@@ -6195,7 +6195,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pKCc4JstzB0",
-            "Title": "AN-2 - Moonshine (Deep Boogie Version) [2003]",
+            "title": "AN-2 - Moonshine (Deep Boogie Version) [2003]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "Pure Emotion - Moonshine / Faith & Hope Records Limited / United Kingdom  // Was sleeping on this one for a long time, not the usual suspect on here but f, the tube needs it. Such an enjoyable track, gives me the nostalgic taste of a summer morning surrounded by friends //  https://www.discogs.com/master/719901-AN-2-Pure-Emotion-Moonshine   This channel is all about sharing music we love. No copyright infringement intended. If you're the right holder and you want this removed please contact me.",
@@ -6221,7 +6221,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LiMpWHBnics",
-            "Title": "Little Boy Eats Pasta From A Poster 🤣🍝",
+            "title": "Little Boy Eats Pasta From A Poster 🤣🍝",
             "Channel ID": "UCq-vSTqa-OPeMzx5fjH9w_w",
             "Author": "Poke My Heart",
             "Description": "Imagination is a beautiful thing! #kids #funnykid #shorts",
@@ -6247,7 +6247,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OP10L60mACs",
-            "Title": "View To View - Positron (1994)",
+            "title": "View To View - Positron (1994)",
             "Channel ID": "UC4vkDmheBGKCBb6sfWItN8Q",
             "Author": "Zaqaria",
             "Description": "https://www.discogs.com/master/1120091-View-To-View-Torus",
@@ -6273,7 +6273,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BatUHm8PN4A",
-            "Title": "Pamela - Zano Puccini (Vocal Dub)",
+            "title": "Pamela - Zano Puccini (Vocal Dub)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Zano Records – ZAN 11 US 1993",
@@ -6299,7 +6299,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "c6J2dpQBBYY",
-            "Title": "BEQA - Trugger Purpose",
+            "title": "BEQA - Trugger Purpose",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://bit.ly/3DIT411 / |",
@@ -6325,7 +6325,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8W4TZ5k_vAE",
-            "Title": "Duowe & Picasso - Boo [STRWB005]",
+            "title": "Duowe & Picasso - Boo [STRWB005]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://bit.ly/3oE2y9N   ➤ Support the label: https://www.instagram.com/fraiserecords https://soundcloud.com/fraiserecords https://www.facebook.com/fraiserecords / |",
@@ -6351,7 +6351,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZYY_uatpCeE",
-            "Title": "Guy Contact - Doors of Perception [Craigie Knowes]",
+            "title": "Guy Contact - Doors of Perception [Craigie Knowes]",
             "Channel ID": "UCLySvQ5KnssdJVpbi5skvQw",
             "Author": "VSVN",
             "Description": "Consciousness expanding house tracks by Guy Contact on his Craigie Knowes debut, Ultraviolet Freqs. 4-tracks primed to tug your mind into the spirit-realm.  Artist: Guy Contact Release title: Ultraviolet Freqs Label: Craigie Knowes Catalogue number: CKNOWEP31 Year: 2021  Tracklist: 1. Guy Contact - Doors of Perception 2. Guy Contact - Ultraviolet Freqs 3. Guy Contact - Look Into The Mind 4. Guy Contact - The First Anura Ever Known  Support the artist and label:  Shop https://craigieknowes.com/album/ultraviolet-freqs  Follow Craigie Knowes - https://soundcloud.com/craigie-knowes Guy Contact - https://soundcloud.com/guycontact  Low bitrate (128kbps)  More VSVN SC - https://soundcloud.com/vsvn-music​​​ IG - https://www.instagram.com/vsvn_louis/​​​  I do not own the rights to the music in this video. If you're an artist or label and you'd like to premiere a release on the channel please email at vsvnldn@gmail.com",
@@ -6377,7 +6377,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "DCvZS2IUIT0",
-            "Title": "New Air Pigments - Telewhirl (2021)",
+            "title": "New Air Pigments - Telewhirl (2021)",
             "Channel ID": "UCJ95_l8nUU42bCOAAe9jKYA",
             "Author": "hanksiedonny",
             "Description": "New Air Pigments - Telewhirl, Ritual Acquaintance/RAQ002 (2021) Genre: Electronic Style: House, Ambient  Written & Produced by New Air Pigments (possibly a Ron Obvious alias).  This video is purely for entertainment purposes, no copyright is intended. If you are the owner of this tune, please contact directly and I will remove. Do not go directly to YouTube as this may result in my account being closed.",
@@ -6403,7 +6403,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LOpFYMPXqE4",
-            "Title": "2022 is gonna be wild for developers...",
+            "title": "2022 is gonna be wild for developers...",
             "Channel ID": "UCsBjURrPoezykLs9EqgamOA",
             "Author": "Fireship",
             "Description": "Glimpse into the future with all the latest trends and hype for software developers in the year 2022. Learn all about Web 3.0, the Metaverse, GPT-3, new JavaScript frameworks, databases, and more. https://fireship.io/pro  #2022 #dev #trends  🔗 Resources  Web3 Overview https://ethereum.org/en/developers/docs/web2-vs-web3 Metaverse Market Map https://medium.com/building-the-metaverse/market-map-of-the-metaverse-8ae0cde89696 GPT-3 https://openai.com/blog/openai-api/ Last year's predictions https://youtu.be/oHtR5YSPLjo  📚 Chapters  00:00 The Year 2022 00:38 Web3 03:06 Fake Sponsorship 03:28 Metaverse 05:05 AI 06:22 Databases 07:31 JavaScript 09:58 Other Trends to Know  🔥 Get More Content - Upgrade to PRO  Upgrade to Fireship PRO at https://fireship.io/pro Use code lORhwXd2 for 25% off your first payment.   🎨 My Editor Settings  - Atom One Dark  - vscode-icons - Fira Code Font  🔖 Topics Covered  - What is web3? - Web 3.0 decentralized internet - Web 3.0 vs Web 2.0 - What is the metaverse? - Databases in 2022 - New JavaScript features - Best JS frameworks in 2022 - Future of software engineering",
@@ -6429,7 +6429,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8KnfJJjVihs",
-            "Title": "QR Code - Mindless Dance (Demo version) NEO NUGGETS - 001",
+            "title": "QR Code - Mindless Dance (Demo version) NEO NUGGETS - 001",
             "Channel ID": "UCe6oMZVDREi-bHCG7eeGUrQ",
             "Author": "NuggetsLibrary",
             "Description": "The mystery is finally unveiled.   This track will be out soon on sister’s label of These Tasty Records; Sweet Notes.   Here is the link for pre order : https://subwax.es/product/sn001/  More infos :  https://instagram.com/sweetnotes.records?igshid=YmMyMTA2M2Y=  https://instagram.com/intelligentdancinline?igshid=YmMyMTA2M2Y=  https://www.instagram.com/helloqrcode/  https://instagram.com/ru.bens__?igshid=YmMyMTA2M2Y=   for the people to listen and enjoy, Nothing else..  more infos at: nuggetslibrary@gmail.com",
@@ -6455,7 +6455,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qFhaC8r-4nU",
-            "Title": "Toke - სხივი [BATRD01]",
+            "title": "Toke - სხივი [BATRD01]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Ba Dum Tish: https://bit.ly/2ZvuPFK / |",
@@ -6481,7 +6481,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "gjWgD6SZ5IM",
-            "Title": "Lukey - One With The Force [CARPET/LAB03]",
+            "title": "Lukey - One With The Force [CARPET/LAB03]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Bandcamp: https://bit.ly/2Zq8ido Deejay: https://bit.ly/3xqtrR5 Redeye: https://bit.ly/310qZ7W Decks: https://bit.ly/2Znsn43   ➤ Support the label: https://carpetandsnaresrecords.bandcamp.com/ https://www.facebook.com/carpetandsnares https://soundcloud.com/carpetandsnares / |",
@@ -6507,7 +6507,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZvOggm-u-b8",
-            "Title": "Profile Blue - Deja Vu (Dub Mix)",
+            "title": "Profile Blue - Deja Vu (Dub Mix)",
             "Channel ID": "UCAySG82ra866kPwMBv2Xe9w",
             "Author": "ModeratorUK",
             "Description": "Profile Blue - Deja Vu (Dub Mix)  https://www.discogs.com/release/5748977-Profile-Blue-UK-Slams-It-De-ja-Vu",
@@ -6533,7 +6533,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "D8eTvNclaB8",
-            "Title": "Profile Blue - Do It Like This",
+            "title": "Profile Blue - Do It Like This",
             "Channel ID": "UCAySG82ra866kPwMBv2Xe9w",
             "Author": "ModeratorUK",
             "Description": "Profile Blue - Do It Like This  https://www.discogs.com/release/15088990-Profile-Blue-Do-It-Like-This",
@@ -6559,7 +6559,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "CZX43_Hgsds",
-            "Title": "DJ Void - Break It Boi [RIDE05]",
+            "title": "DJ Void - Break It Boi [RIDE05]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://magiccarpetrecords.bandcamp.com/album/ride05-dj-void 🎵 Follow the label: https://soundcloud.com/magiccarpetrecords 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/release/20823097-DJ-Void-Smooth-Rida-EP  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -6585,7 +6585,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "heKdUkz7ocg",
-            "Title": "Ma.to - Italian Summer [SPINDESIRE001]",
+            "title": "Ma.to - Italian Summer [SPINDESIRE001]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Decks: https://bit.ly/3xnBBtt Deejay: https://bit.ly/3r5a9zD Juno: https://bit.ly/3FMYGci Horizons: https://bit.ly/3CI6BWg Redeye: https://bit.ly/3l504Pu / |",
@@ -6611,7 +6611,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "yc6M-dbjWgY",
-            "Title": "Gratts - Brighter Future Ft. Robert Owens (Jorge Caiado Remix)",
+            "title": "Gratts - Brighter Future Ft. Robert Owens (Jorge Caiado Remix)",
             "Channel ID": "UCVbB5eEDF7B8NF-WBq9lG7Q",
             "Author": "Berlin House Music",
             "Description": "Part Of: Brighter Future EP Catalog: IBL16 Release Date: 25.11.21 Buy Link: https://innerbalancerecordings.bandcamp.com/album/brighter-future-ep  Gratts  SoundCloud | https://soundcloud.com/gratts  Jorge Caiado SoundCloud | https://soundcloud.com/jorgecaiado  Robert Owens SoundCloud | https://soundcloud.com/robert-owens-official  Inner Balance Recordings SoundCloud | https://soundcloud.com/innerbalancerecordings Bandcamp | https://innerbalancerecordings.bandcamp.com  Info: Belgian dj Gratts first fell in love with glorious house music at the end of the nineties. An active dj for more than 20 years, the vinyl enthusiast teams up with pioneering Chicago vocalist Robert Owens for his artist debut “Brighter Future”. Together, they deliver a new house anthem for our times. Hope is built into the very fibre of ‘Brighter Future’, from its optimistic synths to the sprightly Roland drum patterns, with Owens’ lilting affirmations soaring above. On the flip, Jorge Caiado’s remix and the New Vision Dub bring the track to the late night dancefloor, recalling the 90s heyday of Murk, Cajmere and Mood II Swing.  Gratts wrote the instrumental of \"Brighter Future\" when stuck in Australia in 2020, aiming to create a mellow and utopian \"let's make the world a better place” type track in the best eighties house music tradition. He and Robert first met in the streets of Kreuzberg in 2014, when the American had just traded London for Berlin. Gratts invited him for a dance at his then Chalet residency. Robert came down and from then on, often would. It still took many years until Gratts finally ended up asking if Robert would want to contribute a vocal to one of his tracks.  Inner Balance, run by Jorge Caiado and via Chez Damier linked to the seminal Balance / Prescription labels, has been focusing on releasing true deep house for years, making it the perfect home for the release.  -------------------------------------------------------------------------------------------------------------------------------------  Berlin House Music Submit Your Music | https://berlinhousemusic.com/submission Store | https://berlinhousemusic.com/shop Instagram | https://www.instagram.com/berlinhousemusic YouTube | https://www.youtube.com/c/berlinhousemusic  Facebook | https://www.facebook.com/berlinhousemusic SoundCloud | https://soundcloud.com/berlinhousemusic",
@@ -6637,7 +6637,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "eBv-BeErkTI",
-            "Title": "Occibel - Cosmic Disorder [TESS012]",
+            "title": "Occibel - Cosmic Disorder [TESS012]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/3chNojp Juno: https://bit.ly/2YWlPsY Red Eye: https://bit.ly/3cfjGM3 HHV: https://bit.ly/3DliC5a / |",
@@ -6663,7 +6663,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pwwVvKSe2dE",
-            "Title": "The Parkwalker - Shades Of Soul",
+            "title": "The Parkwalker - Shades Of Soul",
             "Channel ID": "UCJkbJZC4jMvd9Qzu5S1tYyw",
             "Author": "Broeibak Records",
             "Description": "https://www.discogs.com/release/80710-The-Parkwalker-Shades-Of-Soul?ev=item-vc",
@@ -6689,7 +6689,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OWHE3Q5MY7A",
-            "Title": "Nicolas Lutz & Tunik -- Sombras",
+            "title": "Nicolas Lutz & Tunik -- Sombras",
             "Channel ID": "UCcHqeJgEjy3EJTyiXANSp6g",
             "Author": "ballacid",
             "Description": "Nicolas Lutz & Tunik – Sentimental Stab My Own Jupiter – MOJ17 Vinyl 12' . (vinyl only) 2021, Germany  Mastered By – Marco Pellegrino / Analogcut Mastering https://www.analogcutmastering.com/ https://www.discogs.com/label/836678-Analogcut-Mastering  My Own Jupiter: http://myownjupiter.com/ https://www.discogs.com/label/619759-My-Own-Jupiter https://www.facebook.com/MyOwnJupiter https://soundcloud.com/my-own-jupiter https://www.instagram.com/myownjupiter/  Tunik: https://soundcloud.com/tunik303 https://www.instagram.com/tunik303/ https://www.facebook.com/tunik303/",
@@ -6715,7 +6715,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KZmvazCdsfw",
-            "Title": "Tessier & Ashpool - Liberal Baby (Edit) [TRY 11]",
+            "title": "Tessier & Ashpool - Liberal Baby (Edit) [TRY 11]",
             "Channel ID": "UCSoW6PGON2SNX0OVXECvVtw",
             "Author": "NUGGETS",
             "Description": "Discogs: https://www.discogs.com/release/246909-Tessier-Ashpool-Rhythm-Interuptus  Artist: Tessier & Ashpool  Track: Liberal Baby (Edit) EP Title: Rhythm Interuptus Label: Triumph Records Catalog #: TRY 11 Genre: Tribal House, House Year: 1993  Just here to share our passion for good music. Any copyright issues? Please contact",
@@ -6741,7 +6741,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mAsM9c2sGjA",
-            "Title": "Shopify built a JS Framework // Hydrogen First Look",
+            "title": "Shopify built a JS Framework // Hydrogen First Look",
             "Channel ID": "UCsBjURrPoezykLs9EqgamOA",
             "Author": "Fireship",
             "Description": "Shopify just announced a React-based JavaScript framework called Hydrogen. It is similar to Next.js, but has extra features for ecommerce and data fetching with GraphQL.  #shopify #react #firstlook  🔗 Resources  Hydrogen Docs https://hydrogen.shopify.dev/ React server components https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html  📚 Chapters  00:00 Shopify Hydrogen 00:28 Why use it? 01:24 Developer Experience 03:57 Analysis  🔥 Get More Content - Upgrade to PRO  Upgrade to Fireship PRO at https://fireship.io/pro Use code lORhwXd2 for 25% off your first payment.   🎨 My Editor Settings  - Atom One Dark  - vscode-icons - Fira Code Font  🔖 Topics Covered  - Shopify Hydrogen Overview - Hydrogen vs Next.js - React server components - React SSR and SEO for ecommerce - Headless shopify graphql API",
@@ -6767,7 +6767,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KNJV-ra-uVw",
-            "Title": "Ras Command - Moo Dub (2000)",
+            "title": "Ras Command - Moo Dub (2000)",
             "Channel ID": "UC2kIc6lXD31dOPHn1bN74Kg",
             "Author": "Techer",
             "Description": "https://www.discogs.com/release/22439-Ras-Command-Serious-Smokers-The-Best-Of-Ras-Command",
@@ -6793,7 +6793,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_rcXPMn2xd0",
-            "Title": "Bassam & Mehdi M - Who Killed The Bosh [Club Vision]",
+            "title": "Bassam & Mehdi M - Who Killed The Bosh [Club Vision]",
             "Channel ID": "UCPTTi79dRwJCl4DWzDzeCXg",
             "Author": "Torture the Artist",
             "Description": "Exclusive: Bassam & Mehdi M - Who Killed The Bosh  Club Vision’s 7th installment, B.O.S.H, comes from Parisian-based artists and producers Bassam & Mehdi M, who deliver four tracks that musically capture House Music-, Rave and Breaks-influences and smoothly combine them in a coherent construct - additionally, the EP is a continuum of the label’s sound as it keeps the cosmic, almost spaced-out sound and vibe of the label and puts it in absolute context: the B.O.S.H EP. As the EP title suggests all four tracks are built around some Bosh and have highly intriguing synth lines that evoke a partly nostalgic flair yet have a futuristic note - and maybe it is the combination of both that make Bassam and Mehdi M’s first collaboration sound like a quintessential piece of music that can be played or universally fit in a set at any time, surely causing the right reactions on the floor. The A2, Who Killed The Bosh, certainly is no exception, a lush bass line is strengthened with a catchy synth-line and pads as both alternate or are commonly played and create a wave shape, meaning the listener is drawn to either the calmer moments or the more forward-going and exciting ones and ultimately to both as Mehdi M and Bassam manage to create music with a holistic approach.   Bassam & Mehdi M's EP B.O.S.H will be released on Club Vision in December, 2021.  Buy the EP: https://deejay.de/Bassam_%26_Mehdi_M_BOSH_CV07_Vinyl__983839  Artist & label information Bassam: https://facebook.com/bassamdistriktparis // https://soundcloud.com/bassam-idbaali // https://instagram.com/bassam_music Mehdi M: https://facebook.com/mehdimmusic // https://soundcloud.com/mehdimann // https://www.instagram.com/mehdim____ Club Vision: https://facebook.com/clubvision11 // https://soundcloud.com/clubvisionrecords // https://instagram.com/club_vision  Visit & follow Torture the Artist at: https://torturetheartist.net https://facebook.com/torturetheartist https://soundcloud.com/torture-the-artist https://instagram.com/torture_the_artist https://twitter.com/TorturingArt https://youtube.com/torturetheartist",
@@ -6819,7 +6819,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Zkkf7MSc1fo",
-            "Title": "Noah Fisher - Zircon Rod [GLSP002]",
+            "title": "Noah Fisher - Zircon Rod [GLSP002]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://bit.ly/3BStdmi / |",
@@ -6845,7 +6845,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zOy4YVkBbIw",
-            "Title": "Charonne - Pastel Paradise [ZORA.008]",
+            "title": "Charonne - Pastel Paradise [ZORA.008]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/3bW9Crb Viniil: https://bit.ly/3GPM6KE Redeye: https://bit.ly/3kqdZ2n Juno: https://bit.ly/3BLb9dR KMA60: https://bit.ly/3nQqu88 Decks: https://bit.ly/3BR8ks0 Techno Import: https://bit.ly/3q4xn8q One Eye: https://bit.ly/31vdzkx Merurido: https://bit.ly/3CPDzor   ➤ Release info: https://www.discogs.com/release/18610228-Charonne-Innervoice / |",
@@ -6871,7 +6871,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5Pc3BYF9uuw",
-            "Title": "Colonel Abrams - I'm Caught Up (Mixmaster Classic Dub)",
+            "title": "Colonel Abrams - I'm Caught Up (Mixmaster Classic Dub)",
             "Channel ID": "UCPaO3t4D4VtJbmVMeZoghQw",
             "Author": "Underground Music Channel",
             "Description": "Track from Micmac Records Inc. Year 1993.",
@@ -6897,7 +6897,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jCYM4Tm0y8w",
-            "Title": "Ivan Iacobucci – Wonder Bra",
+            "title": "Ivan Iacobucci – Wonder Bra",
             "Channel ID": "UCMqQP5RfEMScE2U5gveDztQ",
             "Author": "Floating In Space",
             "Description": "Ivan Iacobucci – Deep And Dance EP  Label: Calypso Records  Country: Italy Released: 1995 Genre: Electronic Style: House  https://www.discogs.com/release/1451772-Ivan-Iacobucci-Deep-And-Dance-EP  I don't own the right to this track, the only purpose is to give credit to the artist. If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly.",
@@ -6923,7 +6923,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0UO7FKpDbNQ",
-            "Title": "Esoterica - Extrojection 2",
+            "title": "Esoterica - Extrojection 2",
             "Channel ID": "UCpDwheBgHeNO-cvBkRlnfHw",
             "Author": "Spiritdancer",
             "Description": "https://www.discogs.com/release/1058910-Esoterica-Extrojection  All rights belong to the artist.Track uploaded at low bitrate and it is not for club use.Will remove the upload on request.  I edited a small part out for crackling noises and unpleasant sounds.",
@@ -6949,7 +6949,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "w1lZxcmp4Js",
-            "Title": "C+B Club - Movin",
+            "title": "C+B Club - Movin",
             "Channel ID": "UCH2ykOuivtAfbhcgLp4et6Q",
             "Author": "The Orange Room",
             "Description": "Bradley Carter & Chris Nurding, 1994 https://www.discogs.com/release/475895-C-B-Club-CB-Volume-One  Message me if you own this and would like me to take it down!",
@@ -6975,7 +6975,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KOoZ98W6f5g",
-            "Title": "Out There",
+            "title": "Out There",
             "Channel ID": "UCxqh71Rr7oYVQA9oWuJ4hjA",
             "Author": "Helium - Topic",
             "Description": "Provided to YouTube by Symphonic Distribution  Out There · Helium  The Works  ℗ 2021 Kalahari Oyster Cult  Released on: 2021-03-01  Auto-generated by YouTube.",
@@ -7001,7 +7001,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2jZmN4RCuK8",
-            "Title": "Dandeloo - Dream Machine [SENTAKU006]",
+            "title": "Dandeloo - Dream Machine [SENTAKU006]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: HHV: https://bit.ly/2XZYGoY Redeye: https://bit.ly/3mq2mcY Deejay: https://bit.ly/3bkXgbt Juno: https://bit.ly/3Esf6Gi Clone.nl: https://bit.ly/3CvFkqA Bordello: https://bit.ly/3mr27hW Coldcuts: https://bit.ly/3vZ1Nd7 Phonica: https://bit.ly/3BqMSd8   ➤ Release info: https://www.discogs.com/release/20067628-Dandeloo-Lamalice-Onogawa-Kisabur%C5%8D  Artwork by JXQ / |",
@@ -7027,7 +7027,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "83EL-8rIWc0",
-            "Title": "Bassam & Mehdi M - A Bosh's Raveolution [CV07]",
+            "title": "Bassam & Mehdi M - A Bosh's Raveolution [CV07]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Deejay.de: https://www.deejay.de/Bassam_%26_Mehdi_M_BOSH_CV07_Vinyl__983839  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -7053,7 +7053,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4l-D04EYLk8",
-            "Title": "VM - Quattrophobia",
+            "title": "VM - Quattrophobia",
             "Channel ID": "UCZgdYblXyFY5UBL9sVGR6Ng",
             "Author": "CGI",
             "Description": "This is for promotion only. Please contact me if there are any copyright issues. I will remove it directly upon request.  https://www.discogs.com/release/15991324-VM-MCLTD2  https://linktr.ee/kicos_",
@@ -7079,7 +7079,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "M-sevUctCJA",
-            "Title": "Xplode - Xplode (Feat. Adrianne) [RRYT 11]",
+            "title": "Xplode - Xplode (Feat. Adrianne) [RRYT 11]",
             "Channel ID": "UCSoW6PGON2SNX0OVXECvVtw",
             "Author": "NUGGETS",
             "Description": "Discogs: https://www.discogs.com/release/1671120-Xplode-Xplode  Artist: Xplode Track: Xplode EP Title: Xplode Label: D.A.L. Records Catalog #: RRYT 11 Genre: House, Tech House Year: 1990  Just here to share our passion for good music. Any copyright issues? Please contact",
@@ -7105,7 +7105,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "P0Nb-g6mxh8",
-            "Title": "Speedy J - R2 D2",
+            "title": "Speedy J - R2 D2",
             "Channel ID": "UCCZzrgSavFLFG8PiDBYle0A",
             "Author": "dPs _",
             "Description": "PLUS8025",
@@ -7131,7 +7131,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jHDyq9qHc4U",
-            "Title": "Progetto Tribale - The Sweep",
+            "title": "Progetto Tribale - The Sweep",
             "Channel ID": "UCUd_NlUON9ApwV8llL4gHtg",
             "Author": "Wandering Endlessly",
             "Description": "Released 1993 by Underground Music Movement  https://www.discogs.com/release/180138-Progetto-Tribale-Volume-3  Promotional and emotional purposes only, please contact for removal.",
@@ -7157,7 +7157,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TwK_iKDz-Lo",
-            "Title": "Sweely - May I have your intention please",
+            "title": "Sweely - May I have your intention please",
             "Channel ID": "UCe6oMZVDREi-bHCG7eeGUrQ",
             "Author": "NuggetsLibrary",
             "Description": "Sweely's Bandcamp : https://sweely1.bandcamp.com/releases  Sweely's Soundcloud : https://soundcloud.com/sweelymusic",
@@ -7183,7 +7183,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zJ6Hm9Wx1G4",
-            "Title": "Wild Strawberries - I Can't Wait (Mix 1)",
+            "title": "Wild Strawberries - I Can't Wait (Mix 1)",
             "Channel ID": "UCHpp-X0bWWu2-w3O2sdJVcg",
             "Author": "DJ Aux",
             "Description": "big wubby bit of speed garage",
@@ -7209,7 +7209,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "e5SAph61v7g",
-            "Title": "The Lock Brothers – Time & Freedom (Reptile Remix) A2",
+            "title": "The Lock Brothers – Time & Freedom (Reptile Remix) A2",
             "Channel ID": "UCYocU3AX0D5RdaTF03r6g7g",
             "Author": "x-music",
             "Description": "Oldskool UK house https://www.discogs.com/release/932357-The-Lock-Brothers-Time-Freedom-EP",
@@ -7235,7 +7235,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xAGVmlYb44Y",
-            "Title": "Deep Dish - Penetrate Deeper - 1996",
+            "title": "Deep Dish - Penetrate Deeper - 1996",
             "Channel ID": "UCO3T2U7eQ7ijJRw9T1xp2ww",
             "Author": "*GeeOldSkool*",
             "Description": "Deep Dish - Penetrate Deeper - 1996   https://www.discogs.com/release/217915-Deep-Dish-Penetrate-Deeper",
@@ -7261,7 +7261,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Fz7d4bo2LL0",
-            "Title": "Jhobei - Bless you [PICNIC004]",
+            "title": "Jhobei - Bless you [PICNIC004]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://kma60.com/product/jhobei-picnic004 🎵 Follow the label: https://www.instagram.com/picnic_records/ 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/Jhobei-PICNIC004/release/20402548  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -7287,7 +7287,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PYsKw_sn0_E",
-            "Title": "Unknown - A1 Fellas With An Attitude [FWA000]",
+            "title": "Unknown - A1 Fellas With An Attitude [FWA000]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • KMA60: https://kma60.com/product/unknown-fellas-with-an-attitude  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -7313,7 +7313,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "UdLehjejju8",
-            "Title": "B2 - Tom Clark - Slideshow",
+            "title": "B2 - Tom Clark - Slideshow",
             "Channel ID": "UCyUl8tvkCgxVrKkY0fT5PWA",
             "Author": "Global Charming",
             "Description": "Name : Tom Clark – Adult Membership Label : SuperBra – Super011 Format : Vinyl, 12\" Country : Switzerland Released : 2001 Genre : Electronic Style : Tech House https://www.discogs.com/Tom-Clark-Adult-Membership/release/141587  Bought at Mitte Musik shop :  Libauer Str. 6, 10245 Berlin, GERMANY https://www.facebook.com/mittemusik/ https://mitte-musik.business.site/  I've uploaded this track in order to help people discover music and celebrate it. I do not owe the copyrights, if this upload disturbs anyone, please, let me know and I'll delete it immediately, thanks for your understanding. Contact : global.charming.music@gmail.com",
@@ -7339,7 +7339,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NEowdjPFzz0",
-            "Title": "Easier, Tastier, Prettier - Almondmilk",
+            "title": "Easier, Tastier, Prettier - Almondmilk",
             "Channel ID": "UCSuT9FSddzI6W5Bij9XwtmA",
             "Author": "Internet Shaquille",
             "Description": "I was able to say everything I had to say in under a minute, so please enjoy this #shorts edition of ETP. +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ Support on Patreon: https://www.internetshaquille.com/patreon Buy Merch: https://www.internetshaquille.com/merch Follow on Instagram: https://www.internetshaquille.com/instagram Buy What I Use: https://www.internetshaquille.com/tools Watch Livestreams: https://www.internetshaquille.com/twitch Subscribe to This Channel: https://www.youtube.com/channel/UCSuT9FSddzI6W5Bij9XwtmA?sub_confirmation=1",
@@ -7365,7 +7365,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "sCUzoHKQLCU",
-            "Title": "Laurine - Nobody Knows",
+            "title": "Laurine - Nobody Knows",
             "Channel ID": "UCagl8sVJOPqGwmdF4d3Xb-Q",
             "Author": "Slow Life",
             "Description": "SL031 / Laurine - Abun.Dance / Slow Life / 2021",
@@ -7391,7 +7391,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bDzo4RvJegM",
-            "Title": "Liquid Earth - Scope Zone [Kalahari Oyster Cult]",
+            "title": "Liquid Earth - Scope Zone [Kalahari Oyster Cult]",
             "Channel ID": "UCLySvQ5KnssdJVpbi5skvQw",
             "Author": "VSVN",
             "Description": "Storming in with his newest slice of extraterrestrial swing-ology, Liquid Earth (alias Urulu under guise) returns to dish out the playful above all “Scope Zone” - a lush and bouncy gem primed for ecstatic workouts and bold galactic excursions, complete with a reshape from Scottish born, Berlin-based vibist, Youandewan.  Artist: Liquid Earth Release title: Scope Zone (incl. Youandewan Remix) Label: Kalahari Oyster Cult Catalogue number: OYSTER36 Year: 2021  Flush with garage va-va-voom and low-end paranormal activity, “Scope Zone” indeed lacks no wide-screen power of crowd subjugation. Taking us back to the 90s continuum with its astute mix of chopped-up vox, pong-like bleeps and propulsive buildup, Liquid Earth’s latest is a fun-loving ode to the kaleidoscopic sound of an era and its untamed flow of energy. True to his signature refined melodic touch and airy 4x4 architectonics, Youandewan’s version has us embarking for a proper deep, exhilarating ride across bumpy time warps and oddly familiar parallel universes.  Tracklist: 1. Liquid Earth - Scope Zone 2. Liquid Earth - Scope Zone (Youandewan Remix)  Support the artist and label:  Shop https://kalaharioystercult.bandcamp.com/album/liquid-earth-scope-zone-incl-youandewan-remix-oyster36  Follow Kalahari Oyster Cult - https://soundcloud.com/kalaharioystercult Liquid Earth - https://soundcloud.com/liquidearthmusic  Low bitrate (128kbps)  More VSVN SC - https://soundcloud.com/vsvn-music​​​ IG - https://www.instagram.com/vsvn_louis/​​​  I do not own the rights to the music in this video. If you're an artist or label and you'd like to premiere a release on the channel please email at vsvnldn@gmail.com",
@@ -7417,7 +7417,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "B9VxNaReBzQ",
-            "Title": "Desmond Chambers - Haly Gully (Toby Tobias Version) (Official)",
+            "title": "Desmond Chambers - Haly Gully (Toby Tobias Version) (Official)",
             "Channel ID": "UCUDcjUffiKnKRuisZQE8eJg",
             "Author": "Kalita Records",
             "Description": "PURCHASE HERE: https://kalitarecords.bandcamp.com/album/haly-gully-b-w-the-morning-show SIGN UP TO OUR MAILING LIST HERE: https://eepurl.com/c6NMJL FOLLOW US ON BANDCAMP HERE: https://kalitarecords.bandcamp.com/follow_me  LET'S BE SOCIAL - https://www.facebook.com/kalitarecords/ - https://www.instagram.com/kalita_records/  Kalita are excited to announce the first ever retrospective on Jamaican-born artist Desmond Chambers. With the politically conscious 'Haly Gully (Version)' only previously available on his now-invisible 1987 album 'Tiger Bom', and 'The Morning Show' only available as the B side of the equally invisible single 'I Have Seen Love In Your Eyes’, here Kalita unleashes Desmond's two most sought-after boogie-infused reggae recordings to the world once more.  With original copies currently fetching eye-watering figures on the rare occasion that they surface for sale, Kalita answer the call with a loud 12” single for all. In addition, the record is accompanied by extensive liner notes based on interviews with Desmond, plus never-before-seen contemporary photos.  Lastly, the recordings are accompanied by previously unreleased versions, as well as a phenomenal Toby Tobias remix using the original multi-track session tapes.  Published by Kalita Music Publishing",
@@ -7443,7 +7443,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WhvMVr1cy6I",
-            "Title": "Rancel - Inverted Sound [SW002]",
+            "title": "Rancel - Inverted Sound [SW002]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://rancel.bandcamp.com/ 🎵 Follow the label: https://soundcloud.com/rancelmusic 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -7469,7 +7469,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3frf5xYaGhE",
-            "Title": "Snoozin' B - The Dopest [PUNCHLINE01]",
+            "title": "Snoozin' B - The Dopest [PUNCHLINE01]",
             "Channel ID": "UCByc6t1_4qS1GA7Y-5bLEzg",
             "Author": "The W.A.P Station",
             "Description": "https://www.discogs.com/Various-PUNCHLINE01/master/2247772  For promotional purposes only. Please email for any copyright issues and the video will be removed. https://www.instagram.com/wapstation/",
@@ -7495,7 +7495,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VmL_GR1ggdw",
-            "Title": "Luck Of Lucien (Main Mix)",
+            "title": "Luck Of Lucien (Main Mix)",
             "Channel ID": "UCiOPPAw9e2Fj-i2uMNpoRNQ",
             "Author": "A Tribe Called Quest - Topic",
             "Description": "Provided to YouTube by Jive/Legacy  Luck Of Lucien (Main Mix) · A Tribe Called Quest  Luck of Lucien / Butter (Remixes)  ℗ 1990 Zomba Recording LLC  Released on: 1991-09-21  Producer, Re- Mixer: Tom Producer, Re- Mixer: Jerry Re- Mixer: Yan Memmi Programmer: Tommy D Composer, Lyricist: Jonathan Davis Composer, Lyricist: Ali Shaheed Muhammad  Auto-generated by YouTube.",
@@ -7521,7 +7521,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6nur_ow1-qY",
-            "Title": "CO-AX - Cum (Trance Mix) [STA 052]",
+            "title": "CO-AX - Cum (Trance Mix) [STA 052]",
             "Channel ID": "UCSoW6PGON2SNX0OVXECvVtw",
             "Author": "NUGGETS",
             "Description": "Discogs: https://www.discogs.com/CO-AX-Cum/release/437238  Artist: CO-AX Track: Cum (Trance Mix) EP Title: Cum Label: Lost Records  Catalog #: STA 052 Genre: Trance, Progressive House Year: ????  Just here to share our passion for good music. Any copyright issues? Please contact",
@@ -7547,7 +7547,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "UsDna-Z1NkU",
-            "Title": "Z@P - NOTHING BUT [CABARET 028]",
+            "title": "Z@P - NOTHING BUT [CABARET 028]",
             "Channel ID": "UCrgSrKO2ZUYJCirOP9bzDQg",
             "Author": "Maslow Unknown",
             "Description": "Z@P takes on electro styling and rave horns to his already killer tech-house stylings with his \"Extension\" EP on So Inagawa's iconic imprint.  Vinyl only pressure.  Released on Cabaret Recordings.  BUY: https://www.phonicarecords.com/product/zp-extension-ep-pre-order-cabaret/175452 https://www.coldcutshotwax.uk/products/z-p-extension-ep https://www.decks.de/track/zp-extension_ep/cik-w6 https://www.juno.co.uk/products/z-p-extension-ep/842310-01/ SUPPORT: https://soundcloud.com/hauznated/sets/zp-cabaret028-extension-ep For promo use only.  Please email maslowunknown@gmail.com if you would like the track removed.  #Analogue #OldSchool #Acid",
@@ -7573,7 +7573,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qcVRHHlhTq0",
-            "Title": "Den Haas - Dance Tip [outright002]",
+            "title": "Den Haas - Dance Tip [outright002]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Bandcamp: https://outrightrecords.bandcamp.com/album/den-haas-dance-tip-ep-outright002 • Beatport: https://www.beatport.com/label/outright-records/96796  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -7599,7 +7599,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hr0x9dcJ3IQ",
-            "Title": "U Drink, U Pay",
+            "title": "U Drink, U Pay",
             "Channel ID": "UCSEe0NixII6zeSJzmvXEdSQ",
             "Author": "Fio Fa - Topic",
             "Description": "Provided to YouTube by SEED  U Drink, U Pay · Fio Fa  U Drink, U Pay  ℗ Pear  Released on: 2021-09-10  Composer: Fionn Fahey  Auto-generated by YouTube.",
@@ -7625,7 +7625,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "omeu7mQ8M-Q",
-            "Title": "Mystic Area",
+            "title": "Mystic Area",
             "Channel ID": "UCpB-v32zWDQcy2MlvvDl_Ow",
             "Author": "LUCIO (Italy) - Topic",
             "Description": "Provided to YouTube by Label Worx Limited  Mystic Area · LUCIO (Italy)  Out of Myself EP  ℗ Futura  Released on: 2021-09-03  Producer: LUCIO Composer: Lucio Ragozzino Music  Publisher: Copyright Control  Auto-generated by YouTube.",
@@ -7651,7 +7651,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "P9OBkA--geA",
-            "Title": "Destiny's Child - Say My Name (DJ Crisps Mix)",
+            "title": "Destiny's Child - Say My Name (DJ Crisps Mix)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): DJ Crisps Album: Seasoned EP Year: 2021 Genre: UK Garage Label: Not on label  Buy link: https://djcrisps.bandcamp.com/album/seasoned-ep Discogs:  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -7677,7 +7677,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HAI0tGMYmd4",
-            "Title": "Laurine - Catch The Flow [SL031]",
+            "title": "Laurine - Catch The Flow [SL031]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Decks.de: https://www.decks.de/track/laurine-abundance/cik-w3  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -7703,7 +7703,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Yx-HOsqEPGI",
-            "Title": "Bongo Cha Cha Cha (Luxor Edit)",
+            "title": "Bongo Cha Cha Cha (Luxor Edit)",
             "Channel ID": "UC8oP_tOmavLzdit03JYwpmQ",
             "Author": "Verzila",
             "Description": "Unreleased.  Upload made on request by the owner for promotional purposes only.  Contact and premiere requests at arikutufu@gmail.com  Verzila Social Pages: https://www.soundcloud.com/verzila https://www.facebook.com/verzilamusic https://www.instagram.com/verzilamusic  Tags: #luxor #verzilapremiere2021",
@@ -7729,7 +7729,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "C3kCVCyLyeE",
-            "Title": "Y U QT - Homeless Dub",
+            "title": "Y U QT - Homeless Dub",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Y U QT Album: Homeless Dub Year: 2021 Genre: UK Garage Label: Not on label Buy link: https://yuqt.bandcamp.com/track/homeless-dub Discogs:  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -7755,7 +7755,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8U2pSgQFY-k",
-            "Title": "Laurine - T.O.S.D.L [Slow Life]",
+            "title": "Laurine - T.O.S.D.L [Slow Life]",
             "Channel ID": "UCHRK6YAAySjqA8-fSldE5tg",
             "Author": "Say What? Mag",
             "Description": "Artist: Laurine Track: T.O.S.D.L Title: Abun.dance Label: Slow Life  It’s been seven years after Slow Life emerged onto our scene with a series of releases from S. Moreira and how things have changed. The roster of artists releasing on the label has expanded (like an extended family). Now, on the 31st release, it’s finally time for co-founder Laurine to step up to the production plate with the Abun.dance EP, and the results live up to expectations.  These four tracks are very much a distillation of the Slow Life aesthetic, instantly recognisable to anyone who’s seen Laurine and Cecilio in one of their infamous extended B2Bs. The signifiers of their beloved 90s sound – organs, breaks, bleep basslines, house chords – are present and correct, but of course presented with a contemporary mix and balance. The lead-off track, ‘T.O.S.D.L’, pulls this trick off effortlessly, adding just enough quirk and dissonance in the bass and acid lines to offset its cool and classic central house groove.  Selections006 https://www.saywhatmag.com/say-what-selections-006/  ***Tracks uploaded for promotional purposes only. Not suitable for club use.",
@@ -7781,7 +7781,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "lWfaZzXzGkY",
-            "Title": "Sounds Of The Suburbs ‎– Placebo EP",
+            "title": "Sounds Of The Suburbs ‎– Placebo EP",
             "Channel ID": "UCM6hD_mgCDaprGU6eN4EcRg",
             "Author": "LostWax",
             "Description": "Label: Pirate Radio Release date: 2002   DISCLAIMER: All tracks are uploaded for promotional purposes. If either label, artist or third party copyright holder do not agree with their material being uploaded, we will remove it immediately from this channel. Please contact us via email: vinilum@gmail.com.",
@@ -7807,7 +7807,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Iz6JWjl9qzA",
-            "Title": "Audiophile - Electrofied (House Mix)",
+            "title": "Audiophile - Electrofied (House Mix)",
             "Channel ID": "UCb9mtB-LRaJCDnrvU4BGM8g",
             "Author": "Rips in Peace",
             "Description": "Released on Sounds Good Records 1997",
@@ -7833,7 +7833,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jhsxVR0TWgk",
-            "Title": "Archie Hamilton - Our Time feat. Molly Green [MOSCOW050]",
+            "title": "Archie Hamilton - Our Time feat. Molly Green [MOSCOW050]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Beatport: https://www.beatport.com/release/revolution-ep/3447547  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -7859,7 +7859,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qAjnqcbUZkk",
-            "Title": "Ascura - Nobody Sed”Т Me (Remix)",
+            "title": "Ascura - Nobody Sed”Т Me (Remix)",
             "Channel ID": "UCCL_rE8MCGxTlPESj4Rm9iw",
             "Author": "LukeyChoons",
             "Description": "https://www.discogs.com/Various-Autoban-1/release/1750413",
@@ -7885,7 +7885,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vwO0E0BuOsc",
-            "Title": "Dufi - The Wire [MOVES002]",
+            "title": "Dufi - The Wire [MOVES002]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Ba Dum Tish: https://bit.ly/3iHDOJf / |",
@@ -7911,7 +7911,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "O9Tsmy8fcNU",
-            "Title": "Dufi - Level Up [MOVES002]",
+            "title": "Dufi - Level Up [MOVES002]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Ba Dum Tish: https://bit.ly/3iHDOJf / |",
@@ -7937,7 +7937,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RePK5mcmIJM",
-            "Title": "Taslo Valve - Ancient Grains [RGS008]",
+            "title": "Taslo Valve - Ancient Grains [RGS008]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/3hUZjY8 Juno: https://bit.ly/3xYl5Q2 Red Eye: https://bit.ly/36PMtUq Technique: https://bit.ly/3roi21l   ➤ Release info: https://www.discogs.com/Taslo-Valve-Bowyer-Volume-Eight/release/19466470   ➤ Support the label: https://soundcloud.com/rubegoldbergseries https://www.instagram.com/rubegoldbergseries/ https://www.facebook.com/RubeGoldbergSeriesPage/ / |",
@@ -7963,7 +7963,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "h44XAYa4xOk",
-            "Title": "Lazy (feat. David Byrne) (Extended Version)",
+            "title": "Lazy (feat. David Byrne) (Extended Version)",
             "Channel ID": "UCAC_9vrzvZr73MoGDqrcedQ",
             "Author": "X-Press 2 - Topic",
             "Description": "Provided to YouTube by BMG Rights Management (UK) Limited  Lazy (feat. David Byrne) (Extended Version) · X-Press 2 · David Byrne  Skint Features...  ℗ 2002 Skint Records Limited, a BMG Company  Released on: 2010-01-04  Electronics, Programmer: Ashley Beedle Electronics, Programmer, Keyboards: Darren House Electronics, Programmer, Keyboards: Darren Rock Keyboards: Peter Zivkovic Mixer: Adam Wren Composer: Ashley Beedle Composer: David Byrne Composer: Darren Rock Composer: Darren House  Auto-generated by YouTube.",
@@ -7989,7 +7989,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ri8nDiIYKlA",
-            "Title": "Outrun Disaster",
+            "title": "Outrun Disaster",
             "Channel ID": "UCJfH2PvOkxmlMTvLV6M6SDw",
             "Author": "Various Artists - Topic",
             "Description": "Provided to YouTube by IIP-DDS  Outrun Disaster · Somachrome  Electro Romantica  ℗ Periodica under exclusive license to peermusic ITALY srl  Released on: 2021-07-20  Music  Publisher: BEAT MACHINE MUSIC PUBLISHING Composer: Raffaele Arcella Composer: Luca Affatato  Auto-generated by YouTube.",
@@ -8015,7 +8015,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Dq7PM--4gPs",
-            "Title": "The Netherlands Power - Feel it (Pacific Dub) -8",
+            "title": "The Netherlands Power - Feel it (Pacific Dub) -8",
             "Channel ID": "UCzFgPTRekuZ29xDNd7ceH1Q",
             "Author": "oli",
             "Description": "Trance  Progressive House  1996  Funky Monkey https://www.discogs.com/The-Netherlands-Power-Feel-It/release/2133955",
@@ -8041,7 +8041,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TOs1Q3ZNYx4",
-            "Title": "With Love From Tbilisi",
+            "title": "With Love From Tbilisi",
             "Channel ID": "UCitgRu53Tq4YKnBnEpyOrrQ",
             "Author": "151 Soundsystem",
             "Description": "1994  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at passoutjs@gmail.com.",
@@ -8067,7 +8067,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "N5pM4h6EOhM",
-            "Title": "Darko Neufeld - Revelry",
+            "title": "Darko Neufeld - Revelry",
             "Channel ID": "UCCL_rE8MCGxTlPESj4Rm9iw",
             "Author": "LukeyChoons",
             "Description": "https://www.discogs.com/Various-Trends/release/13446696",
@@ -8093,7 +8093,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "W2GNHHkZDwI",
-            "Title": "Underground Generator - Tribalogical (Extended Mix)",
+            "title": "Underground Generator - Tribalogical (Extended Mix)",
             "Channel ID": "UCWZ_RhnoaO8Wvj7sqerTy4g",
             "Author": "ciaomare",
             "Description": "https://www.discogs.com/it/Underground-Generator-Vol-1/release/161472 SoundCloud:https://soundcloud.com/ciaomare",
@@ -8119,7 +8119,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "p7w0PtLGQBk",
-            "Title": "VF Live: DJ Mihoko",
+            "title": "VF Live: DJ Mihoko",
             "Channel ID": "UCvglmsedBnzVdWdJ1nOytpQ",
             "Author": "The Vinyl Factory",
             "Description": "More info & tracklist: https://thevinylfactory.com/live/vf-live-dj-mihoko/  Music: https://www.instagram.com/djmihoko/",
@@ -8145,7 +8145,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nOcukCaeZCQ",
-            "Title": "Locklead - B-Leave [DMT010]",
+            "title": "Locklead - B-Leave [DMT010]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Deejay.de: https://www.deejay.de/LOCKLEAD_Hard_Bone_EPc_DMT010_Vinyl__974332  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -8171,7 +8171,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "X1-sWxr6oGw",
-            "Title": "Phil French - Deshabillez-Moi ! (Undergroove Mix)",
+            "title": "Phil French - Deshabillez-Moi ! (Undergroove Mix)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Monkey Records – MK 4005 MX Italy 1993",
@@ -8197,7 +8197,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6S5QYXAaByE",
-            "Title": "ODI Fridays: Can an AI detect emotion?",
+            "title": "ODI Fridays: Can an AI detect emotion?",
             "Channel ID": "UCnNmia8FaXDeGAqZNQEF2RA",
             "Author": "Open Data Institute",
             "Description": "Join us on Zoom at lunchtime for our regular ODI Fridays talks. Once you’ve signed up, we’ll send you the link to join.  Affective computing refers to the use of computers to analyse data about human behaviour, such as facial expressions, gestures, and language, for its emotional information.  But can a machine really learn about and infer emotions from digitised behaviour, typically captured as text, images, audio and video? How does it compare with human performance? How well do we understand how emotions are expressed and why? In this talk, we will look at the theories and the algorithms, and the benefits and consequences of their application in real-world situations.  About the speaker Sharon Richardson, PhD, is a senior scientist in geocomputation at the University of Zürich. Her research focuses on investigating and applying data-intensive methods to improve understanding of and assist in human, societal and environmental challenges",
@@ -8223,7 +8223,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "x4isKsOaEBs",
-            "Title": "Occibel - Ghosts On The Rocks [TESS010]",
+            "title": "Occibel - Ghosts On The Rocks [TESS010]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/3dB54Yt Juno: https://bit.ly/3h8BECW Red Eye: https://bit.ly/3qHJEOt Phonica: https://bit.ly/3jAfpaF / |",
@@ -8249,7 +8249,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0Lqs-PYfzXQ",
-            "Title": "Lil Mark - Phonic Tribute",
+            "title": "Lil Mark - Phonic Tribute",
             "Channel ID": "UCnM7ltulCzlVAomV3GaFLzw",
             "Author": "records diet",
             "Description": "bang bang bang so good, simplicity is key. All music uploaded is taken from my private collection. No copyright violation intended. https://www.discogs.com/Lil-Mark-Lil-Mark-Ep/release/439194",
@@ -8275,7 +8275,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZETS9TZOHnw",
-            "Title": "Tony Carrasco Presents Underground Andrew - Ooh Ooh Ooh Ooh (Andrew's Suite Mix)",
+            "title": "Tony Carrasco Presents Underground Andrew - Ooh Ooh Ooh Ooh (Andrew's Suite Mix)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Smile Production – SMILE 9013 Italy 1992",
@@ -8301,7 +8301,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FI_gw2el7So",
-            "Title": "Mathuresh - Living Entity (1996)",
+            "title": "Mathuresh - Living Entity (1996)",
             "Channel ID": "UC4vkDmheBGKCBb6sfWItN8Q",
             "Author": "Zaqaria",
             "Description": "https://www.discogs.com/Mathuresh-Link/master/1008818",
@@ -8327,7 +8327,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2BhoGFWqjEc",
-            "Title": "Mathuresh - Where (1996)",
+            "title": "Mathuresh - Where (1996)",
             "Channel ID": "UC4vkDmheBGKCBb6sfWItN8Q",
             "Author": "Zaqaria",
             "Description": "https://www.discogs.com/Mathuresh-Link/master/1008818",
@@ -8353,7 +8353,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ITeTWHPu1M4",
-            "Title": "BBMak - Still On Your Side (Artful Dodger Instrumental)",
+            "title": "BBMak - Still On Your Side (Artful Dodger Instrumental)",
             "Channel ID": "UCHznHlF69YOetgPX9l0EORw",
             "Author": "Bazaar Beats",
             "Description": "Instrumental on this is a great standalone track..  If you are the copyright holder and would like this video removing, please comment on the video or e-mail bazaarbeats@gmail.com",
@@ -8379,7 +8379,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WErKEfx4Vp4",
-            "Title": "Goiz - Word Problems",
+            "title": "Goiz - Word Problems",
             "Channel ID": "UC73-NQCvIQ4FOnhgvzlS6gA",
             "Author": "Sound Station Strategy",
             "Description": "V/A - Club Tools Volume 1 (Vinyl, 12\") (2021) Available on Decks Records: https://bit.ly/2SAvbaB Label: Open Space  Welcome to Open Space Club Tools Volume 1, a new series of 12 inch records for DJs from the Open Space label. They pull together some low key, highly skilled DJs to cook up some jacking house beats and rugged rhythms that are proudly analogue and rough around the edges. There's an old school vibe to 'Word Problems' that takes you right back to Chicago in the late 80s. Benedek layers up the kicks, rickety rhythms and rattling cow bells into another muscular groove and elsewhere there is glistening melodic tackle from Liluzu, bristling drum work from Calvin and a weirdo collection of odd-ball sounds and samples nailed to a punchy rhythm by Glue Boy.  +  SSServices: http://www.soundstationstrategy.com Follow us on Facebook:  https://www.facebook.com/soundstationstrategy  Follow us on Instagram: https://www.instagram.com/soundstationstrategy Support us on Patreon:   https://www.patreon.com/soundstationstrategy",
@@ -8405,7 +8405,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fHftJbENDO4",
-            "Title": "Apoll-Instabil",
+            "title": "Apoll-Instabil",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://www.discogs.com/ko/Apoll-Anakusis-Negativ/release/61897",
@@ -8431,7 +8431,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jaP0KE-y9gQ",
-            "Title": "Papa Nugs - Cameron Goes To Egypt [DICELESS001]",
+            "title": "Papa Nugs - Cameron Goes To Egypt [DICELESS001]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://badumtish.world/products/papa-nugs-da-ep-diceless01 🎵 Follow the label: https://soundcloud.com/badumtishworld 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -8457,7 +8457,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4wr6TtXoXbk",
-            "Title": "Sunaas - Bassoria IV [2021]",
+            "title": "Sunaas - Bassoria IV [2021]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "VSX005 / Visolux / France  Buy your ticket /// https://visolux.bandcamp.com/track/sunaas-bassoria-iv  Kepler-129 presents : VSX006   « It is now 3:03 a.m. and you are still on Hi-Tek FM. As we told you earlier, the Visolux probe is back on Kepler-129. To celebrate this event, we have Pr. Sunaas here to talk about his latest discovery. Good morning Professor. - Good morning to you all. Indeed, during a routine analysis of the probe, we discovered a planet not previously in our database, and promptly named Bassoria IV, the fourth planet of the Bassoria solar system. - Regular listeners of Visolux probe reports will recall its previous discoveries, which introduced the Keplerian people to the swishes and whistlers of this distant galaxy, but here we are dealing with something completely different. - Exactly. From the bowels of this planet is emitted a sound of extremely low pitch and low modulation. We have cases where a swish evolves into a whistler, which we then call a swishler. But here, the noise does not fit that pattern, but rather a rare case known as a tweak. - Is it possible to hear this teacher tweak? - If you have radio ears, yes, absolutely. If not, you'll need to digitally convert the frequencies and play it through speakers, preferably large and powerful ones, to get the full envelope and depth of the bass. - Why do you think this tweak is emitted from the heart of this planet? - While the tweak is a well-known and well-understood phenomenon, its purpose is not. On Bassoria IV, our tweak has a profound impact on the environment, even influencing the formation of tropospheric cloud bodies. Combined with the unique composition of the air, these clouds adopt iridescent and shimmering colours, reminiscent of those seen at some festive events in my now distant youth. - A distant professor? - Indeed, on Kepler-129, the Empire is on the prowl and prevents the Keplerian gatherings of yesteryear. But stay tuned, the Visolux probe announces an upcoming alignment of the planets, the date is still unknown but it will happen, Empire or not. - Many thanks to you professor. And now for you, exclusively, the tweak captured by the Visolux probe will be broadcast on our airwaves. »  Transcripts from Hi-Tek radio, 30.3 FM.  Mastered by TC80 Art by dr.c  ****  Kepler-129 présente : VSX006  « Il est 3h03, vous êtes toujours sur Hi-Tek FM. Nous vous en parlions plus tôt, la sonde Visolux est bel et bien de retour sur Kepler-129. Pour célébrer cet événement, nous recevons Pr. Sunaas venu vous parler de sa dernière découverte. Bonjour Professeur. - Bonjour à tous. Effectivement, lors d’une analyse de routine de la sonde Visolux, nous avons mis au jour une planète jusque-là non présente dans notre base de données, et promptement baptisée Bassoria IV, la quatrième planète du système solaire Bassoria. - Les auditeurs réguliers des rapports de la sonde Visolux se rappelleront de ses précédentes découvertes, qui ont présenté au peuple Képlérien les swishes et les whistlers de cette lointaine galaxie, mais ici nous avons à faire à quelque chose de complètement différent. - Exactement. Des entrailles de cette planète est émis un son d’une tonalité extrêmement basse et faiblement modulé. Nous avons des cas où un swish évolue vers un whistler, et que nous appelons alors un swishler. Mais ici, le bruit ne correspond pas à ce modèle, mais plutôt à un cas rare connu sous le nom de tweak. - Est-il possible d’entendre ce tweak professeur ? - Si vous avez des oreilles radios, oui, tout à fait. Sinon, il vous sera obligatoire de convertir digitalement les fréquences, et de le passer sur des enceintes, de préférence larges et puissantes, pour saisir au mieux l’enveloppe et la profondeur des basses. - Pourquoi ce tweak est-il émis du cœur de cette planète selon vous ? - Si le tweak est un phénomène connu et bien compris, sa raison d’être ne l’est pas. Sur Bassoria IV, notre tweak a un impact profond sur l’environnement, allant jusqu’à influencer la formation des corps nuageux de la troposphère. Allié à la composition unique de l’air, ces nuages adoptent des couleurs irisés et chatoyants, non sans rappeler celles rencontrées lors de quelques évènements festifs dans ma désormais lointaine jeunesse. - Lointaine professeur ? - En effet, sur Kepler -129, l’Empire rode et empêche les rassemblement Képlériens d’autrefois. Mais restez connectés, la sonde Visolux annonce un alignement des planètes à venir, la date est encore inconnue mais aura bel et bien lieu, Empire ou non. - Un grand merci à vous professeur. Et maintenant pour vous, en exclusivité, le tweak capturé par la sonde Visolux sera diffusé sur nos ondes. »  Transcriptions issues de la radio Hi-Tek, 30.3 FM.  Masterisé par TC80 Visuel par dr.c",
@@ -8483,7 +8483,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5QlNNv2aYF0",
-            "Title": "Wilda - Concerned4What [PERSPECTIVE002]",
+            "title": "Wilda - Concerned4What [PERSPECTIVE002]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/2SO99kU Juno: https://bit.ly/3gYlfQa Red Eye: https://bit.ly/3j2mq3O Disco Più: https://bit.ly/2UsRoYJ    ➤ My links: https://www.instagram.com/venard__/ https://soundcloud.com/venardd https://www.facebook.com/venardd / |",
@@ -8509,7 +8509,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3xEyV6SlkWo",
-            "Title": "Ilyes - IDFK [PERSPECTIVE002]",
+            "title": "Ilyes - IDFK [PERSPECTIVE002]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/2SO99kU Juno: https://bit.ly/3gYlfQa Red Eye: https://bit.ly/3j2mq3O Disco Più: https://bit.ly/2UsRoYJ / |",
@@ -8535,7 +8535,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "G2hFJ4r4VdY",
-            "Title": "The Private Lightning Six – Check Please",
+            "title": "The Private Lightning Six – Check Please",
             "Channel ID": "UCauW8AmcEN-VZC4h9DSUd9Q",
             "Author": "Apartment Acht",
             "Description": "Various ‎– .M. .O.RS E.  Artist: The Private Lightning Six Label: Sabotage Recordings  Country: Austria Released: 1996 Genre/Style: Electro  https://www.discogs.com/de/Various-M-ORS-E/release/17740  Any request? Remove The Video? Contact us: mail@plasticdreams.eu  This channel is for promotional use only (128kbps - no club use), out of love for the music and to spread unique and extraordinary artistic work. No money is being made here, will remove immediately if requested.  https://www.instagram.com/plasticdreams.eu/",
@@ -8561,7 +8561,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GtQ6vpfH0RY",
-            "Title": "Tiger B. Smith - 19 Hundred 93 (Club Mix) [CMV 02-5996]",
+            "title": "Tiger B. Smith - 19 Hundred 93 (Club Mix) [CMV 02-5996]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: CMV Records ‎– CMV 02-5996 Format: Vinyl, 12\" Country: Germany Released: 1993 Genre: Electronic Style: Trance, Ambient --- https://www.discogs.com/Aqua-19-Hundred-93-Dont-Give-This-Year-A-Name/release/2303303 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -8587,7 +8587,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "aW-DvelQZu8",
-            "Title": "Ben Nevile - Chick [TEXT_06]",
+            "title": "Ben Nevile - Chick [TEXT_06]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: context ‎– TEXT_06 Format: Vinyl, 12\", 33 ⅓ RPM Country: US Released: May 2001 Genre: Electronic Style: IDM, Techno, Minimal, Abstract, Experimental --- https://www.discogs.com/Various-Thredes-And-Vaynes/release/6217 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -8613,7 +8613,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "lEI6TqMetJY",
-            "Title": "A - Ruff Sector - Untitled (Mix 1)",
+            "title": "A - Ruff Sector - Untitled (Mix 1)",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -8639,7 +8639,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-BMt1NhC1Iw",
-            "Title": "[PREMIERE] Freight Night - Justin Pakzad | Not On Label [2021]",
+            "title": "[PREMIERE] Freight Night - Justin Pakzad | Not On Label [2021]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality. For listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir Instagram (Some Uncertain Sir):  https://www.instagram.com/someuncertainsir Twitter (Some Uncertain Sir):  https://twitter.com/uncertainsir  • Label Info • Soundcloud: https://soundcloud.com/pakzad1 Instagram: https://www.instagram.com/justin_pakzad  Bandcamp: https://justinpakzad.bandcamp.com/releases  Track: Freight Night Artist: Justin Pakzad Album: Death By Beauty (Album) Label: Self Released Country: Spain Year: 2021",
@@ -8665,7 +8665,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "g5VjjvkhSDo",
-            "Title": "Lauraine - It's My House (Version)",
+            "title": "Lauraine - It's My House (Version)",
             "Channel ID": "UCD6QrH-3NRyYujJE8OXOlPA",
             "Author": "Heels & Souls",
             "Description": "Sublime lovers rock cover of Ashford & Simpson’s / Diana Ross’ 1979 hit ‘It’s My House’ that was Lauraine’s one and only release. Pure sunshine sounds, dubbed out to the high heavens for this B side version. Shouts to Music & Video Exchange where we picked this one up.  https://www.discogs.com/Lauraine-Its-My-House-Version/release/5348636  https://www.instagram.com/heelsandsouls https://soundcloud.com/heelsandsouls",
@@ -8691,7 +8691,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pgcKBydILrs",
-            "Title": "Starsky & Hutch - Grand Torino (Mix)",
+            "title": "Starsky & Hutch - Grand Torino (Mix)",
             "Channel ID": "UC3p1aPxkoKHbPLHsV3eMmTQ",
             "Author": "Cheap Records Diggers",
             "Description": "Label: Temple Records ‎– TOPY POWER 001 Format: Vinyl, 12\", 33 ⅓ RPM Country: UK Released: 1994 Genre: Electronic Style: House  We do not own any copyrights for this track, so if you want us to remove it please send us a message and we will do it ASAP! Cheers :)  Release: https://www.discogs.com/Starsky-Hutch-Boiling-Point/release/1177336  Follow us: https://www.facebook.com/CheapRecordsDiggers/",
@@ -8717,7 +8717,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "p6GZLlQKEt8",
-            "Title": "Rambal Cochet - Designer Drugs (Les Yeux Orange)",
+            "title": "Rambal Cochet - Designer Drugs (Les Yeux Orange)",
             "Channel ID": "UCHdDFF2UWku_zn7vomxQg-A",
             "Author": "Les Yeux Orange",
             "Description": "BUY // PRE-ORDER  : https://lesyeuxorange.bandcamp.com/album/driving-blind-vol-2  LISTEN  snippets : https://soundcloud.com/les-yeux-orange/lyo-presents-driving-blind-vol-2-snippets  follow Rambal Cochet : https://soundcloud.com/volta-cab  follow LYO : https://soundcloud.com/les-yeux-orange https://www.instagram.com/lesyeuxorange",
@@ -8743,7 +8743,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HHxOvGoupg4",
-            "Title": "P & Bee Productions - Fenix (Deep)",
+            "title": "P & Bee Productions - Fenix (Deep)",
             "Channel ID": "UCiDNpSiPBV7qniYmlT7OrVA",
             "Author": "Imaginaryplaymate",
             "Description": "1993  P & Bee Productions  https://www.discogs.com/P-Bee-Productions-Vol-3/release/1596078",
@@ -8769,7 +8769,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Wpp3FjOqXNQ",
-            "Title": "Zlatnichi - De Parture",
+            "title": "Zlatnichi - De Parture",
             "Channel ID": "UCfHJRUpF8FlM4FQ0zUtZIMA",
             "Author": "UFO Beats",
             "Description": "128 kbps  🔴 BUY LINKS • Bandcamp: https://zlatnichi.bandcamp.com/track/de-parture  🔎 LABEL/ARTIST INFO • Facebook: https://www.facebook.com/zlatnichiofficial/ • Soundcloud: https://soundcloud.com/zlatnichi • Instagram: https://www.instagram.com/zlatnichi/  🛸 SOCIAL NETWORKS • FB private group: https://www.facebook.com/groups/httpswww.youtube.comcufobeats/ • Instagram: https://www.instagram.com/ufo_beats_ • Facebook: https://www.facebook.com/ufobeatss • Soundcloud: https://soundcloud.com/ufobeats06  💡 UFO Beats channel has sole rights for publication of this content.  #zlatnichi",
@@ -8795,7 +8795,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "thgKLM_8I54",
-            "Title": "Dub Crusaders - Uhuru",
+            "title": "Dub Crusaders - Uhuru",
             "Channel ID": "UCaJZ-EPjKUZJqbbUOQFJd1A",
             "Author": "Adonai Sounds",
             "Description": "Dub Crusaders - Uhuru",
@@ -8821,7 +8821,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Uu67yPpxaLQ",
-            "Title": "Antoine Sy - Carpet Paradise [BNSD005]",
+            "title": "Antoine Sy - Carpet Paradise [BNSD005]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://binarysoundmusic.bandcamp.com/album/antoine-sy-laserbroz-ep-bnsd005-out-now 🎵 Follow the label: https://www.facebook.com/binarysoundmusic 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/Antoine-Sy-Laserbroz-EP/release/18733219  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -8847,7 +8847,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IBLv78xHBj0",
-            "Title": "Toolate Groove - Breezin Up",
+            "title": "Toolate Groove - Breezin Up",
             "Channel ID": "UC58C_BhzlZIJTeomuVSD2lA",
             "Author": "Houseum",
             "Description": "PREMIERE on Soundcloud: https://bit.ly/3iu11At  Label: Cosmic Breeze Records Artist: Toolate Groove Format: Digital Cat. Number: CBR003 EP Title:  CBR 003 Release Date: June 11th, 2021  Support it: https://toolategroove.bandcamp.com/album/cbr-003  Cosmic Breeze Records:  https://soundcloud.com/cosmicbreezerecords https://www.facebook.com/cosmicbreezerecords  Toolate Groove: https://soundcloud.com/toolatemusicrightintime https://www.facebook.com/toolategroove ------------------------------------------------------------------------------------------------------------------------------------------------------- Houseum: https://houseum.fr https://soundcloud.com/houseum https://www.facebook.com/houseum.yt https://www.instagram.com/houseumrecords https://houseum.yt@gmail.com",
@@ -8873,7 +8873,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3TjTOLtr1qA",
-            "Title": "Berb0 - B (WET MIX) [BAM01]",
+            "title": "Berb0 - B (WET MIX) [BAM01]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow https://cwbyallmeans.bandcamp.com/releases 🎵 Buy Record: https://cwbyallmeans.bandcamp.com/releases 🚀 More music: https://soundcloud.com/dofunkk     - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -8899,7 +8899,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "CkfOg6vYA50",
-            "Title": "Berb0 - A (Dry Mix) [BAM01]",
+            "title": "Berb0 - A (Dry Mix) [BAM01]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow https://cwbyallmeans.bandcamp.com/releases 🎵 Buy Record: https://cwbyallmeans.bandcamp.com/releases 🚀 More music: https://soundcloud.com/dofunkk     - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -8925,7 +8925,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "y9wbbYG0sYg",
-            "Title": "Biomorph ‎– Who's Blood Flows Into These Vains",
+            "title": "Biomorph ‎– Who's Blood Flows Into These Vains",
             "Channel ID": "UCOmYb97fHXTDKPFtiSVPx-g",
             "Author": "Simon van der Burg",
             "Description": "I don't own the rights of this track. This upload is for remembering what great music was played in the clubs back in the days.  If the owner of this track has any problem with this, than let me now. I will remove it.  Let's celebrate house music!",
@@ -8951,7 +8951,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FnQ69EQ34CA",
-            "Title": "X-Pact - Excess Part 2 (1997)",
+            "title": "X-Pact - Excess Part 2 (1997)",
             "Channel ID": "UC4vkDmheBGKCBb6sfWItN8Q",
             "Author": "Zaqaria",
             "Description": "https://www.discogs.com/X-Pact-Excess-Part-2/master/586931",
@@ -8977,7 +8977,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "YaFjLUojGGs",
-            "Title": "Extract -  Theme From Waterworld (1997)",
+            "title": "Extract -  Theme From Waterworld (1997)",
             "Channel ID": "UC4vkDmheBGKCBb6sfWItN8Q",
             "Author": "Zaqaria",
             "Description": "https://www.discogs.com/Extract-Theme-From-Waterworld-Pilger/release/355303",
@@ -9003,7 +9003,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "z15J9Ri-D-M",
-            "Title": "Hi Tech Criminal-Duster(Holloway mix)",
+            "title": "Hi Tech Criminal-Duster(Holloway mix)",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://klassewrecks.bandcamp.com/album/duster-ep",
@@ -9029,7 +9029,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Ve9VGXAIvuw",
-            "Title": "Be Noir –  Give Me Your Love (Fitzcarraldo Theatre Mix)",
+            "title": "Be Noir –  Give Me Your Love (Fitzcarraldo Theatre Mix)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Irma CasaDiPrimordine  ICP 026  Italy  1992",
@@ -9055,7 +9055,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "e_uD9nd1pqg",
-            "Title": "Spasm - Spasm [OHM LP 2]",
+            "title": "Spasm - Spasm [OHM LP 2]",
             "Channel ID": "UCByc6t1_4qS1GA7Y-5bLEzg",
             "Author": "The W.A.P Station",
             "Description": "https://www.discogs.com/Various-Ohm-Records-Stockholm-Ultimate-Techno-Frequences/release/385791  For promotional purposes only. Please email for any copyright issues and the video will be removed. https://www.instagram.com/wapstation/",
@@ -9081,7 +9081,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Wjds0l0tJSo",
-            "Title": "Rowan - Trust The Process [SLCT007]",
+            "title": "Rowan - Trust The Process [SLCT007]",
             "Channel ID": "UC8oP_tOmavLzdit03JYwpmQ",
             "Author": "Verzila",
             "Description": "Buy: https://selectrecords.bandcamp.com/album/slct007-v-a-slct007  Label: Select Records Cat: SLCT007 Format: Digital Country: Portugal Released: 1 June 2021 Genre: Electronic Style: Minimal, Techno  Tracklist: Rowan - Trust The Process Xavier - Chemtrails Roland'Sousa - Cherubim Reu.Ven - Un Peux D'Histoire  Rowan: https://www.soundcloud.com/rowanpt https://www.facebook.com/RowanSounds https://www.instagram.com/rro0wwaann  Select Records: https://www.soundcloud.com/selectrecords https://www.facebook.com/selectrcrds https://www.instagram.com/select_rec  Upload made on request by the owner for promotional purposes only.  Contact and premiere requests at arikutufu@gmail.com  Verzila Social Pages: https://www.soundcloud.com/verzila https://www.facebook.com/verzilamusic https://www.instagram.com/verzilamusic  Tags: #rowan #selectrecords #verzilapremiere2021",
@@ -9107,7 +9107,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "x2qZeNaU8yM",
-            "Title": "Kiddmisha - Power Pill",
+            "title": "Kiddmisha - Power Pill",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow Kiddmisha: https://soundcloud.com/kiddmisha 🎵 Buy Record: https://kiddmisha.bandcamp.com/album/power-pill 🚀 More music: https://soundcloud.com/dofunkk     - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -9133,7 +9133,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tMfZq09G_rw",
-            "Title": "Rejuvination -  Work (The Balcony Dub) 1992",
+            "title": "Rejuvination -  Work (The Balcony Dub) 1992",
             "Channel ID": "UC4vkDmheBGKCBb6sfWItN8Q",
             "Author": "Zaqaria",
             "Description": "https://www.discogs.com/Rejuvination-Work-In-Progress-EP/master/37355",
@@ -9159,7 +9159,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vVk-irYtvsU",
-            "Title": "Samuel Jabba - Altered Perception",
+            "title": "Samuel Jabba - Altered Perception",
             "Channel ID": "UCRTfZ8rXu1IzSfy9mIf3lsQ",
             "Author": "Ej",
             "Description": "~ Buy:  https://www.discogs.com/Samuel-Jabba-Matthew-Dexter-Digital-Age/release/17875111 https://www.coldcutshotwax.uk/collections/pre-order-items-shipping-week-2/products/samuel-jabba-matthew-dexter-digital-age https://clone.nl/item64094.html https://www.deejay.de/Samuel_Jabba_Matthew_Dexter_Digital_Age_BS07_Vinyl__972356 https://subwax.es/product/bs07/ https://www.juno.co.uk/products/samuel-jabba-matthew-dexter-digital-age/818778-01/  BS07!  *** Compressed audio (160 kbps) - buy the record/files! *** ~",
@@ -9185,7 +9185,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IYHmlIn-wos",
-            "Title": "Matthew Dexter - Numinuos",
+            "title": "Matthew Dexter - Numinuos",
             "Channel ID": "UCRTfZ8rXu1IzSfy9mIf3lsQ",
             "Author": "Ej",
             "Description": "~ Buy:  https://www.discogs.com/Samuel-Jabba-Matthew-Dexter-Digital-Age/release/17875111 https://www.coldcutshotwax.uk/collections/pre-order-items-shipping-week-2/products/samuel-jabba-matthew-dexter-digital-age https://clone.nl/item64094.html https://www.deejay.de/Samuel_Jabba_Matthew_Dexter_Digital_Age_BS07_Vinyl__972356 https://subwax.es/product/bs07/ https://www.juno.co.uk/products/samuel-jabba-matthew-dexter-digital-age/818778-01/  BS07!  *** Compressed audio (160 kbps) - buy the record/files! *** ~",
@@ -9211,7 +9211,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "QkHoAoC39vs",
-            "Title": "Tribal Technology - Life (Lunamix)",
+            "title": "Tribal Technology - Life (Lunamix)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "UMM 039 Italy 1992",
@@ -9237,7 +9237,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WG3Z8iMouh0",
-            "Title": "Low Tape - Sunrise Acid",
+            "title": "Low Tape - Sunrise Acid",
             "Channel ID": "UCVYTFsTA3ZoOGA8j29sqkTw",
             "Author": "AcidTest",
             "Description": "Please buy here - https://urwaxx.bandcamp.com/track/sunrise-acid",
@@ -9263,7 +9263,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cvPY-ChwyMI",
-            "Title": "People On Process & Jean Marie K ‎– Incidental Beats",
+            "title": "People On Process & Jean Marie K ‎– Incidental Beats",
             "Channel ID": "UC_-jobN_2L2fmvZRJ3kVjHQ",
             "Author": "eja aje",
             "Description": "People On Process & Jean Marie K ‎– Incidental Beats Label: Megaphone Records ‎ Country: France Released: 2002 Style: House, Deep House, Tech House  Discogs: https://www.discogs.com/People-On-Process-Jean-Marie-K-Incidental-Beats/release/97662  [Any copyright issues: please email me - all tracks are to promote the artist. Just spreading the music love!]",
@@ -9289,7 +9289,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "spGS7RaDEic",
-            "Title": "Beam On Ya Toes",
+            "title": "Beam On Ya Toes",
             "Channel ID": "UCFI1JS4WBVDLrcf_6hqO_JA",
             "Author": "Various Artists - Topic",
             "Description": "Provided to YouTube by Seed  Beam On Ya Toes · RXK Nephew  Slitherman Activated  ℗ Towhead Recordings  Released on: 2021-05-28  Auto-generated by YouTube.",
@@ -9315,7 +9315,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NrMAUc3qy-A",
-            "Title": "Ed Hodge - Xenyx [TYD006]",
+            "title": "Ed Hodge - Xenyx [TYD006]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Bandcamp: https://bit.ly/2QQT78P Deejay: https://bit.ly/2SnMBqo Juno: https://bit.ly/2Sv3n7e Red Eye: https://bit.ly/3yCGIXa Decks: https://bit.ly/2RDUaJI HHV: https://bit.ly/3yxGcK1 Technique: https://bit.ly/3vgDhDg KMA60: https://bit.ly/3oP0PNc Bordello A Parigi: https://bit.ly/3fJbtB0   ➤ Release info: https://www.discogs.com/Ed-Hodge-The-Gateway-EP/release/18700282   ➤ Support the label: https://tresydosrecords.bandcamp.com/ https://soundcloud.com/tresydosrecords / |",
@@ -9341,7 +9341,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4Lfli7o9DpY",
-            "Title": "Bænglund - BALSAM",
+            "title": "Bænglund - BALSAM",
             "Channel ID": "UC8sOILjc7c7l-xWngX5HoGg",
             "Author": "tswp",
             "Description": "https://gnistanrecords.bandcamp.com/album/rubbernecking-ep  Artist: Bænglund Title: Rubbernecking EP Label: Gnistan Records, Sweden Format: Digital (as for now) Release Date: June 22, 2021  Buy it from Bandcamp and support the label and artist. Uploaded in low res 192 kbps.",
@@ -9367,7 +9367,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "lqiqoNWdMSA",
-            "Title": "She - Between The Lines",
+            "title": "She - Between The Lines",
             "Channel ID": "UClrENn6CiT03pWNMxWgVPXw",
             "Author": "Plastico Fino",
             "Description": "https://www.discogs.com/es/She-Chemical-Melodies-For-Computer-Rhythms-EP/master/1591234",
@@ -9393,7 +9393,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WFUK_Kj74LI",
-            "Title": "Jayden Jones - Just Dubbin (Groovepressure, 1998)",
+            "title": "Jayden Jones - Just Dubbin (Groovepressure, 1998)",
             "Channel ID": "UC_ZBS370CjlMCM9lXITVD7w",
             "Author": "RawhausTrax / David Mast",
             "Description": "https://www.discogs.com/Jayden-Jones-Cable-Street/release/496086",
@@ -9419,7 +9419,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BLXFTG4CFic",
-            "Title": "Michael Anthony & B Smiley - Hush (Late Night Sneaky Mix)",
+            "title": "Michael Anthony & B Smiley - Hush (Late Night Sneaky Mix)",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "https://www.facebook.com/sleeplesssssssssssss",
@@ -9445,7 +9445,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "g8lJWD-qQW0",
-            "Title": "A2. GreyFox - Cybertronic Development (2.0) [SUPLU007]",
+            "title": "A2. GreyFox - Cybertronic Development (2.0) [SUPLU007]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Support the artists: https://matthiassuperluminal.bandcamp.com/album/insomnia-ep Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -9471,7 +9471,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zcwdDn-FnCs",
-            "Title": "Bellini & Skeela - Punto G (Rework) [SUPLU007]",
+            "title": "Bellini & Skeela - Punto G (Rework) [SUPLU007]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Support the artists: https://matthiassuperluminal.bandcamp.com/album/insomnia-ep Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -9497,7 +9497,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "o4Df82Ii5-s",
-            "Title": "Space Opera - Freestyle (Raw Street Mix)",
+            "title": "Space Opera - Freestyle (Raw Street Mix)",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "https://www.facebook.com/sleeplesssssssssssss",
@@ -9523,7 +9523,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_ls7jyYNAFM",
-            "Title": "Israel Wages War on Palestine",
+            "title": "Israel Wages War on Palestine",
             "Channel ID": "UCSYCo8uRGF39qDCxF870K5Q",
             "Author": "Owen Jones",
             "Description": "As the Israeli state escalates its violent onslaught against Palestinians, we are joined live from occupied Jerusalem by Fayrouz Sharqawi, director of Grassroots Al-Quds, and Afaf Alnajjar from We Are Not Numbers, live from Gaza.  Please like, subscribe - and help us take on the right wing media here: https://patreon.com/owenjones84",
@@ -9549,7 +9549,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "M3_ftxuEfJc",
-            "Title": "Noah Fisher - Guruli Qashapebi",
+            "title": "Noah Fisher - Guruli Qashapebi",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://domainrr.bandcamp.com/ 🎵 Follow the label: https://www.instagram.com/domain.rr/ 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -9575,7 +9575,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "E8zN3YFsCro",
-            "Title": "246 - Clear Up [Cosmic Soup ‎– COS004]",
+            "title": "246 - Clear Up [Cosmic Soup ‎– COS004]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow Cosmic Soup: https://soundcloud.com/cosmicsouplondon 🎵 Buy Record: https://cosmicsouplondon.bandcamp.com/album/susumu-yokota-as-246-classic-and-unreleased-part-one-2-x-12 🚀 More music: https://soundcloud.com/dofunkk    - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -9601,7 +9601,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9ChKM7JvBbo",
-            "Title": "Unknown Artist - CATERINCA01 (Snippets)",
+            "title": "Unknown Artist - CATERINCA01 (Snippets)",
             "Channel ID": "UCWqrPcZO1TTl1KpoYqZaefQ",
             "Author": "Organic Society",
             "Description": "“Caterinca” is a Romanian word that's difficult to explain. Caterinca is something that is never to be taken seriously. Caterinca is something you find cool in your own personal way. Caterinca is the feeling of a Sunwaves morning, when you and your friends share a bean bag, having 0 battery left in your feet, music you love playing in the background, talking bullshit and laughing your asses off. Caterinca is a philosophy, a way of life. We are Caterinca. Hello.  A1. Faded Kanye (second track) B1. Stolen Dre (first track)  Discogs: https://www.discogs.com/release/19573648-Unknown-Artist-CATERINCA01  r.organic on web: https://www.facebook.com/r.organic.music https://www.instagram.com/r.organic.music/ https://soundcloud.com/organic-society/ https://www.discogs.com/label/1732934-rorganic",
@@ -9627,7 +9627,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "a4no137AVDM",
-            "Title": "LASTONE - Orol Robeal [CDHPD03]",
+            "title": "LASTONE - Orol Robeal [CDHPD03]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://fanlink.to/cdhpd03_various 🎵 Follow the label: https://soundcloud.com/chineursdehouse 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -9653,7 +9653,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "R8THQMMPAR0",
-            "Title": "Yamen & EDA - The inner path",
+            "title": "Yamen & EDA - The inner path",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Free download: https://maisonmere.bandcamp.com/track/the-inner-path-free-dl / |",
@@ -9679,7 +9679,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XD94ZIOnpgI",
-            "Title": "Big Audio Dynamite - Hollywood Boulevard (Dub Mix)",
+            "title": "Big Audio Dynamite - Hollywood Boulevard (Dub Mix)",
             "Channel ID": "UCdcHsD5yqSfuNYZGO4Q6ZAA",
             "Author": "Kikor",
             "Description": "From \"Big Audio Dynamite ‎– V. Thirteen / Hollywood Boulevard\" EP Label : Columbia (US) 1986  Grab your copy ! https://www.discogs.com/fr/Big-Audio-Dynamite-V-Thirteen-Hollywood-Boulevard/master/34366  Formed by Mick Jones after he was ousted from The Clash, he continued to develop the sound The Clash had experimented with on 'Sandinista' using breaks, dubs and the heavy use of samples. The debuted with the 1985 release 'This is Big Audio Dynamite', followed in 1986 by 'No. 10, Upping St. (which was co-produced by his former Clash mate Joe Strummer). They supported U2 on their 1987 world tour. In 1988 'Tighten Up, Vol. 88' was released, followed in 1989 by 'Megatop Phoenix'.",
@@ -9705,7 +9705,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9PITMgunwtw",
-            "Title": "Penetrate - The Message (Fubar Mix) (Explicit, 1993)",
+            "title": "Penetrate - The Message (Fubar Mix) (Explicit, 1993)",
             "Channel ID": "UC_ZBS370CjlMCM9lXITVD7w",
             "Author": "RawhausTrax / David Mast",
             "Description": "https://www.discogs.com/Penetrate-The-Message/release/1805894",
@@ -9731,7 +9731,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "YMbcrJHD34s",
-            "Title": "Modex - Shift In Progress [POLO-05]",
+            "title": "Modex - Shift In Progress [POLO-05]",
             "Channel ID": "UCByc6t1_4qS1GA7Y-5bLEzg",
             "Author": "The W.A.P Station",
             "Description": "https://www.discogs.com/Modex-Swing-Shift-EP/release/18305815  For promotional purposes only. Please email for any copyright issues and the video will be removed. https://www.instagram.com/wapstation/",
@@ -9757,7 +9757,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oOzP3lt68NQ",
-            "Title": "Exposing the True Size Of Countries",
+            "title": "Exposing the True Size Of Countries",
             "Channel ID": "UCmdhBdB4OUJ820bdI-QeecA",
             "Author": "Geo Facts",
             "Description": "Tell me which countries I should expose next in the comments  #shorts #map",
@@ -9783,7 +9783,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "7xOU5vxFV-M",
-            "Title": "Margaret Dygas - Pg 21 (Toygun & Gyx Edit)",
+            "title": "Margaret Dygas - Pg 21 (Toygun & Gyx Edit)",
             "Channel ID": "UCfHJRUpF8FlM4FQ0zUtZIMA",
             "Author": "UFO Beats",
             "Description": "128 kbps  📝 RELEASE INFO Margaret Dygas - Pg 21 (Toygun & Gyx Edit)  Year: 2021 Format: WEB release  ▶️ TRACKLIST 1. Margaret Dygas - Pg 21 (Toygun & Gyx Edit)  🔴 BUY LINKS • Bandcamp: https://toygun-hc.bandcamp.com/track/margaret-dygas-pg-21-toygun-gyx-edit  🔎 LABEL/ARTIST INFO • Soundcloud: https://soundcloud.com/toygun_hc • Facebook: https://www.facebook.com/Toygun.HC/  🛸 SOCIAL NETWORKS • FB private group: https://www.facebook.com/groups/httpswww.youtube.comcufobeats/ • Instagram: https://www.instagram.com/ufo_beats_ • Facebook: https://www.facebook.com/ufobeatss • Soundcloud: https://soundcloud.com/ufobeats06  💡 UFO Beats channel has sole rights for publication of this content.  #toygun #margaretdygas",
@@ -9809,7 +9809,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2JyJcoE-R5c",
-            "Title": "Man/ipulate - VChange [Ratiug 02]",
+            "title": "Man/ipulate - VChange [Ratiug 02]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://ratiugrecordings.bandcamp.com/album/ratiug-02 / |",
@@ -9835,7 +9835,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "dUBws5FIoBM",
-            "Title": "Juaan - Después De Eso [Ratiug 02]",
+            "title": "Juaan - Después De Eso [Ratiug 02]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://ratiugrecordings.bandcamp.com/album/ratiug-02 / |",
@@ -9861,7 +9861,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wOmpN0A1SAU",
-            "Title": "Erika Halliday - Jack Son Galaxy [Ratiug 02]",
+            "title": "Erika Halliday - Jack Son Galaxy [Ratiug 02]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://ratiugrecordings.bandcamp.com/album/ratiug-02 / |",
@@ -9887,7 +9887,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vkCkkzxG_qQ",
-            "Title": "Capo Lee - Liff (ALXZNDR's 2021 Version)",
+            "title": "Capo Lee - Liff (ALXZNDR's 2021 Version)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Album: Liff (ALXZNDR's 2021 Version) Year: 2021 Genre: Grime Label: Not on label Buy link: https://alxzndr.bandcamp.com/album/liff-alxzndrs-2021-version Discogs:  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -9913,7 +9913,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "N0QG8edAsLI",
-            "Title": "Christian Jay - Schwabylon [MMMM01]",
+            "title": "Christian Jay - Schwabylon [MMMM01]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy EU: https://badumtish.eu/products/christian-jay-wheres-miso-ep-mmmm01 👉 Get your copy UK: https://badumtish.world/products/christian-jay-wheres-miso-ep-mmmm01 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/Christian-Jay-Wheres-Miso-EP/release/18539905  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -9939,7 +9939,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "gd_YO5GlimU",
-            "Title": "Charles Ostrov - Annoked",
+            "title": "Charles Ostrov - Annoked",
             "Channel ID": "UC_xvN4CZyMlg9KqUboLLrhw",
             "Author": "ODDJOHN",
             "Description": "Charles Ostrov - Zooman EP  Artist: Charles Ostrov Label :  World Of House Catalog :   WOH 96010 Country : FR Released : 1998 Genre / Style : Electronic, House  Always a big fan of Artist that released just one EP around the 90s as there is always some interesting stuff to hear. This one starts with a tribal/percussive beat feeling till this nice filtered chord sample hits and gives straight away that 'house vibe'. He plays around with that sample throughout the track and give it a ravy rhythm with a short attack around 3:30. Also love the jazzy vibe towards the end that turns into an acid sound.  Buy & support : https://www.discogs.com/Charles-Ostrov-Zooman/release/1368838  Any request? Remove The Video? Contact me : Pampajon@gmail.com",
@@ -9965,7 +9965,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vo7aZe7EoAI",
-            "Title": "Junk - Mam Tor",
+            "title": "Junk - Mam Tor",
             "Channel ID": "UCakrn8i1Z_n0I5qlYX90l7w",
             "Author": "ORDINATEUF",
             "Description": "Junk – Mam Tor - Toko Records ‎– TOKO 2 - 1995 Join the teuf : https://bit.ly/2IkUU1x​​​​  Details : https://www.discogs.com/Junk-Mam-Tor/release/106948  Hey we also have social media just in case : https://www.facebook.com/ordinateuf/​​​​ https://www.instagram.com/ordinateuf_​​​​ https://soundcloud.com/ordinateuf  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at ordinateufasso@gmail.com",
@@ -9991,7 +9991,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "d4ZifPUByGI",
-            "Title": "Nacho Vila - Tiraiabajo [SS02]",
+            "title": "Nacho Vila - Tiraiabajo [SS02]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Support the artists: https://soundcloud.com/solidstoneuy/ss02-various-artists-brecha-tectonica-snippets/ Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -10017,7 +10017,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "z8ISa_yYN_s",
-            "Title": "Aphradan ‎– Spare A Little Time (Beef Mix)",
+            "title": "Aphradan ‎– Spare A Little Time (Beef Mix)",
             "Channel ID": "UCMqQP5RfEMScE2U5gveDztQ",
             "Author": "Floating In Space",
             "Description": "Aphradan ‎– Spare A Little Time  Label: Ruff City Recordings ‎– AND-1 Country: UK Released: 1996 Genre: Electronic Style: House  https://www.discogs.com/Aphradan-Spare-A-Little-Time/release/479884  I don't own the right to this track, the only purpose is to give credit to the artist. If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly.",
@@ -10043,7 +10043,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HkWO2o4659k",
-            "Title": "happy 1st of May",
+            "title": "happy 1st of May",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "",
@@ -10069,7 +10069,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pMnm31YHOhA",
-            "Title": "Teddy G  -  Captain Dobbey",
+            "title": "Teddy G  -  Captain Dobbey",
             "Channel ID": "UCGkzJmg31dgczktvAikK7Qg",
             "Author": "Free is in Da House",
             "Description": "1997. Flexible. Vinyl, 12\", EP Various Artists  -  Rotax Prod & Arr by Teddy Gilles Original sample: Henry Mancini - Lujon",
@@ -10095,7 +10095,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zEMkeaT_jhc",
-            "Title": "[PREMIERE] Nauer 001 - Nauer | Moon Sound [2021]",
+            "title": "[PREMIERE] Nauer 001 - Nauer | Moon Sound [2021]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality. For listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir Instagram (Some Uncertain Sir):  https://www.instagram.com/someuncertainsir Twitter (Some Uncertain Sir):  https://twitter.com/uncertainsir  • Label Info • Facebook: facebook.com/moonsoundlabel Soundcloud: www.instagram.com/moonsoundlabel Instagram: www.instagram.com/moonsound  Bandcamp: https://moonsoundlabel.bandcamp.com/album/mnsnd003-various-artists  Track: Nauer 001 Artist: Nauer Album: Moon Sound 003 Various Artists Label: Moon Sound Cat #: MNSND003  Country: Peru Year: 2021",
@@ -10121,7 +10121,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8fnPyegQEuI",
-            "Title": "Lovebase - Message (Mell O Dub) [LBASE 1]",
+            "title": "Lovebase - Message (Mell O Dub) [LBASE 1]",
             "Channel ID": "UCByc6t1_4qS1GA7Y-5bLEzg",
             "Author": "The W.A.P Station",
             "Description": "https://www.discogs.com/Lovebase-Message/release/668868  For promotional purposes only. Please email for any copyright issues and the video will be removed. https://www.instagram.com/wapstation/",
@@ -10147,7 +10147,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zWyvn83vNWg",
-            "Title": "Rockers Hi Fi - Paths of Life (On A Different Path Remix) [2021]",
+            "title": "Rockers Hi Fi - Paths of Life (On A Different Path Remix) [2021]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "Rockers Rarities 92​-​99 / Rockers Hi-Fi self-released / United Kingdom  // Remix by Whirlpool Productions //  Buy /// https://biggabush.bandcamp.com/album/rockers-rarities-92-99 Info /// https://www.discogs.com/Rockers-Hi-Fi-Rarities-92-99/release/17691973   This channel is all about sharing music we love. No copyright infringement intended. If you're the right holder and you want this removed please contact me.",
@@ -10173,7 +10173,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "khxFb_GaTQg",
-            "Title": "Midge Thompson - Middle Of The Road [MELD003]",
+            "title": "Midge Thompson - Middle Of The Road [MELD003]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://subwax.es/product/meld003/ 🎵 Follow the label: https://soundcloud.com/meldberlin 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/release/18304852  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -10199,7 +10199,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "d9co5obQXPE",
-            "Title": "Midge Thompson - Chips [MELD003]",
+            "title": "Midge Thompson - Chips [MELD003]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://subwax.es/product/meld003/ 🎵 Follow the label: https://soundcloud.com/meldberlin 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/release/18304852  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -10225,7 +10225,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nHQHUWKINFc",
-            "Title": "Carebears - Canediguerra [DOW010]",
+            "title": "Carebears - Canediguerra [DOW010]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Beatport: https://www.beatport.com/release/ladygoal/3365498  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -10251,7 +10251,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vY-R9Vxj-7g",
-            "Title": "Dr. Rhythm - Rapture",
+            "title": "Dr. Rhythm - Rapture",
             "Channel ID": "UC_xvN4CZyMlg9KqUboLLrhw",
             "Author": "ODDJOHN",
             "Description": "Dr. Rhythm - Energy / Hypnotised  EP  Artist: Dr. Rhythm Label :  Danceteria Records  Catalog :   DANCT 07 Country : UK Released : 90s Genre / Style : Electronic, House  A groovy track with robotic synth sequenced house sound from Dr. Rhythm on the Danceteria Rec, which is the parent label of Chill Rec an early 90's uk record. Love also the energetic fm bass line and this lovely 808 hi-hat setting this steady tempo through out the track.  The whole EP is kinda fast-pace apart maybe from A2 which is a bit more melodic but all this tracks do their job really well on the dancefloor.   Buy & support : https://www.discogs.com/Dr-Rhythm-Energy-Hypnotised/release/169840  Any request? Remove The Video? Contact me : Pampajon@gmail.com",
@@ -10277,7 +10277,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kpfWO3DuwpY",
-            "Title": "Sans Sucre - Ampullae Of Lorenzini [DW01]",
+            "title": "Sans Sucre - Ampullae Of Lorenzini [DW01]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Bandcamp: https://bit.ly/3eyzl9U Deejay: https://bit.ly/2R4uWTP Juno: https://bit.ly/3exuF40 Red Eye: https://bit.ly/3gGKckF Coldcuts: https://bit.ly/2RWjLx1 HHV: https://bit.ly/3nnExkM Viniil: https://bit.ly/2R4vau9 Decks: https://bit.ly/2R34yKl Clone.nl: https://bit.ly/3gMeJO3 Phonica: https://bit.ly/3sWXSue   ➤ Support the label: https://distantwaters.bandcamp.com/releases https://soundcloud.com/distantwaters https://www.instagram.com/distantwatersrecords/ / |",
@@ -10303,7 +10303,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "eG0FpVpUMuw",
-            "Title": "N2o - V 240 [EOR001]",
+            "title": "N2o - V 240 [EOR001]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://linktr.ee/Eraorarecords 🎵 Follow the label: https://soundcloud.com/eraora-records 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/fr/fr/release/17973775  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -10329,7 +10329,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OCY0cMe3zMA",
-            "Title": "SELA - 2020 Connection [PLCN002]",
+            "title": "SELA - 2020 Connection [PLCN002]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/3vxnj7J Juno: https://bit.ly/3xieeB8 Red Eye: https://bit.ly/3tSLr46 Coldcuts: https://bit.ly/3aFdAUu Viniil: https://bit.ly/2Pt2r20 KMA60: https://bit.ly/2S53pSY   ➤ Support the label: https://soundcloud.com/parallel-connection https://www.instagram.com/parallel.connection/ / |",
@@ -10355,7 +10355,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "dh5JVg61vZU",
-            "Title": "Violent Bop Generator - Sophisticated (Underground Version)",
+            "title": "Violent Bop Generator - Sophisticated (Underground Version)",
             "Channel ID": "UCakrn8i1Z_n0I5qlYX90l7w",
             "Author": "ORDINATEUF",
             "Description": "Violent Bop Generator ‎– Sophisticated - Marcon Music ‎– MRC 004 - 1993 Join the teuf : https://bit.ly/2IkUU1x​​​  Details : https://www.discogs.com/Violent-Bop-Generator-Sophisticated/release/293066  Hey we also have social media just in case : https://www.facebook.com/ordinateuf/​​​ https://www.instagram.com/ordinateuf_​​​ https://soundcloud.com/ordinateuf  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at ordinateufasso@gmail.com",
@@ -10381,7 +10381,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "YDedKnv1iXI",
-            "Title": "Aura - Puffdub",
+            "title": "Aura - Puffdub",
             "Channel ID": "UCakOpl5EnghKJbGwN7nuBmA",
             "Author": "Monsieur Mercredi",
             "Description": "🪐 South-East Londoner group Aura released this downtempo-trancey gem back in 1995.  They also dropped two CD albums \"Butterflychrysaliscaterpillar\" and \"Oranges are blue\" we recommand to play in the ISS.  --- Monsieur Mercredi is a side-project from our collective, Mercredi Records. ▶ Facebook: https://www.facebook.com/mercredirecords​ ▶ Instagram: https://www.instagram.com/mercredirec​... ▶ Soundcloud : https://soundcloud.com/mercredirecords​ ▶ Bandcamp : https://mercredirecords.bandcamp.com​ ▶ Contact: mercredirecords@gmail.com",
@@ -10407,7 +10407,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RCRb3qXJppA",
-            "Title": "High Fidelity - Abstract Disco [SM 006]",
+            "title": "High Fidelity - Abstract Disco [SM 006]",
             "Channel ID": "UCiyZfds9EbgACBuVyuONCKA",
             "Author": "patrickyooo",
             "Description": "https://www.discogs.com/High-Fidelity-Solar-Flares/master/552042",
@@ -10433,7 +10433,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "09yhnVNtGtA",
-            "Title": "BLOCKCHAIN MUSIC X - SATURN, MOON, EARTH AND MARS (MARS) [BMX001]",
+            "title": "BLOCKCHAIN MUSIC X - SATURN, MOON, EARTH AND MARS (MARS) [BMX001]",
             "Channel ID": "UC0T-EHq89hfWwhhYm356VpA",
             "Author": "BLOCKCHAIN MUSIC X",
             "Description": "https://rarible.com/token/0x259489e86dba85d9662be7656289b184419de6ca:3:0xdb8e569a9c6f38f6a8ba5ae77003e28a9bed4336 UNLOCK ONCE PURCHASED IPFS LINK TO ORIGINAL 1644 WAV MASTER  FULL TRANSFER OF OWNERSHIP AND COPYRIGHT  BMX001 BLOCKCHAIN MUSIC X - SATURN, MOON, EARTH AND MARS (MARS)  BLOCKCHAIN MUSIC X are the first ever interplanetary electronic music duo formed in 2021 on the ERC-721 ethereum blockchain by BLACK SATOSHI and HEAROES.  Likely to be considered one of the most influential artists in dance music history.  They also had success in the years following, combining elements of house music with funk, minimal, techno, disco, indie rock, pop and hip-hop.  FUCK MAJOR LABELS, FUCK EXPLOITING BLACK ARTISTS, FUCK THE GRAMMYs, SATOSHI NAKAMOTO IS THE MODERN DAY JESUS CHRIST AND IS ALSO BLACK ©  https://rarible.com/blockchainmusicx https://distrokid.com/hyperfollow/blockchainmusicx/saturn-moon-earth-and-mars-mars http://www.blockchainmusicx.com https://www.instagram.com/blockchainmusicx https://twitter.com/BLOCKCHAINBMX https://www.facebook.com/BLOCKCHAINMUSICX https://soundcloud.com/blockchainmusicx",
@@ -10459,7 +10459,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VgE1PW9_k7A",
-            "Title": "Youandewan - Slow Down feat. Art Feynman [BSU005]",
+            "title": "Youandewan - Slow Down feat. Art Feynman [BSU005]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://www.phonicarecords.com/product/youandewan-thyme-capsules-ep-pre-order-butter-side-up/171940 🎵 Follow the label: https://soundcloud.com/butter-side-up 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/Youandewan-Thyme-Capsules-EP/release/17427973  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -10485,7 +10485,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "veQubZtLcEE",
-            "Title": "Bassam - Gujan Maitresse [DKTPS01]",
+            "title": "Bassam - Gujan Maitresse [DKTPS01]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Juno: https://bit.ly/2PdPIA8 Viniil: https://bit.ly/3v8XIBK Technique: https://bit.ly/3auMfo3 Deejay: https://bit.ly/3sE8SMW Yoyaku: https://bit.ly/3n8juCP TABA: https://bit.ly/2QjhMT7 One Eye Witness: https://bit.ly/3v5rFm6 / |",
@@ -10511,7 +10511,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WqAnWkFF7uc",
-            "Title": "Dimension-X – Stage-X   [1996]",
+            "title": "Dimension-X – Stage-X   [1996]",
             "Channel ID": "UCitgRu53Tq4YKnBnEpyOrrQ",
             "Author": "151 Soundsystem",
             "Description": "https://www.discogs.com/Dimension-X-The-Mover-EP/release/973232  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at passoutjs@gmail.com.",
@@ -10537,7 +10537,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "DqvSVw3xBFM",
-            "Title": "Heerd - Balance [SG006]",
+            "title": "Heerd - Balance [SG006]",
             "Channel ID": "UCfHJRUpF8FlM4FQ0zUtZIMA",
             "Author": "UFO Beats",
             "Description": "128 kbps  📝 RELEASE INFO HEERD / NOAH SKELTON - Stomping Grounds 006 (Vinyl Only)  Label: Stomping Ground Romania / SG006 Format: Vinyl, 12\" Country: Romania Year: 2021 Genre: Electronic Style: Minimal, Tech House  ▶️ TRACKLIST A1 Heerd - Hellrot A2 Noah Skelton - Kamaals Groove B1 Noah Skelton - Persistence B2 Heerd - Balance  🔴 BUY LINKS • decks.de: https://www.decks.de/track/heerd-noah_skelton-stomping_grounds_006/chj-8z • juno: https://www.juno.co.uk/products/heerd-noah-skelton-stomping-grounds-006/813426-01/  🔎 LABEL/ARTIST INFO • Facebook: https://www.facebook.com/StompingMusic • Soundcloud: https://soundcloud.com/stomping_grounds  • Facebook: https://www.facebook.com/heerdmusic • Soundcloud: soundcloud.com/heerd  🛸 SOCIAL NETWORKS • FB private group: https://www.facebook.com/groups/httpswww.youtube.comcufobeats/ • Instagram: https://www.instagram.com/ufo_beats_ • Facebook: https://www.facebook.com/ufobeatss • Soundcloud: https://soundcloud.com/ufobeats06  💡 UFO Beats channel has sole rights for publication of this content.  #heerd",
@@ -10563,7 +10563,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "DMc1KGHifNo",
-            "Title": "Hamdi Ryder - Afterparty Echoes [EDD03]",
+            "title": "Hamdi Ryder - Afterparty Echoes [EDD03]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://eddisco.bandcamp.com/album/diaries-of-the-xtndd-ep / |",
@@ -10589,7 +10589,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vK9WJTit7W8",
-            "Title": "The 3 Amigos - Quatro",
+            "title": "The 3 Amigos - Quatro",
             "Channel ID": "UCakrn8i1Z_n0I5qlYX90l7w",
             "Author": "ORDINATEUF",
             "Description": "The 3 Amigos ‎– 3 AM - Not On Label ‎– 3AM 1 - 1992 Join the teuf : https://bit.ly/2IkUU1x​​  Details : https://www.discogs.com/The-3-Amigos-3-AM/release/820055  Hey we also have social media just in case : https://www.facebook.com/ordinateuf/​​ https://www.instagram.com/ordinateuf_​​ https://soundcloud.com/ordinateuf  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at ordinateufasso@gmail.com",
@@ -10615,7 +10615,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9LgEsJBJtkQ",
-            "Title": "[PREMIERE] Disappear - Eversines | Nous'Klaer Audio [2021]",
+            "title": "[PREMIERE] Disappear - Eversines | Nous'Klaer Audio [2021]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality. For listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir Instagram (Some Uncertain Sir):  https://www.instagram.com/someuncertainsir Twitter (Some Uncertain Sir):  https://twitter.com/uncertainsir  • Label Info • Facebook: https://www.facebook.com/nousklaeraudio Soundcloud: https://soundcloud.com/nousklaeraudio  Bandcamp: https://nousklaer.bandcamp.com/  Discogs: https://www.discogs.com/Eversines-Companionship/release/17971453  Juno: https://www.juno.co.uk/products/eversines-companionship/816019-01/ Coldcuts: https://www.coldcutshotwax.uk/products/eversines-companionship Deejay: https://www.deejay.de/Eversines_Companionship_NOUSWS4_Vinyl__970968 3345: https://3345.nl/products/eversines-companionship Juno: https://www.juno.co.uk/products/eversines-companionship/816019-01/ Rushhour: https://www.rushhour.nl/record/vinyl/companionship-0   Track: Disappear Artist: Eversines Album: Companionship Label: Nous'Klaer Audio Cat #: NOUSWS4 Country: Netherlands Year: 2021",
@@ -10641,7 +10641,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SPprMK_t7K8",
-            "Title": "Maurizio-Ploy(UR mix)",
+            "title": "Maurizio-Ploy(UR mix)",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://www.discogs.com/ko/M%C3%A5urizi%C3%B6-Ploy/release/7884804",
@@ -10667,7 +10667,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PMysF8pb1Ok",
-            "Title": "Expedition Zero - Ultra Hi [2001]",
+            "title": "Expedition Zero - Ultra Hi [2001]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "Ultra Hi / Citadel Records / Russia  https://www.discogs.com/Expedition-Zero-Ultra-Hi/release/214448   This channel is all about sharing music we love. No copyright infringement intended. If you're the right holder and you want this removed please contact me.",
@@ -10693,7 +10693,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kTiRT2nb4vU",
-            "Title": "Alec Falconer - Anna Notherthing [JISUL03]",
+            "title": "Alec Falconer - Anna Notherthing [JISUL03]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://badumtish.world/products/alec-falconer-turbo-faff-ep-jisul03 🎵 Follow the label: https://soundcloud.com/badumtishworld 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/Alec-Falconer-Turbo-Faff/release/18106960  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -10719,7 +10719,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vVNl15oq44g",
-            "Title": "Alec Falconer - They Buy Axe [JISUL03]",
+            "title": "Alec Falconer - They Buy Axe [JISUL03]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://badumtish.world/products/alec-falconer-turbo-faff-ep-jisul03 🎵 Follow the label: https://soundcloud.com/badumtishworld 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/Alec-Falconer-Turbo-Faff/release/18106960  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -10745,7 +10745,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xcgnddXxOE0",
-            "Title": "Alec Falconer - Turbo Faff [JISUL03]",
+            "title": "Alec Falconer - Turbo Faff [JISUL03]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://badumtish.world/products/alec-falconer-turbo-faff-ep-jisul03 🎵 Follow the label: https://soundcloud.com/badumtishworld 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/Alec-Falconer-Turbo-Faff/release/18106960  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -10771,7 +10771,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "k5tcVApqzVg",
-            "Title": "Öland4",
+            "title": "Öland4",
             "Channel ID": "UC8sOILjc7c7l-xWngX5HoGg",
             "Author": "tswp",
             "Description": "",
@@ -10797,7 +10797,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-1kYD4KNAww",
-            "Title": "New Members-Calippo",
+            "title": "New Members-Calippo",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://newmembers.bandcamp.com/album/equinox-ep-new001",
@@ -10823,7 +10823,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "CEchkontH9w",
-            "Title": "John FM — February",
+            "title": "John FM — February",
             "Channel ID": "UCJL4Ah14uTR0Pph-aX-L4aw",
             "Author": "John FM",
             "Description": "Written & produced by John FM Directed by Omar-S From American Spirit EP Available now via XL Recordings: https://john-fm.ffm.to/american-spirit @massabuilda",
@@ -10849,7 +10849,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "a40EN_OFejw",
-            "Title": "Digregorius - Cuesta E Magia [LUTZIFER 02]",
+            "title": "Digregorius - Cuesta E Magia [LUTZIFER 02]",
             "Channel ID": "UCByc6t1_4qS1GA7Y-5bLEzg",
             "Author": "The W.A.P Station",
             "Description": "https://www.discogs.com/Various-Lutzifer-II/release/15952175  For promotional purposes only. Please email for any copyright issues and the video will be removed. https://www.instagram.com/wapstation/",
@@ -10875,7 +10875,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Hc1uICwcRTU",
-            "Title": "Unknown Artist - Dg [SUS003]",
+            "title": "Unknown Artist - Dg [SUS003]",
             "Channel ID": "UCwJU7RlVLHRXxOmXvGmP8qA",
             "Author": "storytellers",
             "Description": "Unknown - SUS003 Release Date: 29th March 2021  Support the artist and label, buy link Deejay.de ➟ https://bit.ly/3fE4kDp Bandcamp ➟ https://bit.ly/3DpEZbM  Tracklist SUS003  A1:  Connecting Our Mind With The Universe A2:  Dg B1:  Diving Engine B2:  There's A Monster Under My Bed  ⋉ Sanguina Records https://www.facebook.com/sanguinarec https://soundcloud.com/sanguinarecords  #Unknown #SanguinaRecords",
@@ -10901,7 +10901,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cT_O6kYADCM",
-            "Title": "Naone - Spaceduck",
+            "title": "Naone - Spaceduck",
             "Channel ID": "UC73-NQCvIQ4FOnhgvzlS6gA",
             "Author": "Sound Station Strategy",
             "Description": "Naone - Falling Sun + Bliss Inc Remix (Forthcoming May 14, 2021). Label: Unknown To The Unknown. Pre-Order on Naone Bandcamp (Vinyl/Digital): https://naone.bandcamp.com/album/falling-sun-bliss-inc-remix  +  http://www.soundstationstrategy.com Follow us on Facebook:  https://www.facebook.com/soundstationstrategy  Follow us on Instagram: https://www.instagram.com/soundstationstrategy Support us on Patreon:   https://www.patreon.com/soundstationstrategy",
@@ -10927,7 +10927,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "B4C0m7VqF0U",
-            "Title": "Debug using Logpoints",
+            "title": "Debug using Logpoints",
             "Channel ID": "UCs5Y5_7XK8HLDX0SLNwkd3w",
             "Author": "Visual Studio Code",
             "Description": "Log points are like breakpoints 🔴 but instead of “breaking”, they print a message to the console ✍🏽",
@@ -10953,7 +10953,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3aJPJCusoy4",
-            "Title": "Gjidoda Jr. & ILjiR - Hit Strike [GMV01]",
+            "title": "Gjidoda Jr. & ILjiR - Hit Strike [GMV01]",
             "Channel ID": "UCZNyqn4nRF0VP7vzGdFv2_Q",
             "Author": "THYME",
             "Description": "Release: unknown Artists: Gjidoda Music Label: Gjidoda Music Cat: GMV01 Buy: https://www.deejay.de/Gjidoda_Music_Kung_Fu_GMV01_Vinyl__968180   Gjidoda Music https://soundcloud.com/gjidoda-music?fbclid=IwAR2PeeFRJxRtDPNJp2SCFDhtHAUMv9S6JB5AkOkySUE2HuiaF8OpVX7kMzg        THYME https://soundcloud.com/thymepromo",
@@ -10979,7 +10979,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "o_SS6snjsOc",
-            "Title": "S.M.I².L.E. - Glade (1997)",
+            "title": "S.M.I².L.E. - Glade (1997)",
             "Channel ID": "UC4vkDmheBGKCBb6sfWItN8Q",
             "Author": "Zaqaria",
             "Description": "https://www.discogs.com/SMI%C2%B2LE-Glade-Sumer/master/43972",
@@ -11005,7 +11005,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "S54izOWFlXk",
-            "Title": "At Once - Sea Dreams [2000]",
+            "title": "At Once - Sea Dreams [2000]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "The Best Of Russian Groove & Tune House / Grand Records / Russia  Pitch :+2%  https://www.discogs.com/Various-The-Best-Of-Russian-Groove-Tune-House/release/1323342   This channel is all about sharing music we love. No copyright infringement intended. If you're the right holder and you want this removed please contact me.",
@@ -11031,7 +11031,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ekFc_Isgq5s",
-            "Title": "Convoke - Parsec | Circular Orbit Records [2001]",
+            "title": "Convoke - Parsec | Circular Orbit Records [2001]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality. For listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir Instagram (Some Uncertain Sir):  https://www.instagram.com/someuncertainsir Twitter (Some Uncertain Sir):  https://twitter.com/uncertainsir  Discogs: https://www.discogs.com/Parsec-Evolved-Era-Convoke/release/146341?ev=item-vc  Track: Convoke Artist: Parsec Album: Evolved Era / Convoke Label: Circular Orbit Records  Cat #: COR001 Country: UK Year: 2001",
@@ -11057,7 +11057,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wbRXvYkLkYg",
-            "Title": "FSK24 & Felix Dulac - Gorilla Jam [LDDJ003]",
+            "title": "FSK24 & Felix Dulac - Gorilla Jam [LDDJ003]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://lesdisquesdelajungle.bandcamp.com/ 🎵 Follow the label: https://soundcloud.com/lesdisquesdelajungle 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/label/1690022-Les-Disques-De-La-Jungle  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -11083,7 +11083,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0mUqFuCbNzU",
-            "Title": "FSK24 & Nils - The Sea Peoples [LDDJ003]",
+            "title": "FSK24 & Nils - The Sea Peoples [LDDJ003]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://lesdisquesdelajungle.bandcamp.com/ 🎵 Follow the label: https://soundcloud.com/lesdisquesdelajungle 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/label/1690022-Les-Disques-De-La-Jungle  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -11109,7 +11109,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZgIgIGqg7hY",
-            "Title": "Omnichrome feat. J. Ax & Sexy P. - Paradise (I Feel You) (Latino Age)",
+            "title": "Omnichrome feat. J. Ax & Sexy P. - Paradise (I Feel You) (Latino Age)",
             "Channel ID": "UCVkZaQzmX-NgOxj4h0ib1Aw",
             "Author": "No Frills",
             "Description": "Record: https://www.discogs.com/Omnichrome-Featuring-J-Ax-2-Sexy-P-Paradise-I-Feel-You/release/1566356 No_Frills IG: https://www.instagram.com/n0_frills/?...​... No_Frills SC: https://soundcloud.com/no_frills  Label: European Rhythm ‎– ERM 1191 Format: Vinyl, 12\"  Country: Italy Released: 199?  Genre: Electronic Style: House, Deep House  Tracklist:  A1 Paradise (I Feel You) (Paradise Mix) A2 Paradise (I Feel You) (Latino Age)  B1 Paradise (I Feel You) (U.K.Mix)  B2 Paradise (I Feel You) (Club Mix)",
@@ -11135,7 +11135,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "q3hFqR3EWoU",
-            "Title": "Baaz - Even (2008)",
+            "title": "Baaz - Even (2008)",
             "Channel ID": "UCZxn5Z76oi9MqN1MAJDiNwg",
             "Author": "sonictextures",
             "Description": "Elevate ‎– EL005  (2008)",
@@ -11161,7 +11161,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rbi27VnAD8E",
-            "Title": "Boink - Hahaha",
+            "title": "Boink - Hahaha",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Support the artist: https://bboink.bandcamp.com/album/walkin-easy-ep Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -11187,7 +11187,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "x6v8y6n4xac",
-            "Title": "Kiddmisha - Untitled_1",
+            "title": "Kiddmisha - Untitled_1",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow Kiddmisha: https://soundcloud.com/kiddmisha 🎵 Buy Record: https://kiddmisha.bandcamp.com/album/cash-machine 🚀 More music: https://soundcloud.com/dofunkk    - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -11213,7 +11213,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TavNwjxSOQU",
-            "Title": "Crunch-Devo",
+            "title": "Crunch-Devo",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality.  👉groovesegment@gmail.com  https://www.discogs.com/Crunch-Devo/master/182470  Beast from early 90ss⚡",
@@ -11239,7 +11239,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MgR2CPn5m0A",
-            "Title": "Unknown - Valmy [2021]",
+            "title": "Unknown - Valmy [2021]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "VSX004 / Visolux / France  Buy your ticket : https://visolux.bandcamp.com/track/valmy  Kepler-129 presents: VSX004  \"Bzz…Bzzz…VISOLUX probe signals a discovery to the central tower…Bzzz…Bzzzz.. Data confirmed : a new celestial object has been detected.  Capture of the sound signature engaged.  As soon as it enters orbit, the planet VALMY stands out for its exceptional warmth - it seems to be frozen in a constant, scorching summer. Average temperature already at 80 keplerus degrees according to our on-board thermometer. The telescope has also spotted acid-volcanic eruptions all around its surface. They are visible to the naked eye from space and emanate from the scarlet craters in its rocky layer. Above all, they emit a warm, round sound that surrounds and energise the listener.  Our hypothesis is that the tempo of these explosions is dictated by the pulsation of Valmy's core: a powerful heart that beats with a rapid and generous cadence, as it sets the entire surface in motion with each breath. Seen from space, Valmy is like a huge choir: its entire surface resonates in a great, warm, volcanic concert.  Capture of the sound signature completed. Transfer completed. Download available. \"  A secret player enters the game for this 4th ways into VISOLUX serie...  Mastered by TC80 Art by dr.c   ****  Kepler-129 présente : VSX004  \" Bzz...Bzzz…”La sonde VISOLUX signale à la tour centrale une découverte… Bzzz...Bzzzz.. Information confirmée : un nouveau corps planétaire a été détecté. Identifiant d’archivage suggéré : VALMY.  Captation de la signature sonore enclenchée.  Dès l’entrée en orbite, la planète VALMY se signale par son exceptionnelle chaleur - elle semble figée dans un été constant et caniculaire. Selon notre thermomètre embarqué, la température moyenne dépasse dès l’orbite les 80 degrés képlérus. Le télescope a également repéré des éruptions acido-volcaniques qui parcourent toute sa surface. Elles sont visibles à l'œil nu depuis l’espace et émanent des cratères écarlates de sa couche rocheuse. Surtout, elles émettent un son chaud et rond, qui entoure et énergise l’auditeur.  Notre hypothèse est que le tempo de ces explosions est dicté par la pulsation du noyau de Valmy : un cœur puissant qui bat d’une cadence rapide et généreuse, puisqu’il met en branle toute la surface à chaque respiration. Vu de l’espace, Valmy fait l’effet d’une immense chorale : toute sa surface résonne en un grand concert chaleureux et volcanique.  Captation de la signature sonore terminée. Transfert effectué. Téléchargement disponible.\"  Masterisé par TC80 Visuel par dr.c",
@@ -11265,7 +11265,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "7JtTCYR_nPw",
-            "Title": "JB - DIZZEE'S DRIFT TO TOKYO [PG002]",
+            "title": "JB - DIZZEE'S DRIFT TO TOKYO [PG002]",
             "Channel ID": "UCA0vBiBq_HNx1iBiW3kxogQ",
             "Author": "RAVE SYNDICATE",
             "Description": "SUPPORT LABELS AND ARTISTS! SUPPORT THE SCENE!  BUY HERE: https://plangmusic.bandcamp.com/music",
@@ -11291,7 +11291,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_PNnbBUsM8E",
-            "Title": "Scott Hallam -- Forgotten Moments",
+            "title": "Scott Hallam -- Forgotten Moments",
             "Channel ID": "UCcHqeJgEjy3EJTyiXANSp6g",
             "Author": "ballacid",
             "Description": "Scott Hallam - Forgotten Moments Cartulis Music - CRTL013 Vinyl 12' 2021, UK  Buy Here: https://www.rekkids.co.uk/scott-hallam---forgotten-moments-ep-pre-order  https://www.hhv.de/shop/en/item/scott-hallam-forgotten-moments-782806  https://coldcutshotwax.uk/products/scott-hallam-forgotten-moments-ep  https://juno.co.uk/products/scott-hallam-forgotten-moments/800236-01/  https://deejay.de/Scott_HALLAM_Forgotten_Moments_CRTL013_Vinyl__964732  https://one-eye-witness.com/release/1605275060/Scott-Hallam-Forgotten-Moments  https://www.decks.de/track/scott_hallam-forgotten_moments/chz-kn  https://redeyerecords.co.uk/vinyl/129453-crtl-013-scott-hallam-forgotten-moments  Scott Hallam: https://discogs.com/artist/1501336-Scott-Hallam https://facebook.com/theacidhouse88/ http://scotthallam.co.uk/  Cartulis Music: https://soundcloud.com/cartulisday/ https://facebook.com/cartulis.day/ https://discogs.com/label/598048-Cartulis-Music",
@@ -11317,7 +11317,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WlQKvCh-l5w",
-            "Title": "Arnic - Tale 5 [BANDIT TALES VOL​.​2]",
+            "title": "Arnic - Tale 5 [BANDIT TALES VOL​.​2]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://arnic.bandcamp.com/album/bandit-tales-vol-2 / |",
@@ -11343,7 +11343,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0Lhkznbvrhs",
-            "Title": "Amanda Lear - Bewitched (Instrumental Dub)",
+            "title": "Amanda Lear - Bewitched (Instrumental Dub)",
             "Channel ID": "UC5b23oXOHUGure_I8yuHRIA",
             "Author": "Bâlearique",
             "Description": "https://www.discogs.com/Various-Untitled/release/6443718",
@@ -11369,7 +11369,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "isC4CX5PtYs",
-            "Title": "Space 1 - 4 Peace 4 Unity (4 A.M.) (Mixed by Massimino)",
+            "title": "Space 1 - 4 Peace 4 Unity (4 A.M.) (Mixed by Massimino)",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "https://www.facebook.com/sleeplesssssssssssss",
@@ -11395,7 +11395,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "69cHGzL_HAM",
-            "Title": "Soundtrack Of Feelings - Zippel | Kematiky Records [2021]",
+            "title": "Soundtrack Of Feelings - Zippel | Kematiky Records [2021]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality. For listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir Instagram (Some Uncertain Sir):  https://www.instagram.com/someuncertainsir Twitter (Some Uncertain Sir):  https://twitter.com/uncertainsir  Label: Soundcloud: https://soundcloud.com/kematikyrecords Facebook : https://www.facebook.com/kematikyrecords instagram: https://www.instagram.com/kematikyrecords/  Arttist: Soundcloud: https://soundcloud.com/zippelmusic Facebook: https://www.facebook.com/ZippelMusic instagram: https://www.instagram.com/zippelmusic/  Track: Soundtrack Of Feelings Artist: Zippel Album: KMY008 - Various Artists Label: Kematiky Records Cat #: KMY008 Country: Brazil Year: 2021",
@@ -11421,7 +11421,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "W5EciytD2bc",
-            "Title": "NTFO - Adjuvant Register [CS027]",
+            "title": "NTFO - Adjuvant Register [CS027]",
             "Channel ID": "UCfHJRUpF8FlM4FQ0zUtZIMA",
             "Author": "UFO Beats",
             "Description": "128 kbps  📝 RELEASE INFO NTFO ‎– Metodic EP  Label: Constant Sound ‎– CS027 Format: Vinyl, 12\" Country: UK Year: 2021 Genre: Electronic Style: Minimal, Tech House  ▶️ TRACKLIST A1 Metodic  A2 Adjuvant Register  B1 Candva Cumva  🔴 BUY LINKS • redeye: https://www.redeyerecords.co.uk/vinyl/128940-cs-027-ntfo-metodic • phonica: https://www.phonicarecords.com/product/ntfo-metodic-constant-sound/170467 • deejay.de: https://www.deejay.de/NTFO_Metodic_CS027_Vinyl__963742 • juno: https://www.juno.co.uk/products/ntfo-metodic/796598-01/  🔎 LABEL/ARTIST INFO • Facebook: https://www.facebook.com/constantsoundrecords • Soundcloud: https://soundcloud.com/constantsound  • Facebook: https://www.facebook.com/NTFOmusic • Soundcloud: https://soundcloud.com/ntfo  🛸 SOCIAL NETWORKS • FB private group: https://www.facebook.com/groups/httpswww.youtube.comcufobeats/ • Instagram: https://www.instagram.com/ufo_beats_ • Facebook: https://www.facebook.com/ufobeatss • Soundcloud: https://soundcloud.com/ufobeats06  💡 UFO Beats channel has sole rights for publication of this content.  #NTFO #constantsound",
@@ -11447,7 +11447,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "UpNXvB2BIuQ",
-            "Title": "Phrenic - Mischa ($tinkworx' Italo Mix)",
+            "title": "Phrenic - Mischa ($tinkworx' Italo Mix)",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "https://www.facebook.com/sleeplesssssssssssss",
@@ -11473,7 +11473,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "23cphvBibn0",
-            "Title": "Lerosa - Pledge [WLTD002]",
+            "title": "Lerosa - Pledge [WLTD002]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://weltdiscos.bandcamp.com/album/kiss-me-again-ep-wltd002 🎵 Follow the label: https://soundcloud.com/weltdiscos 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/Lerosa-Kiss-Me-Again/release/17986942  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -11499,7 +11499,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LrUfzxJT-V0",
-            "Title": "Lerosa - Universal Balance [WLTD002]",
+            "title": "Lerosa - Universal Balance [WLTD002]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://weltdiscos.bandcamp.com/album/kiss-me-again-ep-wltd002 🎵 Follow the label: https://soundcloud.com/weltdiscos 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/Lerosa-Kiss-Me-Again/release/17986942  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -11525,7 +11525,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nJfYS6t0PAU",
-            "Title": "Justin David - To Whom It May Concern (1997)",
+            "title": "Justin David - To Whom It May Concern (1997)",
             "Channel ID": "UC58C_BhzlZIJTeomuVSD2lA",
             "Author": "Houseum",
             "Description": "If any of the legal owners does not want their music on my YouTube channel please contact me by email (houseum.copyright.issues@gmail.com) and I will remove immediately on request. Please do not just strike my channel!   I always put up upcoming and exclusive tracks online (that aren't already on the Internet), but why not also tracks from the past? So every Saturdays this year I will be posting pieces that I have dug up over the past ten years that deserve to be seen more.  Here is the playlist: https://bit.ly/3dNDVBL  Label: Future Monument Artist: Justin David  Country: UK Format: Vinyl Cat. Number: FMT 006 EP Title: Dödskallar Och Korallrev Release Date: 1997 Grab your Vinyl: https://www.discogs.com/fr/Justin-David-Acoustic-Mass/release/36218  Future Monument: https://www.discogs.com/fr/label/5407-Future-Monument  Justin David: https://www.discogs.com/fr/artist/27970-Justin-David  Photo taken by Joe Armitage https://www.instagram.com/boneshakerphotography --------------------------------------------------------------------------------------------------------------------------------------------------------------- Houseum: https://houseum.fr https://soundcloud.com/houseum https://www.facebook.com/houseum.yt https://www.instagram.com/houseumrecords https://houseum.yt@gmail.com",
@@ -11551,7 +11551,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2YNPBmz3E8E",
-            "Title": "Gemini - Purification Of My Beat",
+            "title": "Gemini - Purification Of My Beat",
             "Channel ID": "UCQXo3gUR_a3Klx2cycKFTAw",
             "Author": "Dance, Shake, Swing!",
             "Description": "K Sunny Minimal House! Spain, 1998, Tech House, Deep, Minimal",
@@ -11577,7 +11577,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qz33OHSbaKw",
-            "Title": "Elektrostar - Love On The Rocks (Matthias Schaffhäuser Club Mix Part I & II) [1998]",
+            "title": "Elektrostar - Love On The Rocks (Matthias Schaffhäuser Club Mix Part I & II) [1998]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "Love On The Rocks / WEA Records / Germany  Pitch : +3%   Part I : Indoubt / 5:50 / Part II : Indeed   https://www.discogs.com/Elektrostar-Love-On-The-Rocks/release/118451   This channel is all about sharing music we love. No copyright infringement intended. If you're the right holder and you want this removed please contact me.",
@@ -11603,7 +11603,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8qOYbyfkkMs",
-            "Title": "Hyper U - 13 Min Before Now",
+            "title": "Hyper U - 13 Min Before Now",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "https://www.facebook.com/sleeplesssssssssssss",
@@ -11629,7 +11629,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "i46iewMbBnE",
-            "Title": "Tj Trampa - Picula De Terror [LUTZIFER II]",
+            "title": "Tj Trampa - Picula De Terror [LUTZIFER II]",
             "Channel ID": "UC8sOILjc7c7l-xWngX5HoGg",
             "Author": "tswp",
             "Description": "Buy the record and support the label and artist. Uploaded in low res. 192 kbps. Will be removed immediately upon request.",
@@ -11655,7 +11655,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "o88loWw24D0",
-            "Title": "Duplex - Doggin'",
+            "title": "Duplex - Doggin'",
             "Channel ID": "UCm_mpkdjqunXZQv0bIzJntg",
             "Author": "Bastos la Supercherie",
             "Description": "Ground Zero ‎– GZ 002 Format : Vinyl, 12\", 33 ⅓ RPM Country : Netherlands Sortie : 2001 Genre : Electronic Style : Techno, Electro   https://www.discogs.com/fr/Duplex-Autosave/release/39823  Low bitrate / Not for Club use",
@@ -11681,7 +11681,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "AwRzFP-4rXE",
-            "Title": "Break Da Loneliness",
+            "title": "Break Da Loneliness",
             "Channel ID": "UC9x3JQh0HcN-98gyJR3FyoQ",
             "Author": "Theo Dher",
             "Description": "Martin Solveig Featuring Barb ‎– Break Da EP Sello: Mixture Stereophonic ‎– MXT01 Formato: Vinyl, 12\", EP, 33 ⅓ RPM País: France Publicado: 1998 Género: Electronic Estilo: House, Deep House, Tech House",
@@ -11707,7 +11707,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZSPxZiBZ5w4",
-            "Title": "D.A.B - Rectro [2021]",
+            "title": "D.A.B - Rectro [2021]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "The Nineties Class E.P / Tribe Recordings / Spain  Available @ ///  https://kma60.com/product/d-a-b-the-nineties-class-ep https://bordelloaparigi.com/shop/vinyl/d-a-b-the-nineties-class-ep/ https://clone.nl/item62913.html https://www.kristinarecords.com/new-arrivals/dab-the-nineties-class-ep  Release info /// https://www.discogs.com/DAB-The-Nineties-Class-EP-/release/17210827   This channel is all about sharing music we love. No copyright infringement intended. If you're the right holder and you want this removed please contact me.",
@@ -11733,7 +11733,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "L0rc1Dy0XNs",
-            "Title": "Morose-Holy ghost",
+            "title": "Morose-Holy ghost",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low in low bitrate. 👉groovesegment@gmail.com  https://www.discogs.com/ko/Deep-System-Morose-MINERAL01/release/17959627  https://kalaharioystercult.bandcamp.com/album/mineral-cuts-01",
@@ -11759,7 +11759,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "DvJKqDaNXcg",
-            "Title": "Quick & Smart - Ilmenow",
+            "title": "Quick & Smart - Ilmenow",
             "Channel ID": "UCnM7ltulCzlVAomV3GaFLzw",
             "Author": "records diet",
             "Description": "https://www.discogs.com/Quick-Smart-My-Circuits/release/107845 All music uploaded is taken from my private collection. Show some love to my SC - https://soundcloud.com/virgiliov",
@@ -11785,7 +11785,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4luOmm8LjZI",
-            "Title": "TC80 - Nishiazabu [SHTG004]",
+            "title": "TC80 - Nishiazabu [SHTG004]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://bit.ly/3cTrYsA   ➤ Release info: https://www.discogs.com/Oskar-Offermann-TC80-Split/release/17867788   ➤ Support the label: https://shotgunimprint.bandcamp.com/ https://www.instagram.com/shotgun_imprint/ https://soundcloud.com/shotgunrec / |",
@@ -11811,7 +11811,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Cd16KtUJt0A",
-            "Title": "King Of Brazil - Forms Of Expression (Deep Down Dub) [1993]",
+            "title": "King Of Brazil - Forms Of Expression (Deep Down Dub) [1993]",
             "Channel ID": "UCzDX4m-uZm5BhF6BbQXAXcA",
             "Author": "Loaded",
             "Description": "1993 // Groove Records // UK B1 | Forms Of Expression (Deep Down Dub Mix) https://www.discogs.com/King-Of-Brazil-Forms-Of-Expression/release/521873",
@@ -11837,7 +11837,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "J6DNhbUsKlI",
-            "Title": "Peach Palf - The Jack Off Hour Tight",
+            "title": "Peach Palf - The Jack Off Hour Tight",
             "Channel ID": "UCnM7ltulCzlVAomV3GaFLzw",
             "Author": "records diet",
             "Description": "https://www.discogs.com/Peach-Palf-The-Jack-Off-Hour/release/105059 All music uploaded is taken from my private collection. Show some love to my SC - https://soundcloud.com/virgiliov",
@@ -11863,7 +11863,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cuWERcBIHTc",
-            "Title": "Akilah - I Wanna Have Everything (Dub Universe) [1993]",
+            "title": "Akilah - I Wanna Have Everything (Dub Universe) [1993]",
             "Channel ID": "UCzDX4m-uZm5BhF6BbQXAXcA",
             "Author": "Loaded",
             "Description": "1993 // Mucho Vinyl // UK A1 | I Wanna Have Everything (Dub Universe) https://www.discogs.com/Akilah-I-Wanna-Have-Everything/master/397043",
@@ -11889,7 +11889,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IfUy1K3H8dQ",
-            "Title": "Danmass - Drug",
+            "title": "Danmass - Drug",
             "Channel ID": "UCakrn8i1Z_n0I5qlYX90l7w",
             "Author": "ORDINATEUF",
             "Description": "Danmass - Drug - Drugs & Hospitals E.P. - Dust 2 Dust Records ‎– SPEC 108 - 1997 Join the teuf : https://bit.ly/2IkUU1x​  Details : https://www.discogs.com/Danmass-Drugs-Hospitals-EP/release/453088  Hey we also have social media just in case : https://www.facebook.com/ordinateuf/​ https://www.instagram.com/ordinateuf_​ https://soundcloud.com/ordinateuf  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at ordinateufasso@gmail.com",
@@ -11915,7 +11915,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "omV81GROSFM",
-            "Title": "Unknown - Okay kids?!!!",
+            "title": "Unknown - Okay kids?!!!",
             "Channel ID": "UCQXo3gUR_a3Klx2cycKFTAw",
             "Author": "Dance, Shake, Swing!",
             "Description": "Sick AF... UK 2000, Breaks, UKG",
@@ -11941,7 +11941,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "n4StjUY17z4",
-            "Title": "Carlos Bendekos & Chinco Franco ‎– Dropping Science [1995]",
+            "title": "Carlos Bendekos & Chinco Franco ‎– Dropping Science [1995]",
             "Channel ID": "UCzDX4m-uZm5BhF6BbQXAXcA",
             "Author": "Loaded",
             "Description": "1995 // Nachos Records // US B2 - Dropping Science https://www.discogs.com/Carlos-Bendekos-And-Chinco-Franco-Dropping-Science-EP/release/426161",
@@ -11967,7 +11967,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6aNHAG-voh8",
-            "Title": "Robin Scholz - Is Anybody Feeling Freaky?",
+            "title": "Robin Scholz - Is Anybody Feeling Freaky?",
             "Channel ID": "UCH2ykOuivtAfbhcgLp4et6Q",
             "Author": "The Orange Room",
             "Description": "Robin Scholz, 2017 https://www.discogs.com/Various-Joint-Effort-EP/release/9322468  Message me if you own this and would like me to take it down!",
@@ -11993,7 +11993,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "elXc31VDOlE",
-            "Title": "Introducing the second-gen Nest Hub from Google",
+            "title": "Introducing the second-gen Nest Hub from Google",
             "Channel ID": "UCIG1k8umaCIIrujZPzZPIMA",
             "Author": "Made by Google",
             "Description": "More control, more entertainment, more help comes with every part of the day on the second generation Nest Hub from Google.  📺Effortlessly enjoy all your entertainment. Catch up on your favorite shows, watch YouTube videos, and listen to music on the new Nest Hub's enhanced speaker. See what's playing right on the display and play and pause your content with a tap, quick gesture, or \"Hey Google.\"  🏠Whole-home control. Turn on the lights, lock the doors, change the temperature all with a tap. The new Nest Hub works with thousands of compatible devices so you can even see who’s at the front without having to be there. Just say, “Hey Google, show me the front door camera.”  🏃‍♂️Busy days call for easy coordination. You’ll find all the info you need on your display from your calendar to reminders so you can see everything you need to stay on track with just a glance. Ask for the weather or anything else that you might need with just “Hey Google.”  🍽️When it’s time to bring everyone at home together, make it easy and just say, “Hey Google, broadcast, ‘it’s dinnertime’” and everyone will get the message on their Nest speakers and displays.   🌞Rise and shine. With Sunrise Alarms, you’ll get a gentler-than-ever wake-up as the display gradually brightens and the alarm clock increases in volume. Combined with Sleep Sensing and Your Evening page, the new Nest Hub will help you wind down easily and wake up more rested. Try a free preview for Sleep Sensing: http://goo.gle/3vw7C15  Pre-order the second-gen #NestHub at GoogleStore.com: http://goo.gle/2OS1VKa  -- Follow us on social: Made By Google Facebook: https://www.facebook.com/madebygoogle Made By Google Twitter: https://twitter.com/madebygoogle Made By Google Instagram: https://www.instagram.com/madebygoogle Google Nest Facebook: https://facebook.com/googlenest",
@@ -12019,7 +12019,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NBzMugzq0pw",
-            "Title": "U-Lab - You & Me (Asterhour Club Mix) [TP3003]",
+            "title": "U-Lab - You & Me (Asterhour Club Mix) [TP3003]",
             "Channel ID": "UCJnIY90jZpk6TVQcCkAJTEQ",
             "Author": "Inside Rhythm",
             "Description": "For promotional purpose only. Any copyright issues please email insiderhythm@gmail.com  Artist: U-Lab ‎ Release title: You & Me Label: Trend  Year: 1993  Buy: https://www.discogs.com/fr/U-Lab-You-Me/release/15369628  Follow us on Soundcloud: https://soundcloud.com/insiderhythm",
@@ -12045,7 +12045,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JfAHEYzw7cU",
-            "Title": "Tam Tam - See Me Touch Me (Space Mix) (Italy, 1991)",
+            "title": "Tam Tam - See Me Touch Me (Space Mix) (Italy, 1991)",
             "Channel ID": "UCiO1Yza1hn7yptB88h3ighA",
             "Author": "Benito Bonito",
             "Description": "Discogs comment said \"Untitled\" is the best tune on that ep.. Bullshit imo.  https://www.discogs.com/de/Tam-Tam-See-Me-Touch-Me/release/1065819  Promotional purposes only, please contact me via my channel info if you want me to take the video down!",
@@ -12071,7 +12071,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "myD1Gqh7-Jg",
-            "Title": "Carol Bailey - Dreams (Instrumental Mix)",
+            "title": "Carol Bailey - Dreams (Instrumental Mix)",
             "Channel ID": "UC3p1aPxkoKHbPLHsV3eMmTQ",
             "Author": "Cheap Records Diggers",
             "Description": "Label: DFC ‎– DFC 105 Format: Vinyl, 12\", 33 ⅓ RPM Country: Italy Released: 1992 Genre: Electronic Style: Euro House, Italo House  We do not own any copyrights for this track, so if you want us to remove it please send us a message and it will be done ASAP! Cheers   Release: https://www.discogs.com/Carol-Bailey-Dreams/release/604070  Follow us: https://www.facebook.com/CheapRecordsDiggers/",
@@ -12097,7 +12097,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "yYI06sXsuN8",
-            "Title": "The Trip - Big Trouble [NUIT006]",
+            "title": "The Trip - Big Trouble [NUIT006]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: http://hyperurl.co/NUIT006 🎵 Follow the label: http://soundcloud.com/nuancesdenuit 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/Various-Nuances-de-Nuit-Vol-6/release/17455204  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -12123,7 +12123,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RRPTwSIve3Q",
-            "Title": "SEDUCTION - GROOVE ME (DUB MIX) 1989",
+            "title": "SEDUCTION - GROOVE ME (DUB MIX) 1989",
             "Channel ID": "UCKgKHcvT6_FUHEDAT-AXzsg",
             "Author": "Brett Ellis",
             "Description": "",
@@ -12149,7 +12149,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "q83Mqq6emNE",
-            "Title": "F.L. ‎Production - The Awakening Earth",
+            "title": "F.L. ‎Production - The Awakening Earth",
             "Channel ID": "UCauW8AmcEN-VZC4h9DSUd9Q",
             "Author": "Apartment Acht",
             "Description": "F.L. Production - Untitled  Artist: F.L. Production Label: Resonance Country: Belgium Released: 1992 Genre/Style: House  https://www.discogs.com/de/FL-Untitled/release/335130  Any request? Remove The Video? Contact us: mail@plasticdreams.eu  This channel is for promotional use only (128kbps - no club use), out of love for the music and to spread unique and extraordinary artistic work. No money is being made here, will remove immediately if requested.  https://www.instagram.com/plasticdreams.eu/",
@@ -12175,7 +12175,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "S9_nRsHCV6o",
-            "Title": "Rancel - Early Goosebumps",
+            "title": "Rancel - Early Goosebumps",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://rancel.bandcamp.com/album/the-enchanted-swell / |",
@@ -12201,7 +12201,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "DqBQ1Vg6tsA",
-            "Title": "Dan Berkson - Concept [MOOD 035]",
+            "title": "Dan Berkson - Concept [MOOD 035]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Moodmusic ‎– MOOD 035, Moodmusic ‎– Mood-035 Format: Vinyl, 12\", EP, Maxi-Single Country: Germany Released: 2005 Genre: Electronic Style: Deep House, Tech House --- https://www.discogs.com/Dan-Berkson-Presents-Syntho-Concept-EP/master/277408 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -12227,7 +12227,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fkZHEpZFpwo",
-            "Title": "Escape - Victim Of Obsession (Club Mix) [NNDJ002]",
+            "title": "Escape - Victim Of Obsession (Club Mix) [NNDJ002]",
             "Channel ID": "UCJnIY90jZpk6TVQcCkAJTEQ",
             "Author": "Inside Rhythm",
             "Description": "For promotional purpose only. Any copyright issues please email insiderhythm@gmail.com  Artist: Escape Release title: Victim Of Obsession Label: No Noise Recordings Year: 1992  Buy: https://www.discogs.com/fr/Escape-Victim-Of-Obsession/release/216799​  Follow us on Soundcloud: https://soundcloud.com/insiderhythm",
@@ -12253,7 +12253,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RYPrsoM23TU",
-            "Title": "Impossible Beings - Come With The Imbis [1998]",
+            "title": "Impossible Beings - Come With The Imbis [1998]",
             "Channel ID": "UCzDX4m-uZm5BhF6BbQXAXcA",
             "Author": "Loaded",
             "Description": "1998 // End Recordings // UK  AA | Impossible Beings - Come With The Imbis https://www.discogs.com/Impossible-Beings-Razzlemania/release/10340",
@@ -12279,7 +12279,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5_DFLOCJcQ8",
-            "Title": "Ürohaüz - Nothing Changes (Instru-mental Mix) [1989]",
+            "title": "Ürohaüz - Nothing Changes (Instru-mental Mix) [1989]",
             "Channel ID": "UCzDX4m-uZm5BhF6BbQXAXcA",
             "Author": "Loaded",
             "Description": "1989 // Profile Records // US A2 | Nothing Changes (Instru-mental Mix) https://www.discogs.com/%C3%9Croha%C3%BCz-Nothing-Changes/release/218547",
@@ -12305,7 +12305,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FKOC747rhA4",
-            "Title": "Three's A Crowd - Release Yourself (Instrumental)",
+            "title": "Three's A Crowd - Release Yourself (Instrumental)",
             "Channel ID": "UCalzWsPk0q1f6n8pcxoZhZg",
             "Author": "Guilhem",
             "Description": "https://www.discogs.com/Threes-A-Crowd-Featuring-Sister-Jo-Release-Yourself/release/295427",
@@ -12331,7 +12331,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_CjuZEF3pOk",
-            "Title": "75 Moods - Black Dog",
+            "title": "75 Moods - Black Dog",
             "Channel ID": "UCoXLcwGvqY05_rRDi8gsFqQ",
             "Author": "Schlechte",
             "Description": ";)  https://www.discogs.com/75-Moods-The-DT-EP/release/12367  https://soundcloud.com/shhlekt",
@@ -12357,7 +12357,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EyjHcgcFLH0",
-            "Title": "Impulse - Mystic Soul [1997]",
+            "title": "Impulse - Mystic Soul [1997]",
             "Channel ID": "UCzDX4m-uZm5BhF6BbQXAXcA",
             "Author": "Loaded",
             "Description": "1997 // !K7 Records // Germany A1 | Impulse - Mystic Soul https://www.discogs.com/Impulse-One-Six-Four-One-Seven/release/200364",
@@ -12383,7 +12383,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "g6J-O9TlvVQ",
-            "Title": "Kage - Nightvision (2000)",
+            "title": "Kage - Nightvision (2000)",
             "Channel ID": "UC58C_BhzlZIJTeomuVSD2lA",
             "Author": "Houseum",
             "Description": "Label: Fiji Recordings Artist: Kage Format: Vinyl Cat. Number: FIJI009 EP Title: A Future Remembered Release Date: October 2000 Support it: https://controlteam.bandcamp.com/music  Fiji Recordings: https://www.discogs.com/fr/label/94-Fiji-Recordings  Kage: https://soundcloud.com/kenneth-graham  Written and produced by Kenneth Graham. --------------------------------------------------------------------------------------------------------------------------------------------------------------- Houseum: https://houseum.fr https://soundcloud.com/houseum https://www.facebook.com/houseum.yt https://www.instagram.com/houseumrecords https://houseum.yt@gmail.com",
@@ -12409,7 +12409,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "L0UUx59WMpI",
-            "Title": "Guy Contact - Cool Blue Liquid (Maximus Mix)",
+            "title": "Guy Contact - Cool Blue Liquid (Maximus Mix)",
             "Channel ID": "UCzeR0_RWnpNHe6y4DTLwE5Q",
             "Author": "hurfyd",
             "Description": "https://coymixltd.bandcamp.com/album/coy003  Breezy vibes coming out of Australia as Guy Contact lands on Coymix with 4 cuts of ecstatic eco house and fizzy prog, for cruising extra smoothly through those hot summer nights.",
@@ -12435,7 +12435,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rw0cbW0Tqoc",
-            "Title": "Markus Sommer - Bebe Care [The MUDD Show]",
+            "title": "Markus Sommer - Bebe Care [The MUDD Show]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "Taken from a compilation by The MUDD Show to help keep the project going. The streams they provided from Berlin have been the closest we got from clubs last year... If you have spare coins, consider supporting: https://www.kickstarter.com/projects/muddshow/the-mudd-show",
@@ -12461,7 +12461,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5kmsBcUnOQY",
-            "Title": "Gary Martin - Babylone Lovers",
+            "title": "Gary Martin - Babylone Lovers",
             "Channel ID": "UCakrn8i1Z_n0I5qlYX90l7w",
             "Author": "ORDINATEUF",
             "Description": "Gary Martin - Babylone Lovers ‎– Basis - Teknotika Records ‎– GG-27 - 1999 Join the teuf : https://bit.ly/2IkUU1x​  Details  : https://www.discogs.com/Gary-Martin-Basis/release/72953  Hey we also have social media just in case : https://www.facebook.com/ordinateuf/​ https://www.instagram.com/ordinateuf_​ https://soundcloud.com/ordinateuf  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at ordinateufasso@gmail.com",
@@ -12487,7 +12487,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "c9Vny7DjDhg",
-            "Title": "Dennis DeSantis - Sugar -10",
+            "title": "Dennis DeSantis - Sugar -10",
             "Channel ID": "UCQXo3gUR_a3Klx2cycKFTAw",
             "Author": "Dance, Shake, Swing!",
             "Description": "\"if today is the worst day of your life, then you know tomorrow will be better\"  ☀️❤️🙏",
@@ -12513,7 +12513,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0F3esAasEds",
-            "Title": "Payphone - Fool Circle [BLKMUSIC 009]",
+            "title": "Payphone - Fool Circle [BLKMUSIC 009]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "— “Y2K, Twenty one years later”    COMING OUT SOON   ➤ Support the boss and his label: https://soundcloud.com/blkmarket_music/albums  Mastered by: Dietrich Schoenemann / |",
@@ -12539,7 +12539,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Bn2_ejbtW4A",
-            "Title": "Fiction - Get Back (Swing Mix)",
+            "title": "Fiction - Get Back (Swing Mix)",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "https://www.facebook.com/sleeplesssssssssssss",
@@ -12565,7 +12565,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hXZ-R-nHm74",
-            "Title": "C. Bosher - Leaning Tower of Geeza [MORECHOP]",
+            "title": "C. Bosher - Leaning Tower of Geeza [MORECHOP]",
             "Channel ID": "UCJPgj8GidfsF127hTK5rRJA",
             "Author": "hd",
             "Description": "https://www.discogs.com/C-Bosher-More-Vodka-More-Cocaine/release/15479185",
@@ -12591,7 +12591,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0ONFOWgYPl4",
-            "Title": "PLO Man & C3D-E ‎– Public Static V. - A SIDE - Pt. I - Pt. Iv  (Acting Press ‎– PRESS1.5)",
+            "title": "PLO Man & C3D-E ‎– Public Static V. - A SIDE - Pt. I - Pt. Iv  (Acting Press ‎– PRESS1.5)",
             "Channel ID": "UCG744WujnIKWq91TlwLZODg",
             "Author": "audible nuggets",
             "Description": "High Quality Vinyl Rip from new Acting Press Record by PLO Man & C3D-E:  \"public static v. is an a/v performance that was written, performed and recorded live by PLO Man & C3D-E at LINECHECK, on 23.11.2019 in milan, italy. it was originally to be released late 2020, but due to delays in the production of the disc, it is now available as one piece in 10 parts.\"  https://www.discogs.com/PLO-Man-C3D-E-public-static-v/release/17227084  Uploaded with permission by the artists.",
@@ -12617,7 +12617,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rjdcydxrT4o",
-            "Title": "DJ Mart - Untitled B2",
+            "title": "DJ Mart - Untitled B2",
             "Channel ID": "UCnM7ltulCzlVAomV3GaFLzw",
             "Author": "records diet",
             "Description": "https://www.discogs.com/DJ-Mart-Dodge-Traxx-Volume-1/release/741867 All music uploaded is taken from my private collection. Show some love to my SC - https://soundcloud.com/virgiliov",
@@ -12643,7 +12643,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "X0mBEMu-7VY",
-            "Title": "Man/ipulate - Shinsei",
+            "title": "Man/ipulate - Shinsei",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Manipulate-Shinsei/release/17305861  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld  Follow : https://www.instagram.com/kermesseworld/  For promotional purpose only",
@@ -12669,7 +12669,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KDY9uXLxvPM",
-            "Title": "Man/ipulate - Do It",
+            "title": "Man/ipulate - Do It",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Manipulate-Shinsei/release/17305861  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld  Follow : https://www.instagram.com/kermesseworld/  For promotional purpose only",
@@ -12695,7 +12695,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "QIhvUsso3RE",
-            "Title": "Hubz - Kapox",
+            "title": "Hubz - Kapox",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "Support the artist:  Subwax Bcn : http://bit.ly/ttr002sbx Deeday.de : http://bit.ly/ttr002djde  Juno : http://bit.ly/ttr002jn   https://www.discogs.com/Various-This-Tasty-Volume-2/release/16895259  More here: https://www.facebook.com/192gmbh/ Or here https://soundcloud.com/192gmbh  Sharing good vibes and pain a z y m e",
@@ -12721,7 +12721,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4b2NZ8ccwMg",
-            "Title": "Wrong Kind of Stone Age - Ravi Dubbi",
+            "title": "Wrong Kind of Stone Age - Ravi Dubbi",
             "Channel ID": "UCcrHYBWidmcLZZS-cVshPdA",
             "Author": "Efficient Space",
             "Description": "Summoned by Miriam Williamson and Gavin Williams, WKOSA’s pagan cacophony tormented Sydney throughout the ‘80s and early ‘90s. Aptly hailed by Jello Biafra as “one of the best morbid-ambient post-punk bands [he’d] ever seen or heard”, the shapeshifting ensemble took cues from UK dub, the DIY tape trade, Bulgarian shepherdess singers and the Intifada. Cementing their primal riddims with adolescent recruit Andy Rantzen, 'Ravi Dubbi' is culled from the 1989 Cosmic Conspiracy Production Traditional Muzik, remastered for Oz Echoes http://bit.ly/OzEchoes",
@@ -12747,7 +12747,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "28N5Z_ikb1U",
-            "Title": "Screen II - Let The Record Spin (Stab Dub)",
+            "title": "Screen II - Let The Record Spin (Stab Dub)",
             "Channel ID": "UCHftRHyhgeYNy8XaSLonEaQ",
             "Author": "Benoit Laval",
             "Description": "",
@@ -12773,7 +12773,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wCWp5UJrOvk",
-            "Title": "EOC - The Source",
+            "title": "EOC - The Source",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "Support the artist:  deejay.de :  https://www.deejay.de/Aymeric_EOC_Night_Source_Ep_PNK05_Vinyl__965541  https://www.discogs.com/Aymeric-15-EOC-Night-Source-EP/release/17104056  More here: https://www.facebook.com/192gmbh/ Or here https://soundcloud.com/192gmbh  Sharing good vibes and pain a z y m e",
@@ -12799,7 +12799,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xpfLFRVdePE",
-            "Title": "Aymeric - Quick Start",
+            "title": "Aymeric - Quick Start",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "Support the artist:  deejay.de :  https://www.deejay.de/Aymeric_EOC_Night_Source_Ep_PNK05_Vinyl__965541  https://www.discogs.com/Aymeric-15-EOC-Night-Source-EP/release/17104056  More here: https://www.facebook.com/192gmbh/ Or here https://soundcloud.com/192gmbh  Sharing good vibes and pain a z y m e",
@@ -12825,7 +12825,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fl0YMpD1sh0",
-            "Title": "schuttle - Ekt [Bakk Heia]",
+            "title": "schuttle - Ekt [Bakk Heia]",
             "Channel ID": "UCLySvQ5KnssdJVpbi5skvQw",
             "Author": "VSVN",
             "Description": "As the Great Conjunction of Thra’s Three Suns draws ever closer, schuttle casts his sonic offerings out into this dying World in an attempt to restore balance and offer us all a chance to ascend to a higher level of existence.  Artist: schuttle Release title: BH004 Label: Bakk Heia Catalogue number: BH004 Year: 2021    \"The record begins by conjuring up the 'Ritual Master'. Stuttering vocals dance over ceremonial strings; the great Unifying kick drum clears the undergrowth for a bassline so life affirming that it could raise UrSu himself. The quest continues with ‘Heretic’. After consuming a hero’s dose of Urdrupe berries, a righteous vision of a writhing, divine dancefloor comes into focus. The soundtrack to the collectively imagined communal space.   The B side begins with 'Ekt'. Angular, fractured percussion marches on, shrouded in cold, dew soaked pads, climaxing with a chord as deep as it is wide. Then, just as the three suns begin to align, ‘Weaver’ makes its gentle presence known. Finishing the journey with crystalline clarity and warmth. Luxurious chords disperse over elegant synthesis, whilst a powerful kick caresses our hearts. Perhaps it isn’t too late to restore our Vital Essence?\"  Releases 30 January 2021  Tracklist: A1  schuttle - Ritual Master A2 schuttle - Heretic B1 schuttle - Ekt  B2 schuttle - Weaver  Support the artist and label:  Shop https://bakkheiarecords.bandcamp.com/album/schuttle-bh004  Follow Bakk Heia - https://soundcloud.com/bakkheia_records schuttle - https://soundcloud.com/schuttle  Low bitrate (128kbps)  More VSVN SC - https://soundcloud.com/vsvn-music​ IG - https://www.instagram.com/vsvn_louis/​  I do not own the rights to the music in this video. If you're an artist or label and you'd like to premiere a release on the channel please email at vsvnldn@gmail.com",
@@ -12851,7 +12851,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "triIFTqaUKg",
-            "Title": "Creating Random Unique Melodies in Ableton (Like a Modular Patch)",
+            "title": "Creating Random Unique Melodies in Ableton (Like a Modular Patch)",
             "Channel ID": "UCkVJFouV_2n2ZnP6We1Xklw",
             "Author": "Scenes",
             "Description": "This week I show you how to use Simpler and the random midi effects in Ableton to create unique and random melodies from samples. The Max for Live Device I demo can be found here as I believe it's stopped being included in Stretta's inspiration tools.  Stretta Random Stuff Generator II: https://drive.google.com/file/d/10lbhDEdvFziv76W_RVttTX53enVpC4CV/view?usp=sharing  Stretta's inspiration tools: https://github.com/stretta/Stretta-Inspiration-Tools  And if you haven't subscribed, what are you doing? Get on it!  My Latest Release: sb1eV1gfn_M  My Soundcloud: https://soundcloud.com/moraaay",
@@ -12877,7 +12877,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "DoGviTl_Yq0",
-            "Title": "Nathan Pinder - Chippin Away [STRWB003]",
+            "title": "Nathan Pinder - Chippin Away [STRWB003]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://fraiserecords.bandcamp.com/album/new-school-era-strwb003 / |",
@@ -12903,7 +12903,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1jAjrVuGEOg",
-            "Title": "Bybo - Funky Is What You Don't Play",
+            "title": "Bybo - Funky Is What You Don't Play",
             "Channel ID": "UCakrn8i1Z_n0I5qlYX90l7w",
             "Author": "ORDINATEUF",
             "Description": "Bybo - Funky Is What You Don't Play - Surface Records France ‎– SURF 007 Join the teuf : https://bit.ly/2IkUU1x  Details  : https://www.discogs.com/Bybo-Biorhythm/release/153581  Hey we also have social media just in case : https://www.facebook.com/ordinateuf/ https://www.instagram.com/ordinateuf_ https://soundcloud.com/ordinateuf  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at ordinateufasso@gmail.com",
@@ -12929,7 +12929,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IgLE2zQBjOo",
-            "Title": "B1. Tranx Project – Big Bud II (Sub-batical Mix)",
+            "title": "B1. Tranx Project – Big Bud II (Sub-batical Mix)",
             "Channel ID": "UCEZv9dZgLH68-u8DNjFtmQA",
             "Author": "QRcogs",
             "Description": "https://www.discogs.com/release/2130568",
@@ -12955,7 +12955,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-sOiFgE2Nx4",
-            "Title": "Tom VR - Fast Track to Bliss [INTGRD007]",
+            "title": "Tom VR - Fast Track to Bliss [INTGRD007]",
             "Channel ID": "UCD65ZTTEOfBIUH1aXNlO1XA",
             "Author": "ThisIsGraded",
             "Description": "The seventh release on InterGraded. Mastered and cut by Matt Colton @ Metropolis. Vinyl and Digital out February 4th. Buy/download/stream here: https://smarturl.it/INTGRD007",
@@ -12981,7 +12981,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "sy19SGuTLAg",
-            "Title": "Tim Jackiw - Bass Equations",
+            "title": "Tim Jackiw - Bass Equations",
             "Channel ID": "UCHdDFF2UWku_zn7vomxQg-A",
             "Author": "Les Yeux Orange",
             "Description": "http://www.lesyeuxorange.com follow on instagram : https://www.instagram.com/lesyeuxorange follow us on facebook : http://www.facebook.com/lesyeuxorange  listen on soundcloud : https://soundcloud.com/les-yeux-orange/premiere-tim-jackiw-bass-equations buy : https://www.deejay.de/Tim_Jackiw_Algorhythms_EP_PE005_Vinyl__966174",
@@ -13007,7 +13007,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TEanTpjl4o8",
-            "Title": "Numerique - Do You Love Me",
+            "title": "Numerique - Do You Love Me",
             "Channel ID": "UCeC6KKpes4Y2m49yD_Q_kJQ",
             "Author": "Explore_Tracks",
             "Description": "Buy the record :  https://www.discogs.com/es/Numerique-Resonance-X-EP/release/203031 All uploads are made at a low bit rate(128kbps).   No copyrigth infrigement intended. Just sharing good music.   Producers : contact me at resellanes97@gmail.com if you don't want your music online, and i'll remove the video.",
@@ -13033,7 +13033,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "eDI6rfIasz0",
-            "Title": "Numerique - Last Circuit",
+            "title": "Numerique - Last Circuit",
             "Channel ID": "UCeC6KKpes4Y2m49yD_Q_kJQ",
             "Author": "Explore_Tracks",
             "Description": "Buy the record :  https://www.discogs.com/es/Numerique-Resonance-X-EP/release/203031  All uploads are made at a low bit rate(128kbps).   No copyrigth infrigement intended. Just sharing good music.   Producers : contact me at resellanes97@gmail.com if you don't want your music online, and i'll remove the video.",
@@ -13059,7 +13059,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-hfcCDL1COQ",
-            "Title": "Bowyer ‎– Feel [Free Voyage ‎– VOYA004]",
+            "title": "Bowyer ‎– Feel [Free Voyage ‎– VOYA004]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "💥 Follow Free Voyage: https://soundcloud.com/user-599897336-437113131 🎵 Buy Record: https://www.viniil.com/en/ecommerce/dettaglio/voya-004-bowyer-friends-of-gravity-ep-12-freevoyage 🚀 More music: https://soundcloud.com/dofunkk    - ---- Track compressed to 128kbps (Low bit rate) ---- -          Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -13085,7 +13085,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IUWqtdADRSg",
-            "Title": "Schitzofren - Toxic Twin vs. Stashrider | Honolulu United [1998]",
+            "title": "Schitzofren - Toxic Twin vs. Stashrider | Honolulu United [1998]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality. For listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir Instagram (Some Uncertain Sir):  https://www.instagram.com/someuncertainsir Twitter (Some Uncertain Sir):  https://twitter.com/uncertainsir  Discogs: https://www.discogs.com/Toxic-Twin-vs-Stashrider-Heimatmelodie/release/331217  Track: Schitzofren Artist: Toxic Twin vs. Stashrider Album: Heimatmelodie Label: Honolulu United Cat #: HUR 012 Country: Germany Year: 1998",
@@ -13111,7 +13111,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LFE55qaZKBc",
-            "Title": "Brama-Siva-Vishnu - A Simple Introduction To The Rhythm Of Indian Music (Levitation Mix)",
+            "title": "Brama-Siva-Vishnu - A Simple Introduction To The Rhythm Of Indian Music (Levitation Mix)",
             "Channel ID": "UCakrn8i1Z_n0I5qlYX90l7w",
             "Author": "ORDINATEUF",
             "Description": "Brama-Siva-Vishnu - A Simple Introduction To The Rhythm Of Indian Music (Levitation Mix) Black Sunshine Productions ‎– BSR015 - 1994 Join the teuf : https://bit.ly/2IkUU1x  Details  : https://www.discogs.com/Brama-Siva-Vishnu-A-Simple-Introduction-To-The-Rhythm-Of-Indian-Music/master/255259  Hey we also have social media just in case : https://www.facebook.com/ordinateuf/ https://www.instagram.com/ordinateuf_ https://soundcloud.com/ordinateuf  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at ordinateufasso@gmail.com",
@@ -13137,7 +13137,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KBgSuikDH_A",
-            "Title": "Jonis Butterfly - A Bad Case Of Honey (Dub Mix) [CLOWN P002]",
+            "title": "Jonis Butterfly - A Bad Case Of Honey (Dub Mix) [CLOWN P002]",
             "Channel ID": "UCiyZfds9EbgACBuVyuONCKA",
             "Author": "patrickyooo",
             "Description": "https://www.discogs.com/Jonis-Butterfly-A-Bad-Case-Of-Honey/release/1565082",
@@ -13163,7 +13163,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "eNyjrEklm7Q",
-            "Title": "T.S. Technology - It's Outta Sight (T.S. Club Version) [1998]",
+            "title": "T.S. Technology - It's Outta Sight (T.S. Club Version) [1998]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "The Best Of House / Electric Records / Russia  https://www.discogs.com/TS-Technology-The-Best-Of-House/release/2181972   This channel is all about sharing music we love. No copyright infringement intended. If you're the right holder and you want this removed please contact me.",
@@ -13189,7 +13189,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NQy1OPMFxPU",
-            "Title": "Mont Roucous",
+            "title": "Mont Roucous",
             "Channel ID": "UCpsuqrjTkE9TfmfC65FT2AA",
             "Author": "Various Artists - Topic",
             "Description": "Provided to YouTube by Label Worx Limited  Mont Roucous · Vitess  Le Tigre & La Grue  ℗ Yoyaku  Released on: 2021-01-13  Producer: Victor Tescaro Composer: Victor Tescaro Music  Publisher: Yoyaku  Auto-generated by YouTube.",
@@ -13215,7 +13215,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "g6Vw1Zjr3xI",
-            "Title": "Where's Your Love Gone",
+            "title": "Where's Your Love Gone",
             "Channel ID": "UC8T8IYgH8OCAbfGsWKNM1Pg",
             "Author": "Julie Stapleton - Topic",
             "Description": "Provided to YouTube by BWSCD, Inc.  Where's Your Love Gone · Julie Stapleton  Things 2 Come  ℗ 2021 Numero Group  Released on: 1991-01-01  Auto-generated by YouTube.",
@@ -13241,7 +13241,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "gJ59l32CWw0",
-            "Title": "Channel 69 - I Never Felt (Krunchy Mix - Jeff K.) [PM-0007]",
+            "title": "Channel 69 - I Never Felt (Krunchy Mix - Jeff K.) [PM-0007]",
             "Channel ID": "UCJnIY90jZpk6TVQcCkAJTEQ",
             "Author": "Inside Rhythm",
             "Description": "For promotional purpose only. Any copyright issues please email insiderhythm@gmail.com  Artist:  Jeff K Release title: I Never Felt. Label: Pure Music Records Year: 1993  Buy: https://channel69music.bandcamp.com/track/i-never-felt-jeff-k-mix  https://www.discogs.com/fr/Channel-69-I-Never-Felt/release/6239498  Support the artist: https://www.facebook.com/jeffknet  Follow us on Soundcloud: https://soundcloud.com/insiderhythm",
@@ -13267,7 +13267,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "03UG6x2dpKI",
-            "Title": "Kingsize Please Feat. MC Linnski - T - Love I'm Givin (Exclusive Reasons Remix)",
+            "title": "Kingsize Please Feat. MC Linnski - T - Love I'm Givin (Exclusive Reasons Remix)",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "Artist(s): Kingsize Please Feat. MC Linnski - T Album: Subfunk Vol. 4 (Love I'm Givin) [MARV8888] Year: 2000 Genre: UK Garage Label: Subfunk Buy link: Discogs: https://www.discogs.com/Kingsize-Please-Feat-MC-Linnski-T-Subfunk-Vol-4-Love-Im-Givin/release/1454886  I DO NOT CLAIM THE RIGHTS TO ANYTHING UPLOADED TO THIS CHANNEL UNLESS STATED OTHERWISE.",
@@ -13293,7 +13293,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tsJ8EJte_O4",
-            "Title": "Jungle Juice - Incastet (Sunshiners Remix)",
+            "title": "Jungle Juice - Incastet (Sunshiners Remix)",
             "Channel ID": "UCi0VaoauYYlaAcpuOd7q1Vw",
             "Author": "FreedomOfSpeed",
             "Description": "Support the artist, and the label.  https://www.discogs.com/Jungle-Juice-Incastet/release/80925  I don't own the rights of anything uploaded on this channel. Everything uploaded is only driven by my passion for music. If there is any copyright issues, please send me a message at naomiderra@gmail.com  Label: Antenna (3) ‎– JUICE 1, Gobb 2 ‎– GOBB 2 # 4 Format: Vinyl, 12\" Country: France Released: 1994 Genre: Electronic Style: House",
@@ -13319,7 +13319,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jeYqy5O8fKg",
-            "Title": "V-Neck - Burning the Toast",
+            "title": "V-Neck - Burning the Toast",
             "Channel ID": "UCVkZaQzmX-NgOxj4h0ib1Aw",
             "Author": "No Frills",
             "Description": "Record: https://www.discogs.com/V-Neck-Woh-Yeh/release/1189413 No_Frills IG: https://www.instagram.com/n0_frills/?hl=de No_Frills SC: https://soundcloud.com/no_frills  Label: Emote ‎– MOT/005/EP Format: Vinyl, 12\", EP  Country: UK Released: 1996 Genre: Electronic Style: Downtempo, Dub, Dub Techno, Abstract  Tracklist: A1 Woh Yeh  A2 Burning the Toast  B1 Woh Yeh (Version)  B2 Dubbing the Toast",
@@ -13345,7 +13345,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "M3tl0hs6r_U",
-            "Title": "Sansibar - Noche",
+            "title": "Sansibar - Noche",
             "Channel ID": "UCIH5fVh549SzAIaAW1TMNjA",
             "Author": "SilentChaos Music",
             "Description": "Cover Art - Liza Kvantaliani Liza's Facebook - https://www.facebook.com/liza.kvantaliani.7  Genre:Electronic Style:Electro Year:2019  DISCLAIMER : All tracks are uploaded in low quality, for promoting purposes . If either label, artist or third party copyright holder does not agree with their material being uploaded, please contact me and I will take it down immediately. Mail - Gogavaoto@gmail.com",
@@ -13371,7 +13371,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "b6JyTDt0FSc",
-            "Title": "Simon Semrani ‎– Untitled A1",
+            "title": "Simon Semrani ‎– Untitled A1",
             "Channel ID": "UCZFiDUMmeVAcGBUrHtGUCSg",
             "Author": "a place called bliss",
             "Description": "https://www.discogs.com/Simon-Semrani-Love-Rhythm-EP/release/2116127 Simon Semrani ‎– Love Rhythm EP Label: Frequency Records ‎– DRP-9232 Country: US Released: 1992 Genre: Electronic Style: Breakbeat, Deep House, Downtempo, Progressive Breaks  -------------------------  please buy directly from the artist if possible ♱♡‿♡♰",
@@ -13397,7 +13397,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6_xrbq6dotA",
-            "Title": "Firing Squad – Heated Rhythms (Hot House Mix)",
+            "title": "Firing Squad – Heated Rhythms (Hot House Mix)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Vice Versa Records – VVRFS09 UK 1993",
@@ -13423,7 +13423,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SoZfExCbGiM",
-            "Title": "Charles - Alharara [2020]",
+            "title": "Charles - Alharara [2020]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "VSX001 / Visolux / France   Buy /// https://visolux.bandcamp.com/track/alharara  // Kepler-129 presents: VSX001  \"Interstellar nothingness…  Probe VISOLUX flies across space at supersonic speed towards planet Kepler-129. On board, priceless sound recordings gathered at the edge of the galaxy, in vicinity of the planet Alharara. The VISOLUX project, pioneering venture of sound mapping the whole galaxy, will finally be achieved. Kepler-129, technological and political centre of the universe, will extend its spatial conquest to a new frontier: sound.”  It is our friend Charles, co-founder of 56K parties and member of the Parisian Rakya family, who will start the VISOLUX series with us.  Enjoy!  Mastered by TC80 Art by dr.c   **** Kepler-129 présente : VSX001  \"Néant intersidéral…  La sonde VISOLUX fuse à travers l’espace à une vitesse prodigieuse en direction de la planète Kepler-129. A son bord, de précieux enregistrements sonores récoltés depuis les tréfonds de la galaxie, aux alentours de la planète Alharara. Le projet VISOLUX, colossale entreprise de cartographie sonore de la galaxie, est sur le point d’être couronné de succès. Kepler-129, épicentre technologique et politique de l’univers, est en passe d’étendre sa conquête spatiale à un domaine jusque-là insoupçonné : le son. »  C’est notre ami Charles, co-fondateur de 56K et membre de la famille Rakya, qui nous fait l’honneur de démarrer la série VISOLUX, avec un morceau qui nous a séduit dès les premières notes.  Enjoy!  Masterisé par TC80 Visuel par dr.c //",
@@ -13449,7 +13449,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "w8ko0Adun3k",
-            "Title": "KV5 - Giraffe",
+            "title": "KV5 - Giraffe",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "Label: Humble Records ‎– HBL 0011 Format: Vinyl, 12\" Country: UK Released: 1998 Genre: Electronic Style: Future Jazz",
@@ -13475,7 +13475,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PR_qd5zuAho",
-            "Title": "Jack Keo - We're Out Here [GMN02]",
+            "title": "Jack Keo - We're Out Here [GMN02]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "👉 Get your copy: https://gaminerecords.bandcamp.com 🎵 Follow the label: https://soundcloud.com/gaminerecords 🚀 My mixes & productions: https://soundcloud.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm  👀 Release details: https://www.discogs.com/label/1651963-Gamine  Please support artists & labels and buy physical or digital music 🙏  All uploads are made with the right-owners approval and have low-bitrate audio (128kbps) - not for club use!",
@@ -13501,7 +13501,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LQQGo6BQsn0",
-            "Title": "Lovin U",
+            "title": "Lovin U",
             "Channel ID": "UCcElBtEtUD0FrKeDf1gSEHg",
             "Author": "Coco Bryce - Topic",
             "Description": "Provided to YouTube by Triple Vision Record Distribution  Lovin U · Coco Bryce  Falling In Love  ℗ 2018 Myor Massive  Released on: 2018-04-11  Auto-generated by YouTube.",
@@ -13527,7 +13527,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PDT7UTTC3KM",
-            "Title": "Trion / M1 Experience ‎/ M1 Experience E.P. [1994]",
+            "title": "Trion / M1 Experience ‎/ M1 Experience E.P. [1994]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/M1-Experience-M1-Experience-EP/release/554570  Facebook: https://www.facebook.com/theproudmistress/ Soundcloud: https://soundcloud.com/theproudmistress Instagram: https://www.instagram.com/theproudmistress  Track: Trion Artist: M1 Experience Title: M1 Experience E.P. Label: Global Vision Catalog #: GVR005 Genre: House Year: 1994",
@@ -13553,7 +13553,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "THopTufRJFM",
-            "Title": "Dreams 2 Reality - Abracadabra (Rubberdub Dub) [RIFF 001]",
+            "title": "Dreams 2 Reality - Abracadabra (Rubberdub Dub) [RIFF 001]",
             "Channel ID": "UCiyZfds9EbgACBuVyuONCKA",
             "Author": "patrickyooo",
             "Description": "https://www.discogs.com/master/view/1566163",
@@ -13579,7 +13579,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "P1hrYH9BhOk",
-            "Title": "Freeloaders – Freestyle",
+            "title": "Freeloaders – Freestyle",
             "Channel ID": "UCgE34xD_aM6A-yVNfOA_71w",
             "Author": "wut?",
             "Description": "Freeloaders ‎– Up Here Sunburn Records ‎– 54255-0 US, 1998 Styles: Breakbeat, Progressive House, Trip Hop  Buy the record : https://www.discogs.com/fr/Freeloaders-Up-Here/release/264877  Low quality upload 192kbps, not intended for club use.  No copyright infringement is desired. You are the copyright holder and want to remove a song? Please message me at yt.wutwut@gmail.com",
@@ -13605,7 +13605,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xGYMvE-354A",
-            "Title": "Marco Funari/Ciao Lee Tong - Underground Station",
+            "title": "Marco Funari/Ciao Lee Tong - Underground Station",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Music Institute Records – MI71001 UK 1993 musicinstituterecords@gmail.com",
@@ -13631,7 +13631,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JKmFoH1SUcE",
-            "Title": "Beat Box Feat. DJ Gordon - Delicious (Sounds Good Records, 1996)",
+            "title": "Beat Box Feat. DJ Gordon - Delicious (Sounds Good Records, 1996)",
             "Channel ID": "UC_ZBS370CjlMCM9lXITVD7w",
             "Author": "RawhausTrax / David Mast",
             "Description": "https://www.discogs.com/Beat-Box-Feat-DJ-Gordon-Shamandance/release/853262",
@@ -13657,7 +13657,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "g0KcrU9Uf6c",
-            "Title": "The Fair Sex - Cosmic  [1994]",
+            "title": "The Fair Sex - Cosmic  [1994]",
             "Channel ID": "UCitgRu53Tq4YKnBnEpyOrrQ",
             "Author": "151 Soundsystem",
             "Description": "https://www.discogs.com/The-Fair-Sex-Pussy/release/1469284  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at passoutjs@gmail.com.",
@@ -13683,7 +13683,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4jDXEMYua8E",
-            "Title": "Dolphins - Acquamarine (House) [FUCK!001]",
+            "title": "Dolphins - Acquamarine (House) [FUCK!001]",
             "Channel ID": "UCJnIY90jZpk6TVQcCkAJTEQ",
             "Author": "Inside Rhythm",
             "Description": "For promotional purpose only. Any copyright issues please email insiderhythm@gmail.com  Artist: Dolphins Release title: Ocean EP Catalogue number: FUCK! 001 Label: Fuck! Records Year: 1994  Buy: https://www.discogs.com/fr/Dolphins-Ocean-EP/release/241982  Follow us on Soundcloud: https://soundcloud.com/insiderhythm",
@@ -13709,7 +13709,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "H29VavgmXf4",
-            "Title": "Wobblehead - Crawler [3BTT20]",
+            "title": "Wobblehead - Crawler [3BTT20]",
             "Channel ID": "UCCfmUX1OoQVmqalSft-O5BA",
             "Author": "Sieben",
             "Description": "Subscribe for more music!  Buy the record: https://www.discogs.com/Wobblehead-Crawler/release/202473  All uploads are made at a low bit rate (128kbps). No copyright infringement intended. Just sharing good music. Producers: contact me at vhsieben@gmail.com if you don't want your music online, and i'll remove the video.  My Soundcloud: https://soundcloud.com/vhsieben Enjoy!",
@@ -13735,7 +13735,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "L83pZxmpBU4",
-            "Title": "Creative Act - Fable (UK Club) [MC014]",
+            "title": "Creative Act - Fable (UK Club) [MC014]",
             "Channel ID": "UCCfmUX1OoQVmqalSft-O5BA",
             "Author": "Sieben",
             "Description": "Subscribe for more music!  Buy the record: https://www.discogs.com/Creative-Act-Fable/release/218926  All uploads are made at a low bit rate (128kbps). No copyright infringement intended. Just sharing good music. Producers: contact me at vhsieben@gmail.com if you don't want your music online, and i'll remove the video.  My Soundcloud: https://soundcloud.com/vhsieben Enjoy!",
@@ -13761,7 +13761,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "r8WB_E66Itg",
-            "Title": "Simon Moncler - Equation",
+            "title": "Simon Moncler - Equation",
             "Channel ID": "UCauW8AmcEN-VZC4h9DSUd9Q",
             "Author": "Apartment Acht",
             "Description": "Simon Moncler ‎– Data Streams EP  Artist: Simon Moncler Label: OCP Catalog Number: OCP003 Country: Germany Released: 2020 Genre/Style: Electro, Breakbeat  https://www.discogs.com/de/Simon-Moncler-Data-Streams-EP/release/16201345  Any request? Remove The Video? Contact us: mail@plasticdreams.eu  This channel is for promotional use only (128kbps - no club use), out of love for the music and to spread unique and extraordinary artistic work. No money is being made here, will remove immediately if requested.  https://www.instagram.com/plasticdreams.eu/",
@@ -13787,7 +13787,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZLEP4qPFLcM",
-            "Title": "Arnic - Really Extension",
+            "title": "Arnic - Really Extension",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Support the artist: https://arnic.bandcamp.com/album/c-clico Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -13813,7 +13813,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "l9jhLXmMKlA",
-            "Title": "B2. Dirk Reflect – Midnight Gate [INNERSHAPE01]",
+            "title": "B2. Dirk Reflect – Midnight Gate [INNERSHAPE01]",
             "Channel ID": "UCtSYkZGP9nkvXPMQgjeEIow",
             "Author": "Yoyaku Record Store",
             "Description": "Buy Vinyl: https://bit.ly/3pHQ0wn",
@@ -13839,7 +13839,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qkIjDUUKfSc",
-            "Title": "BoBellow - Take Your Body",
+            "title": "BoBellow - Take Your Body",
             "Channel ID": "UCCL_rE8MCGxTlPESj4Rm9iw",
             "Author": "LukeyChoons",
             "Description": "https://www.discogs.com/Bo-Bellow-Bos-Down-2-The-Track-EP/release/224886",
@@ -13865,7 +13865,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "k0ngt1zb47Q",
-            "Title": "Unknown Artist - #DRGS07A [DRGS07]",
+            "title": "Unknown Artist - #DRGS07A [DRGS07]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Buy the EP • Decks: https://www.decks.de/track/unknown_artist-drgs007/ch9-yq  Follow us • Website: https://www.trommelmusic.com • Instagram: https://www.instagram.com/trommelmusic • Facebook: https://www.facebook.com/trommelmusic • SoundCloud: https://www.soundcloud.com/trommelmusic  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -13891,7 +13891,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Yfk40_P7zDI",
-            "Title": "VV Violence",
+            "title": "VV Violence",
             "Channel ID": "UCbt-qlNbbay2cfbLAghJACA",
             "Author": "Jessy Lanza - Topic",
             "Description": "Provided to YouTube by IIP-DDS  VV Violence · Jessy Lanza  VV Violence  ℗ Hyperdub  Released on: 2016-03-25  Music  Publisher: Hyperdub Publishing Composer: Jessy Lanza  Auto-generated by YouTube.",
@@ -13917,7 +13917,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tqeSOWsxAbQ",
-            "Title": "Mr. Peach - Let's Dance (Windy City Mix)",
+            "title": "Mr. Peach - Let's Dance (Windy City Mix)",
             "Channel ID": "UC3p1aPxkoKHbPLHsV3eMmTQ",
             "Author": "Cheap Records Diggers",
             "Description": "Mr. Peach ‎– Let's Dance Label: Olympic Recordings ‎– OLYMPIC 006 Format: Vinyl, 12\", 33 ⅓ RPM Country: UK Released: 1993 Genre: Electronic Style: House   We do not own any copyrights for this track, so if you want us to remove it please send us a message and we will do it ASAP! Cheers :)  Release: https://www.discogs.com/Mr-Peach-Lets-Dance/release/97334?ev=item-vc  Follow us: https://www.facebook.com/CheapRecordsDiggers",
@@ -13943,7 +13943,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nzqzHW2fN04",
-            "Title": "D.I.E. - U Can't See Us (Xandru Edit)",
+            "title": "D.I.E. - U Can't See Us (Xandru Edit)",
             "Channel ID": "UCQXo3gUR_a3Klx2cycKFTAw",
             "Author": "Dance, Shake, Swing!",
             "Description": "You can't touch us, but we can touch you... you can hear us, but we can't hear you... Is Techno things, is only thing we do!  ❤️🚀 ...Unreleased, Edit, Minimal, Deep, Electro",
@@ -13969,7 +13969,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1bG9ZC16qnA",
-            "Title": "All Things Nice - Post Chaise (Tumblin' Records, 1994)",
+            "title": "All Things Nice - Post Chaise (Tumblin' Records, 1994)",
             "Channel ID": "UC_ZBS370CjlMCM9lXITVD7w",
             "Author": "RawhausTrax / David Mast",
             "Description": "https://www.discogs.com/All-Things-Nice-Post-Chaise/release/72454",
@@ -13995,7 +13995,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jsy3ki9-dDc",
-            "Title": "Space Trax - Jolice",
+            "title": "Space Trax - Jolice",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Space-Trax-Volume-6/release/111940  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld  Follow : https://www.instagram.com/kermesseworld/  For promotional purpose only",
@@ -14021,7 +14021,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "QUBeWfm4NWY",
-            "Title": "Sub Da Fuze - PM*Sunday (Original Mix)",
+            "title": "Sub Da Fuze - PM*Sunday (Original Mix)",
             "Channel ID": "UCoXLcwGvqY05_rRDi8gsFqQ",
             "Author": "Schlechte",
             "Description": "https://www.discogs.com/Sub-Da-Fuze-PMSunday/release/207982  https://soundcloud.com/discover",
@@ -14047,7 +14047,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "M0LHcXVryBY",
-            "Title": "MEDICINE MIX (2020 Remastering)",
+            "title": "MEDICINE MIX (2020 Remastering)",
             "Channel ID": "UCNWPRMK0ciGFGLAuwyR_dgg",
             "Author": "Haruomi Hosono - Topic",
             "Description": "Provided to YouTube by Sony Music Direct (Japan) Inc.  MEDICINE MIX (2020 Remastering) · Haruomi Hosono  MEDICINE COMPILATION (2020 Remastering)  ℗ 1993 Sony Music Labels Inc.  Released on: 2020-11-04  Composer: Yasuaki Shimizu  Auto-generated by YouTube.",
@@ -14073,7 +14073,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Z0kj8uDnFac",
-            "Title": "Erik Travis - Phone Sex",
+            "title": "Erik Travis - Phone Sex",
             "Channel ID": "UCauW8AmcEN-VZC4h9DSUd9Q",
             "Author": "Apartment Acht",
             "Description": "Erik Travis ‎– Make You Rock  Artist: Erik Travis Label: Clone Crown Ltd. Catalog Number: CCrown4 Country: Netherlands  Released: 2011 Genre/Style: Electro, Ghetto  https://www.discogs.com/de/Erik-Travis-Make-You-Rock/master/335541  Any request? Remove The Video? Contact us: mail@plasticdreams.eu  This channel is for promotional use only (128kbps - no club use), out of love for the music and to spread unique and extraordinary artistic work. No money is being made here, will remove immediately if requested.  https://www.instagram.com/plasticdreams.eu/",
@@ -14099,7 +14099,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6SKV8D76YdY",
-            "Title": "COME INTO MY HOUSE (MASLOW UNKNOWN RE-RUB)",
+            "title": "COME INTO MY HOUSE (MASLOW UNKNOWN RE-RUB)",
             "Channel ID": "UCrgSrKO2ZUYJCirOP9bzDQg",
             "Author": "Maslow Unknown",
             "Description": "Bringin' it back to 1990 ! Free Download: https://hypeddit.com/track/ue6ssb Props to the OG: https://www.discogs.com/sell/list?master_id=76535&ev=mb Soundcloud: https://soundcloud.com/maslowunknown/come-into-my-house-maslow-unknown-re-rub",
@@ -14125,7 +14125,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "U47gFoXn4x0",
-            "Title": "Skepta - Nasty (Jack Marlow Garage Remix)",
+            "title": "Skepta - Nasty (Jack Marlow Garage Remix)",
             "Channel ID": "UCMs9rtX7g5CQajxbUQJoszQ",
             "Author": "JACK MARLOW",
             "Description": "BEATSTARS: https://www.beatstars.com/jackmarlowbeats/feed  INSTAGRAM :  https://www.instagram.com/jackmarlowmusic/  TWITTER: https://twitter.com/jackmarlowmusic   SOUNDCLOUD : https://soundcloud.com/jackmarlowwzzz FREE JOJI TYPE BEAT 2020, FREE TRIPPIE RED TYPE BEAT 2020 FREE JUSTIN BIEBER TYPE BEAT 2020, Free Ronny J type Beat 2020, Free Smokepurpp type Beat 2020 Free XXXTENTACION type Beat 2020, Free Hard XXXTENTACION type Beat 2020, Free Ski Mask The Slump God type Beat 2020, FREE Juice Wrld TYPE BEAT 2020, Spongebob Remix, Ski Mask The Slump God type Beat Spongebob, Joey Trap, Free Joey Trap type Beat 2020, Lil Pump New Song, Lil Pump New Song 2020, Free Lil Pump type Beat 2020, Icy Narco type Beat, Free Icy Narco, Free UnoTheActavist type Beat, Free Playboi Carti type Beat, Free Warhol.SS type Beat Oogie Mane, Lil Boat 2 type Beat, , Divine Council, ICYTWAT, ICYTWAT TYPE BEAT, Playboi Carti, Playboi Carti type Beat, Pierre Bourne, Pierre Bourne type Beat, Magnolia, Ybn Nahmir Bounce , Yo Pierre, Comethazine, Comethazine type Beat, Chill Beats, Comethazine Piped Up, Comethazine Let It Eat, Ronny J, Ronny J type Beat, XXXTENTACION, XXXTENTACION type Beat, Lil Pump, Lil Pump type Beat 20120 Ronny J type Beat $uicideboy$ $uicideboy$ type Beat, Budd Dwyer , $crim , Ruby Tha Cherry, $uicideboy$ New, FUCKALLOFYOU2018 , New $uicideboy$ , Juicy J $lim Gucci, Slim Gucci, Suicideboys , Suicide Boys, G59, Grey Five Nine, FTP, Fuck The Population, FTP Clothing, Brockhampton type beat, brockhampton saturation 3, brockhampton saturation III , brockhampton saturation three , brockhampton saturation III type beat, Brockhampton saturation three type beat, Joji , Joji Will He, Joji Demons, Joji In Tounges, Joji Pills, Joji Bitter F*ck, Joji type Beat, Joji type Beat 2019, Pink Guy, Filthy Frank, Frank Ocean, Frank Ocean type Beat 2018, Sad Beat Lofi, Chill Beat, YBN Nahmir, YBN Nahmir type Beat , YBN Nahmir type Beat 2019, \"Rap Music\" \"rap beats\" \"instrumental beats\"\"instrumental rap beats\" \"new music\"  songs\" \"raps \"instrumentals\"  808 mafia, atlanta, southside, trap, tm88, future, beats,  mixtape, rap, music, fl studio, beat, gucci mane, metro boomin, atl, sonny digital,  young thug, producer, production,  hiphop, hip hop,how to make trap beats, music production, drake type beat instrumental, beats, new, hip hop, fruity loops, free drake type beat, free type beat, recording hip hop,free beat, j cole type beat,  beats, instrumentals, beats, music, fl studio, g eazy instrumental, g-eazy type beat,  travis scott free beats, free hip hop instrumental, free rap instrumental, deep hip hop instrumental,  6ix,free beats,  partynextdoor type beat, future type beat, new beats, beat, producer, free, thug, young, future, type beat, drake,kodak black type beat hip hop music , kodak black, fl studio, metro boomin type beat, metro boomin,instrumental, trap, free, rappers, sonny digital, gucci mane, sonnydigital, atl, buy future type beats, future type beat free, buy beats, future type instrumental, fetty wap, type beats, beats, free beat, producer,cashmoneyap, LIL PUMP BUTTERFLY DOORS drake, metro boomin, meek mill, young thug,  future type beat, , madeintyo type beat, type beat, lil yachty, playboi carti,,lil uzi vert, lil yachty type beat, rich the kid type beat,  rap beat, famous dex type beat, famous dex, trap beat, unotheactivist type beat, unotheactivist,Lil Uzi Vert type beat,icytwat type beat ,Mexikodro type Beat,PlayboiCarti,Playboi Carti type Beat,Icytwat type beat, , instrumental, lil Uzi type beat, Tay K type Beat, Tay-K type Beat 2020 Free Tay-K Vert type Beat, Free Tay-K type Beat 2020, The Race type Beat, TayK47 type Beat, Hip Hop Beat, Rap Beat, Hip Hop Instrumental, Free Beat Download, Free Instrumental Download, Lil Mosey type Beat, Ybn Nahmir, Free Yung Gravy type Beat 2020,   Free Icy Narco type Beat 2019, Free Ronny J type Beat 2019, FREE PHONK TYPE BEAT 2020, JOJI YEAH RIGHT, FREE JOEY TRAP TYPE BEAT 2019, FREE TYLER THE CREATOR TYPE BEAT 2019, FREE ZILLAKAMI TYPE BEAT 2019, FREE SOSMULA TYPE BEAT 2020, FREE SCARLXRD TYPE BEAT 2019, FREE FRENCH MONTANA TYPE BEAT 2020,  FREE DIPLO TYPE BEAT 2020 FREE MURDA BEATZ TYPE BEAT 2020FREE ETHEREAL TYPE BEAT 2020, FREE 6IX9INE TYPE BEAT, FREE JUIICE WRLD TYPE BEAT, FREE SAD FROSTY TYPE BEAT 2019, FREE SAD XXXTENTACION TYPE BEAT, FREE RODDY RICH TYPE BEAT 2020, FREE LORDFUBU TYPE BEAT, Free Landon Cube type Beat. FREE YBN CORDAE TYPE BEAT 2019, FREE DENZEL CURRY TYPE BEAT, FREE $UICIDEBOY$ TYPE BEAT 2020, FREE KID BUU TYPE BEAT 2018, FREE SHECK WES TYPE BEAT 2019 FREE NIGHT LOVELL TYPE BEAT 2020  K$UPREME TYPE BEAT, FREE SPLURGE TYPE BEAT 2020, FREE BLUEFACE TYPE BEAT, FREE TYGA TYPE BEAT, BOUNCY TYPE BEAT, CLUB TYPE BEAT,Kali Uchis type Beat, FREE ASAP ROCKY TYPE BEAT, FREE TOKYOS REVENGE TYPE BEAT",
@@ -14151,7 +14151,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OZe8W9cdy9M",
-            "Title": "Stefanic - Price For Peace (Optimistic Mix)",
+            "title": "Stefanic - Price For Peace (Optimistic Mix)",
             "Channel ID": "UCelotdUHn80yKUfjoQmCY5A",
             "Author": "Dobar House",
             "Description": "Stefanic - Price For Peace (Optimistic Mix) Get it on Traxsource - https://www.traxsource.com/title/1449558/price-for-peace  Visuals: Hana Matić Video: Elena Mikac  (C)(P) Dobar House  After two amazing remixes for the label, we are proud to have Stefanic release his first EP for Dobar House. Price For Peace is one serious package, shining light, positivity and joy with it's Optimistic take, while digging us deep into dark and underground with it's Pessimistic take on the song. In both versions the vocal cuts through - with the optimistic version it comes as a relief and it compliments the chords and the vibe perfectly, while with the pessimistic mix we get to see the other side - while still vibing in the dark strobe-lit room.",
@@ -14177,7 +14177,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8Amt36u7zz4",
-            "Title": "SANSIBAR - GAME OVER",
+            "title": "SANSIBAR - GAME OVER",
             "Channel ID": "UCdh748FBtgzo_jzCTRHwksQ",
             "Author": "SANSIBAR",
             "Description": "Artist: Sansibar Title: Game Over Label: Avoidance Cat: AVD-002 Format: 12” Distribution: clone-distribution Vinyl release: 26th of October 2020  Digital release 06th of November 2020: https://sansibar.bandcamp.com/  Sansibar: https://soundcloud.com/sunnysibar https://sansibar.bandcamp.com/ https://www.discogs.com/artist/4676584-Sansibar",
@@ -14203,7 +14203,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mKdibLaV_Oc",
-            "Title": "Army Of Lovers - I Am (Deep House Dub)",
+            "title": "Army Of Lovers - I Am (Deep House Dub)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Polydor – 855 195-1 US 1993",
@@ -14229,7 +14229,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TB13_eVvYWE",
-            "Title": "Angie Stone - Wish I Didn't Miss You (Dragutesku Edit)",
+            "title": "Angie Stone - Wish I Didn't Miss You (Dragutesku Edit)",
             "Channel ID": "UC8oP_tOmavLzdit03JYwpmQ",
             "Author": "Verzila",
             "Description": "Buy: https://dragutesku.bandcamp.com/album/edits-v2  Dragutesku: https://www.soundcloud.com/dragutesku https://www.facebook.com/dragutesku https://www.instagram.com/dragutesku  Upload made on request by the owner for promotional purposes only.  Contact and premiere requests at arikutufu@gmail.com  Verzila Social Pages: https://www.soundcloud.com/verzila https://www.facebook.com/verzilamusic https://www.instagram.com/verzilamusic  Tags: #dragutesku #verzilapremiere",
@@ -14255,7 +14255,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1QQ9JrMaWuU",
-            "Title": "K.N.O.R. - You Know (D.A.D.O. Mix)",
+            "title": "K.N.O.R. - You Know (D.A.D.O. Mix)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "After Hours Records  – AHR 9306 Italy 1994",
@@ -14281,7 +14281,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Xwu4ocZGJsE",
-            "Title": "The Party People - Italo House (Acid Inch Dub) (X Rated)",
+            "title": "The Party People - Italo House (Acid Inch Dub) (X Rated)",
             "Channel ID": "UCHLZfJmdcp3D7iI78w46aGg",
             "Author": "That's What She Said",
             "Description": "https://www.discogs.com/The-Party-People-Italo-House/release/758144",
@@ -14307,7 +14307,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "iaIwlSOZGAY",
-            "Title": "Sub Da Fuze - My Lovely Horse",
+            "title": "Sub Da Fuze - My Lovely Horse",
             "Channel ID": "UCm54BvSK--nIal2tZIH1f4w",
             "Author": "Gasper",
             "Description": "Disclaimer:  Only purpose of this channel is to give the artist recognition they deserve.  If you want your track to be removed please contact me and i will remove it as soon as possible.  email: gasper.skerl@gmail.com",
@@ -14333,7 +14333,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "iK-eLffoXS8",
-            "Title": "L.H.A.S. Inc. ‎– Ports",
+            "title": "L.H.A.S. Inc. ‎– Ports",
             "Channel ID": "UCn9pgy_Ra51CGu9EpVRcsgQ",
             "Author": "estimulo101",
             "Description": "L.H.A.S. Inc. ‎– Reasons / Ports https://www.discogs.com/LHAS-Inc-Reasons-Ports/release/208880",
@@ -14359,7 +14359,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "s154x5B-7i4",
-            "Title": "Blunted Chimps - Get It On",
+            "title": "Blunted Chimps - Get It On",
             "Channel ID": "UCwkNRgH1kyLCpKx-52dU-NQ",
             "Author": "What To Expect",
             "Description": "Shindig ‎– SHINDIG 001   UK 1994  https://www.discogs.com/Blunted-Chimps-Love-Music-Sex/release/67285",
@@ -14385,7 +14385,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LiT4V8t3Kpw",
-            "Title": "L.E. Bass - Oh Well!",
+            "title": "L.E. Bass - Oh Well!",
             "Channel ID": "UC_xvN4CZyMlg9KqUboLLrhw",
             "Author": "ODDJOHN",
             "Description": "L.E. Bass - Rhythms EP  Artist: L.E. Bass Label : Harmonic Tracks  Catalog : HAR 001 Country : UK Released : 1999 Genre / Style : Electronic, House, Techno  An other lost EP on a lonely label. 3 tracks that are all great in their own way. Oh well! is a deep progressive house tune with dreamy vocals and detuned strings/pads towards the end. I find the structure very progressive and stacked really well that's why I wanted to share the full track length here.  Ripped by @patrickyooo   Buy & support : https://www.discogs.com/LE-Bass-Rhythms/release/459233 Any request? Remove The Video? Contact me : Pampajon@gmail.com",
@@ -14411,7 +14411,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OfHeP39Z2So",
-            "Title": "Roby J  – Floods Of Joy (Ancut edit)",
+            "title": "Roby J  – Floods Of Joy (Ancut edit)",
             "Channel ID": "UCFhOeiecK1R3WQs6rr2UVcA",
             "Author": "Flugmodus Recordshop",
             "Description": "I do not own the rights to any of the tracks uploaded here. This page is dedicated to discovering new music. However, if you are the copyright owner and would like the tracks to be taken down just write me a message and I will do so right away. Enjoy the music and buy the records.",
@@ -14437,7 +14437,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pU231tkgCmw",
-            "Title": "Igs - Definitions of Bounce [hbr6]",
+            "title": "Igs - Definitions of Bounce [hbr6]",
             "Channel ID": "UCI1dNGLBOsyCvgxqeZAbAXw",
             "Author": "Purring Station",
             "Description": "https://www.discogs.com/DiY-8-Definitions-Of-Bounce/master/510668",
@@ -14463,7 +14463,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SRWHc1_JGfw",
-            "Title": "Chronoclasm",
+            "title": "Chronoclasm",
             "Channel ID": "UCWhTlRPBFobfx6VoNnMu5Hw",
             "Author": "Rhythm Invention - Topic",
             "Description": "Provided to YouTube by PIAS  Chronoclasm · Rhythm Invention  Inventures In Wonderland  ℗ Warp Records  Released on: 1993-08-09  Composer: Michael James Hall Composer: Nicholas Mark Simpson Composer: Richard Francis Adrian Brown  Auto-generated by YouTube.",
@@ -14489,7 +14489,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "q1xMaU8p6Ow",
-            "Title": "Fresh Momentum",
+            "title": "Fresh Momentum",
             "Channel ID": "UCWhTlRPBFobfx6VoNnMu5Hw",
             "Author": "Rhythm Invention - Topic",
             "Description": "Provided to YouTube by PIAS  Fresh Momentum · Rhythm Invention  Inventures In Wonderland  ℗ Warp Records  Released on: 1993-08-09  Composer: Nicholas Mark Simpson Composer: Richard Francis Adrian Brown  Auto-generated by YouTube.",
@@ -14515,7 +14515,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-Z7d-EptyfU",
-            "Title": "Methomania",
+            "title": "Methomania",
             "Channel ID": "UCWhTlRPBFobfx6VoNnMu5Hw",
             "Author": "Rhythm Invention - Topic",
             "Description": "Provided to YouTube by PIAS  Methomania · Rhythm Invention  Inventures In Wonderland  ℗ Warp Records  Released on: 1993-08-09  Composer: Nicholas Mark Simpson Composer: Richard Francis Adrian Brown  Auto-generated by YouTube.",
@@ -14541,7 +14541,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Kmzy7O_FHIM",
-            "Title": "Jungle Juice - Incastet (D.J. Armand Remix) -3%",
+            "title": "Jungle Juice - Incastet (D.J. Armand Remix) -3%",
             "Channel ID": "UC_xvN4CZyMlg9KqUboLLrhw",
             "Author": "ODDJOHN",
             "Description": "Jungle Juice - Incastet EP  Artist: Jungle Juice  Label : Antenna  Catalog : JUICE 1 Country : UK Released : 1990 Genre / Style : Electronic, House  Collab with David Chong and Fred Léonard as Jungle Juice. David chong is also part of The Sunshiners from my recent upload. You can definitely recognize the style in the slow frequency shifting on the hats going throughout the track. This one he added some kind of phaser/chorus effects.   Buy & support : https://www.discogs.com/Jungle-Juice-Incastet/release/80925 Any request? Remove The Video? Contact me : Pampajon@gmail.com",
@@ -14567,7 +14567,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tEkM4vCMVYk",
-            "Title": "DJ Qiu & Playchild - Peace, Love ...",
+            "title": "DJ Qiu & Playchild - Peace, Love ...",
             "Channel ID": "UCTZQAN5Hj6PcQZjbiJEOXlA",
             "Author": "BS",
             "Description": "Deep Works, year unknown https://www.discogs.com/DJ-Qiu-Playchild-Da-Boops/release/1322170",
@@ -14593,7 +14593,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-5HtZu0d8r4",
-            "Title": "All-Nighter - Dial The Deal (All-Nighter Records, 2020)",
+            "title": "All-Nighter - Dial The Deal (All-Nighter Records, 2020)",
             "Channel ID": "UC_ZBS370CjlMCM9lXITVD7w",
             "Author": "RawhausTrax / David Mast",
             "Description": "https://www.discogs.com/All-Nighter-This-is-the-Way/release/15553406",
@@ -14619,7 +14619,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZsMkd07YVME",
-            "Title": "Malik Adouane - Extravaganceraï",
+            "title": "Malik Adouane - Extravaganceraï",
             "Channel ID": "UC_xvN4CZyMlg9KqUboLLrhw",
             "Author": "ODDJOHN",
             "Description": "Malik Adouane - Malik EP  Artist: Malik Adouane Label : Mélodie Distribution   Catalog : DFI983  Country : FR Released : ?? 90s Genre / Style : Electronic, Trance, House  Malik Adouane is musician, considered as the pioneer of electronic Rai. He is best Known for his version of the HUGE funk classic \"Isaac Hayes' Shaft\" (2 Million copies sold).   He is Algerian Saharan Sufi from his fathers side and Celt gypsie from his mothers. This double cultural aspect is the foundation of the originality of his music. His roots are Electric World, Soul, Groove, House, Dance and above all Raï. On stage, all these mixtures are transformed into Trance, as Malik is before all else a Master of Ceremonies. He eventually went on to charm Parisian clubbers with a unique fusion of his Saharan roots and club sounds, resulting in an explosive mix of House, Oriental Trance and traditional Arabic Raï music. Author of an Arabic version of Isaac Hayes classic Shaft, which appeared on the very first Buddha Bar compilation, Malik Adouane has since performed to sell-out crowds in clubbing capitals such as Los Angeles, Ibiza, Goa, Tokyo, Sydney, Rio de Janeiro, London, Cairo, Montreal and has become a cult darling of club DJs worldwide. Artist Producer Malik Adouane is the co/author of the sound-track of Alphonso Cuarons movie Harry Potter: The Children of Men released by Universal in 2006. President of the quality-label Creative Source Music, Malik Adouane artist, singer composer produced, remixed  Buy & support : https://www.discogs.com/Malik-Adouane-Malik/release/15245559 Any request? Remove The Video? Contact me : Pampajon@gmail.com",
@@ -14645,7 +14645,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HYM6MUcN6rg",
-            "Title": "Gult Dep - Volume II (Speaking Volumes Mix) [VICL-387]",
+            "title": "Gult Dep - Volume II (Speaking Volumes Mix) [VICL-387]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    https://www.discogs.com/Gult-Dep-Infinite-Polyhedron/release/2883607 / |",
@@ -14671,7 +14671,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nttbT3Wq_ik",
-            "Title": "Happy Humans ‎- Gorgewaah (No Way Dorjee Mix)",
+            "title": "Happy Humans ‎- Gorgewaah (No Way Dorjee Mix)",
             "Channel ID": "UCZId9QtwJ0uYRKla3FKYyeA",
             "Author": "Brunzi",
             "Description": "Saucy Tunes ‎– SAWC1201 1994",
@@ -14697,7 +14697,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rZg7aYlpcFk",
-            "Title": "BufoBufo -- Metal's Winning",
+            "title": "BufoBufo -- Metal's Winning",
             "Channel ID": "UCcHqeJgEjy3EJTyiXANSp6g",
             "Author": "ballacid",
             "Description": "BufoBufo ‎– Metal's Winning EP Furthur Electronix ‎– FE 045 Vinyl, 12\", EP, Limited Edition Black & Limited Edition Green transparent 2020, UK  Buy Here:  https://www.store.subwaxbcn.com/product/fe045/  Distributed By – Under The Radar Underground vinyl distribution company carrying labels such as Furthur Electronix, Altered Sense, Planet 17, Beyond Electronix, Shakesphere, Withhold etc.. Often recognised in the engravings starting with the letters UTR  Mastered At Ballyhoo Studio / Johanz Westerman http://ballyhoostudio.nl/  BufoBufo: Electronic music producer. Runs the Ritual Poison label with Corporeal Face. https://www.facebook.com/bufob/ https://soundcloud.com/bufobufo-1 https://soundcloud.com/ritualpoison",
@@ -14723,7 +14723,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "sk_HQq75dOE",
-            "Title": "Gene On Earth - Storsley [HELMET001]",
+            "title": "Gene On Earth - Storsley [HELMET001]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "🚀 Follow CMYK (DJ, events, label...): https://instagram.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm",
@@ -14749,7 +14749,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2JMYNeg3vqE",
-            "Title": "Gateway Shuffle - Snapping [OS-002]",
+            "title": "Gateway Shuffle - Snapping [OS-002]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From [OS-002] Gateway Shuffle - Digital Lifeline EP  https://www.hhv.de/shop/en/item/gateway-shuffle-digital-lifeline-759811 https://www.redeyerecords.co.uk/vinyl/126498-os-002-gateway-shuffle-digital-lifeline https://www.piccadillyrecords.com/counter/product.php?pid=135671 https://www.syncrophone.fr/1-gateway-shuffle-digital-lifeline/ https://crevetterecords.be/release/1599060463/Gateway-Shuffle-Digital-Lifeline https://www.coldcutshotwax.uk/products/gateway-shuffle-digital-lifeline https://www.phonicarecords.com/product/gateway-shuffle-digital-lifeline-ep-pre-order-open-space/168869 https://biit.me/product/digital-lifeline/  Support Open Space World  https://soundcloud.com/openspaceworld  https://www.instagram.com/openspaceworld/  Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: Facebook: https://www.facebook.com/since1994.yt/ Instagram: https://www.instagram.com/since1994.yt/ Gmail: since1994.yt@gmail.com",
@@ -14775,7 +14775,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "AGeLaNIcRVM",
-            "Title": "Stories In Dubh - Melody & Harmony - Chapter 3 (Instrumental Remix)",
+            "title": "Stories In Dubh - Melody & Harmony - Chapter 3 (Instrumental Remix)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Fruittree Records – FTREE 8 UK 1993",
@@ -14801,7 +14801,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oWvT7I3o3Ew",
-            "Title": "Equater – Under Graduate (Underground Mix)",
+            "title": "Equater – Under Graduate (Underground Mix)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Graduate Music – GRAD 02 UK 1994",
@@ -14827,7 +14827,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pi2e34_Drgc",
-            "Title": "Shades Of Rhythm - Bouncer [1995]",
+            "title": "Shades Of Rhythm - Bouncer [1995]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "Wandering Dragon Pt IV The Return / S.O.R. Recordings / United Kingdom  https://www.discogs.com/Shades-Of-Rhythm-Wandering-Dragon-Pt-IV-The-Return/release/635997   This channel is all about sharing music we love. No copyright infringement intended. If you're the right holder and you want this removed please contact me.",
@@ -14853,7 +14853,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "e08SIMzgNrI",
-            "Title": "B J Blade - Go Down Rock Yo Body (Rub Dub)",
+            "title": "B J Blade - Go Down Rock Yo Body (Rub Dub)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1990. https://www.discogs.com/release/1155718",
@@ -14879,7 +14879,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MuqEfu1oBa8",
-            "Title": "Phantom Power - Travelogue (Return Mix)",
+            "title": "Phantom Power - Travelogue (Return Mix)",
             "Channel ID": "UC-UyO3xVLubfCMZCTECPKAw",
             "Author": "KMA60",
             "Description": "We launch the third release from our in-house label Rezpektiva - featuring select cuts from the past that have made an impression on us over the years, released with the maximum respect.  Label: KMA60 Rezpektiva ‎– REZ3three Format: Vinyl, 12\", 45 RPM Country: Germany Released: Sept 2020 Genre: Electronic Style: House, Progressive House, Tech House",
@@ -14905,7 +14905,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mxxjtvtV3-A",
-            "Title": "A - Smooth & Simmonds - The Four Seasons (Factory Mix)",
+            "title": "A - Smooth & Simmonds - The Four Seasons (Factory Mix)",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -14931,7 +14931,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pbu2qXXnZ54",
-            "Title": "The Sunshiners ‎- J'Love La Plage",
+            "title": "The Sunshiners ‎- J'Love La Plage",
             "Channel ID": "UC_xvN4CZyMlg9KqUboLLrhw",
             "Author": "ODDJOHN",
             "Description": "The Sunshiners - The Sunshiners Vol. 2 EP  Artist: The Sunshiners   Label : Gobb 2  Catalog : SUN 02 Country : FR Released : 1995 Genre / Style : Electronic, Techno, House  Sadly holidays are over and it became harder to love a la plage but lucky for us the duo \"The Sunshiners\" are here to remind us the good times.  Top tune with a groovy bassline, slick transition and a variety of frequency shifting sounds.  BOUGE BOUGE TOUCHE TOUCHE SECOUE SECOUE!  Buy & support : https://www.discogs.com/The-Sunshiners-The-Sunshiners-Vol-2/release/294995 Any request? Remove The Video? Contact me : Pampajon@gmail.com",
@@ -14957,7 +14957,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-1cLV1fvKGI",
-            "Title": "Flow - Feel The Flow (Instrumental)",
+            "title": "Flow - Feel The Flow (Instrumental)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Bottom Line Records – BLR-9041 US 1993",
@@ -14983,7 +14983,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "21t0y0x8BMU",
-            "Title": "Aladdin! - Tonight",
+            "title": "Aladdin! - Tonight",
             "Channel ID": "UCmx1efQv-oDoL_I_EPEMYUQ",
             "Author": "House Six",
             "Description": "PREMIERE on Soundcloud :  https://bit.ly/3bcjTho  Label: YA.R Records Artist: Aladdin! Format: Vinyl EP Title: YAR001 Support it: https://bit.ly/2YRCxXc  Aladdin! : https://soundcloud.com/aladdinmusik https://fb.me/aladdinmusik  YA.R Records : https://soundcloud.com/yarrecords https://fb.me/yarproduction   Artwork: Antonin Schéou-Archibald  ---------------------------------------------------------------------------------------------------------------------------------------------------------------  House Six : https://soundcloud.com/house-six https://fb.me/HouseSix.yt https://instagr.am/housesix_ https://spoti.fi/3pHAj7J housesixyt@gmail.com",
@@ -15009,7 +15009,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vFMpuEcXRmo",
-            "Title": "X-Ample - Trust Me (Underground Dub Edit)",
+            "title": "X-Ample - Trust Me (Underground Dub Edit)",
             "Channel ID": "UCAySG82ra866kPwMBv2Xe9w",
             "Author": "ModeratorUK",
             "Description": "X-Ample - Trust Me (Underground Dub Edit)   https://www.discogs.com/X-Ample-Featuring-I-Eka-Trust-Me/release/931105",
@@ -15035,7 +15035,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vF8W2LfT7pE",
-            "Title": "Prélusion",
+            "title": "Prélusion",
             "Channel ID": "UC4r2WYlseJDKCQrzUhiraJw",
             "Author": "Deepside Ludovic Navarre - Topic",
             "Description": "Provided to YouTube by PIAS  Prélusion · Deepside Ludovic Navarre  Deepside EP  ℗ F COMMUNICATIONS  Released on: 2020-08-28  Composer: Ludovic Navarre  Auto-generated by YouTube.",
@@ -15061,7 +15061,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "o9RWW4hIpPA",
-            "Title": "J2K ft. Roses Gabor - Don't Let Go",
+            "title": "J2K ft. Roses Gabor - Don't Let Go",
             "Channel ID": "UC0i2_3vnBkxE1thujEOb8iA",
             "Author": "bitsnake's music archive 2.0",
             "Description": "https://www.discogs.com/artist/193234-J2k https://www.discogs.com/artist/1769257-Roses-Gabor  This tune was released as a downloadable mp3 from J2K ages ago and there's been low quality versions circulating around, took me a while to find this high quality version.  -- All credit goes to J2K and Roses Gabor --  [DISCLAIMER] This channel may contain copyrighted material the use of which has not always been specifically authorized by the copyright owner. This material was made available to others in an effort to create publicity and traffic for the artist and label behind the material. I do not claim to own any of the material included on this channel, and always include links to discogs pages for the artists behind the material, which includes all social media and their other material for people to purchase. If a video is monetized on this channel, the royalties are sent directly to the artist or label behind the material.  In accordance with Title 17 U.S.C. Section 107, the material on this site is distributed without profit to those who have expressed a prior interest in receiving the included information for research and educational purposes.  Please email me at bbdragon420@gmail.com before filing a copyright strike and I will remove your material immediately after your request. Thank you.",
@@ -15087,7 +15087,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FJb_4x3P8l0",
-            "Title": "Dolphin Feat. San'd - Planet (Nestor Mix)",
+            "title": "Dolphin Feat. San'd - Planet (Nestor Mix)",
             "Channel ID": "UCm54BvSK--nIal2tZIH1f4w",
             "Author": "Gasper",
             "Description": "Disclaimer:  Only purpose of this channel is to give the artist recognition they deserve.  If you want your track to be removed please contact me and i will remove it as soon as possible.  email: gasper.skerl@gmail.com",
@@ -15113,7 +15113,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "QzRWeQVYYkA",
-            "Title": "Home Again #5 - Sweely (live)",
+            "title": "Home Again #5 - Sweely (live)",
             "Channel ID": "UCWkEZa20gUdoeZACW92rJcA",
             "Author": "Home Again",
             "Description": "Sweely's recording from his performance at Watergate on February 5th 2020.  Home is where your house is Home is where your family lives Home is where your friends hang out Home is where your music plays Home is where you dance all night  Sweely Facebook: https://www.facebook.com/profile.php?id=100044393590722 Instagram: https://www.instagram.com/sweely_music/ Soundcloud: https://soundcloud.com/sweelymusic  Home Again Facebook: https://www.facebook.com/homeagainberlin Instagram: https://www.instagram.com/homeagain.berlin/ Soundcloud: https://soundcloud.com/homeiswhereyourhouseis",
@@ -15139,7 +15139,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Jr_jp0EsKa8",
-            "Title": "Lip Gloss - Tennis [1996]",
+            "title": "Lip Gloss - Tennis [1996]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "Master Output Vol.2 / Lemon (Magazine) / Greece  https://www.discogs.com/Various-Master-Output-Vol-2/release/1288869?ev=rr   This channel is all about sharing music we love. No copyright infringement intended. If you're the right holder and you want this removed please contact me.",
@@ -15165,7 +15165,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2eOPsxd8G8c",
-            "Title": "Avos - Illusive Timing [LMML17]",
+            "title": "Avos - Illusive Timing [LMML17]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "➤ Check out the label: https://www.facebook.com/LowMoneyMusicLove ♫ More music: https://soundcloud.com/cmykitsme ♫ My BCN-based Label & Events Kommuna: https://soundcloud.com/kommunabcn  Release details: https://www.discogs.com/Avos-Family-Affairz-EP/release/14752125  All uploads have low-bitrate audio (128kbps) - not for club use!",
@@ -15191,7 +15191,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZYNDOAHEPq4",
-            "Title": "Utopian Dream - Body In Motion (Progressive Club Mix 2)",
+            "title": "Utopian Dream - Body In Motion (Progressive Club Mix 2)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Burning Records – BN 005 UK",
@@ -15217,7 +15217,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6VnTwQSqcf0",
-            "Title": "Kingston Black  - Ketosis",
+            "title": "Kingston Black  - Ketosis",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Burning Records – KB 002 UK 1993",
@@ -15243,7 +15243,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_30HHI4bDgk",
-            "Title": "B - Lionel P. - Untitled",
+            "title": "B - Lionel P. - Untitled",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -15269,7 +15269,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "DgrJ9P00oBk",
-            "Title": "Hustlers Convention – Final (Dubstrumental)",
+            "title": "Hustlers Convention – Final (Dubstrumental)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Underground Music Movement UMM 338 Italy 1996",
@@ -15295,7 +15295,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "e1DJaTUAtck",
-            "Title": "Pro-Gres - The House Of Pain (Chicago House Of Pain Mix)",
+            "title": "Pro-Gres - The House Of Pain (Chicago House Of Pain Mix)",
             "Channel ID": "UC3p1aPxkoKHbPLHsV3eMmTQ",
             "Author": "Cheap Records Diggers",
             "Description": "Pro-Gress ‎– The House Of Pain Label: Club Tools ‎– edel 0062020CLU Format: Vinyl, 12\" Country: Germany Released: 1995 Genre: Electronic Style: Techno, Tech House   We do not own any copyrights for this track, so if you want us to remove it please send us a message and we will do it ASAP! Cheers :)  Release: https://www.discogs.com/Pro-Gress-The-House-Of-Pain/release/43918?ev=item-vc  Follow us: https://www.facebook.com/CheapRecordsDiggers",
@@ -15321,7 +15321,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nRssIPOp3oU",
-            "Title": "Sunday Skool ‎– Feel The Music ( Acid Mix)",
+            "title": "Sunday Skool ‎– Feel The Music ( Acid Mix)",
             "Channel ID": "UCMqQP5RfEMScE2U5gveDztQ",
             "Author": "Floating In Space",
             "Description": "This is a bonus track I'm releasing from my collection, celebrating my channel subscriptions reaching it’s first century.  Sunday Skool ‎– Feel The Music  Label: Lost Records (7) ‎– STA 051 Country: UK Released: 1993 Genre: Electronic Style: House  https://www.discogs.com/Sunday-Skool-Feel-The-Music/release/295296  I don't own the right to this track, the only purpose is to give credit to the artist. If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly.",
@@ -15347,7 +15347,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pR-cBJ4poDk",
-            "Title": "INTERPLANETARY CRIMINAL - WHO ON DA MIC [TIN005]",
+            "title": "INTERPLANETARY CRIMINAL - WHO ON DA MIC [TIN005]",
             "Channel ID": "UCrgSrKO2ZUYJCirOP9bzDQg",
             "Author": "Maslow Unknown",
             "Description": "Interplanetary Criminal returns to Time Is Now with four future UKG classics in the making. BUY: https://fanlink.to/TIN005 SUPPORT: https://soundcloud.com/interplanetary-criminal SOUNDCLOUD: https://soundcloud.com/maslowunknown/premiere-interplanetary-criminal-who-on-da-mic-tin005 #UKG #SHALLNOTFADE #TIMEISNOW",
@@ -15373,7 +15373,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6QexHls_jWc",
-            "Title": "s. jey & andrew - pink",
+            "title": "s. jey & andrew - pink",
             "Channel ID": "UCSCzAF6z0Yl2Yx690RCdhyw",
             "Author": "tevz",
             "Description": "S. Jey & Andrew ‎– Let It Roll",
@@ -15399,7 +15399,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Kaktn9LP-lc",
-            "Title": "Galaxy - Axis",
+            "title": "Galaxy - Axis",
             "Channel ID": "UCnM7ltulCzlVAomV3GaFLzw",
             "Author": "records diet",
             "Description": "Galaxy (2) ‎– Loop Label: Slamdunk ‎– SD002 Format: Vinyl, 12\", 33 ⅓ RPM, White Label Country: Netherlands Released: 1998 Genre: Electronic Style: Techno, Tech House  https://www.discogs.com/Galaxy-Loop/release/1624039",
@@ -15425,7 +15425,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "j4a1dHXgZPk",
-            "Title": "Robbenspierre - Shit Happens [POO003]",
+            "title": "Robbenspierre - Shit Happens [POO003]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Deejay: https://bit.ly/2ZQR9XO Juno: https://bit.ly/2ZQxuXW Red Eye: https://bit.ly/3eQuK0T Technique: https://bit.ly/39inbil Disco Più: https://bit.ly/3juu19i Viniil: https://bit.ly/3huH6O1   ➤ Release info: https://www.discogs.com/Various-Planetarium-VA/release/15635887   ➤ Support the label: https://www.instagram.com/pathoforbit/ https://soundcloud.com/user-807887026 https://www.facebook.com/pathoforbit/ / |",
@@ -15451,7 +15451,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "z6FBWkIbrUA",
-            "Title": "Shinichi Atobe - Lake 3 [DDS042]",
+            "title": "Shinichi Atobe - Lake 3 [DDS042]",
             "Channel ID": "UCpRvzLLQL5hWSpVaOHiIQEw",
             "Author": "Givi Gelashvili",
             "Description": "Support artist and label, buy here / https://www.deejay.de/Shinichi_Atobe_Yes_2x12_DDS042_Vinyl__956389 https://clone.nl/item61070.html https://www.phonicarecords.com/product/shinichi-atobe-yes-lp-dds/168071 https://www.redeyerecords.co.uk/vinyl/125105-dds042-shinichi-atobe-yes https://www.juno.co.uk/products/shinichi-atobe-yes/784263-01/  Shinichi Atobe - Yes DDS ‎/ DDS042 July 9, 2020  DISCLAIMER / All tracks are uploaded in low quality, for promoting purposes and with buy links. If either label, artist or third party copyright holder does not agree with their material being uploaded, please contact me and I will take it down immediately.  Email: givi.gelashvili@protonmail.ch",
@@ -15477,7 +15477,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "M236TI4Jpy4",
-            "Title": "Goiz - Crab's Dub",
+            "title": "Goiz - Crab's Dub",
             "Channel ID": "UCRTfZ8rXu1IzSfy9mIf3lsQ",
             "Author": "Ej",
             "Description": "~ Various ‎– Sports Various Artists 01 Label: SPORTS Records ‎– SVA01 Format: Vinyl, 12\", 33 ⅓ RPM  Country: US Released: 25 May 2020 Genre: Electronic Style: Breakbeat, House  \"Sports Records recruits an all-star team for their first VA. The compilation kicks off with Goiz’s ‘Crab's Dub’, a bouncy downtempo number from the young Miami juggernaut that’s been taking the dance music world by storm. A2 sees a wonky percussive tune from the wild minds of Italian duo Shampoo Douglas. The B side welcomes Aussie Red Embers legend Ewan Jansen with his timeless deep house hole in one titled ‘Scit Scat Return’. Pager boss Markus Sommer rounds off this release with a swinging work out tune that’s sure to stimulate.\"  Buy: https://www.discogs.com/Various-Sports-Various-Artists-01/release/15058054 https://www.deejay.de/Various_Sports_Various_Artists_01_SVA-001_Vinyl__951640 https://www.coldcutshotwax.uk/products/various-sports-various-artists-01 https://www.decks.de/decks/ https://www.redeyerecords.co.uk/vinyl/121367-sva-001-goiz--shampoo-douglas--ewan-jansen--markus-sommer-sports-various-artists-01  Sports Records: https://soundcloud.com/sportsrecordsmusic https://sportsrecords.bandcamp.com/music https://www.facebook.com/sportswax  Uploaded for promotional/sharing purposes, all rights belong to the artist (compressed audio: 160kbps!) ~",
@@ -15503,7 +15503,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "7EYxvV5XDzA",
-            "Title": "Denia - Ibiza (El Mix Mas Elegante) [Unknown]",
+            "title": "Denia - Ibiza (El Mix Mas Elegante) [Unknown]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "Ibiza / Not On Label / United Kingdom  Repressed by KMA60 // https://www.discogs.com/Denia-REZ7seven/release/18551509  This can be found on the following compilations :  https://www.discogs.com/Various-Best-Of-Underground-Dance/release/1316227 https://www.discogs.com/Various-Best-Of-Underground-Dance-Volume-3/release/107294  Original release : https://www.discogs.com/Denia-Ibiza/release/1925114   This channel is all about sharing music we love. No copyright infringement intended. If you're the right holder and you want this removed please contact me.",
@@ -15529,7 +15529,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Dg53G_EVlUE",
-            "Title": "Angelic / Wobblehead / 3BTT20 [1993]",
+            "title": "Angelic / Wobblehead / 3BTT20 [1993]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/Wobblehead-Crawler/release/202473  Discogs: https://www.discogs.com/user/theproudmistress Instagram: https://www.instagram.com/theproudmistress Soundcloud: https://soundcloud.com/theproudmistress Facebook: https://www.facebook.com/theproudmistress/  Track: Angelic Artist: Wobblehead  EP Title: Crawler Label: 3 Beat Music Catalog #: 3BTT20 Genre: Tech House, Techno Year: 1993",
@@ -15555,7 +15555,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "I2Gt6_IAHFA",
-            "Title": "Culture Deaf Synth Alien Nueva Epoca Synth Alien Remix Unreleased",
+            "title": "Culture Deaf Synth Alien Nueva Epoca Synth Alien Remix Unreleased",
             "Channel ID": "UCiynDeu6RBxcs4kQ5P9DoOw",
             "Author": "Culture Deaf",
             "Description": "Culture Deaf Synth Alien Nueva Epoca Synth Alien Remix Unreleased",
@@ -15581,7 +15581,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EQ1UWG3zZ_I",
-            "Title": "The Incredible Melting Man - Boombangin'",
+            "title": "The Incredible Melting Man - Boombangin'",
             "Channel ID": "UC6NEeGR4c2GC3cknoatgY7A",
             "Author": "Florent B",
             "Description": "Artist : The Incredible Melting Man Title : Diversity High EP Label : Dust 2 Dust records Cat : SPEC 132 Country : UK Year : 1999",
@@ -15607,7 +15607,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "p4wruWSALz0",
-            "Title": "Tzena - Finally [LUCKISON003]",
+            "title": "Tzena - Finally [LUCKISON003]",
             "Channel ID": "UCByc6t1_4qS1GA7Y-5bLEzg",
             "Author": "The W.A.P Station",
             "Description": "https://www.discogs.com/Tzena-Luckison-003/release/15288122  For promotional purposes only. Please email for any copyright issues and the video will be removed. https://www.instagram.com/wapstation/",
@@ -15633,7 +15633,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HnB1jMTqOCs",
-            "Title": "You",
+            "title": "You",
             "Channel ID": "UCRGid-NEt7LiD6d5JqJQmSg",
             "Author": "For All The People",
             "Description": "All tracks are uploaded to promote the artists. If you want your track to be removed please contact me on email acakkzmz@gmail.com",
@@ -15659,7 +15659,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BtZWB9Ip3-A",
-            "Title": "Sam Bangura-Relocate",
+            "title": "Sam Bangura-Relocate",
             "Channel ID": "UCdzgPbiTKh-JGCJs4B-GTOQ",
             "Author": "REKK 81",
             "Description": "Track will be removed on request. For promotional purposes only!All the tracks uploaded in this channel are in low bitrate quality. 👉groovesegment@gmail.com  https://www.discogs.com/ru/Various-Friends-Of-Sub/release/15430401",
@@ -15685,7 +15685,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "7g1L9NHUL0I",
-            "Title": "Tiago Walter - Artificial Emotion [JISUL01]",
+            "title": "Tiago Walter - Artificial Emotion [JISUL01]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "➤ Check out the label: https://soundcloud.com/jisulrecords ♫ More music: https://soundcloud.com/cmykitsme ♫ My BCN-based Label & Events Kommuna: https://soundcloud.com/kommunabcn  Release details: https://www.discogs.com/Tiago-Walter-Bouncin/release/15191402  All uploads have low-bitrate audio (128kbps) - not for club use!",
@@ -15711,7 +15711,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VfMdAeBvrWI",
-            "Title": "D.J. Reche & Hitman - Everything Good (Hit Reche Mix)",
+            "title": "D.J. Reche & Hitman - Everything Good (Hit Reche Mix)",
             "Channel ID": "UCCL_rE8MCGxTlPESj4Rm9iw",
             "Author": "LukeyChoons",
             "Description": "https://www.discogs.com/DJ-Reche-Hitman-Zenith/release/1155960",
@@ -15737,7 +15737,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WyXZexHBUcg",
-            "Title": "Marakesh - The Dream",
+            "title": "Marakesh - The Dream",
             "Channel ID": "UC_xvN4CZyMlg9KqUboLLrhw",
             "Author": "ODDJOHN",
             "Description": "Marakesh - Gold / The Temple / The Dream EP  Artist: Marakesh Label : Black Market International  Catalog : BMi - 006 Country : UK Released : 1992 Genre / Style : Electronic, House  Black Market was a record shop in west London that sadly closed in 2015. \"Rene Gelston\" was the owner of the shop but he is also known as the manager of the house pioneer \"Larry heard\".  Really nice EP here especially the AA side it is progressive, melodic and well structured.  Buy & support : https://www.discogs.com/Marakesh-Gold-The-Temple-The-Dream/master/569715 Any request? Remove The Video? Contact me : Pampajon@gmail.com",
@@ -15763,7 +15763,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6uZrOYdJ4lY",
-            "Title": "Akira - Bamboo Valley (Valley Dub) [DFC 145]",
+            "title": "Akira - Bamboo Valley (Valley Dub) [DFC 145]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    https://www.discogs.com/Akira-Bamboo-Valley/release/576090 / |",
@@ -15789,7 +15789,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "f4a4MDX8yTc",
-            "Title": "Gérard Depardieu - SSD [75002]",
+            "title": "Gérard Depardieu - SSD [75002]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "— \"Underground music journey through a Parisian district-hopping\"    ➤ Grab your copy: https://distriktparis.bandcamp.com/album/75002-ep   ➤ Support the label: hhttps://www.facebook.com/DistriktParis/ / |",
@@ -15815,7 +15815,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VChSIs_tDkI",
-            "Title": "Mindfield - Magic Time Of Day",
+            "title": "Mindfield - Magic Time Of Day",
             "Channel ID": "UCTcibhp6ZoZ-7NYdYc-zjFQ",
             "Author": "Merov'",
             "Description": "I'm not the owner, will remove on request  https://www.discogs.com/fr/Mindfield-Walk-With-Me/release/2449904",
@@ -15841,7 +15841,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ec2AMI8QAnQ",
-            "Title": "Analog Silence - Try And Proove It (Touchy House Mix) [CLX004]",
+            "title": "Analog Silence - Try And Proove It (Touchy House Mix) [CLX004]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From Analog Silence ‎– Try And Proove It [CLX004]  https://www.discogs.com/Analog-Silence-Try-And-Proove-It/release/667014  Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: Facebook: https://www.facebook.com/since1994.yt/ Instagram: https://www.instagram.com/since1994.yt/ Gmail: since1994.yt@gmail.com",
@@ -15867,7 +15867,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Zcr2V-Q2L0U",
-            "Title": "Nasby - Sad Life (Stanley 125 BPM Mix)",
+            "title": "Nasby - Sad Life (Stanley 125 BPM Mix)",
             "Channel ID": "UCCL_rE8MCGxTlPESj4Rm9iw",
             "Author": "LukeyChoons",
             "Description": "https://www.discogs.com/pt_BR/Nasby-Sad-Life/release/1137477",
@@ -15893,7 +15893,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Hn7WP_RHAu8",
-            "Title": "Travelogue (Departure Mix) / Phantom Power / CRIB007 [1994]",
+            "title": "Travelogue (Departure Mix) / Phantom Power / CRIB007 [1994]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/Phantom-Power-Travelogue/release/6108845  Bandcamp: https://phantompower-cribrecords.bandcamp.com/track/travelogue-departure-mix  Facebook: https://www.facebook.com/theproudmistress/ Soundcloud: https://soundcloud.com/theproudmistress Instagram: https://www.instagram.com/theproudmistress  Track: Travelogue (Departure Mix)  Artist: Phantom Power EP Title: Travelogue Label: Crib Records  Catalog #: CRIB007  Genre: House, Progressive House, Deep House Year: 1994",
@@ -15919,7 +15919,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IND_hXkHeQk",
-            "Title": "Statement ‎– Our Concept",
+            "title": "Statement ‎– Our Concept",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "UMM 048  Italy  1992",
@@ -15945,7 +15945,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1eJAPgWu_wk",
-            "Title": "The Spitfire Project - You Are",
+            "title": "The Spitfire Project - You Are",
             "Channel ID": "UC_xvN4CZyMlg9KqUboLLrhw",
             "Author": "ODDJOHN",
             "Description": "The Spitfire Project - Spitfire EP  Artist: The Spitfire Project Label : Mehrwert Records  Catalog : SP 01 Country : FR Released : 1997 Genre / Style : Electronic, House  Old but still fresh house track from the French Spitfire Project. The track structure reminds me a lot of what Daft Punk used to do in their \"Homework\" album although it's got some really nice American west coast flavor with this minimoog like type of lead appearing here and there.   Buy: https://www.discogs.com/The-Spitfire-Project-Spitfire-EP/release/1350231 Any request? Remove The Video? Contact me : Pampajon@gmail.com",
@@ -15971,7 +15971,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "slxqtaladGg",
-            "Title": "Turn That",
+            "title": "Turn That",
             "Channel ID": "UCEvlOVfTVCp5f54sNCRgdXA",
             "Author": "Sally C - Topic",
             "Description": "Turn That · Sally C  Big Saldo’s Chunker 001  ℗ Sally C  Released on: 2020-06-19  Auto-generated by YouTube.",
@@ -15997,7 +15997,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ei3sECZ48rA",
-            "Title": "Yogi P - Orbit",
+            "title": "Yogi P - Orbit",
             "Channel ID": "UCmx1efQv-oDoL_I_EPEMYUQ",
             "Author": "House Six",
             "Description": "PREMIERE on Soundcloud : https://bit.ly/3fe6s1y  Label: Houbless Music Artist: Yogi P Format: Digital EP Title: The Future Is Now Support it: https://bit.ly/2BNGX8C  Yogi P : https://soundcloud.com/yogipmusic https://fb.me/Yogipmusic  Houbless Music : https://soundcloud.com/houbless-music https://fb.me/HoublessMusic  ---------------------------------------------------------------------------------------------------------------------------------------------------------------  House Six : https://soundcloud.com/house-six https://fb.me/HouseSix.yt https://instagr.am/housesix_ https://spoti.fi/3pHAj7J housesixyt@gmail.com",
@@ -16023,7 +16023,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "N9dxS53VSgw",
-            "Title": "Aquaquest pt2 (The Anticlimax)",
+            "title": "Aquaquest pt2 (The Anticlimax)",
             "Channel ID": "UCnJPNVrD64xPrOdAIGPUNlw",
             "Author": "OCB & Detroit's Filthiest - Topic",
             "Description": "Aquaquest pt2 (The Anticlimax) · OCB  The Anticlimax  ℗ SCAM PLANET  Released on: 2018-09-10  Producer: Driss Bennis  Auto-generated by YouTube.",
@@ -16049,7 +16049,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Znv9We8sfAA",
-            "Title": "A1. Josh Baker - In Two Minds [SOI010]",
+            "title": "A1. Josh Baker - In Two Minds [SOI010]",
             "Channel ID": "UCtSYkZGP9nkvXPMQgjeEIow",
             "Author": "Yoyaku Record Store",
             "Description": "Buy Vinyl : https://www.yy.link/SOI010/",
@@ -16075,7 +16075,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Cpyw99sOL3Q",
-            "Title": "Kush Jones - Earth Note",
+            "title": "Kush Jones - Earth Note",
             "Channel ID": "UCsIzfsOcObtsEXOwtsFlcFA",
             "Author": "Pierre B",
             "Description": "https://futuretimes.bandcamp.com/album/ep-ft055",
@@ -16101,7 +16101,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NkLQ_1TmUWE",
-            "Title": "The Spitfire Project - You Are [SP 01]",
+            "title": "The Spitfire Project - You Are [SP 01]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Ready when you are: https://instagram.com/__diskevich/   Label: Mehrwert Records ‎– SP 01 Format: Vinyl, EP, Promo Country: France Released: 1997 Genre: Electronic Style: House --- https://www.discogs.com/The-Spitfire-Project-Spitfire-EP/release/1350231 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -16127,7 +16127,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IyEYxq9oeFA",
-            "Title": "Fenomenon - Solara (Butti's Soleie Pleie)",
+            "title": "Fenomenon - Solara (Butti's Soleie Pleie)",
             "Channel ID": "UC6xQwZHVyACaWwIDe8DKoeQ",
             "Author": "Abandoned Tools",
             "Description": "Various ‎– Tokijo 002 Year : 2001 https://www.discogs.com/it/Various-Tokijo-002/release/733914  In case the owner is against its publication, please contact me and I will remove it immediately.",
@@ -16153,7 +16153,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wVmewXx9Tws",
-            "Title": "Reynold - Craft",
+            "title": "Reynold - Craft",
             "Channel ID": "UCuy7-sHuU4CI1BZDLMJ1VsA",
             "Author": "Teodor",
             "Description": "I purchased this earlier and wanted to share it with you.  . . Wish to add it to your collection?  💿 https://www.discogs.com/Reynold-Faze-PartI/release/1326526 💻 https://www.junodownload.com/products/reynold-faze-part-1/1323870-02/",
@@ -16179,7 +16179,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "S5cUNKxdAMk",
-            "Title": "Mixmaster & DJ M  Verbeni – The Sound Of Assissi (Suora Mix)",
+            "title": "Mixmaster & DJ M  Verbeni – The Sound Of Assissi (Suora Mix)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Radikal Records – RAD 85, Hot Productions – HAL 12363 US 1993",
@@ -16205,7 +16205,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Jt8CMjfN4v4",
-            "Title": "The Sunshiners - J'Love La Plage",
+            "title": "The Sunshiners - J'Love La Plage",
             "Channel ID": "UCEZv9dZgLH68-u8DNjFtmQA",
             "Author": "QRcogs",
             "Description": "The Sunshiners – The Sunshiners Vol. 2 https://www.discogs.com/release/294995",
@@ -16231,7 +16231,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JRqtxm6XAt8",
-            "Title": "chez damier - untitled",
+            "title": "chez damier - untitled",
             "Channel ID": "UCSCzAF6z0Yl2Yx690RCdhyw",
             "Author": "tevz",
             "Description": "https://www.discogs.com/Various-The-Nature-Of-Retribution/release/37898",
@@ -16257,7 +16257,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fPRm6tAsFbc",
-            "Title": "Everybody's Kissing Everyone",
+            "title": "Everybody's Kissing Everyone",
             "Channel ID": "UCP0FUa2_wDGqSLTpnIY9c2g",
             "Author": "The Bionaut - Topic",
             "Description": "Provided to YouTube by Kontor New Media GmbH  Everybody's Kissing Everyone · The Bionaut  Everybody's Kissing Everyone  ℗ Kompakt  Released on: 2020-05-01  Artist: The Bionaut Music  Publisher: Ed.Popular.Songs Composer: Jörg Burger Music  Publisher: SMV  Auto-generated by YouTube.",
@@ -16283,7 +16283,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FLT-_Dam0do",
-            "Title": "Alvaro Cabana - Insensato",
+            "title": "Alvaro Cabana - Insensato",
             "Channel ID": "UCQXo3gUR_a3Klx2cycKFTAw",
             "Author": "Dance, Shake, Swing!",
             "Description": "Invader Music 001, Spain, 2005, Tech House",
@@ -16309,7 +16309,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EjCzpdQsiLE",
-            "Title": "Samuel Padden - Transmission [THREADS004]",
+            "title": "Samuel Padden - Transmission [THREADS004]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Pre-order:  https://www.decks.de/track/samuel_padden-threads004/cgi-9u https://www.redeyerecords.co.uk/vinyl/120729-threads004-samuel-padden-threads004- Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -16335,7 +16335,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "QwzQx4MkM3Q",
-            "Title": "Ganymedes - Day Six [EYA Records]",
+            "title": "Ganymedes - Day Six [EYA Records]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (128kbps). Follow EYA Records: https://www.facebook.com/eyarecords/ ☛ Buy Record:  https://eyarecords.bandcamp.com/album/ganymedes-from-the-vault ☛ More Music: https://www.facebook.com/DoFunkk      Copyrights of anything uploaded and broadcasted from this channel are owned by the respective artists and labels.  Please message me on dofunkk.channel2@gmail.com   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -16361,7 +16361,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1iYsQnJeL6w",
-            "Title": "Mr. Barcode - The Rise Of the machines",
+            "title": "Mr. Barcode - The Rise Of the machines",
             "Channel ID": "UC_c9RVDAg-fSwNvc8EcCcPg",
             "Author": "HULA-HOP TRAX",
             "Description": "Furious Jay Tripwire  Promo purpose. Low bitrate.  Buy the record: https://www.discogs.com/es/Various-Bad-Acid-Album-Sampler/master/272590  Relax and listen to our HULA-HOP TAPE 004 by Dani Rubio: https://soundcloud.com/hula-hop-colectivo/hula-hop-tape-004-dani-rubio  Various ‎– Bad Acid (Album Sampler) Género: Electronic Estilo: Acid House, Deep House Año: 2004",
@@ -16387,7 +16387,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "A7KRnkAXTqQ",
-            "Title": "Audio Quest - The Mental Screen [USR015]",
+            "title": "Audio Quest - The Mental Screen [USR015]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—     ➤ Bandcamp: https://undersoundrecordings.bandcamp.com/ / |",
@@ -16413,7 +16413,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Ht8Q6rquDpw",
-            "Title": "Down D.C. - Acid House Part II",
+            "title": "Down D.C. - Acid House Part II",
             "Channel ID": "UC_xvN4CZyMlg9KqUboLLrhw",
             "Author": "ODDJOHN",
             "Description": "Down D.C. and Analog Consciousness - Picnolypsis 001 EP  Artist: Down D.C. Label :  Picnolypsis ‎ Catalog : NOIZ 001 Country : GER Released : 1996 Genre / Style : Electronic, House, Acid  Lost EP in a lonely German label.     Buy : https://www.discogs.com/Down-DC-Analog-Consciousness-Picnolypsis-001/release/410837 Any request? Remove The Video? Contact me : Pampajon@gmail.com",
@@ -16439,7 +16439,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "X7KrdXQvR2U",
-            "Title": "Safar - Tangerine Train (Lost In The Tunnel Of Dub) [AB028]",
+            "title": "Safar - Tangerine Train (Lost In The Tunnel Of Dub) [AB028]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    https://www.discogs.com/Safar-Tangerine-Train/release/182595 / |",
@@ -16465,7 +16465,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "G9lHKe4EjJk",
-            "Title": "T-Power - Who Gives A Funk",
+            "title": "T-Power - Who Gives A Funk",
             "Channel ID": "UCjQUcc-tKtu8mhq4ngu0x7A",
             "Author": "Fintan",
             "Description": "https://www.discogs.com/T-Power-Dental-Hygiene/release/1820695",
@@ -16491,7 +16491,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8Fe_xjTVXVs",
-            "Title": "Leo Rosi - Erotika (T.I.B.E.S. Mix)",
+            "title": "Leo Rosi - Erotika (T.I.B.E.S. Mix)",
             "Channel ID": "UCUspVuh6QIhBPglFJiKXYOg",
             "Author": "Space Musicorum",
             "Description": "Leo Rosi* ‎– Double Mix Sello: In Lite ‎– INR 9203 Formato: 2 × Vinyl, 12\", 33 ⅓ RPM, Purple País: Italy Publicado: 1992 Género: Electronic Estilo: Techno, Deep House, Tech House  https://www.discogs.com/es/Leo-Rosi-Double-Mix/release/410555  No copyright infringement intended. For promotional purposes only.  All rights reserved to the respective owners and artists.  If you have copyright issues, let me know and I will remove it.  ♫ More music, information and dissemination of artists and labels: https://www.instagram.com/space_musicorum/  Thank you and enjoy.",
@@ -16517,7 +16517,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rKUGPKEnQDM",
-            "Title": "TIME MODEM - WELCOME TO THE 90'S (ALBUM VERSION) (℗1992 / ©2020)",
+            "title": "TIME MODEM - WELCOME TO THE 90'S (ALBUM VERSION) (℗1992 / ©2020)",
             "Channel ID": "UCl28phgttCC_9z5ZQrVgLeA",
             "Author": "ELECTRIFY001",
             "Description": "1992 TIME MODEM; 1992 BOY RECORDS, BOY 2802-1; 1992 BOY RECORDS, BOY 2802-2; 1992 BOY RECORDS, BOY 2802-4; 2020 ELECTRIFY.   ♫ Original version by TIME MODEM: ➤https://www.discogs.com/artist/25751-Time-Modem ➤https://www.discogs.com/Time-Modem-Transforming-Tune/master/57528 ➤https://www.discogs.com/label/2028-BOY-Records ➤http://www.lotekstyle.de/timemodem/index.html  ♫ 🎬 Audio Re-Mastering and video editing by ELECTRIFY.  #ELECTRIFY001",
@@ -16543,7 +16543,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4LbaS41TewA",
-            "Title": "Hypnosis (SL2 Remix)",
+            "title": "Hypnosis (SL2 Remix)",
             "Channel ID": "UCS2GaUmg-rMBSuBAyBNSjAw",
             "Author": "Psychotropic - Topic",
             "Description": "Provided to YouTube by The state51 Conspiracy  Hypnosis (SL2 Remix) · Psychotropic  Essentials  ℗ 1992 Nick Nicely|Gavin Mills  Released on: 2020-04-10  Mixer: Gavin Mills Producer: Gavin Mills Mixer: Nick Nicely Producer: Nick Nicely Music  Publisher: Cambell Connolly Music Composer: Gavin Mills Lyricist: Gavin Mills Composer: Nick Nicely Lyricist: Nick Nicely Music  Publisher: Peer Music  Auto-generated by YouTube.",
@@ -16569,7 +16569,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zw-TY88Hzng",
-            "Title": "Hypnosis (Definitive Remix)",
+            "title": "Hypnosis (Definitive Remix)",
             "Channel ID": "UCS2GaUmg-rMBSuBAyBNSjAw",
             "Author": "Psychotropic - Topic",
             "Description": "Provided to YouTube by The state51 Conspiracy  Hypnosis (Definitive Remix) · Psychotropic  Essentials  ℗ 1992 Nick Nicely|Gavin Mills  Released on: 2020-04-10  Mixer: Gavin Mills Producer: Gavin Mills Mixer: Nick Nicely Producer: Nick Nicely Music  Publisher: Cambell Conolly Music Composer: Gavin Mills Lyricist: Gavin Mills Composer: Nick Nicely Lyricist: Nick Nicely Music  Publisher: Peer Music  Auto-generated by YouTube.",
@@ -16595,7 +16595,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BTAa3Wnbcxg",
-            "Title": "Samuel Jabba - Acid Pleasure [BLKMUSIC 006]",
+            "title": "Samuel Jabba - Acid Pleasure [BLKMUSIC 006]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "— \"Revealing the truth can bring light or it can set your world on fire\"    COMING OUT SOON   ➤ Support the boss and his label: https://soundcloud.com/blkmarket_music/albums  Mastered by: Dietrich Schoenemann / |",
@@ -16621,7 +16621,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "a_oOwYVQhN0",
-            "Title": "Language",
+            "title": "Language",
             "Channel ID": "UC_JY9dKg_WY6aOGalsNaDFA",
             "Author": "Tayla - Topic",
             "Description": "Provided to YouTube by Ingrooves  Language · Tayla  Producer 04  ℗ goodlooking  Released on: 2013-01-28  Writer, Composer: R. Taylor  Auto-generated by YouTube.",
@@ -16647,7 +16647,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2DpnZLnOYbY",
-            "Title": "Dub Theory - All T'ings Dub",
+            "title": "Dub Theory - All T'ings Dub",
             "Channel ID": "UCqgjsDIStMI4vlXIty3Gjww",
             "Author": "Reel Long Overdub",
             "Description": "Originally on Jah Love, 2001. Recording from Tyrant - No Shoes, No Cake, 2002.  [This channel may contain copyrighted material unauthorized by the owner. We are sharing tracks for the love of it, not for profit, and are happy to delete videos on request.]",
@@ -16673,7 +16673,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kSDFzLS5bnM",
-            "Title": "Here's Your Trance, Now Dance!!",
+            "title": "Here's Your Trance, Now Dance!!",
             "Channel ID": "UCeBLeLdXAKcu2Z4XhIS6GWQ",
             "Author": "Omar-S - Topic",
             "Description": "Provided to YouTube by The Orchard Enterprises  Here's Your Trance, Now Dance!! · Omar S  Here's Your Trance, Now Dance!  ℗ 2017 FXHE RECORDS  Released on: 2017-07-26  Music  Publisher: Alex Omar Smith  Auto-generated by YouTube.",
@@ -16699,7 +16699,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "CCOI90T4ZPE",
-            "Title": "House Encounters - Deep North",
+            "title": "House Encounters - Deep North",
             "Channel ID": "UCI1dNGLBOsyCvgxqeZAbAXw",
             "Author": "Purring Station",
             "Description": "https://www.discogs.com/House-Encounters-House-Encounters-Vol-1/release/70197  LOW BITRATE - FOR PROMOTION ONLY  I do not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact me and the content will be removed immediately. Support the artists/labels and buy the EP.",
@@ -16725,7 +16725,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "70edJmDXkFc",
-            "Title": "Sunday Skool - Feel The Music (Dub The Music)",
+            "title": "Sunday Skool - Feel The Music (Dub The Music)",
             "Channel ID": "UCI1dNGLBOsyCvgxqeZAbAXw",
             "Author": "Purring Station",
             "Description": "https://www.discogs.com/Sunday-Skool-Feel-The-Music/release/295296   LOW BITRATE - FOR PROMOTION ONLY  I do not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact me and the content will be removed immediately. Support the artists/labels and buy the EP.",
@@ -16751,7 +16751,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "by2WJSLN6iU",
-            "Title": "House Of Prince - Yeah Yeah [1995]",
+            "title": "House Of Prince - Yeah Yeah [1995]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "Various – No Rites / Metronome / Germany  Pitch : +2%  https://www.discogs.com/Various-No-Rites/release/796862   Everything is uploaded to promote music and artists themselves, please contact me for any copyright claim.",
@@ -16777,7 +16777,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jMh5DN50gNE",
-            "Title": "[Borde03] Caffe - 91",
+            "title": "[Borde03] Caffe - 91",
             "Channel ID": "UCntBrdfn_MAVW5dkxe4BQCQ",
             "Author": "Borde",
             "Description": "Caffe - 91 (low audio br)",
@@ -16803,7 +16803,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "7V-X08pjSi0",
-            "Title": "Unknown Artist - #DRGS06A [DRGS006]",
+            "title": "Unknown Artist - #DRGS06A [DRGS006]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -16829,7 +16829,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Qh8erpHPNnw",
-            "Title": "Decadent Saints - Love Contender (Atmosphere Mix)",
+            "title": "Decadent Saints - Love Contender (Atmosphere Mix)",
             "Channel ID": "UCn12eJKBhHLSJOkLucV6D5w",
             "Author": "SenorToucan",
             "Description": "1995 Nice'N'Ripe",
@@ -16855,7 +16855,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LO9_N0BPkUI",
-            "Title": "Fast Floor - The Sedator [1998]",
+            "title": "Fast Floor - The Sedator [1998]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "The Eternal Dream / Mana Recordings / United Kingdom  https://www.discogs.com/Fast-Floor-The-Eternal-Dream/release/5035895  Everything is uploaded to promote music and artists themselves, please contact me for any copyright claim.",
@@ -16881,7 +16881,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Rg2repuHhOo",
-            "Title": "Mr. Ho - 000Baby",
+            "title": "Mr. Ho - 000Baby",
             "Channel ID": "UCMJ0Uy2la_Rl98ufyTjW1eQ",
             "Author": "LVMLN",
             "Description": "Bandcamp: https://klassewrecks.bandcamp.com/album/homeboys-ep My only goal is to introduce my favorite tracks . Lets enjoy together ヅ Please message me directly on FB or Instagram for any copyright issues and the video will be removed immediately.",
@@ -16907,7 +16907,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rT2bOosWXIk",
-            "Title": "Paulo & Rodriguez - Inside",
+            "title": "Paulo & Rodriguez - Inside",
             "Channel ID": "UCAySG82ra866kPwMBv2Xe9w",
             "Author": "ModeratorUK",
             "Description": "Paulo & Rodriguez - Inside  https://www.discogs.com/Paulo-Rodriguez-Lovin-Inside/master/1527323",
@@ -16933,7 +16933,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "T6-p9um8_9g",
-            "Title": "ok sorry gents my brother is going out of control, stay away from beer",
+            "title": "ok sorry gents my brother is going out of control, stay away from beer",
             "Channel ID": "UCp8LJ2LgXrGLvkA5sm1lpkQ",
             "Author": "Fantasio Virus",
             "Description": "",
@@ -16959,7 +16959,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cySnapTq-KQ",
-            "Title": "INTe*ra ‎– 548",
+            "title": "INTe*ra ‎– 548",
             "Channel ID": "UC_-LdWIcbW1mUMlN1MNhOdw",
             "Author": "Intergalactic Corp.",
             "Description": "INTe*ra ‎– Aqueduct Acting Press ‎– PRESS11  https://www.discogs.com/INTera-Aqueduct/release/14777230",
@@ -16985,7 +16985,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "eDT_HZhcHFg",
-            "Title": "Wayne & Clark - In The Pocket",
+            "title": "Wayne & Clark - In The Pocket",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Wayne-Clark-Untitled/release/399271  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld   For promotional purpose only",
@@ -17011,7 +17011,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XNlRBKsqwcg",
-            "Title": "Jimmy Batt - Magic Garden [OPIA007]",
+            "title": "Jimmy Batt - Magic Garden [OPIA007]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "🚀 Follow CMYK (DJ, events, label...): https://instagram.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm",
@@ -17037,7 +17037,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "utN-152heBw",
-            "Title": "Fabien D'Estival et Gregory - Am I Liked [SV00A]",
+            "title": "Fabien D'Estival et Gregory - Am I Liked [SV00A]",
             "Channel ID": "UCJnIY90jZpk6TVQcCkAJTEQ",
             "Author": "Inside Rhythm",
             "Description": "Any copyright issues please email insiderhythm@gmail.com   Artist: Fabien D'Estival Et Gregory Release title:  House Set EP Catalogue number: SV00A Label: Spice Vibes Records   Buy: https://www.discogs.com/Fabien-DEstival-Et-Gregory-House-Set-EP/release/1338623",
@@ -17063,7 +17063,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "dQLcDzufVVA",
-            "Title": "Deeper Cut - Feel It (Francesco Del Garda Instrumental Edit)",
+            "title": "Deeper Cut - Feel It (Francesco Del Garda Instrumental Edit)",
             "Channel ID": "UCI1dNGLBOsyCvgxqeZAbAXw",
             "Author": "Purring Station",
             "Description": "LOW BITRATE - FOR PROMOTION ONLY  I do not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact me and the content will be removed immediately.",
@@ -17089,7 +17089,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mHK4Rh6ClSg",
-            "Title": "Revenge - Slave (Dub Mix) [1990]",
+            "title": "Revenge - Slave (Dub Mix) [1990]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "Slave #2 - The Smooth Mixes / Capitol Records / United States  Pitch : +3%  https://www.discogs.com/Revenge-Slave-2-The-Smooth-Mixes/release/330208  Everything is uploaded to promote music and artists themselves, please contact me for any copyright claim.",
@@ -17115,7 +17115,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mPvyfmRF-Kw",
-            "Title": "Federal State - Home Alone",
+            "title": "Federal State - Home Alone",
             "Channel ID": "UCAySG82ra866kPwMBv2Xe9w",
             "Author": "ModeratorUK",
             "Description": "Federal State - Home Alone  https://www.discogs.com/Federal-State-Home-Alone-/release/379160",
@@ -17141,7 +17141,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PAqvu1yFUBU",
-            "Title": "Paolo Mosca - Aria  [SLOW LIFE ‎– SL025]",
+            "title": "Paolo Mosca - Aria  [SLOW LIFE ‎– SL025]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (128kbps). Follow SlowLife: https://www.facebook.com/Slow-Life-429929113756114/ ☛ Buy Record: https://www.juno.co.uk/products/mosca-paolo-la-teoria-delle-stringhe-vol/763059-01/ ☛ More Music: https://www.facebook.com/DoFunkk     Copyrights of anything uploaded and broadcasted from this channel are owned by the respective artists and labels.  Please message me on dofunkk.channel2@gmail.com   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -17167,7 +17167,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JzZV0c03yTE",
-            "Title": "Eris Drew - Transcendental Access Point",
+            "title": "Eris Drew - Transcendental Access Point",
             "Channel ID": "UCmx1efQv-oDoL_I_EPEMYUQ",
             "Author": "House Six",
             "Description": "Label: Interdimensional Transmissions Artist: Eris Drew  EP Title : Fluids of Emotion Format: Vinyl + Digital Support it : https://bit.ly/2OT1RXC  Eris Drew : https://soundcloud.com/eris-drew https://fb.me/ErisDrewArtistPage/  Interdimensional Transmissions : https://soundcloud.com/ithqdetroit https://fb.me/interdimensionaltransmissions  ---------------------------------------------------------------------------------------------------------------------------------------------------------------  House Six : https://soundcloud.com/house-six https://fb.me/HouseSix.yt https://instagr.am/housesix_ https://spoti.fi/3pHAj7J housesixyt@gmail.com",
@@ -17193,7 +17193,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nNO0D6Ywg9Y",
-            "Title": "Riley & Clay - G-Spot High",
+            "title": "Riley & Clay - G-Spot High",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "More here https://www.facebook.com/192gmbh/ Or here https://soundcloud.com/192gmbh  https://www.discogs.com/Riley-Clay-Red-Light-Express/release/79360  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -17219,7 +17219,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6IEfk8xJik0",
-            "Title": "F.M. Inc - Sweet Giving (Mix 3 / Giving You Dub)",
+            "title": "F.M. Inc - Sweet Giving (Mix 3 / Giving You Dub)",
             "Channel ID": "UCn9pgy_Ra51CGu9EpVRcsgQ",
             "Author": "estimulo101",
             "Description": "FM Inc - Sweet Giving (Mix 3 / Giving You Dub) https://www.discogs.com/FM-Inc-Sweet-Giving/master/1151811",
@@ -17245,7 +17245,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "f1hsOhhEB_w",
-            "Title": "secondlife",
+            "title": "secondlife",
             "Channel ID": "UCTlLTHmpzPVHGu9uwDMMopQ",
             "Author": "fxhe records detroit",
             "Description": "",
@@ -17271,7 +17271,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HduwGvw0M6M",
-            "Title": "Projection - Don't Think It's Over (Remix 3) (Instrumental)",
+            "title": "Projection - Don't Think It's Over (Remix 3) (Instrumental)",
             "Channel ID": "UCeDyTcorY4kIAcK1fsST_Tw",
             "Author": "Bristol Atlas",
             "Description": "https://www.discogs.com/Projection-Dont-Think-Its-Over-Remix/release/12984292",
@@ -17297,7 +17297,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EzL5itOKkAA",
-            "Title": "The Mix Masters   In The Mix Instrumental",
+            "title": "The Mix Masters   In The Mix Instrumental",
             "Channel ID": "UCqj95nBLMcAc20Ztzfy1Ccg",
             "Author": "Bunker Headz",
             "Description": "",
@@ -17323,7 +17323,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mEfCaa-0HZM",
-            "Title": "Blanch, Falsogangster - About What.",
+            "title": "Blanch, Falsogangster - About What.",
             "Channel ID": "UC3TlJa-EBaeY6PaPAd0DU1A",
             "Author": "Marcos",
             "Description": "",
@@ -17349,7 +17349,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "QFyqza29iJ0",
-            "Title": "Miki - Elisa's Dreams (Samples United)",
+            "title": "Miki - Elisa's Dreams (Samples United)",
             "Channel ID": "UCakrn8i1Z_n0I5qlYX90l7w",
             "Author": "ORDINATEUF",
             "Description": "Miki - Elisa's Dreams (Samples United) - Interactive Test ‎– FF 0012 - 1992 Join the teuf : https://bit.ly/2IkUU1x​​​​  Details : https://www.discogs.com/fr/Miki-Concept-Volume-2/release/630804  Hey we also have social media just in case : https://www.facebook.com/ordinateuf/​​​​ https://www.instagram.com/ordinateuf_​​​​ https://soundcloud.com/ordinateuf  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at ordinateufasso@gmail.com.",
@@ -17375,7 +17375,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Id4mkFuFhv8",
-            "Title": "A² & Stopouts - You Gotta [EPHCS001]",
+            "title": "A² & Stopouts - You Gotta [EPHCS001]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "➤ Check out the master label: https://www.facebook.com/OPIARECORDINGS/ ♫ My mixes & productions: https://soundcloud.com/cmykitsme ♫ Our BCN-based Label & Events Kommuna: https://soundcloud.com/kommunabcn  Release details: https://www.discogs.com/A%C2%B2-4-Stopouts-Go-With-The-Flo/release/14899104  All uploads have low-bitrate audio (128kbps) - not for club use!",
@@ -17401,7 +17401,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Cejv1v5pGj4",
-            "Title": "A² & Stopouts - Bliss [EPHCS001]",
+            "title": "A² & Stopouts - Bliss [EPHCS001]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "➤ Check out the master label: https://www.facebook.com/OPIARECORDINGS/ ♫ My mixes & productions: https://soundcloud.com/cmykitsme ♫ Our BCN-based Label & Events Kommuna: https://soundcloud.com/kommunabcn  Release details: https://www.discogs.com/A%C2%B2-4-Stopouts-Go-With-The-Flo/release/14899104  All uploads have low-bitrate audio (128kbps) - not for club use!",
@@ -17427,7 +17427,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "eYlbUyVY0qQ",
-            "Title": "Stevie Be Zet - Blue Illusion (1994)",
+            "title": "Stevie Be Zet - Blue Illusion (1994)",
             "Channel ID": "UCL4J20Y1UpQGttcNXMB2j9Q",
             "Author": "2trancentral",
             "Description": "One of my all-time favorites from Eye Q, I love listening to this track when I'm somewhat down or sad or just in a mood for deep thoughts.  Stevie Be Zet - Blue Illusion (Flat Horizon Mix) but it's actually the original version  Stevie Be Zet is Steffen Britzke, aka Odyssee Of Noises, Astral Pilot, Schallbau and The Volunteers, this was a collaboration with Maik Maurice of Resistance D.  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  https://www.discogs.com/user/3.am.eternal  https://soundcloud.com/2trancentral  Support my channel - https://paypal.me/2trancentral",
@@ -17453,7 +17453,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0m6VlilnoGI",
-            "Title": "Reel 2 Real Featuring The Mad Stuntman - Conway (Erick Morillo's Club Mix)",
+            "title": "Reel 2 Real Featuring The Mad Stuntman - Conway (Erick Morillo's Club Mix)",
             "Channel ID": "UCj36SexN3wuGFUWSNqrEaWA",
             "Author": "6O47",
             "Description": "",
@@ -17479,7 +17479,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rWedwd5IuAo",
-            "Title": "Lobe - Mañana",
+            "title": "Lobe - Mañana",
             "Channel ID": "UCF42sTJdqu9VyPhbz_wQKgw",
             "Author": "Joe Sansom",
             "Description": "https://www.instagram.com/joesansom_/?hl=en - dm to connect about all things music and records :)  Lobe - Mañana  Discogs - https://www.discogs.com/Lobe-Placebo/master/66682  For promotional purpose only. I do not own the rights to the tracks I upload. If you are the rights holder and would like the video removed, please contact me and I will do so immediately.",
@@ -17505,7 +17505,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Th8KNaz1YDg",
-            "Title": "RK Fusion - Time Flight (The James L'Estraunge Orchestra Remix)",
+            "title": "RK Fusion - Time Flight (The James L'Estraunge Orchestra Remix)",
             "Channel ID": "UCoRl8kiTFfy44AxjZYPOe9g",
             "Author": "AtjazzRecordCompany",
             "Description": "Taken from the single \"Time Flight\" ★ PREMIERE ★ Release Date: January 31st 2020 Pre-order: https://atjazzrecordcompany.bandcamp.com/album/time-flight  Early support:  \"This is nice\" - Gilles Peterson \"I'm all over this!\" - Dom Servini (Wah Wah 45s) \"This is Solid, Love it!\" - Hector Romero (Deff Mix / Nervous Records) \"Wow!\" - Mad Mats (Local Talk / Gamm)  A brand new Jazz cross-over project from two British legends who need little introduction. KEV BEADLE & RONNIE TURNER bring us a wonderful piece entitled TIME FLIGHT.  THE JAMES L'ESTRAUNGE ORCHESTRA craft yet another masterpiece with their exciting rendition. A massive sonic drives throughout this remix with their trademark polished finish, a classic in the making as they let their story unfold.",
@@ -17531,7 +17531,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "H1lDh3LXQAc",
-            "Title": "Malcolm - Daylight [TOUL05]",
+            "title": "Malcolm - Daylight [TOUL05]",
             "Channel ID": "UCiyZfds9EbgACBuVyuONCKA",
             "Author": "patrickyooo",
             "Description": "https://www.discogs.com/Malcolm-D-Lovely-Tune/release/6026",
@@ -17557,7 +17557,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "acSNEYcjLbk",
-            "Title": "Conspiracy Dubz   My Baby Deep Dub Mix",
+            "title": "Conspiracy Dubz   My Baby Deep Dub Mix",
             "Channel ID": "UCqBrL7rJnCovRAfv4HO1j1Q",
             "Author": "Conspiracy Dubz",
             "Description": "",
@@ -17583,7 +17583,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FPcYMRKHpzk",
-            "Title": "Technoline - Gameboy",
+            "title": "Technoline - Gameboy",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Technoline-Technoline-4-Dead-By-Dawn/release/641188  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld   For promotional purpose only",
@@ -17609,7 +17609,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6Z7aUmzoK40",
-            "Title": "Jungle Juice - Mistakes (Can Last Forever) (Progressive Remix) [POLL 020]",
+            "title": "Jungle Juice - Mistakes (Can Last Forever) (Progressive Remix) [POLL 020]",
             "Channel ID": "UCiyZfds9EbgACBuVyuONCKA",
             "Author": "patrickyooo",
             "Description": "https://www.discogs.com/Jungle-Juice-Mistakes-Can-Last-Forever/release/99412",
@@ -17635,7 +17635,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XNMherCUaEQ",
-            "Title": "Dave Angel - Original Man (1993)",
+            "title": "Dave Angel - Original Man (1993)",
             "Channel ID": "UCL4J20Y1UpQGttcNXMB2j9Q",
             "Author": "2trancentral",
             "Description": "One of my favorite tunes from Dave Angel, released on Aura Surround Sounds, techno/trance classic for all time.  https://www.discogs.com/Dave-Angel-Original-Man/release/19365   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  https://www.discogs.com/user/3.am.eternal  https://soundcloud.com/2trancentral  Support my channel - https://paypal.me/2trancentral",
@@ -17661,7 +17661,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XzceHLdD_iA",
-            "Title": "PM Dawn ‎– A Watcher's Point Of View (Todd Terry Melody Mix) 1991",
+            "title": "PM Dawn ‎– A Watcher's Point Of View (Todd Terry Melody Mix) 1991",
             "Channel ID": "UC4qM07rjiGE9aldfY5F0F5Q",
             "Author": "outy1978",
             "Description": "Surprised nobody could manage a quality rip of this absolute belting Todd classic, so here it is.",
@@ -17687,7 +17687,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "lAT2N2upMOI",
-            "Title": "Red Alert (Steve Gurley Mix)",
+            "title": "Red Alert (Steve Gurley Mix)",
             "Channel ID": "UCAfJ3OKeayzTdq3tFyIrDHg",
             "Author": "Basement Jaxx - Topic",
             "Description": "Provided to YouTube by Beggars Group Digital Ltd.  Red Alert (Steve Gurley Mix) · Basement Jaxx  Red Alert  ℗ 1999 XL Recordings Ltd  Released on: 1999-04-19  Programmer: Felix Buxton Programmer: Simon Ratcliffe Remixer: Steve Gurley Music  Publisher: Harry Fox Agency Music  Publisher: Universal Music  Publisher: CMRRA Music  Publisher: Universal Music Publishing MGB. Ltd. Music  Publisher: MCA Music Ltd. Composer  Lyricist: Felix Buxton Composer  Lyricist: Harvey W. William Mason Jr. Composer  Lyricist: James W. Simmons Composer  Lyricist: John E. Blake Jr. Composer  Lyricist: Leonard William Gibbs Jr. Composer  Lyricist: Millard Vinson Composer  Lyricist: Richard Lee Steacker Composer  Lyricist: Simon Ratcliffe Composer  Lyricist: Tyrone William Brown  Auto-generated by YouTube.",
@@ -17713,7 +17713,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PVCUUQPYKuM",
-            "Title": "Go Dancin' - Mike Frugaletti | Mad Wax [2002]",
+            "title": "Go Dancin' - Mike Frugaletti | Mad Wax [2002]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality. For listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir Instagram (Some Uncertain Sir):  https://www.instagram.com/someuncertainsir Twitter (Some Uncertain Sir):  https://twitter.com/uncertainsir  Discogs: https://www.discogs.com/Various-West-Coast-Breakin-EP/release/192836  Track: Go Dancin'  Artist: Mike Frugaletti Album: West Coast Breakin' EP Label: Mad Wax  Cat #: MW-004 Country: US Year: 2002",
@@ -17739,7 +17739,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5x4Xq_Ugia8",
-            "Title": "Sure Is Pure – Surfer (Little Deuce Dub)",
+            "title": "Sure Is Pure – Surfer (Little Deuce Dub)",
             "Channel ID": "UChzsvg9gxpbHE-lTq54iXPw",
             "Author": "good byeyb",
             "Description": "an amazing acid house/breakbeat/progressive track by british duo Sure Is Pure for the Vinyl Solution label.   used record has been rinsed, and is a bit rusty, but still!  happy 2020! hope for you and your dear ones.  |  I do not own this. just sharing vibes!. if you don't want it up on this channel, please send a message or comment! :)",
@@ -17765,7 +17765,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hLAEdoQmgaE",
-            "Title": "The Huggy Factor - Modal",
+            "title": "The Huggy Factor - Modal",
             "Channel ID": "UCNzaP2es4Myb0fO5eM-JZ5A",
             "Author": "DDLB",
             "Description": "I only share music that I like and that I couldn't find on YouTube. I don't own the rights. If you want the video to be deleted, just leave a comment.   https://www.discogs.com/fr/The-Huggy-Factor-Modal-Nodes/release/26857  The Huggy Factor ‎– Modal / Nodes Label: 20:20 Vision ‎– VIS060 Format: Vinyl, 12\" Country: UK Sortie: 2001 Genre: Electronic Style: Tech House",
@@ -17791,7 +17791,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NsuvOSOF9Ag",
-            "Title": "Don Gardon - Take Me Back [TEX 04]",
+            "title": "Don Gardon - Take Me Back [TEX 04]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Textures ‎– TEX 04 Format: Vinyl, 12\" Country: UK Released: 1997 Genre: Electronic Style: Techno, Tech House, House --- https://www.discogs.com/Don-Gardon-Textures/release/106105 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -17817,7 +17817,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "l200XrPiInk",
-            "Title": "Bassam - Weather In My Planet",
+            "title": "Bassam - Weather In My Planet",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp : https://bit.ly/34YkRsT   ➤ Follow the artist : https://soundcloud.com/bassam-idbaali https://www.facebook.com/rheostatbassam / |",
@@ -17843,7 +17843,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "I0Dy7UpDPOA",
-            "Title": "DJ E. Dubb - Disconnected (Original Mix)",
+            "title": "DJ E. Dubb - Disconnected (Original Mix)",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "More here https://www.facebook.com/192uploads/ Or here https://soundcloud.com/192-uploads   https://www.discogs.com/DJ-E-Dubb-Disconnected-EP/release/1197343   Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -17869,7 +17869,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wiMVd4CN8ig",
-            "Title": "Helter Skelter (Phantom Power Original Mix) / Phantom Power / Crib Records [1994]",
+            "title": "Helter Skelter (Phantom Power Original Mix) / Phantom Power / Crib Records [1994]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/Phantom-Power-Helter-Skelter/release/7725928  Discogs: https://www.discogs.com/user/theproudmistress Instagram: https://www.instagram.com/theproudmistress Soundcloud: https://soundcloud.com/theproudmistress Facebook: https://www.facebook.com/theproudmistress/  Track: Helter Skelter (Phantom Power Original Mix) Artist: Phantom Power EP Title: Helter Skelter Label: Crib Records Catalog #: None  Genre: Progressive House Year: 1994",
@@ -17895,7 +17895,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fA-XNmAwScI",
-            "Title": "Primary Perception - Sci-Fi Jazz [2019]",
+            "title": "Primary Perception - Sci-Fi Jazz [2019]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "Retrofitted Future Vol.3 / Slow Life / Germany   Label news // https://www.facebook.com/Slow-Life-429929113756114/  Copies are still available //  https://www.juno.co.uk/products/primary-perception-retrofitted-future-vol-3/749075-01/ https://www.yoyaku.io/release/sl023/ https://www.phonicarecords.com/product/primary-perception-retrofitted-future-vol3-pre-order-slow-life/163168 // + others !!   Release info // https://www.discogs.com/Primary-Perception-Retrofitted-Future-Vol3/release/14109923  Everything is uploaded to promote music and artists themselves, please contact me for any Copyright claim.",
@@ -17921,7 +17921,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "7z0AnzR2ILQ",
-            "Title": "The Dandy - Backbeat [2002]",
+            "title": "The Dandy - Backbeat [2002]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "Morris Audio Presents Club And Home Entertainment / Morris Audio / Switzerland   https://www.discogs.com/Various-Morris-Audio-Presents-Club-And-Home-Entertainment/release/135574  Everything is uploaded to promote music and artists themselves, please contact me for any Copyright claim.",
@@ -17947,7 +17947,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fLGIzhQ5sm4",
-            "Title": "Vladimir Dubyshkin - Lady of the night [Trip Recordings]",
+            "title": "Vladimir Dubyshkin - Lady of the night [Trip Recordings]",
             "Channel ID": "UCVSbREZc9x2DwS9E6Kb-35w",
             "Author": "Drone Existence",
             "Description": "Support the label, get you copy here: https://www.deejay.de/Vladimir_Dubyshkin_Budni_Nashego_Kolhoza_TRP030_Vinyl__943852 https://vladimirdubyshkin.bandcamp.com/album/budni-nashego-kolhoza  Artist: Vladimir Dubyshkin Title: Budni Nashego Kolhoza Label: TRIP  Catalogue: TRP030 Format: Vinyl/Digital Genre: Electronic Style: Techno Release date: December 20, 2019    Tracklist: A1:    Rural Woman A2:    Grasshopper's Opinion B1:    Customs And Traditions B2:    Elvis Has Left The Building 5.     (Digital only) lady of the night    Returning to TRIP after last year's fantastic 'cheerful pessimist' EP, Vladimir Dubyshkin presents 'budni nashego kolhoza',  an abstract portrait of the 'everyday life of a collective farm.' On these driving, iridescent tracks Dubyshkin is as self-assured  as he is unhinged. He advances with a controlled intensity - taunting vocal cuts loop and spiral over pulsating, muscular rhythms  that seem moments away from derailing. It's a gripping descent into delirium, dragged ankle-first by Dubyshkin.   Links: https://www.deejay.de/TRIP__L27060 https://triprecords.bandcamp.com/   DISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.  If either label, artist or third party copyright holder do not agree with their material being uploaded please contact us on Facebook: https://www.facebook.com/droneexistence/ or via email: contact@drone-existence.com  Follow us on Soundcloud for exclusive podcast series: https://soundcloud.com/drone-existence  Follow us on Instagram for podcasts and news: https://www.instagram.com/drone_existence/  Follow us on Facebook for podcasts, recommendations and news: https://www.facebook.com/droneexistence/",
@@ -17973,7 +17973,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Y-pu0iZWv3I",
-            "Title": "Mixman - Dub Talkin'",
+            "title": "Mixman - Dub Talkin'",
             "Channel ID": "UCaNuAH7aU14k_Ka5Hfmfi7Q",
             "Author": "Rick Shiver",
             "Description": "1998 Blakamix ‎– BLKMCD018  A Dennis 'Mixman' Bedeau Production",
@@ -17999,7 +17999,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XcS-hjRH08o",
-            "Title": "RHYTHMATIC - TAKE ME BACK (HEADSTRONG REMIX*) 1990",
+            "title": "RHYTHMATIC - TAKE ME BACK (HEADSTRONG REMIX*) 1990",
             "Channel ID": "UCPs1iGeaMeOk6Cbrq3dUjCw",
             "Author": "Renegade Sound",
             "Description": "RHYTHMATIC - TAKE ME BACK (HEADSTRONG REMIX WITH BLEEPS) NETWORK RECORDS CAT # NWKTR 8 FORMAT: VINYL COUNTRY OF RELEASE: UK -----------------------------------------------------------------------------------------------------------",
@@ -18025,7 +18025,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wbpy7dq7WgI",
-            "Title": "Forward in the Past - Arp in Love (Mystery Mix)",
+            "title": "Forward in the Past - Arp in Love (Mystery Mix)",
             "Channel ID": "UCVkZaQzmX-NgOxj4h0ib1Aw",
             "Author": "No Frills",
             "Description": "Record: https://www.discogs.com/Forward-In-The-Past-Forward-In-The-Past/release/1428322 No_Frills IG: https://www.instagram.com/n0_frills/?...​... No_Frills SC: https://soundcloud.com/no_frills  EP: Forward In The Past Label: Brain Records (2) ‎– BRR 0003 Format: 2 × Vinyl, 12\", 33 ⅓ RPM  Country: Italy Released: 1993 Genre: Electronic Style: House, Deep House  Tracklist:  A1 Arp In Love (Mistery Mix) A2 Congas (Easy Money Mix) B1 Nu Music (After Hour Mix)  B2 Arp In Love (Love Mix)  C1 Horn In Love (Mix Mix)  C2 Machine (Rispective Mix)  D1 Babe-Love (Liric Mix) D2 Poetic Acapella",
@@ -18051,7 +18051,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1Bq1YAa-boU",
-            "Title": "Wulffius - Salty Breeze (HPHNS001)",
+            "title": "Wulffius - Salty Breeze (HPHNS001)",
             "Channel ID": "UCUx6qGAmBddQ0DCSUXxewiQ",
             "Author": "Nothing But Nice",
             "Description": "Uploaded in low quality  https://www.discogs.com/Dawl-Trippsy-Fede-Lijtmaer-Wulffius-HPNHS-001/release/14186713",
@@ -18077,7 +18077,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "h3vh9nQjOrg",
-            "Title": "Come On Boy (Underground Mix Dub) / DJ Herbie ‎/ LI-1039 [1995]",
+            "title": "Come On Boy (Underground Mix Dub) / DJ Herbie ‎/ LI-1039 [1995]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/DJ-Herbie-Feel-Good-Come-On-Boy/release/936286?ev=item-vc https://www.discogs.com/DJ-Herbie-Feel-Good/release/988630  Discogs: https://www.discogs.com/user/theproudmistress Instagram: https://www.instagram.com/theproudmistress Soundcloud: https://soundcloud.com/theproudmistress Facebook: https://www.facebook.com/theproudmistress/  Track: Come On Boy (Underground Mix Dub) Artist: DJ Herbie EP Title: Feel Good / Come On Boy Label: Lime Inc.  Catalog #: LI-1039 Genre: House, Euro House Year: 1995",
@@ -18103,7 +18103,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "h13urSFh4Y0",
-            "Title": "Deyayu - Lost In My Mind [FNTS-03]",
+            "title": "Deyayu - Lost In My Mind [FNTS-03]",
             "Channel ID": "UCsiFgb0Xtg_YHnyVBfDg8_g",
             "Author": "noia",
             "Description": "Amazing deep vibes from Deyayu!  Info: https://www.discogs.com/Deyayu-Simplify-Your-Lifestyle/release/13916492  All uploads are done at a low bit rate (128kbps). For sharing purposes only, not for club use. If you still want the video removed please email me at aionmusiq@gmail.com and I'll remove it immediately.   No profit is made here, for the love of music only.",
@@ -18129,7 +18129,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cXxdi1hJt3g",
-            "Title": "Spacetravel - Acid Rave  [Hearing Colors – HC002]",
+            "title": "Spacetravel - Acid Rave  [Hearing Colors – HC002]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (128kbps). Follow Hearing Colours: https://www.facebook.com/HEARINGCOLORSREC ☛ Buy Record: https://www.discogs.com/Spacetravel-Interstellar-EP/release/14307260 ☛ More Music: https://www.facebook.com/DoFunkk     Copyrights of anything uploaded and broadcasted from this channel are owned by the respective artists and labels.  Please message me on dofunkk.channel2@gmail.com   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -18155,7 +18155,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XH9AweDC72c",
-            "Title": "Cosmic Soup Soundsystem - Everything Is Under Control",
+            "title": "Cosmic Soup Soundsystem - Everything Is Under Control",
             "Channel ID": "UCakrn8i1Z_n0I5qlYX90l7w",
             "Author": "ORDINATEUF",
             "Description": "Cosmic Soup Sound System - Everything Is Under Control ‎– The Solid State Headstate E.P. - FKF1 Join the teuf : https://bit.ly/2IkUU1x  Details  : https://www.discogs.com/fr/Cosmic-Soup-Sound-System-The-Solid-State-Headstate-EP/release/238253  -6 speed disclaimer, we like it slow.   Hey we also have social media just in case : https://www.facebook.com/ordinateuf/​​​​ https://www.instagram.com/ordinateuf_​​​​ https://soundcloud.com/ordinateuf  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at ordinateufasso@gmail.com.",
@@ -18181,7 +18181,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "X_Bpfyjl2TY",
-            "Title": "Premiere: Robert James - Revenge Of The Wasp (Original Mix) - Body Movement",
+            "title": "Premiere: Robert James - Revenge Of The Wasp (Original Mix) - Body Movement",
             "Channel ID": "UCiXplibO86YWUGExqAnrl3g",
             "Author": "Electronic Groove",
             "Description": "Release date: November 29th, 2019.  For more info: http://bit.ly/34CjtwX",
@@ -18207,7 +18207,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "aBiKb91XVBE",
-            "Title": "intelligent hoodlum ' back to reality )  drun and bass mix  1990",
+            "title": "intelligent hoodlum ' back to reality )  drun and bass mix  1990",
             "Channel ID": "UCJXjS5PUSgWiOd9kIN4N8jw",
             "Author": "nrj club smicky et dimitri 1987 1989",
             "Description": "",
@@ -18233,7 +18233,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "lhk9Y5vdqp0",
-            "Title": "Soso Tharpa - Decode [Future Times]",
+            "title": "Soso Tharpa - Decode [Future Times]",
             "Channel ID": "UCLySvQ5KnssdJVpbi5skvQw",
             "Author": "VSVN",
             "Description": "Artist: Soso Tharpa Release title: Decode B/W Sea Mojo Catalogue number: FT051 Label: Future Times  Hot wax from one of Washington DC's freshest producers, Soso Tharpa!  Support the artist and label - https://futuretimes.bandcamp.com/album/decode-b-w-sea-mojo  Low bitrate (128kbps)  I do not own the rights to the music in this video. If you are a copyright holder and have a problem with any of the content posted, please message or email me at vsvnldn@gmail.com before sending a strike and I will take it off the channel ASAP.",
@@ -18259,7 +18259,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "UTLSLyo0D6I",
-            "Title": "Lisa Fischer - Save Me (Red Zone Mix)",
+            "title": "Lisa Fischer - Save Me (Red Zone Mix)",
             "Channel ID": "UCWLG3NTD9nSXVAgQ8ii2qTA",
             "Author": "Les Enfants Terribles",
             "Description": "I do not own the rights to this track. Don't copy, buy the track and support the artist!  Label: Elektra Cat. #: EKR 134 T Format: Vinyl, 12\"            Release date: 1991 Country: UK  Discogs link: www.discogs.com/Lisa-Fischer-Save-Me/release/687635",
@@ -18285,7 +18285,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "C_-RFRv3fRg",
-            "Title": "S.O.S - TOP RANKIN' (APHRADAN MIX)",
+            "title": "S.O.S - TOP RANKIN' (APHRADAN MIX)",
             "Channel ID": "UCRFisC2TJooV5EJvm1JgVlA",
             "Author": "User 1",
             "Description": "",
@@ -18311,7 +18311,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "UVlPyTyFUOU",
-            "Title": "B2. Unknown Artist - Unknown [TELUM005]",
+            "title": "B2. Unknown Artist - Unknown [TELUM005]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "B2  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -18337,7 +18337,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "uDKwE5I193E",
-            "Title": "Head Boyz - White Monday (Pitch -6)",
+            "title": "Head Boyz - White Monday (Pitch -6)",
             "Channel ID": "UCVkZaQzmX-NgOxj4h0ib1Aw",
             "Author": "No Frills",
             "Description": "Record: https://www.discogs.com/Head-Boyz-4-U-All/release/2376115 No_Frills IG: https://www.instagram.com/n0_frills/?...​... No_Frills SC: https://soundcloud.com/no_frills  Label: U.S.S. - The Dance Label ‎– 572 93911 Format: Vinyl, 12\"  Country: Germany Released: 198? Genre: Electronic Style: Acid House",
@@ -18363,7 +18363,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fFL4SIUNPC0",
-            "Title": "Dario Reimann - Iatch [ARP-002]",
+            "title": "Dario Reimann - Iatch [ARP-002]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Bandcamp: https://bit.ly/2QaDyWz Deejay: https://bit.ly/2CAOip9 Phonica: https://bit.ly/2pbIWOa Decks: https://bit.ly/2phGyWk Red Eye: https://bit.ly/2NKe4Op Coldcuts: https://bit.ly/34S1diP Disco Più: https://bit.ly/2X8pvCj   ➤ Release info: https://www.discogs.com/A%C2%B2-4-Dario-Reimann-Harry-Wills-Carl-Finlow-Arp-002/release/14237962   ➤ Support the label: https://arpege-records.bandcamp.com/music https://www.instagram.com/arpege.france/?hl=fr https://soundcloud.com/arpege-records https://www.facebook.com/arpegefrance/ / |",
@@ -18389,7 +18389,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MKi7SNCs05E",
-            "Title": "Luis Malon - Vincha For All [OTH002]",
+            "title": "Luis Malon - Vincha For All [OTH002]",
             "Channel ID": "UCByc6t1_4qS1GA7Y-5bLEzg",
             "Author": "The W.A.P Station",
             "Description": "https://www.discogs.com/Luis-Malon-Champion-Fantasy-EP/release/14240881  For promotional purposes only. Please email for any copyright issues and the video will be removed. https://www.instagram.com/wapstation/",
@@ -18415,7 +18415,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oNcPhriaGt8",
-            "Title": "Bad Boy Bill   Jack It All Night Long Dub It All Night",
+            "title": "Bad Boy Bill   Jack It All Night Long Dub It All Night",
             "Channel ID": "UCqj95nBLMcAc20Ztzfy1Ccg",
             "Author": "Bunker Headz",
             "Description": "",
@@ -18441,7 +18441,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wEkrIWaIyYk",
-            "Title": "Pio Bo - Funky Swim [1993]",
+            "title": "Pio Bo - Funky Swim [1993]",
             "Channel ID": "UC8sSCDtDP1Q0QzumMkVqceg",
             "Author": "Back Lighting",
             "Description": "The Best Time To Go Swimming / Nucleus / United Kingdom  https://www.discogs.com/Pio-Bo-The-Best-Time-To-Go-Swimming/release/64437  Everything is uploaded to promote music and artists themselves, please contact me for any Copyright claim.",
@@ -18467,7 +18467,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EqADXwMCaj8",
-            "Title": "d.j. Fary - Punani Fantasy",
+            "title": "d.j. Fary - Punani Fantasy",
             "Channel ID": "UCM_tCu7Och-6wz_pD2NpU5Q",
             "Author": "SuperSuite",
             "Description": "Italy afro cosmic tribal 12\" - 1997 - Tribal Italia",
@@ -18493,7 +18493,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "p0jizaQtwRg",
-            "Title": "Intrigue - Belmontiie Project ‎| Stompin' Ground Records [1995]",
+            "title": "Intrigue - Belmontiie Project ‎| Stompin' Ground Records [1995]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality for listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir  Discogs: https://www.discogs.com/Belmontiie-Project-Belmontiie-EP/release/356524  Track: Intrigue Artist: Belmontiie Project  Album: Belmontiie E.P. Label: Stompin' Ground Records  Cat #: SG 702002 Country: Netherlands Year: 1995",
@@ -18519,7 +18519,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "g2l_PBRVm6M",
-            "Title": "Unknown Artist - #DRGS05A [DRGS005]",
+            "title": "Unknown Artist - #DRGS05A [DRGS005]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -18545,7 +18545,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "A6jYSyk_g1g",
-            "Title": "Do Or Die - Nazca Lines [Time Passages]",
+            "title": "Do Or Die - Nazca Lines [Time Passages]",
             "Channel ID": "UCLySvQ5KnssdJVpbi5skvQw",
             "Author": "VSVN",
             "Description": "Artist: Do Or Die Release title: Nazca Lines Catalogue number: TP12 Label: Time Passages  Do or Die has already made an impression on Nicolas Lutz's My Own Jupiter and now makes a sideways step to Binh's Time Passages, another label associated with a deep digging selection of underground DJs who are some of the most revered of the moment.  Support the artist and label:   Shop - https://www.juno.co.uk/products/do-or-die-nazca-lines/744667-01/ Discogs - https://www.discogs.com/Do-Or-Die-Nazca-Lines/release/14160182  Low bitrate (128kbps)  I do not own the rights to the music in this video. If you are a copyright holder and have a problem with any of the content posted, please message or email me at vsvnldn@gmail.com before sending a strike and I will take it off the channel ASAP.",
@@ -18571,7 +18571,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kgf3d3YEBew",
-            "Title": "Koto Part 3 - Thai Tribe | Triumph Records [1993]",
+            "title": "Koto Part 3 - Thai Tribe | Triumph Records [1993]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality. For listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir Instagram (Some Uncertain Sir):  https://www.instagram.com/someuncertainsir  Discogs: https://www.discogs.com/Thai-Tribe-Koto/release/3090198  Track: Koto Part 3 Artist: Thai Tribe  Album: Koto Label: Triumph Records  Cat #: THAI 6 Country: UK Year: 1993",
@@ -18597,7 +18597,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "q7aWES7aYIE",
-            "Title": "Hypnotone - Cyclosonic [CTP 001]",
+            "title": "Hypnotone - Cyclosonic [CTP 001]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Creation Records ‎– CTP 001 Format: Vinyl, 12\", Promo Country: UK Released: 1991 Genre: Electronic Style: House, Techno, Downtempo --- https://www.discogs.com/Hypnotone-Hypnotonic/release/53086 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -18623,7 +18623,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8qVgz0GuH-k",
-            "Title": "Dub Touch - Instant Sunlight (House of Jah Mix)",
+            "title": "Dub Touch - Instant Sunlight (House of Jah Mix)",
             "Channel ID": "UCqgjsDIStMI4vlXIty3Gjww",
             "Author": "Reel Long Overdub",
             "Description": "On Red Tiger Records, date unknown  [This channel may contain copyrighted material unauthorised by the owner. We are sharing tracks for the love of it, not for profit, and are happy to delete videos on request.]",
@@ -18649,7 +18649,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZQjpKX5uKHs",
-            "Title": "Global Control - Onions (Groovin' Hammond Mix) (UK, 1993)",
+            "title": "Global Control - Onions (Groovin' Hammond Mix) (UK, 1993)",
             "Channel ID": "UC7U5k_6ozPmWREqziuWhX_w",
             "Author": "DF Notastekamer",
             "Description": "🕊  In my spare time from watching myself - I curate the following music channels:  🟣 Nuts & Nuggets : Common Projects : Focus 70s  https://t.me/nutsandnuggets 🔵 Givers & Takers : Focus 80s https://t.me/giverstakers 🟢 Bubble Gum & Candies : Focus 90s https://t.me/bubblegumandcandies 🟡 Digital Giraffe : Focus 00s https://t.me/digital_giraffe 🟠 Library Zebra : Playlist Workspace https://t.me/michlenplaylist 🔴 Common Grass : Field Recordings for Creative Minds https://t.me/fieldrecordingsforcreativeminds  + yt channels   🔴  Less Known Libraries, Soundtracks & Related https://www.youtube.com/c/KollektionXRareTunesforBeatmakersSampling 🟢  Groove Central https://www.youtube.com/c/KollektionXRareTunesforDrinksDancing 🟡  DF Notastekamer https://www.youtube.com/c/KollektionXRareTunesforAdventurousDJs 🟠  Cultural Cadence & Curiosities https://www.youtube.com/c/KollektionXRareTunesforDiggersCollectors 🔵  B Movies & Related https://www.youtube.com/c/KollektionXRareTunesforDesignersFilmmakers",
@@ -18675,7 +18675,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GcMfRV25iBk",
-            "Title": "Flanders - Homer's Odyssey // Enchanted Rhythms (2019)",
+            "title": "Flanders - Homer's Odyssey // Enchanted Rhythms (2019)",
             "Channel ID": "UCKcsZN74gVsS4Dzvhldzsng",
             "Author": "Enchanted Rhythms",
             "Description": "Check my mix for Dimensions Festival: https://soundcloud.com/dimensionsfestival/enchanted-rhythms-dimensions-mix",
@@ -18701,7 +18701,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Zi-KtQLRuOM",
-            "Title": "RD - I DON'T DANCE I MAKE MONEY MOVES (PUSS)",
+            "title": "RD - I DON'T DANCE I MAKE MONEY MOVES (PUSS)",
             "Channel ID": "UCrgSrKO2ZUYJCirOP9bzDQg",
             "Author": "Maslow Unknown",
             "Description": "Robert Dietz reworks Cardi B for the next limited edition Puss release.  Each copy with a unique real human kiss mark.  Vinyl only. BUY WAX: https://www.phonicarecords.com/product/rd-kf-i-dont-dance-i-make-money-moves-4am-pre-ord-puss/162569 https://www.deejay.de/RD_KF_I_Dont_Dance_I_Make_Money_Moves_4AM_PUSS2019_Vinyl__938650 https://oye-records.com/releases/rdkf-i-dont-dance-i-make-money-moves-4am https://www.juno.co.uk/products/rd-kf-i-dont-dance-i-make/745462-01/ SUPPORT: https://soundcloud.com/robert-dietz/rd-i-dont-dance-i-make-money-moves-puss019 For promo use only.  Please email maslowunknown@gmail.com if you would like the track removed.",
@@ -18727,7 +18727,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8RT2HRbCYjA",
-            "Title": "A Disco In My House? / The Poon Tang Clan / SHAFT008-6 [1997]",
+            "title": "A Disco In My House? / The Poon Tang Clan / SHAFT008-6 [1997]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/The-Poon-Tang-Clan-How-Deep-Is-Your-Muff-A-Disco-In-My-House/release/721406  Discogs: https://www.discogs.com/user/theproudmistress Instagram: https://www.instagram.com/theproudmistress Soundcloud: https://soundcloud.com/theproudmistress Facebook: https://www.facebook.com/theproudmistress/  Track: A Disco In My House? Artist: The Poon Tang Clan EP Title: How Deep Is Your Muff? / A Disco In My House? Label: Shaft Records Catalog #: SHAFT008-6 Genre: House, Deep House Year: 1997",
@@ -18753,7 +18753,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fJv6HhjqkGg",
-            "Title": "Everywhere / Sixth Sense / FORCE001 [???]",
+            "title": "Everywhere / Sixth Sense / FORCE001 [???]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/Sixth-Sense-Everywhere-Livin-Force/release/648276  Facebook: https://www.facebook.com/theproudmistress/ Soundcloud: https://soundcloud.com/theproudmistress Instagram: https://www.instagram.com/theproudmistress  Track: Everywhere Artist: Sixth Sense EP Title: Everywhere / Livin' Force Label: Force 1 Recordings  Catalog #: FORCE001 Genre: UK Garage, Breaks Year: ???",
@@ -18779,7 +18779,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "YN35s3taYfE",
-            "Title": "Infamix ‎– Ee 45",
+            "title": "Infamix ‎– Ee 45",
             "Channel ID": "UCJrEQnyWTM08xeQiO3belaA",
             "Author": "God Bless Electronic Music",
             "Description": "Infamix ‎– Ee 45 Label: Industrial Music ‎– LABOR 4 Format: Vinyl, 12\", 45 RPM  Country: UK Released: 12 Dec 1990 Genre: Electronic Style: Techno  Merchandising https://teespring.com/stores/god-bless-electronic-music",
@@ -18805,7 +18805,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "thXSSJo1MQE",
-            "Title": "Aurora Halal ‎- Eternal Blue (Wata Igarashi Crossing Remix) [MD003]",
+            "title": "Aurora Halal ‎- Eternal Blue (Wata Igarashi Crossing Remix) [MD003]",
             "Channel ID": "UCHDpIe2xSMBeNjrOcGRlZIg",
             "Author": "Acidalia",
             "Description": "Buy: https://mutualdreaming.bandcamp.com/album/liquiddity  https://clone.nl/item56155.html  https://www.juno.co.uk/products/aurora-halal-liquiddity-wata-igarashi-remix/726234-01/  https://www.rushhour.nl/record/vinyl/liquiddity-wata-igarashi-remix  https://bleep.com/release/139956-aurora-halal-liquiddity  https://www.redeyerecords.co.uk/vinyl/109570-md-003-aurora-halal-liquiddity-wata-igarashi-remix  https://www.technique.co.jp/item/184643,MD003.html  https://www.phonicarecords.com/product/aurora-halal-liquiddity-wata-igarashi-remix-pre-ord-mutual-dreaming/160481  Aurora Halal ‎- Liquiddity    Aurora Halal ‎- Liquiddity   Aurora Halal ‎- Fattal 22   Aurora Halal ‎- Nasty II   Aurora Halal ‎- Eternal Blue  Aurora Halal ‎- Eternal Blue (Wata Igarashi Crossing Remix)  Aurora Halal ‎- Eternal Blue (Wata Igarashi Cruising Remix)  Artist: Aurora Halal Label: Mutual Dreaming Recordings Release Date: 12-08-2019",
@@ -18831,7 +18831,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HJO1Y-kw0Wg",
-            "Title": "Yazz ‎- Stand Up For Your Love Rights (Yazz's Jazzy Dub)",
+            "title": "Yazz ‎- Stand Up For Your Love Rights (Yazz's Jazzy Dub)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1988. https://www.discogs.com/release/523655 Remix by Yvonne Turner and Goh Hotoda",
@@ -18857,7 +18857,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ehOxsok9JgY",
-            "Title": "Marianne Faithfull - Sex With Strangers (Sly & Robbie Dub Mix) (KBE Remix) (UK, 2014)",
+            "title": "Marianne Faithfull - Sex With Strangers (Sly & Robbie Dub Mix) (KBE Remix) (UK, 2014)",
             "Channel ID": "UCHUAQWDVIzek87Mtiz-pYgA",
             "Author": "Cultural Cadence & Curiosities",
             "Description": "🕊  In my spare time from watching myself - I curate the following music channels:  🟣 Nuts & Nuggets : Common Projects : Focus 70s  https://t.me/nutsandnuggets 🔵 Givers & Takers : Focus 80s https://t.me/giverstakers 🟢 Bubble Gum & Candies : Focus 90s https://t.me/bubblegumandcandies 🟡 Digital Giraffe : Focus 00s https://t.me/digital_giraffe 🟠 Library Zebra : Playlist Workspace https://t.me/michlenplaylist 🔴 Common Grass : Field Recordings for Creative Minds https://t.me/fieldrecordingsforcreativeminds  + yt channels   🔴  Less Known Libraries, Soundtracks & Related https://www.youtube.com/c/KollektionXRareTunesforBeatmakersSampling 🟢  Groove Central https://www.youtube.com/c/KollektionXRareTunesforDrinksDancing 🟡  DF Notastekamer https://www.youtube.com/c/KollektionXRareTunesforAdventurousDJs 🟠  Cultural Cadence & Curiosities https://www.youtube.com/c/KollektionXRareTunesforDiggersCollectors 🔵  B Movies & Related https://www.youtube.com/c/KollektionXRareTunesforDesignersFilmmakers",
@@ -18883,7 +18883,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5CfF_Ti_zrU",
-            "Title": "Georgio - Bedrock (Dub A Dub A Doo Mix)",
+            "title": "Georgio - Bedrock (Dub A Dub A Doo Mix)",
             "Channel ID": "UCpNMmKsSq_XRpWPyPrv1Ddg",
             "Author": "UNDERGROUND CLASSICS HOUSE",
             "Description": "Name: Georgio - Bedrock Label: Motown - ZT 41814 Country: Germany /Subgenre: House / Year : 1987",
@@ -18909,7 +18909,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NVoy5QeeAyE",
-            "Title": "Terry Francis & Evil Eddie Richards ‎– A1 Breakfast @ Tone's (Terry's Late Night Overdose Mix)",
+            "title": "Terry Francis & Evil Eddie Richards ‎– A1 Breakfast @ Tone's (Terry's Late Night Overdose Mix)",
             "Channel ID": "UCiQXw88YQERXbPr6a5doAcg",
             "Author": "formdata",
             "Description": "If you are the owner of this recording, please message me before sending a copyright claim and we will have the video removed.  https://www.discogs.com/Terry-Francis-Evil-Eddie-Richards-Garage-Sessions-Vol-1/release/2241390   ˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜ https://www.instagram.com/form_data/",
@@ -18935,7 +18935,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "erKocJnbBkc",
-            "Title": "Boogie Boy - U Know What's Up (Remix)",
+            "title": "Boogie Boy - U Know What's Up (Remix)",
             "Channel ID": "UCjl5we0dflVWvxKrebKROag",
             "Author": "luprdubz",
             "Description": "Verr nice",
@@ -18961,7 +18961,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pTgUOk2-yQU",
-            "Title": "Open Spaces - A Day in the Mind",
+            "title": "Open Spaces - A Day in the Mind",
             "Channel ID": "UCalzWsPk0q1f6n8pcxoZhZg",
             "Author": "Guilhem",
             "Description": "https://www.discogs.com/Various-Open-Space-Mix/release/883850  I do not own the rights of anything uploaded and broadcasted from this channel. Copyright holder? Please message me, comment below  before sending a strike. I always remove everything I am requested to remove.",
@@ -18987,7 +18987,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "g4qmUATmTTE",
-            "Title": "Masters Of The Monotonal Groove - To Kill Or Be Killed [3BTT32]",
+            "title": "Masters Of The Monotonal Groove - To Kill Or Be Killed [3BTT32]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: 3 Beat Music ‎– 3BTT32 Format: Vinyl, 12\", 45 RPM  Country: UK Released: 1994 Genre: Electronic Style: House --- https://www.discogs.com/MOTMG-Masters-Of-The-Monotonal-Groove-Vol-V/release/356555 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -19013,7 +19013,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZyCFfpIRtTA",
-            "Title": "Solär Sound System - Ōsumi",
+            "title": "Solär Sound System - Ōsumi",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Sol%C3%A4r-Sound-System-%C5%8Csumi/release/13908465  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld   For promotional purpose only",
@@ -19039,7 +19039,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "gaBWPZNEZ8Y",
-            "Title": "DJ Bogdan - Love Inna Basement (Midnite XTC)",
+            "title": "DJ Bogdan - Love Inna Basement (Midnite XTC)",
             "Channel ID": "UC9RW3irVCLkGoKCq2WZ5M2g",
             "Author": "banditoto",
             "Description": "wooOooo  BUY: https://djbogdan.bandcamp.com/releases  latest mix: https://soundcloud.com/banditoto/100_170mix",
@@ -19065,7 +19065,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2MLcfoGySrc",
-            "Title": "Smokey, Lamae & Angel Farringdon ‎– Everlasting Love // Dynamic Motion (2001)",
+            "title": "Smokey, Lamae & Angel Farringdon ‎– Everlasting Love // Dynamic Motion (2001)",
             "Channel ID": "UCKcsZN74gVsS4Dzvhldzsng",
             "Author": "Enchanted Rhythms",
             "Description": "Check my mix for Dimensions Festival: https://soundcloud.com/dimensionsfestival/enchanted-rhythms-dimensions-mix",
@@ -19091,7 +19091,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BihbH1Uh8Dw",
-            "Title": "Psychotropic - Hypnosis (Hifi Sean Remix)",
+            "title": "Psychotropic - Hypnosis (Hifi Sean Remix)",
             "Channel ID": "UC2GK1jS6xrYTh4Xo9qsYSgQ",
             "Author": "Gazzz696",
             "Description": "Hypnosis 2019 Remixes EP Label - Black Riot Released - 22nd July 2019 BUY FROM - https://www.traxsource.com/title/1174621/hypnosis  It’s all about the microdots, poppers, smiley faces, waltzers , giant lobsters and good times! Groundbreaking & hugely influential Psychotropic return with their breakbeat classic with a new remake and also 2 stunning remixes courtesy of Glitterbox supreme Hifi Sean plus label boss Yam Who? teaming up with Jaegerossa for Black Riot Records.  Originally made in 1990 by Gavin ‘The Face’ Mills & Nick Nicely, ‘Hypnosis’ was one of the first big UK produced breakbeat anthems. Uniting rave factions across the country, from Blackburn parties to Shaboo in Blackpool to Raindance and the Eclipse in the South. Carl Cox, Sasha and legions of DJs were fans whilst the whistle posse could always be heard going mental when that break dropped.",
@@ -19117,7 +19117,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MYhiP7txuCo",
-            "Title": "Just Gets Better (Extended Dub)",
+            "title": "Just Gets Better (Extended Dub)",
             "Channel ID": "UCkHbPfLPTVI3RZ-7OStTB0g",
             "Author": "TJR - Topic",
             "Description": "Provided to YouTube by The Orchard Enterprises  Just Gets Better (Extended Dub) · TJR · Xavier  Just Gets Better  ℗ 1997 New State Music  Released on: 2019-07-19  Producer: Xavier Producer: Gavin Mills Producer: Brian Tharme Producer: Karl Brown Producer: Matt Lamont Music  Publisher: Campbell Connelly & Co Music  Publisher: GB Music Music  Publisher: Supreme Songs Music  Publisher: Kassner Associated Publishers Music  Publisher: Copyright Control  Auto-generated by YouTube.",
@@ -19143,7 +19143,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ErRGpYSgmr0",
-            "Title": "Tom Ries - Bucks [PARANG005]",
+            "title": "Tom Ries - Bucks [PARANG005]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Release info : https://www.discogs.com/Tom-Ries-Karchert-Riddim/release/13286093   ➤ Support our label : https://soundcloud.com/parangrecordings https://www.facebook.com/parangrecordings/ http://www.parangrecordings.com/ / |",
@@ -19169,7 +19169,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Q9Wynq4-zWs",
-            "Title": "Akilah - I Wanna Have Everything (Dub Universe)",
+            "title": "Akilah - I Wanna Have Everything (Dub Universe)",
             "Channel ID": "UClEmlHB2x-RB4YLKTNYvv-A",
             "Author": "Success Stories",
             "Description": "Mucho Vinyl, 1993 ------------------------------------------------------------------------------------------- https://soundcloud.com/success-storie... https://www.facebook.com/successstori...",
@@ -19195,7 +19195,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8rnlxTHDRMw",
-            "Title": "Slow Rotor - Space Disco (Dub Edit)",
+            "title": "Slow Rotor - Space Disco (Dub Edit)",
             "Channel ID": "UClEmlHB2x-RB4YLKTNYvv-A",
             "Author": "Success Stories",
             "Description": "Byo-Jo, 1993  ------------------------------------------------------------------------------------------- https://soundcloud.com/success-storie... https://www.facebook.com/successstori... http://lyl.live/show/success-stories",
@@ -19221,7 +19221,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LWKRGhLvF-0",
-            "Title": "Boy",
+            "title": "Boy",
             "Channel ID": "UC9RG-4Z7IfIAj542aLo298Q",
             "Author": "Don Carlos - Topic",
             "Description": "Provided to YouTube by DIPIU SRL  Boy · Don Carlos  Aqua  ℗ Irma Records s.r.l.  Released on: 2008-07-08  Artist: Don Carlos  Auto-generated by YouTube.",
@@ -19247,7 +19247,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tBmarm2eH08",
-            "Title": "Adam Goldstone - Jacktalk (feat. Micky Hohl) (UK, 2001)",
+            "title": "Adam Goldstone - Jacktalk (feat. Micky Hohl) (UK, 2001)",
             "Channel ID": "UCHUAQWDVIzek87Mtiz-pYgA",
             "Author": "Cultural Cadence & Curiosities",
             "Description": "🕊  In my spare time from watching myself - I curate the following music channels:  🟣 Nuts & Nuggets : Common Projects : Focus 70s  https://t.me/nutsandnuggets 🔵 Givers & Takers : Focus 80s https://t.me/giverstakers 🟢 Bubble Gum & Candies : Focus 90s https://t.me/bubblegumandcandies 🟡 Digital Giraffe : Focus 00s https://t.me/digital_giraffe 🟠 Library Zebra : Playlist Workspace https://t.me/michlenplaylist 🔴 Common Grass : Field Recordings for Creative Minds https://t.me/fieldrecordingsforcreativeminds  + yt channels   🔴  Less Known Libraries, Soundtracks & Related https://www.youtube.com/c/KollektionXRareTunesforBeatmakersSampling 🟢  Groove Central https://www.youtube.com/c/KollektionXRareTunesforDrinksDancing 🟡  DF Notastekamer https://www.youtube.com/c/KollektionXRareTunesforAdventurousDJs 🟠  Cultural Cadence & Curiosities https://www.youtube.com/c/KollektionXRareTunesforDiggersCollectors 🔵  B Movies & Related https://www.youtube.com/c/KollektionXRareTunesforDesignersFilmmakers",
@@ -19273,7 +19273,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "YEGR9GB5LNE",
-            "Title": "Nemo Vachez - Love From Jupiter",
+            "title": "Nemo Vachez - Love From Jupiter",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Nemo-Vachez-Two-Phase-U-La-Banda-Love/release/13829180  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld   For promotional purpose only",
@@ -19299,7 +19299,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1X_e_64Dq7I",
-            "Title": "Mamosato - Mamos Headshot [STL002]",
+            "title": "Mamosato - Mamos Headshot [STL002]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    https://www.discogs.com/Mamosato-Volume-1/release/13579415 / |",
@@ -19325,7 +19325,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bVVBk6S-YjY",
-            "Title": "Disco Volante",
+            "title": "Disco Volante",
             "Channel ID": "UCezj4I4yaeTpiyQiT8sNr2Q",
             "Author": "Antonelli - Topic",
             "Description": "Provided to YouTube by Believe SAS  Disco Volante · antonelli  Handclaps - EP  ℗ ITALIC  Released on: 1997-11-01  Music Publisher: ITALIC Publishing Author: Stefan Schwander Composer: Stefan Schwander  Auto-generated by YouTube.",
@@ -19351,7 +19351,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "CQVxKJFdLys",
-            "Title": "Break Out's - A1 Touch Me",
+            "title": "Break Out's - A1 Touch Me",
             "Channel ID": "UCqntpSbRd66nI3McJfvUvlQ",
             "Author": "Changing Factors",
             "Description": "Powertraxx Records ‎– PTX-EP-002  US 1991",
@@ -19377,7 +19377,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ce7uDu5cXbo",
-            "Title": "Veggi Grooves - Vector Selector (Extended Version)",
+            "title": "Veggi Grooves - Vector Selector (Extended Version)",
             "Channel ID": "UC3ojymgvC61RvmpOHJIjQaQ",
             "Author": "Em' TV",
             "Description": "I'm not the owner , Just for Promo. Will Remove on Request (low bitrate : 192kbps)  https://www.discogs.com/Veggi-Grooves-Jeep-Warehouse-Beats-Vol15/release/13759019",
@@ -19403,7 +19403,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TW3xflQrILI",
-            "Title": "DJ Felipe - Bass For Life [KOS 003]",
+            "title": "DJ Felipe - Bass For Life [KOS 003]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From: Rave & Cruise - The Odyssey    https://www.discogs.com/Various-Rave-Cruise-The-Odyssey/release/439184   Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: Facebook: https://www.facebook.com/since1994.yt/ Instagram: https://www.instagram.com/since1994.yt/ Gmail: since1994.yt@gmail.com",
@@ -19429,7 +19429,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PBsB7X9d2L4",
-            "Title": "Cordial - Candlelight (Ambient Dub Mix)",
+            "title": "Cordial - Candlelight (Ambient Dub Mix)",
             "Channel ID": "UCeEucP90o-oW7WEU6ooIdHg",
             "Author": "h3lme",
             "Description": "Cordial - Candlelight (Ambient Dub Mix)",
@@ -19455,7 +19455,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZHvMnw_yKu8",
-            "Title": "Reedale Rise - Light Trails [PROS004]",
+            "title": "Reedale Rise - Light Trails [PROS004]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "➤ Check out the label: https://www.facebook.com/prosrecords/  ♫ Maybe you'll also like my DJ mixes & productions: https://soundcloud.com/cmykitsme ♫ And my BCN-based Label & Events Kommuna: https://soundcloud.com/kommunabcn  Release details: https://www.discogs.com/Reedale-Rise-The-Reasoning/release/13606616  All uploads have low-bitrate audio (128kbps) - not for club use!",
@@ -19481,7 +19481,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FM8JDKvH6vA",
-            "Title": "Amore - One Steppa Da Time",
+            "title": "Amore - One Steppa Da Time",
             "Channel ID": "UCLbDngg7xrEbndFuiJdPeyQ",
             "Author": "ColdCuts // HotWax",
             "Description": "Two jungle cuts coming from the mysterious producer Amore. Heading straight for the dancefloor!  We do not monetize any of our videos and only use youtube for promo purposes. If you wish us to remove this video from youtube, please contact Will via will@coldcutshotwax.uk.",
@@ -19507,7 +19507,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4DXXJ_N6VVI",
-            "Title": "Wayne Numan - Let's Go Dancin' (To The Rhythm Of Love) (Tribal Mix) [WN-003]",
+            "title": "Wayne Numan - Let's Go Dancin' (To The Rhythm Of Love) (Tribal Mix) [WN-003]",
             "Channel ID": "UCiyZfds9EbgACBuVyuONCKA",
             "Author": "patrickyooo",
             "Description": "https://www.discogs.com/Wayne-Numan-Lets-Go-Dancin-To-The-Rhythm-Of-Love/release/657603",
@@ -19533,7 +19533,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IJSTOVRxjsg",
-            "Title": "[PREMIERE] Indistinct - Justin Pak | Hoarder [2019]",
+            "title": "[PREMIERE] Indistinct - Justin Pak | Hoarder [2019]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality for listening purposes only*  Facebook (Some Uncertain Sir):  https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir  Discogs: https://www.discogs.com/release/13541800  Decks: https://www.decks.de/track/justin_pak-indistinct_ep/cej-ic Deejay: https://www.deejay.de/Justin_Pak_Indistinct_EP_HOARD013_Vinyl__355568 Juno: https://www.juno.co.uk/products/justin-pak-indistinct-ep/727506-01/ Redeye: https://www.redeyerecords.co.uk/vinyl/108643-hoard013-justin-pak-indistinct-ep  Track: Indistinct Artist: Justin Pak  Album: Indistinct EP Label: Hoarder Cat #: HOARD 013  Country: Netherlands Year: 2019",
@@ -19559,7 +19559,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RP6Nd_dcbR4",
-            "Title": "Bad Data - Smoke Dope (Toke And Gesture Mix) [t:me 0693]",
+            "title": "Bad Data - Smoke Dope (Toke And Gesture Mix) [t:me 0693]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: t:me ‎– t:me 0693 Format: Vinyl, 12\", 33 ⅓ RPM, Promo  Country: UK Released: 1993 Genre: Electronic Style: House --- https://www.discogs.com/Bad-Data-Sandmen-Smoke-Dope-Restart/release/264207 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -19585,7 +19585,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1drnmpsDk8M",
-            "Title": "Rave 2 The Grave - Give A Little Love - NRG (Jedi Recordings / Stormtrooper Recordings)",
+            "title": "Rave 2 The Grave - Give A Little Love - NRG (Jedi Recordings / Stormtrooper Recordings)",
             "Channel ID": "UCJYI6gHkjLBYn8iBSVG91Mg",
             "Author": "MickeyBeam75",
             "Description": "Rave 2 The Grave - Give A Little Love - NRG  (Jedi Recordings / Stormtrooper Recordings) https://djjedi.bandcamp.com/album/give-a-little-love-nrg https://www.dj-jedi.com/return-of-the-vibe-part-1/ https://soundcloud.com/edd-jedi  Top quality 2019 Old Skool Hardcore sounding  track from Rave 2 The Grave and released on a collaboration between the South Coast of England labels Jedi Recordings (Oldskool & Hardcore DJ Jedi) & Stormtrooper Recordings. The latter was also behind the excellent Underdog Recordings label. Check the above links for the vinyl release well worth getting.",
@@ -19611,7 +19611,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Pq0IqcfMePI",
-            "Title": "Xhz - Jazz 2 Jazz  [BEEY003]",
+            "title": "Xhz - Jazz 2 Jazz  [BEEY003]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "Purchase the EP: https://www.deejay.de/XHZ_JAKE_FLORY_Lavender_EP_BEEY003_Vinyl__353087  LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -19637,7 +19637,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZXyNgaKMI9g",
-            "Title": "STYLO G - TOUCH DOWN (METRODOME REFIX)",
+            "title": "STYLO G - TOUCH DOWN (METRODOME REFIX)",
             "Channel ID": "UCMcBxfjFGmb70KLrPg3Z6qg",
             "Author": "MetrodomeUK",
             "Description": "put that money on the table  get it for a quid with 3 others on metrodome.bandcamp.com",
@@ -19663,7 +19663,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XfU66k7MrLw",
-            "Title": "A1 - The Brothers Grimm - Deja Vu (The Awakening Mix)",
+            "title": "A1 - The Brothers Grimm - Deja Vu (The Awakening Mix)",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -19689,7 +19689,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vCmWdnWr2Iw",
-            "Title": "Freddie Cruger - Keep On Moving",
+            "title": "Freddie Cruger - Keep On Moving",
             "Channel ID": "UC6NEeGR4c2GC3cknoatgY7A",
             "Author": "Florent B",
             "Description": "",
@@ -19715,7 +19715,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "B44NGj1rvO0",
-            "Title": "Coco Bryce - Irian Jaya",
+            "title": "Coco Bryce - Irian Jaya",
             "Channel ID": "UC-g9r8XlfVzq61NjYIL8olQ",
             "Author": "sektortekno",
             "Description": "Night On Earth Fresh 86",
@@ -19741,7 +19741,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Mx8S15Vu_aI",
-            "Title": "A - The Predator - Outer Limits (Andromeda Mix)",
+            "title": "A - The Predator - Outer Limits (Andromeda Mix)",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -19767,7 +19767,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OiWyr64EDos",
-            "Title": "A - Bass Culture - Facts Of Life (Bleeper Mix)",
+            "title": "A - Bass Culture - Facts Of Life (Bleeper Mix)",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -19793,7 +19793,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-vV5N8xXgP8",
-            "Title": "The 2 - We Is 1",
+            "title": "The 2 - We Is 1",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "Label: 100%love ‎– 100 % Format: Vinyl, 12\", Promo, White Label, 33 ⅓ RPM, Stamped  Country: UK Released: 1992 Genre: Electronic Style: Breakbeat, Hardcore",
@@ -19819,7 +19819,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "gx23laSrRUY",
-            "Title": "Dawl - Energy Overdrive",
+            "title": "Dawl - Energy Overdrive",
             "Channel ID": "UCRTfZ8rXu1IzSfy9mIf3lsQ",
             "Author": "Ej",
             "Description": "~ **Charity Appeal** : https://www.womensaid.org.uk/urgent-appeal/ - (TW: domestic violence) Please consider donating something to Women's Aid over the coming weeks. They support survivors of domestic abuse, whose well-being is particularly at risk at the moment.  {} Buy: https://www.discogs.com/Dawl-Tristan-Da-Cunha-and-Freakenstein-Hearlucinate/release/13360028 https://www.juno.co.uk/products/dawl-tristan-da-cunha-freakenstein-hearlucinate/717804-01/ https://www.phonicarecords.com/product/dawl-tristan-da-cunha-freakenstein-hearlucinate-pre-order-hearlucinate/158061 https://www.redeyerecords.co.uk/vinyl/105734-hearlucinate-001-hearlucinate-va https://www.technique.co.jp/item/177048,HEARLUCINATE001.html  {} For promotion/sharing purposes only... I don't own the rights to this music, so please message me if you'd like it to be removed!   {} 128kbps (compressed before uploading too)!",
@@ -19845,7 +19845,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vKfzJUBP4bc",
-            "Title": "A1 - Holy Ghost Inc. - Critical Mass",
+            "title": "A1 - Holy Ghost Inc. - Critical Mass",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -19871,7 +19871,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0aBcGBgpEVI",
-            "Title": "A - Mad Max - Get On Up",
+            "title": "A - Mad Max - Get On Up",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -19897,7 +19897,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BPAibQfvl3w",
-            "Title": "B2 - K.C.C. - Def Cõn Bass",
+            "title": "B2 - K.C.C. - Def Cõn Bass",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -19923,7 +19923,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9LrTDit7P8A",
-            "Title": "Java",
+            "title": "Java",
             "Channel ID": "UC9x3JQh0HcN-98gyJR3FyoQ",
             "Author": "Theo Dher",
             "Description": "Mannix ‎– Sachaloop Género: Electronic Estilo: Techno, Electro Año: 2002",
@@ -19949,7 +19949,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tGMzQI9mESs",
-            "Title": "B - The Gatecrashers - Stuck In A Bottle",
+            "title": "B - The Gatecrashers - Stuck In A Bottle",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -19975,7 +19975,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fbrvZ4DOePk",
-            "Title": "A - Two D.J's - Tone Zone !",
+            "title": "A - Two D.J's - Tone Zone !",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -20001,7 +20001,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XJuvoY7Y5lw",
-            "Title": "The Poem",
+            "title": "The Poem",
             "Channel ID": "UCN7x_xCNONtNgWt_JPvD6Fg",
             "Author": "Deepbass9",
             "Description": "",
@@ -20027,7 +20027,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JAAvdPHXIfI",
-            "Title": "Shindig - I Said Come On",
+            "title": "Shindig - I Said Come On",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "More here https://www.facebook.com/192uploads/ Or here https://soundcloud.com/192-uploads  https://www.discogs.com/Shindig-Timeless-Ep-Part-2/master/598297  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -20053,7 +20053,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mOjwhUcWpM4",
-            "Title": "Relative Distance / Dosadi ‎/ Synesthesia [2000]",
+            "title": "Relative Distance / Dosadi ‎/ Synesthesia [2000]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/Dosadi-Synesthesia/release/228610  Facebook: https://www.facebook.com/theproudmistress/ Soundcloud: https://soundcloud.com/theproudmistress Instagram: https://www.instagram.com/theproudmistress  Track: Relative Distance Artist: Dosadi EP Title: Synesthesia Label: Electric Mayhem Productions  Catalog #: EMP 002 Genre: Progressive House, Breakbeat Year: 2000",
@@ -20079,7 +20079,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fTuilUVocew",
-            "Title": "A - Nightwriters - Let The Music Use You (92 Hardcore Remix)",
+            "title": "A - Nightwriters - Let The Music Use You (92 Hardcore Remix)",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -20105,7 +20105,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Pciz_87F5YA",
-            "Title": "B5 - Sample & Hold - Earth Calling",
+            "title": "B5 - Sample & Hold - Earth Calling",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -20131,7 +20131,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8xiyTGY4hws",
-            "Title": "A - L.Cutmore - Subsonic (Untitled Mix 1)",
+            "title": "A - L.Cutmore - Subsonic (Untitled Mix 1)",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -20157,7 +20157,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6yxP6PmDlRY",
-            "Title": "B1 - K-Klass - Loafman",
+            "title": "B1 - K-Klass - Loafman",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -20183,7 +20183,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BsLPKcBuiqY",
-            "Title": "Drugface - In The Clouds (Simple Symmetry Remix)",
+            "title": "Drugface - In The Clouds (Simple Symmetry Remix)",
             "Channel ID": "UCi4SzIwF8BDkQbbx3Qjk9OQ",
             "Author": "Multi Culti",
             "Description": "Buy from Bandcamp : http://bit.ly/DrugfaceInTheClouds   “Heroes don’t care what’s cool. Heroes care ‘bout what’s right. And that’s what makes them so fucking cool.” - Joseph Campbell Jr.  It can now be revealed. Anonymous internet supergroup Drugface is going public, unmasking themselves as Multi Culti audio-visionary Thomas Von Party and Montreal cult legend John Shape, who absorbed the life rights to the Beaver Sheppard Story in an online game of Russian Roulette. If you’re reading this, the Von Party element probably makes so much sense that you’ll never forgive yourself for not realizing it sooner. The vibes, the production; it was there the whole time.  Eagle-eared listeners may have ID’d Shape from his Ricardo Villalobos-produced remix pack on Sei Es Drum, or as the singer in German instrumental band Brandt Brauer Frick. Those who guessed both members are now on some kind of list.  “In the Clouds” is the latest single from the secretly prolific duo, a synaesthetic window into a realm where everything tastes like data and everything sounds like mushrooms. B-side “On the Prowl” is a collaboration with Multi Culti vitamin-shaman Dreems, with the results entrusted to Finnish synth-lord Jori Hulkkonen to ensure everything holds up 9,000 years from now.   For the remixes, Simple Symmetry pull you through a wormhole to the sunny beaches of Moscow, The Beat Escape add massive doses of class and elegance. We tested these descriptions on 50 tastemaker chimps, and all 50 were still at least “somewhat jazzed” about hearing the tracks anyway.  And of course it goes without saying that Multi Culti is proud to present this.    https://soundcloud.com/multiculti https://www.facebook.com/multi.culti",
@@ -20209,7 +20209,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pZaDh9Bi3HE",
-            "Title": "B2 - The Genesis - My Rush Yours",
+            "title": "B2 - The Genesis - My Rush Yours",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -20235,7 +20235,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hFOKsxnaGGY",
-            "Title": "Toshiyuki Goto - Reminiscence",
+            "title": "Toshiyuki Goto - Reminiscence",
             "Channel ID": "UCaXXVrECQR86Rmyel67KKVA",
             "Author": "DayOff",
             "Description": "Rhythm Method ‎– FLRS-020 https://www.discogs.com/Toshiyuki-Goto-MATO-Reminiscence/release/2966568",
@@ -20261,7 +20261,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IOWV3_vGYbA",
-            "Title": "Yellow Inc. - Time Travel Is Possible [OP002]",
+            "title": "Yellow Inc. - Time Travel Is Possible [OP002]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy : Deejay : https://bit.ly/2CGmEre Juno : https://bit.ly/2uwTp5O Yoyaku : https://bit.ly/2Uf23UX Red Eye : https://bit.ly/2FwfHd6 Disco Più : https://bit.ly/2U3ajZ6   ➤ Release info : https://www.discogs.com/Various-Galaxy/release/13019243   ➤ Support the label : https://soundcloud.com/outer_place_music https://www.facebook.com/outerplacerec/ / |",
@@ -20287,7 +20287,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LeaBaZnbjoY",
-            "Title": "Nemo Vachez - Free Diving [ZORA004]",
+            "title": "Nemo Vachez - Free Diving [ZORA004]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy : Deejay : https://bit.ly/2FxeeTV Juno : https://bit.ly/2TWG0Dt Yoyaku : https://bit.ly/2HWtMDp Clone.nl : https://bit.ly/2TFMvpe   ➤ Release info : https://www.discogs.com/Nemo-Vachez-Alpha-Colony/release/13299240   ➤ Support the label : https://soundcloud.com/rakya-records https://www.facebook.com/rakyarecords/ https://rakya.bandcamp.com/ / |",
@@ -20313,7 +20313,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "duqw4zxMTm4",
-            "Title": "Contact - Feel The Magic (The Food Mix)",
+            "title": "Contact - Feel The Magic (The Food Mix)",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "More here https://www.facebook.com/192gmbh/ Or here https://soundcloud.com/192gmbh  https://www.discogs.com/Contact-Contagious/release/1028621  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -20339,7 +20339,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6mh87exJpWg",
-            "Title": "A - Deep Six - Deeptrance Dance",
+            "title": "A - Deep Six - Deeptrance Dance",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -20365,7 +20365,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "uRm1CgtpI6M",
-            "Title": "A - Unknown Artist - The Bleep",
+            "title": "A - Unknown Artist - The Bleep",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -20391,7 +20391,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xNhYZFWY7pE",
-            "Title": "Sleepless - Good Time (J.F.K. Mental) [ES02]",
+            "title": "Sleepless - Good Time (J.F.K. Mental) [ES02]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    https://www.discogs.com/Sleepless-Good-Time/release/178956 / |",
@@ -20417,7 +20417,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "AlwH-xGn5Rg",
-            "Title": "Scott And Leon - Hit Da Funk",
+            "title": "Scott And Leon - Hit Da Funk",
             "Channel ID": "UCAySG82ra866kPwMBv2Xe9w",
             "Author": "ModeratorUK",
             "Description": "Scott Angry Anderson & Leon Mc.Cormack ‎– The Bobbys E.P  https://www.discogs.com/Scott-Angry-Anderson-Leon-McCormack-The-Bobbys-EP/release/684544",
@@ -20443,7 +20443,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0G-jmF5PUYU",
-            "Title": "Ramona 55 - Touch (WC 1 Dub) (Discrete Recordings, 1992)",
+            "title": "Ramona 55 - Touch (WC 1 Dub) (Discrete Recordings, 1992)",
             "Channel ID": "UC_ZBS370CjlMCM9lXITVD7w",
             "Author": "RawhausTrax / David Mast",
             "Description": "https://www.discogs.com/Ramona-55-Touch/release/1337166 https://www.facebook.com/RawhausTrax",
@@ -20469,7 +20469,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LvV8CYKM4OQ",
-            "Title": "Down D.C. / Analog Consciousness ‎– Picnolypsis 001 (1996)",
+            "title": "Down D.C. / Analog Consciousness ‎– Picnolypsis 001 (1996)",
             "Channel ID": "UCTyL76yfRU4LuuBIdffTsvQ",
             "Author": "skyyy5",
             "Description": "https://www.discogs.com/Down-DC-Analog-Consciousness-Picnolypsis-001/release/410837",
@@ -20495,7 +20495,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pShUW3H7ixo",
-            "Title": "A - D.J. Seduction - Bleep Bleep Mash Mash",
+            "title": "A - D.J. Seduction - Bleep Bleep Mash Mash",
             "Channel ID": "UCX1ELQjk88LoNFP74PKaElg",
             "Author": "SecretSquizza",
             "Description": "",
@@ -20521,7 +20521,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_2NjzKn-9tQ",
-            "Title": "Cockroach - Pearl (Bright Edit) [COMPOSE 0116]",
+            "title": "Cockroach - Pearl (Bright Edit) [COMPOSE 0116]",
             "Channel ID": "UCiyZfds9EbgACBuVyuONCKA",
             "Author": "patrickyooo",
             "Description": "https://www.discogs.com/Cockroach-Fluffy/release/212873",
@@ -20547,7 +20547,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "w2WCvnbef1U",
-            "Title": "Ruf Dug - Techno Cave (Sharif Laffrey Nightwork Remix) (Futureboogie)",
+            "title": "Ruf Dug - Techno Cave (Sharif Laffrey Nightwork Remix) (Futureboogie)",
             "Channel ID": "UCe9a-sxnf09Fi1pkdJrVV8g",
             "Author": "FutureboogieOfficial",
             "Description": "Taken from the Ruffy’s Island EP by Ruf Dug, out now on Futureboogie 12\" vinyl & digital.  Includes remix by Sharif Laffrey.  Out now - https://fanlink.to/ruffysisland  https://www.facebook.com/futureboogierecordings https://twitter.com/futureboogie1 https://soundcloud.com/rufdug https://www.facebook.com/RufKutzIndustries/ https://www.instagram.com/rufdug/ https://twitter.com/RufDug",
@@ -20573,7 +20573,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5Qq4hm33nV4",
-            "Title": "INSTINCT - SOMEONE (INSTINCT 05)",
+            "title": "INSTINCT - SOMEONE (INSTINCT 05)",
             "Channel ID": "UCrgSrKO2ZUYJCirOP9bzDQg",
             "Author": "Maslow Unknown",
             "Description": "Instinct aka Burnski goes deep into UK garage underground territory that call to mind the mid 90's glory days when Tuff Jam and Double 99 reigned supreme. BUY WAX: https://instinctrecs.bandcamp.com/album/instinct-05 https://www.juno.co.uk/search/?q%5Btitle%5D%5B%5D=%22instinct+05%22&hide_forthcoming=0 https://www.deejay.de/Instinct_Instinct_05_I005_Vinyl__333176 SUPPORT: https://soundcloud.com/burnskipower For promo use only.  Please email hangthedjs@hotmail.co.uk if you would like the track taken down.",
@@ -20599,7 +20599,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cgW8sZcydyM",
-            "Title": "Sub Da Fuze - Begone",
+            "title": "Sub Da Fuze - Begone",
             "Channel ID": "UCNcZomTW4xlKCqOnQqhsz_g",
             "Author": "huisin sofa",
             "Description": "Driving, fast paced tech house journey with a jazzed outro  Sub Da Fuze ‎– Begone, Scatological Records ‎– FC004, side A (1998, UK)  For promotional use only, will remove on request.   More info & buying here https://www.discogs.com/Sub-Da-Fuze-Begone/release/603843",
@@ -20625,7 +20625,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vwPlNGWrOi8",
-            "Title": "Acid 909 - $$$",
+            "title": "Acid 909 - $$$",
             "Channel ID": "UCakrn8i1Z_n0I5qlYX90l7w",
             "Author": "ORDINATEUF",
             "Description": "[ACD909-2] Acid 909 ‎– EP #2 - https://www.discogs.com/Acid-909-EP-2/release/12707943  Hey we also have social media just in case : https://www.facebook.com/ordinateuf/​​​​ https://www.instagram.com/ordinateuf_​​​​ https://soundcloud.com/ordinateuf  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at ordinateufasso@gmail.com.",
@@ -20651,7 +20651,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "S96eI8G2Rgs",
-            "Title": "Pumped Up Funk (Klubbheads Freakin' Klubb Mix)",
+            "title": "Pumped Up Funk (Klubbheads Freakin' Klubb Mix)",
             "Channel ID": "UCfzRHqfVjPUXg3t1YSgmoYw",
             "Author": "Boozy Woozy - Topic",
             "Description": "Provided to YouTube by Armada  Pumped Up Funk (Klubbheads Freakin' Klubb Mix) · Itty Bitty, Boozy Woozy & Greatski  Pumped Up Funk  ℗ Armada Music B.V.  Released on: 1998-02-25  Artist: Boozy Woozy Artist: Greatski Artist: Itty Bitty  Auto-generated by YouTube.",
@@ -20677,7 +20677,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BgfUt8WmWA4",
-            "Title": "Diemmesse - Now I Think (Double Impact mix)",
+            "title": "Diemmesse - Now I Think (Double Impact mix)",
             "Channel ID": "UCakrn8i1Z_n0I5qlYX90l7w",
             "Author": "ORDINATEUF",
             "Description": "https://www.discogs.com/fr/Diemmese-Now-I-Think/master/369914  Hey we also have social media just in case : https://www.facebook.com/ordinateuf/​​​​ https://www.instagram.com/ordinateuf_​​​​ https://soundcloud.com/ordinateuf  We do not own the rights of anything uploaded and broadcasted from this channel. Everything uploaded here is only because we want to share our passion for music. If there is a copyright infringement, please contact us directly via e-mail at ordinateufasso@gmail.com.",
@@ -20703,7 +20703,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ezjeB1rh-nM",
-            "Title": "Dawl - Alpha 101",
+            "title": "Dawl - Alpha 101",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "Support the artist:  -https://www.decks.de/track/dawl-libertine_11/ce1-6m -https://www.juno.co.uk/products/dawl-libertine-11/716892-01/  More here https://www.facebook.com/192uploads/ Or here https://soundcloud.com/192-uploads  https://www.discogs.com/Dawl-Libertine-11/release/13233668  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -20729,7 +20729,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GM9RlceVFeU",
-            "Title": "Eric Nouhan - Jupiter Collisions (IO Mix)",
+            "title": "Eric Nouhan - Jupiter Collisions (IO Mix)",
             "Channel ID": "UC9_uRCO9WPRZnicwjQkD0VQ",
             "Author": "Remkowski remko",
             "Description": "Label: Timeless Records ‎– Time 006  Format: Vinyl, 12\"  Country: Netherlands  Released: 1994  Genre: Electronic  Style: House, Techno",
@@ -20755,7 +20755,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "o6SzpON2nfw",
-            "Title": "Cojoc & Moldovan - Pleasure [STRYD001]",
+            "title": "Cojoc & Moldovan - Pleasure [STRYD001]",
             "Channel ID": "UCwJU7RlVLHRXxOmXvGmP8qA",
             "Author": "storytellers",
             "Description": "Release Date: 14th February 2019 Label: storytellers EP: REINTERP.EP  Cat: STRYD001  Free Download https://wearestorytellers.bandcamp.com/album/cojoc-moldovan-reinterp-ep-stryd001  ⋉ storytellers https://linktr.ee/storytellers.records https://soundcloud.com/storytellers-records https://www.instagram.com/storytellers.records https://wearestorytellers.bandcamp.com  ⋉ Cojoc  https://www.facebook.com/cojoc.ro https://soundcloud.com/cojocmusic  https://cojoc.bandcamp.com  ⋉ Moldovan https://www.facebook.com/moldovansound https://soundcloud.com/moldovansound https://moldovansound.bandcamp.com  artwork by Cojoc © all rights reserved  #Cojoc #Moldovan #STRYD001",
@@ -20781,7 +20781,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "sWSQTggZkxE",
-            "Title": "A1. Fabe - Water Tower [SN008]",
+            "title": "A1. Fabe - Water Tower [SN008]",
             "Channel ID": "UCtSYkZGP9nkvXPMQgjeEIow",
             "Author": "Yoyaku Record Store",
             "Description": "Buy record : http://bit.ly/saltynuts008  The sound quality of the youtube videos are at 128kbps",
@@ -20807,7 +20807,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MKk73UrHvM0",
-            "Title": "Mae Bad Boy - The Eye's Song (Club Version)",
+            "title": "Mae Bad Boy - The Eye's Song (Club Version)",
             "Channel ID": "UCqgjsDIStMI4vlXIty3Gjww",
             "Author": "Reel Long Overdub",
             "Description": "From Szechuan Valley on Pharma, 1999",
@@ -20833,7 +20833,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "UKu3nzRI4uc",
-            "Title": "Yamen & EDA - Jumba Juice [SHTG001]",
+            "title": "Yamen & EDA - Jumba Juice [SHTG001]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Grab your copy: Off The Grid: https://bit.ly/2TMjhW9 Deejay: https://bit.ly/2QWGVhy Juno: https://bit.ly/2KnTv6U Decks: https://bit.ly/2Fn9i6q Red Eye: https://bit.ly/2CcwW1n Phonica: https://bit.ly/2QXoRUB Yoyaku: https://bit.ly/2Foaeql   ➤ Release info: https://www.discogs.com/Yamen-EDA-Jamba-Juice-EP/release/12831343   ➤ Support the label: https://soundcloud.com/shotgunrec https://www.facebook.com/shotgunimprint/ https://www.instagram.com/shotgun_imprint/?hl=fr / |",
@@ -20859,7 +20859,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "iPwzQBvQKDQ",
-            "Title": "Oolon - Skate Or Die [PAGER008]",
+            "title": "Oolon - Skate Or Die [PAGER008]",
             "Channel ID": "UCsiFgb0Xtg_YHnyVBfDg8_g",
             "Author": "noia",
             "Description": "Please support the artist, buy at: https://www.discogs.com/Oolon-Not-A-Space-Themed-EP/release/12886682  All uploads are done at low bit rate (128kpbs). No copyright infringement intended, for entertainment purposes only.",
@@ -20885,7 +20885,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IN5OjXgz0Ec",
-            "Title": "Nicolas Etorena - Melosst [EYA003]",
+            "title": "Nicolas Etorena - Melosst [EYA003]",
             "Channel ID": "UCsiFgb0Xtg_YHnyVBfDg8_g",
             "Author": "noia",
             "Description": "Please support the artist buy at: https://www.discogs.com/Various-EYA-003/release/12825657  All uploads are done at low bit rate (128kpbs). No copyright infringement intended, for entertainment purposes only.",
@@ -20911,7 +20911,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4LZG1lrDBBQ",
-            "Title": "Phil Merrall - The Planet Bong [Lib10]",
+            "title": "Phil Merrall - The Planet Bong [Lib10]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From [Lib10] Various - Libertine 10 LP  https://www.discogs.com/es/Various-Libertine-10-/release/12764095  Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: Facebook: https://www.facebook.com/since1994.yt/ Instagram: https://www.instagram.com/since1994.yt/ Gmail: since1994.yt@gmail.com",
@@ -20937,7 +20937,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "eL2pf6hP7KA",
-            "Title": "Gene On Earth - Dr. Drago [Small Hours 001]",
+            "title": "Gene On Earth - Dr. Drago [Small Hours 001]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (128kbps). Small Hours: https://www.facebook.com/smallhoursberlin/ ☛ Buy Record: https://smallhoursberlin.bandcamp.com/ ☛ More Music: https://www.facebook.com/DoFunkk     Copyrights of anything uploaded and broadcasted from this channel are owned by the respective artists and labels.  Please message me on dofunkk.channel2@gmail.com   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -20963,7 +20963,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GfBP7Ihumuw",
-            "Title": "Junes - Park & Ride [Small Hours 001]",
+            "title": "Junes - Park & Ride [Small Hours 001]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (128kbps). Small Hours: https://www.facebook.com/smallhoursberlin/ ☛ Buy Record: https://smallhoursberlin.bandcamp.com/ ☛ More Music: https://www.facebook.com/DoFunkk     Copyrights of anything uploaded and broadcasted from this channel are owned by the respective artists and labels.  Please message me on dofunkk.channel2@gmail.com   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (128kbps) to avoid any kind of piracy and youtube rips.",
@@ -20989,7 +20989,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vRyJIHbQifw",
-            "Title": "Door To Door Service / Pacific Deliveries / JP ROKAS-01 [1992]",
+            "title": "Door To Door Service / Pacific Deliveries / JP ROKAS-01 [1992]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/Daily-Air-Cargo-Pacific-Deliveries-Anywhere-Anytime-Anything-Envelope-To-Elephants-Door-To-Door-Serv/release/926397  Facebook: https://www.facebook.com/theproudmistress/ Soundcloud: https://soundcloud.com/theproudmistress Instagram: https://www.instagram.com/theproudmistress  Track: Door To Door Service Artist: Pacific Deliveries EP Title: JP ROKAS-01 Label: J.P. Rokas Catalog #: JP ROKAS-01 Genre: Trance, Techno Year: 1992",
@@ -21015,7 +21015,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fjQFkEavnr0",
-            "Title": "Dub Mix Convention - Can't Stop [e101110cd]",
+            "title": "Dub Mix Convention - Can't Stop [e101110cd]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Elektrolux ‎– e101110cd Format: CD, Album  Country: Germany Released: 11 Feb 1999 Genre: Electronic, Reggae Style: House, Dub, Broken Beat --- https://www.discogs.com/Dub-Mix-Convention-Dub-Mix-Convention/release/184725 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -21041,7 +21041,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ayytzhF2y8s",
-            "Title": "MBG & NLA - Last Train To Come Back (MBG & C-Groove Train Mix)",
+            "title": "MBG & NLA - Last Train To Come Back (MBG & C-Groove Train Mix)",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "Calendar of the Avent - Day 25  More here https://www.facebook.com/192gmbh/ Or here https://soundcloud.com/192gmbh  https://www.discogs.com/MBG-NLA-Last-Train-To-Come-Back/release/567972  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -21067,7 +21067,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-anLoneN3_Q",
-            "Title": "Boom Generation - Sleepwalkin'",
+            "title": "Boom Generation - Sleepwalkin'",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "Calendar of the Avent - Day 21  More here https://www.facebook.com/192uploads/ Or here https://soundcloud.com/192-uploads  https://www.discogs.com/Boom-Generation-Noisy-Chill-Fresh-Young/release/121137  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -21093,7 +21093,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "63NgkwkMCag",
-            "Title": "Nathanaël - Scratch (original)",
+            "title": "Nathanaël - Scratch (original)",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "Calendar of the Avent - Day 20  More here https://www.facebook.com/192uploads/ Or here https://soundcloud.com/192-uploads  https://www.discogs.com/Nathanael-Music-Is-A-Religion/release/129467  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -21119,7 +21119,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JTJfRbgNCwk",
-            "Title": "Megaman Feat Beenie Man – Yagga-Yo - A1 - Yagga-Yo (Vocal)",
+            "title": "Megaman Feat Beenie Man – Yagga-Yo - A1 - Yagga-Yo (Vocal)",
             "Channel ID": "UCV1FWNaGzrYH48sHEH-LrcQ",
             "Author": "Rob Atrax",
             "Description": "Megaman Feat Beenie Man ‎– Yagga-Yo Label: Paper Money Recordings ‎– SSC 020 Format: Vinyl, 12\" Country: UK Released: ?  Genre: Electronic Style: UK Garage",
@@ -21145,7 +21145,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JczbMnqsxOQ",
-            "Title": "JFK - Here They Come Again (Crank Mix)",
+            "title": "JFK - Here They Come Again (Crank Mix)",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "Calendar of the Avent - Day 9  More here https://www.facebook.com/192gmbh/ Or here https://soundcloud.com/192gmbh  https://www.discogs.com/JFK-Here-They-Come-Again/release/189222  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -21171,7 +21171,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WE0y_XSbgHU",
-            "Title": "Noobree Project‎ - Music Please (Part Esuom Dub)",
+            "title": "Noobree Project‎ - Music Please (Part Esuom Dub)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Mousetrap Records MTP9308 UK 1993",
@@ -21197,7 +21197,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "gj6GodoX5Og",
-            "Title": "Philipp Boss - Drölf Clouds [STURO005]",
+            "title": "Philipp Boss - Drölf Clouds [STURO005]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From [STURO005] Philipp Boss - Motor Myths EP  https://www.discogs.com/es/Philipp-Boss-Motor-Myths/release/12667512  Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: since1994.yt@gmail.com",
@@ -21223,7 +21223,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Bgyn2B_Ps9c",
-            "Title": "Flora FM - Crushed Blue M-Bag",
+            "title": "Flora FM - Crushed Blue M-Bag",
             "Channel ID": "UCRaHXGh2v3bGhlRKzGu2UVA",
             "Author": "is / was",
             "Description": "https://www.discogs.com/Flora-FM-Mycelination/release/12869966",
@@ -21249,7 +21249,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "89qMf5RJWQI",
-            "Title": "Unknown Artist - Untitled B1 [TELUM003]",
+            "title": "Unknown Artist - Untitled B1 [TELUM003]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artists/labels and buy the EP",
@@ -21275,7 +21275,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "iapW183Hyfg",
-            "Title": "A Man Called Adam - I Am, Is The Way (Untitled Mix 2)",
+            "title": "A Man Called Adam - I Am, Is The Way (Untitled Mix 2)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "Other ‎– other 001 UK 1993",
@@ -21301,7 +21301,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MqosHqTYTJc",
-            "Title": "Memphis - Around The World [WORLD 2]",
+            "title": "Memphis - Around The World [WORLD 2]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Memphis Records ‎– WORLD 2 Format: Vinyl, 12\", White Label, Stamped  Country: UK Released: 1992 Genre: Electronic Style: House --- https://www.discogs.com/Memphis-Around-The-World-Lost-Lands/release/404912 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -21327,7 +21327,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bP2-LQsjGd0",
-            "Title": "Boyd Westerman - Whoa Nelly [VR 010]",
+            "title": "Boyd Westerman - Whoa Nelly [VR 010]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Vortex Records (4) ‎– VR 010 Format: Vinyl, 12\"  Country: US Released: 2002 Genre: Electronic Style: Progressive House, Progressive Trance --- https://www.discogs.com/Boyd-Westerman-Bits-Whoa-Nelly/release/97437 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -21353,7 +21353,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "S-lrlFNCQ0A",
-            "Title": "Hallelujah - Happiness",
+            "title": "Hallelujah - Happiness",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "Calendar of the Avent - Day 2  More here https://www.facebook.com/192uploads/ Or here https://soundcloud.com/192-uploads https://www.discogs.com/Hallelujah-Gun-EP/master/909110  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -21379,7 +21379,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "T4pvY6nidlc",
-            "Title": "Santiago Uribe - IDT",
+            "title": "Santiago Uribe - IDT",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "Support the artist: https://www.juno.co.uk/products/santiago-uribe-el-costo-de-pensar-en/706117-01/  More here https://www.facebook.com/192uploads/ Or here https://soundcloud.com/192-uploads https://www.discogs.com/Santiago-Uribe-Hacia-Otro-Norte/release/12611035  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -21405,7 +21405,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "UWkmpomKQ5w",
-            "Title": "Saurus - Saurus In New York",
+            "title": "Saurus - Saurus In New York",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Saurus-Sexline/release/197072  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld   For promotional purpose only",
@@ -21431,7 +21431,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qGaQI5HYF8Q",
-            "Title": "Octobo - Daytime King [FNDTN00003]",
+            "title": "Octobo - Daytime King [FNDTN00003]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From [FNDTN00003] Octobo - Two Eights Too EP  Preorder now:  https://foundationberlin.bandcamp.com/album/octobo-two-eights-too  https://www.deejay.de/OCTOBO_Two_Eights_Too_FNDTN00003__341903  https://smallblackdots.net/shop/exclusive-labels/fndtn00003/  Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: since1994.yt@gmail.com",
@@ -21457,7 +21457,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-_BGpt5at3A",
-            "Title": "The Signal Phantasm - That Smurf [LMBG05]",
+            "title": "The Signal Phantasm - That Smurf [LMBG05]",
             "Channel ID": "UCRFXjOCQWX6xCjN4_-FI14A",
             "Author": "Lumbago",
             "Description": "https://lumbagorecords.bandcamp.com/  https://www.discogs.com/The-Signal-Phantasm-Call-Of-The-Youth-LP/release/12563987  W&P by Welwert and Prince de Takicardie.",
@@ -21483,7 +21483,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jqc44GsdoWI",
-            "Title": "Techno Worship - Dream Frequency | City Beat [1991]",
+            "title": "Techno Worship - Dream Frequency | City Beat [1991]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality for listening purposes only*  Facebook (Some Uncertain Sir): https://www.facebook.com/someuncertainsir Soundcloud (Some Uncertain Sir):  https://soundcloud.com/someuncertainsir  Discogs: https://www.discogs.com/Dream-Frequency-Love-Peace-And-Harmony/release/117991  Track: Techno Worship Artist: Dream Frequency  Album: Love, Peace And Harmony Label: City Beat  Cat #: CBE 1256 Country: UK Year: 1991",
@@ -21509,7 +21509,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fvedcUyp2Ks",
-            "Title": "Mentira ‎– Te amo (Vocal)",
+            "title": "Mentira ‎– Te amo (Vocal)",
             "Channel ID": "UCVkZaQzmX-NgOxj4h0ib1Aw",
             "Author": "No Frills",
             "Description": "Record: https://www.discogs.com/Mentira-Te-Amo/release/1653413 No_Frills IG: https://www.instagram.com/n0_frills/?...​... No_Frills SC: https://soundcloud.com/no_frills  Mentira ‎– Te Amo Label: Not On Label ‎– MENTIRA-1 Format: Vinyl, 12\", White Label, 33 ⅓ RPM, Stamped  Country: UK Released: 199? Genre: Electronic Style: House, Deep House",
@@ -21535,7 +21535,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "QFIpKa9uDPE",
-            "Title": "The Anthill Mob - Anthology (The Top Buzz Stonehenge Remix) [ANT 3T]",
+            "title": "The Anthill Mob - Anthology (The Top Buzz Stonehenge Remix) [ANT 3T]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Anthill Records ‎– ANT 3T Format: Vinyl, 12\", 45 RPM  Country: UK Released: 1993 Genre: Electronic Style: Breakbeat, Hardcore, Jungle --- https://www.discogs.com/The-Anthill-Mob-Antology-Black-Rushin-The-Remixes/release/159987 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -21561,7 +21561,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Rx-c0Ms6RMo",
-            "Title": "Deep Dub - NY Luv (Motive Records, 1996)",
+            "title": "Deep Dub - NY Luv (Motive Records, 1996)",
             "Channel ID": "UC_ZBS370CjlMCM9lXITVD7w",
             "Author": "RawhausTrax / David Mast",
             "Description": "https://www.discogs.com/Deep-Dub-Dance-Tonight/release/103890 https://www.facebook.com/RawhausTrax",
@@ -21587,7 +21587,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "lhDUt6Nn26I",
-            "Title": "Random Factor - Undercurrent [VIS031]",
+            "title": "Random Factor - Undercurrent [VIS031]",
             "Channel ID": "UC7t3crQwaLij5pULT1rBSBQ",
             "Author": "Rayzeh",
             "Description": "Premiere contact: rayzeh.premieres@gmail.com  Rayzeh: https://soundcloud.com/rayzeh https://www.instagram.com/rayzeh.music https://www.facebook.com/Rayzeh.official https://rayzeh.bandcamp.com",
@@ -21613,7 +21613,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Bn2GS2X5iNA",
-            "Title": "OCB - Rush [MTRON009]",
+            "title": "OCB - Rush [MTRON009]",
             "Channel ID": "UC_wDCaYSvQT49MOYbm00dOw",
             "Author": "Mechatronica",
             "Description": "Classic electro styles carefully laced with breaks, acid and devastating groove by OCB aka. Driss Bennis, set for release on MTRON009 alongside tracks from Kosh, Ersatz Olfolks and Jauzas The Shining.  12\" vinyl & digital EP out now: https://mechatronica,bandcamp.com  Other shops: https://clone.nl/item52977.html https://hhv.de/shop/de/artikel/kosh-ocb-jauzas-the-shining-und-ersatz-olfolks-mtron009-610564 https://www.decks.de/artist/kosh-ocb-jauzas_the_shining-ersatz_olfolks/ohv-1 https://deejay.de/Kosh_OCB_Jauzas_The_Shining_Ersatz_Olfolks_MTRON009_MTRON009_Vinyl__332993 https://unearthedsounds.co.uk/collections/electronic/products/kosh-ocb-jauzas-the-shining-ersatz-olfolks-mtron009 https://redeyerecords.co.uk/vinyl/101600-mtron009-kosh-ocb-jauzas-the-shining-ersatz-olfolks https://juno.co.uk/products/kosh-ocb-jauzas-the-shining-mtron-009/704408-01/  Distribution: https://triplevision.nl/release/MTRON009 https://clonedistribution.com/release/52977  Discogs: https://discogs.com/release/12736338",
@@ -21639,7 +21639,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "L00TOKM6b9Q",
-            "Title": "Omni A.M. - Loaf Quakes [PLUSH 008]",
+            "title": "Omni A.M. - Loaf Quakes [PLUSH 008]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From [PLUSH 008] Omni A.M. - Striped Bass EP  https://www.discogs.com/es/Omni-AM-Striped-Bass-EP/release/86013  Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: since1994.yt@gmail.com",
@@ -21665,7 +21665,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Qz7T-knGjqY",
-            "Title": "Markus Miller - Routine Blur [ON.SIX]",
+            "title": "Markus Miller - Routine Blur [ON.SIX]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Organised Noise ‎– ON.SIX Format: 2 × Vinyl, 12\", 33 ⅓ RPM  Country: US Released: 1998 Genre: Electronic Style: Tribal, Techno, Tech House --- https://www.discogs.com/Various-Octet/release/69005 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -21691,7 +21691,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "YR063eMcENg",
-            "Title": "Makers Of Movement - D-Cyfer [DAY002]",
+            "title": "Makers Of Movement - D-Cyfer [DAY002]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Precise Daily Rhythm ‎– DAY002 Format: Vinyl, 12\", EP, 33 ⅓ RPM  Country: UK Released: 1997 Genre: Electronic Style: Techno, Tech House --- https://www.discogs.com/Makers-Of-Movement-The-Moving-House-EP/release/1024846 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -21717,7 +21717,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kpOEX2qjdFk",
-            "Title": "Lewis - Dreamers [archive 003]",
+            "title": "Lewis - Dreamers [archive 003]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    ➤ Bandcamp: https://glarchives.bandcamp.com/album/archive-003 / |",
@@ -21743,7 +21743,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xihPoFjdf68",
-            "Title": "The Ron Honey Experience  -  Nitedrive",
+            "title": "The Ron Honey Experience  -  Nitedrive",
             "Channel ID": "UCGkzJmg31dgczktvAikK7Qg",
             "Author": "Free is in Da House",
             "Description": "1998. Nitedrive Vinyl, 12\" EP  -  7th Voyage Written and Produced by RON HONEY. Mixed at Strange Weather Studios https://www.discogs.com/The-Ron-Honey-Experience-Nitedrive/release/156194",
@@ -21769,7 +21769,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XGDrzDEa-sw",
-            "Title": "DJ Normal 4 - Return Of The Hooligans (Needs 005)",
+            "title": "DJ Normal 4 - Return Of The Hooligans (Needs 005)",
             "Channel ID": "UCawsh7qt-x4T3QhXnjZDfbQ",
             "Author": "needsnotforprofit",
             "Description": "Needs is a nonprofit collective, event series & record label.  Needs 005 is in aid of mental health, with all profits donated to Mind UK.  Out now https://www.juno.co.uk/products/dj-normal-4-red-axes-needs-005/699221-01/  Follow us: https://www.needsnotforprofit.com/ FB: https://www.facebook.com/needsnotforprofit IG: https://www.instagram.com/needsnotforprofit T: https://twitter.com/NeedsNFP  EVERYBODY HAS NEEDS X",
@@ -21795,7 +21795,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mc8Lgb2TRIs",
-            "Title": "Elixir Vitae - Gonna Be Alright (Scandal Mix) [MUS001]",
+            "title": "Elixir Vitae - Gonna Be Alright (Scandal Mix) [MUS001]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Total Music Records ‎– MUS001 Format: Vinyl, 12\", 45 RPM  Country: UK Released: 1991 Genre: Electronic Style: House --- https://www.discogs.com/Elixir-Vitae-Gonna-Be-Alright/release/587842 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -21821,7 +21821,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "QH7gKJjlVOY",
-            "Title": "TCP - After The Tone [12TEK 90]",
+            "title": "TCP - After The Tone [12TEK 90]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Btech ‎– BASIC4, Btech ‎– 12TEK 90 Series: Going Back To Basics – Volume Four Format: Vinyl, 12\"  Country: Sweden Released: 1991 Genre: Electronic Style: House --- https://www.discogs.com/Various-Going-Back-To-Basics-Volume-Four/release/190834 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -21847,7 +21847,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Enh7tsy_1R4",
-            "Title": "Robi Uppin - Coffee Bar Discussions (Midnight Society Androg-O-Dub Mix) (Lap Dance, 2001)",
+            "title": "Robi Uppin - Coffee Bar Discussions (Midnight Society Androg-O-Dub Mix) (Lap Dance, 2001)",
             "Channel ID": "UC_ZBS370CjlMCM9lXITVD7w",
             "Author": "RawhausTrax / David Mast",
             "Description": "https://www.discogs.com/Robi-Uppin-Coffee-Bar-Discussions/release/60280 https://www.facebook.com/RawhausTrax",
@@ -21873,7 +21873,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EKTs3sBUvR0",
-            "Title": "Random Factor - Undercurrent",
+            "title": "Random Factor - Undercurrent",
             "Channel ID": "UCZqMDtNsUQ8mmS2A1l3s5tA",
             "Author": "petiteecole",
             "Description": "Random Factor ‎– On The Air EP on 20:20 Vision (1999) https://www.discogs.com/fr/Random-Factor-On-The-Air-EP/release/23709",
@@ -21899,7 +21899,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "gxG9PPWFCxQ",
-            "Title": "Derek Carr - Nauvoo [SUBWAX E-X-C LP03]",
+            "title": "Derek Carr - Nauvoo [SUBWAX E-X-C LP03]",
             "Channel ID": "UCpRvzLLQL5hWSpVaOHiIQEw",
             "Author": "Givi Gelashvili",
             "Description": "Support artist and label, buy here / https://www.store.subwaxbcn.com/product/subwax-e-x-c-lp03/ https://www.juno.co.uk/products/derek-carr-contact/689016-01/ https://www.phonicarecords.com/product/derek-carr-contact-lp-subwax-excursions/152832 https://clone.nl/item51544.html https://www.redeyerecords.co.uk/vinyl/97235-subwax-e-x-c-lp03-derek-carr-contact-2-x-lp  Derek Carr ‎– Contact Subwax Excursions ‎/ SUBWAX E-X-C LP03 July 30, 2018  \"Derek’s music instantly takes the listener on a midnight drive, cruising the Grand River Avenue through Detroit. Derek Carr’s ability to create soulful melodies that effortlessly wrap themselves around bouncy basslines and elegant beats is not only classy – it’s classical. Derek Carr is not from the Detroit though.. he’s an Irishman through and through, born and bred in Westmeath, about 3400 miles from The State of Michigan. Yet he absolutely nails it! After two decades of crafting his own sound with analogue synths and samplers with the music culture of Motor City as an inspiration, Derek Carr doesn’t sound like anyone else. All the archetypical Detroit sounds are there – from the robotic bleeps in Binary Systems to the moody strings of Metro City – but Derek Carr uses them to create a primarily club oriented vibe, uplifting and positive.  The Artwork for this album is made by Abdul Haqq, the legendary visual artist responsible for a great number of classic covers for artists and labels such as Juan Atkins, Derrick May, Transmat, Drexciya, Carl Craig, Planet E and Underground Resistance…\"  DISCLAIMER / All tracks are uploaded in low quality, for promoting purposes and with buy links. If either label, artist or third party copyright holder does not agree with their material being uploaded, please contact me and I will take it down immediately.  Email: givi.gelashvili@protonmail.ch",
@@ -21925,7 +21925,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vJwTH9LaKTg",
-            "Title": "DJ Jacq - 318i [CBR-005]",
+            "title": "DJ Jacq - 318i [CBR-005]",
             "Channel ID": "UCiyZfds9EbgACBuVyuONCKA",
             "Author": "patrickyooo",
             "Description": "https://www.discogs.com/DJ-Jacq-Loop-Jack/master/45387",
@@ -21951,7 +21951,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "gve1bN6AyGo",
-            "Title": "Ghetto Tactics -- Promise You",
+            "title": "Ghetto Tactics -- Promise You",
             "Channel ID": "UCeqrG_zgjkvDyTsfdNgrofw",
             "Author": "atr0",
             "Description": "Ghetto Tactics ‎– Back To The Future (Finest Blend Recordings) : https://www.discogs.com/Ghetto-Tactics-Back-To-The-Future/master/268738",
@@ -21977,7 +21977,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0RUngEDGr58",
-            "Title": "Heavytimes Productions - Music Non Stop",
+            "title": "Heavytimes Productions - Music Non Stop",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "More here https://www.facebook.com/192uploads/ Or here https://soundcloud.com/192-uploads  https://www.discogs.com/Heavytimes-Productions-Heavy-Vibes-Vol-2/master/959217  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -22003,7 +22003,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Lt6J7zd_hbU",
-            "Title": "Party Rockin' Productions - Family Favourites Untitled A1",
+            "title": "Party Rockin' Productions - Family Favourites Untitled A1",
             "Channel ID": "UCPaO3t4D4VtJbmVMeZoghQw",
             "Author": "Underground Music Channel",
             "Description": "Track from Party Rockin' Records. Year 1991.",
@@ -22029,7 +22029,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ePZ0XdKPbPM",
-            "Title": "Alienage - I Said (Space House Remix)",
+            "title": "Alienage - I Said (Space House Remix)",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "Label: Gargoyle Records (2) ‎– GR95005 Format: Vinyl, 12\"  Country: US Released: 1995 Genre: Electronic Style: House, Breaks",
@@ -22055,7 +22055,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1vlw_TH2JxQ",
-            "Title": "Justice League of Zion - Madness (Dub)",
+            "title": "Justice League of Zion - Madness (Dub)",
             "Channel ID": "UCqgjsDIStMI4vlXIty3Gjww",
             "Author": "Reel Long Overdub",
             "Description": "From Discoverers (Dubwise) on Century, 1993",
@@ -22081,7 +22081,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IxNm-Hr3FvA",
-            "Title": "Terry Francis  -  Loving You",
+            "title": "Terry Francis  -  Loving You",
             "Channel ID": "UCGkzJmg31dgczktvAikK7Qg",
             "Author": "Free is in Da House",
             "Description": "2001. Strong Woman Vinyl, 12\", EP  -  Pagan wFxuZHOMvD0",
@@ -22107,7 +22107,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OSZX7wHkcO8",
-            "Title": "Sunny Boyz - Enjoy (Jaws Mix)",
+            "title": "Sunny Boyz - Enjoy (Jaws Mix)",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "More here https://www.facebook.com/192uploads/ Or here https://soundcloud.com/192-uploads  https://www.discogs.com/Sunny-Boyz-Groove-Sector-Enjoy-A-Better-Place/release/165695  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -22133,7 +22133,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EkKNOhXVhhg",
-            "Title": "Unknown Artist - DRGS03B [DRGS003]",
+            "title": "Unknown Artist - DRGS03B [DRGS003]",
             "Channel ID": "UCGxYxFFsENVa3y3L3kkQ4QA",
             "Author": "trommel",
             "Description": "LOW BITRATE - FOR PROMOTION ONLY  Trommel does not own the content on this video or any rights related to it. If the owner does not wish to have their items on display, please contact us and the content will be removed immediately.  Trommel is against piracy in any form - support the artist/label and buy the EP",
@@ -22159,7 +22159,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "a1pg36hUCqc",
-            "Title": "Ambusher - Chasers [GND 017]",
+            "title": "Ambusher - Chasers [GND 017]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Grayhound Recordings ‎– GND 017 Format: Vinyl, 12\", White Label, 45 RPM, 33 ⅓ RPM, Stickered  Country: US Released: 2000 Genre: Electronic Style: House --- https://www.discogs.com/Ambusher-Synthesis-Extractions/release/2279594 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -22185,7 +22185,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "R1pTgNejuAs",
-            "Title": "Kellon - Antimatter [SPILL02]",
+            "title": "Kellon - Antimatter [SPILL02]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    https://www.discogs.com/Kellon-Parallax-EP/release/12450637 / |",
@@ -22211,7 +22211,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_u1SKiejps4",
-            "Title": "Deeper Cut - Feel It (Compact Mix)",
+            "title": "Deeper Cut - Feel It (Compact Mix)",
             "Channel ID": "UCqgjsDIStMI4vlXIty3Gjww",
             "Author": "Reel Long Overdub",
             "Description": "1994 Chemical Music (UK) Limited",
@@ -22237,7 +22237,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3X9uvL0GF_E",
-            "Title": "Kilowatt - Rok Automatik",
+            "title": "Kilowatt - Rok Automatik",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "More here https://www.facebook.com/192gmbh/ Or here https://soundcloud.com/192gmbh  https://www.discogs.com/Kilowatt-The-Last-EP/release/77991  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -22263,7 +22263,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-i9rNPFv0hA",
-            "Title": "Josh B - I Luv U",
+            "title": "Josh B - I Luv U",
             "Channel ID": "UCJYI6gHkjLBYn8iBSVG91Mg",
             "Author": "MickeyBeam75",
             "Description": "Josh B - I Luv U Quality new track from my old mate, Josh B. Hopefully he'll continue to carry on making these retro sounding gems.",
@@ -22289,7 +22289,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KSV3FcZ8xYI",
-            "Title": "Big Brother / Eric Spire / SP-18 [2003]",
+            "title": "Big Brother / Eric Spire / SP-18 [2003]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/Eric-Spire-Big-Brother/release/160228  Facebook: https://www.facebook.com/theproudmistress/ Soundcloud: https://soundcloud.com/theproudmistress Instagram: https://www.instagram.com/theproudmistress  Track: Big Brother Artist: Eric Spire EP Title: Big Brother Label: Silver Pearl Records Catalog #: SP-18 Genre: Acid, Tech House Year: 2003",
@@ -22315,7 +22315,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OtoMKiOGTb4",
-            "Title": "Emtorino - Sanction (Show Palace Mix)",
+            "title": "Emtorino - Sanction (Show Palace Mix)",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Emtorino-Sanction/release/77724  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld   For promotional purpose only",
@@ -22341,7 +22341,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RE8FgbcNEt4",
-            "Title": "Native Pride - Illucid Groove",
+            "title": "Native Pride - Illucid Groove",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "(The Chugging, Twittering, Jiggly, Throbbing, 0-127-0 bpm, Acidic, Bullshit Free Mix)  More here https : //www.facebook.com/192uploads/ Or here https://soundcloud.com/192-uploads  https://www.discogs.com/Native-Pride-Lucid-Groove/release/67293  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -22367,7 +22367,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0kGi39pOCF0",
-            "Title": "Anthology - Music (The Club Instrumental)",
+            "title": "Anthology - Music (The Club Instrumental)",
             "Channel ID": "UCJY8C2HoNUE6UUVAgt-ftBw",
             "Author": "192 uploads",
             "Description": "More here https : //www.facebook.com/192uploads/ Or here https://soundcloud.com/192-uploads  https://www.discogs.com/Anthology-Music/release/33986  Sharing good vibes and pain a z y m e Dear copyright holder, contact me if you don't want this on YT",
@@ -22393,7 +22393,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8Bpt57M5uqU",
-            "Title": "Studio Mody - Senor Tomorrow",
+            "title": "Studio Mody - Senor Tomorrow",
             "Channel ID": "UC6JixBkMuBh0_lKRH59YgIg",
             "Author": "krau",
             "Description": "https://www.discogs.com/Studio-Mody-Count-01/release/10301575",
@@ -22419,7 +22419,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8eVDUVU4l8E",
-            "Title": "Z@P ‎- Out of control [PH001]",
+            "title": "Z@P ‎- Out of control [PH001]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "🚀 Follow CMYK (DJ, events, label...): https://instagram.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm",
@@ -22445,7 +22445,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2E81M4yULyk",
-            "Title": "Make You Feel Alright / E.T.I. / EastBay Conspiracy EP [1997]",
+            "title": "Make You Feel Alright / E.T.I. / EastBay Conspiracy EP [1997]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/Various-EastBay-Conspiracy-EP/release/163634  Facebook: https://www.facebook.com/theproudmistress/  Track: Make You Feel Alright Artist: E.T.I. Title: EastBay Conspiracy EP  Label: Trip 'N Spin Recordings  Catalog #: TS-009 Genre: Tech House, Acid, Dub Year: 1997",
@@ -22471,7 +22471,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "aK5iVypa_fU",
-            "Title": "Etienne - A New Dawn",
+            "title": "Etienne - A New Dawn",
             "Channel ID": "UCUx6qGAmBddQ0DCSUXxewiQ",
             "Author": "Nothing But Nice",
             "Description": "Uploaded in low quality for promotional purposes.  Buy the record: https://www.discogs.com/Etienne-Combat-EP/release/12220889  Juno: https://www.juno.co.uk/products/etienne-combat-ep/689728-01/",
@@ -22497,7 +22497,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cPzAe15RvE0",
-            "Title": "Z@P - A-Rhythm",
+            "title": "Z@P - A-Rhythm",
             "Channel ID": "UCUx6qGAmBddQ0DCSUXxewiQ",
             "Author": "Nothing But Nice",
             "Description": "Taken from the Tracid EP on Cartulis Music  Uploaded in low quality  https://www.discogs.com/ZP-Tracid/release/11272493",
@@ -22523,7 +22523,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GBB5fu6FcF0",
-            "Title": "Balance",
+            "title": "Balance",
             "Channel ID": "UCAVX_w6B-051t9z79LfEa6A",
             "Author": "Munir Nadir - Topic",
             "Description": "Provided to YouTube by dig dis! c/o Music Mail Tonträger GmbH  Balance · Munir Nadir  Regular Funk  ℗ PURISM Wave  Released on: 2018-10-12  Artist: Munir Nadir  Auto-generated by YouTube.",
@@ -22549,7 +22549,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VyY4G2y_udM",
-            "Title": "Marine Boy - B2 - Untitled",
+            "title": "Marine Boy - B2 - Untitled",
             "Channel ID": "UC98VGFuPY3E4WqzFpT1QVgw",
             "Author": "Vincent G",
             "Description": "Label: Perception Records ‎– UNI 7 Format: Vinyl, 12\", White Label  Country: UK Released: Genre: Electronic Style: House, Techno  https://www.discogs.com/Marine-Boy-Untitled/release/413942  I don't own the track, for promotional purpose only !",
@@ -22575,7 +22575,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2q3DMZkEnjM",
-            "Title": "Queen Latifah - Dance For Me (Official Music Video)",
+            "title": "Queen Latifah - Dance For Me (Official Music Video)",
             "Channel ID": "UCnSR7_Oq-MdsZxfogsfk-Ug",
             "Author": "Tommy Boy",
             "Description": "Download/Stream: https://tommyboyrecords.lnk.to/AllHailTheQueenWE  ************************************   Tommy Boy Records is a legendary Hip Hop & Electronic record label founded in New York City in 1981. The label is credited with launching the careers of notable legends Queen Latifah, House of Pain, Coolio and Naughty By Nature.  ************************************   Follow Tommy Boy Records: https://tommyboyrecords.lnk.to/instagram https://tommyboyrecords.lnk.to/Twitter https://tommyboyrecords.lnk.to/TikTok https://tommyboyrecords.lnk.to/Facebook https://tommyboyrecords.lnk.to/Spotify https://tommyboyrecords.lnk.to/Soundcloud Subscribe to the mailing list: https://tommyboy-records.com/ Shop: https://tommyboyrecords.lnk.to/Website  ************************************   #TommyBoyRecords #QueenLatifah #HipHop50",
@@ -22601,7 +22601,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "17mYqtUqLq0",
-            "Title": "DJ Dag - People Of The Main (Release Yourself) [MATO001]",
+            "title": "DJ Dag - People Of The Main (Release Yourself) [MATO001]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Mato Music ‎– MATO001 Format: Vinyl, 12\", White Label  Country: Germany Released: 2002 Genre: Electronic Style: Progressive House, Trance --- https://www.discogs.com/DJ-Dag-People-Of-The-Main-Release-Yourself/release/9122176 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -22627,7 +22627,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fLQ7bouHbZ0",
-            "Title": "Fresh And Low  -  Interlude",
+            "title": "Fresh And Low  -  Interlude",
             "Channel ID": "UCGkzJmg31dgczktvAikK7Qg",
             "Author": "Free is in Da House",
             "Description": "1995. Interlude / Rack Up Vinyl, 12\"  -  Strictly 4 Groovers Arranged, produced and engineered by Calum Walker, Julian Dembinski, Hugh Spiers and David Robertson https://www.discogs.com/Fresh-And-Low-Rack-Up-Interlude/release/15505",
@@ -22653,7 +22653,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "a8tc0kpjyFk",
-            "Title": "Christian Jay - Green [BSU001]",
+            "title": "Christian Jay - Green [BSU001]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "➤ Check out the label: https://bit.ly/2LirGM1 ➤ Follow me here: https://www.facebook.com/CMYKitsme/ ➤ Release info: https://bit.ly/2w4gxKh  All uploads have low-bitrate audio (128kbps) - not for club use!",
@@ -22679,7 +22679,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "iaJ2_e2dK3M",
-            "Title": "Franck C. - Free (Original Extended) [SCR004]",
+            "title": "Franck C. - Free (Original Extended) [SCR004]",
             "Channel ID": "UCiyZfds9EbgACBuVyuONCKA",
             "Author": "patrickyooo",
             "Description": "https://www.discogs.com/Franck-C-Return-To-The-Frogs-Forest/release/199772",
@@ -22705,7 +22705,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wik20EuHVjA",
-            "Title": "B.O.P. - Make It Funky (Instrumental)",
+            "title": "B.O.P. - Make It Funky (Instrumental)",
             "Channel ID": "UCPaO3t4D4VtJbmVMeZoghQw",
             "Author": "Underground Music Channel",
             "Description": "Track from Rufftrack Records. Year 1996.",
@@ -22731,7 +22731,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "j8j__YbJLHc",
-            "Title": "Deluxe - Futura [UVR-02-01-2]",
+            "title": "Deluxe - Futura [UVR-02-01-2]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    https://www.discogs.com/Deluxe-Let-The-Magic-Flow/release/3891243 / |",
@@ -22757,7 +22757,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Fx8R3Q0N9m4",
-            "Title": "DJ Benny  ‎– 4 To The Floor -  (Untitled Mix 1)",
+            "title": "DJ Benny  ‎– 4 To The Floor -  (Untitled Mix 1)",
             "Channel ID": "UCBPc-NnBMUmbKEgKL-0JAfg",
             "Author": "SPEED GARAGE",
             "Description": "4x4 Garage",
@@ -22783,7 +22783,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vzm0elSKp2U",
-            "Title": "Ambient Minds - Keli Muth",
+            "title": "Ambient Minds - Keli Muth",
             "Channel ID": "UC9gQxlzCYx4VufBshTtpjbA",
             "Author": "Alexandre Paris",
             "Description": "Ambient Minds - Keli Muth Various - Immortal Recordings ‎– IMM-122 https://www.discogs.com/Ambient-Minds-Various/release/2749961",
@@ -22809,7 +22809,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jLCBn4s9FqA",
-            "Title": "Hanna - Dying Souls [NPT 27]",
+            "title": "Hanna - Dying Souls [NPT 27]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Nepenta ‎– NPT 27 Format: Vinyl, 12\", 45 RPM, EP  Country: UK Released: 2000 Genre: Electronic Style: Deep House --- https://www.discogs.com/Hanna-Civics-EP/release/10248 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -22835,7 +22835,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Ren1bAG4NZA",
-            "Title": "Nuages - Move",
+            "title": "Nuages - Move",
             "Channel ID": "UC98VGFuPY3E4WqzFpT1QVgw",
             "Author": "Vincent G",
             "Description": "Label: F Communications ‎– F 016 Format: Vinyl, 12\", EP  Country: France Released: 28 Nov 1994 Genre: Electronic Style: Deep House, Techno  https://www.discogs.com/Nuages-Blanc-EP/release/30974  I don't own the track for promotional purpose only !",
@@ -22861,7 +22861,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "do5aUTSc868",
-            "Title": "Walt Ever - Febreiro [PAGEME001]",
+            "title": "Walt Ever - Febreiro [PAGEME001]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From [PAGEME001] Walt Ever - Freizeit Amigos LP  https://www.discogs.com/Walt-Ever-Freizeit-Amigos-LP/release/12034705  Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: Facebook: https://www.facebook.com/since1994.yt/ Instagram: https://www.instagram.com/since1994.yt/ Gmail: since1994.yt@gmail.com",
@@ -22887,7 +22887,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oyvf7K2rpnc",
-            "Title": "Charonne & Loop Exposure - À Bout De Soufflot [ZORA003 - Rakya Liquor Store Vol.1]",
+            "title": "Charonne & Loop Exposure - À Bout De Soufflot [ZORA003 - Rakya Liquor Store Vol.1]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "➤ Check out the label: https://www.facebook.com/rakyarecords ➤ Follow me here: https://www.facebook.com/CMYKitsme/ ➤ Release info: https://www.discogs.com/Charonne-Loop-Exposure-Rakya-Liquor-Store-Vol1/release/12013313  All uploads have low-bitrate audio (128kbps) - not for club use!",
@@ -22913,7 +22913,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "E8CszPj3bJ4",
-            "Title": "Charonne - Panam Binks [ZORA003 - Rakya Liquor Store Vol.1]",
+            "title": "Charonne - Panam Binks [ZORA003 - Rakya Liquor Store Vol.1]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "➤ Check out the label: https://www.facebook.com/rakyarecords ➤ Follow me here: https://www.facebook.com/CMYKitsme/ ➤ Release info: https://www.discogs.com/Charonne-Loop-Exposure-Rakya-Liquor-Store-Vol1/release/12013313  All uploads have low-bitrate audio (128kbps) - not for club use!",
@@ -22939,7 +22939,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "eQfT42TOOD8",
-            "Title": "R.I.P. Productions ‎– Club Trax Vol. 2",
+            "title": "R.I.P. Productions ‎– Club Trax Vol. 2",
             "Channel ID": "UC3TUxjOSlqqg81XslByEb_Q",
             "Author": "Dietysrecords",
             "Description": "Jazzin'",
@@ -22965,7 +22965,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kipIBykHOGg",
-            "Title": "B. Movement - Flowmotion E.P. - Godess Of Love",
+            "title": "B. Movement - Flowmotion E.P. - Godess Of Love",
             "Channel ID": "UCW0MfWJVJh_eCUi-9FV1Phw",
             "Author": "Dizko Floor",
             "Description": "https://www.discogs.com/B-Movement-Flowmotion-EP/release/516162",
@@ -22991,7 +22991,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "roSSCaVZN8k",
-            "Title": "New Composers - Sputnik of Life (Mix 1) [SPUTNIK OF LIFE]",
+            "title": "New Composers - Sputnik of Life (Mix 1) [SPUTNIK OF LIFE]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 https://www.discogs.com/The-New-Composers-Sputnik-Of-Life/release/566345 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -23017,7 +23017,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JvxPpkh-gdg",
-            "Title": "Gimmarco Orsini - Planet Pan - Game of Chance EP - PTN - PTN003",
+            "title": "Gimmarco Orsini - Planet Pan - Game of Chance EP - PTN - PTN003",
             "Channel ID": "UC2PQS54zuxhaljTubySEUUw",
             "Author": "Lrnz",
             "Description": "Gimmarco Orsini - Planet Pan - Game of Chance EP - PTN - PTN003",
@@ -23043,7 +23043,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-QadNbzqsc8",
-            "Title": "Trans-4M ‎–Dencity (Urban Tribe Mix)",
+            "title": "Trans-4M ‎–Dencity (Urban Tribe Mix)",
             "Channel ID": "UCG744WujnIKWq91TlwLZODg",
             "Author": "audible nuggets",
             "Description": "vinyl rip  Label: Buzz ‎– BZZXL 106088 Format: Vinyl, 12\"  Country: Belgium Released: 1992 Genre: Electronic Style: House, Techno, Deep House  https://www.discogs.com/Trans-4M-Dencity/release/44931?ev=item-vc",
@@ -23069,7 +23069,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "q-xmVvz5Lcc",
-            "Title": "Mad Frogs - Turning Man | Turning Man [2018]",
+            "title": "Mad Frogs - Turning Man | Turning Man [2018]",
             "Channel ID": "UCEfZoAshpTmnRjg53B13--A",
             "Author": "some uncertain sir",
             "Description": "*Please message me directly on FB or YT for any copyright issues and the video will be removed immediately* *Uploaded in low quality for listening purposes only*  Facebook (Some Uncertain Sir): https://www.facebook.com/someuncertainsir  Discogs: https://www.discogs.com/Turning-Man-Destination-Body/release/11308382  Track: Mad Frogs  Artist: Turning Man  Album: Destination Body Label: Turning Man  Cat #: TM001 Country: Germany Year: 2018",
@@ -23095,7 +23095,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KK8Tun7NnDk",
-            "Title": "XA 001  - B Side",
+            "title": "XA 001  - B Side",
             "Channel ID": "UCN7x_xCNONtNgWt_JPvD6Fg",
             "Author": "Deepbass9",
             "Description": "https://www.discogs.com/Unknown-Artist-Untitled/release/11826557",
@@ -23121,7 +23121,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "U0RiOoj5yP0",
-            "Title": "Music ((Alright mix))",
+            "title": "Music ((Alright mix))",
             "Channel ID": "UCo6QxRDYGYrwQX6YM-cdjAg",
             "Author": "Francisco Raps - Topic",
             "Description": "Provided to YouTube by Daredo  Music ((Alright mix)) · Francisco · Cosmo  Lineabeat Raccolta  ℗ Slow Motion  Released on: 2018-07-25  Composer: Francisco & Cosmo Music  Publisher: Slow Motion Records  Auto-generated by YouTube.",
@@ -23147,7 +23147,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oA4lUCC9Dps",
-            "Title": "Landlord - I Like It (HUD Rework)",
+            "title": "Landlord - I Like It (HUD Rework)",
             "Channel ID": "UCpqUdE1aBjZMxZaMn8jkC5A",
             "Author": "Neil Hudson",
             "Description": "Remix of Landlords classic 'I Like It' from way back in 1989. BUY THIS REMASTERED TRACK HERE https://hudmusic247.bandcamp.com/track/landlord-i-like-it-hud-rework?label=330582753&tab=music PLUS get other FREE remixes here: https://raverflavarecordings.bandcamp.com/music https://soundcloud.com/hud247 #oldskool #rave #90s #classicrave #classichouse #housemusic #90shouse #house #dj #ravemusic",
@@ -23173,7 +23173,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hG9_iGlaptg",
-            "Title": "Luca Lozano - Fantasy FM [OT006]",
+            "title": "Luca Lozano - Fantasy FM [OT006]",
             "Channel ID": "UCA0vBiBq_HNx1iBiW3kxogQ",
             "Author": "RAVE SYNDICATE",
             "Description": "OPTIMO TRAX https://www.discogs.com/label/589203-Optimo-Trax",
@@ -23199,7 +23199,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TDV28n4BZ0M",
-            "Title": "A Smart Thing to Say (Italectro Operetta Mix)",
+            "title": "A Smart Thing to Say (Italectro Operetta Mix)",
             "Channel ID": "UCtFgCCWJoe75ITLRJYBtgTw",
             "Author": "That's - Topic",
             "Description": "Provided to YouTube by The Orchard Enterprises  A Smart Thing to Say (Italectro Operetta Mix) · THATŽS  Based on a True Story  ℗ 2007 Sixtone  Released on: 2007-02-27  Music  Publisher: Copyright Control  Auto-generated by YouTube.",
@@ -23225,7 +23225,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "iE0GSAigWjE",
-            "Title": "Man With No Name - Geddit!!? (Dub Mix) [FK 006]",
+            "title": "Man With No Name - Geddit!!? (Dub Mix) [FK 006]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    https://www.discogs.com/Man-With-No-Name-Geddit--120-Something/release/110726 / |",
@@ -23251,7 +23251,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RoVr9Mk1Pqk",
-            "Title": "Sandoz ‎– Dark Continent [Tone 4]",
+            "title": "Sandoz ‎– Dark Continent [Tone 4]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 https://www.discogs.com/Sandoz-Dark-Continent/release/83127 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -23277,7 +23277,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0cogf-xw-So",
-            "Title": "Hornbostel - Set Me Free (Subground Mix)",
+            "title": "Hornbostel - Set Me Free (Subground Mix)",
             "Channel ID": "UC54aKpWtaxvZQK7KHg34Btw",
             "Author": "Cristian M.",
             "Description": "PRG (Progressive Motion Records) ‎– PRG 7010 Italy 1993",
@@ -23303,7 +23303,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OgxNNscSB2k",
-            "Title": "Head Affect - Fakin [TR017CD]",
+            "title": "Head Affect - Fakin [TR017CD]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 https://www.discogs.com/Various-Thunk-Up/release/367685 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -23329,7 +23329,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Ey5v99iVXRY",
-            "Title": "Touch Of Insanity - Sunset 99 [Ingwe 007]",
+            "title": "Touch Of Insanity - Sunset 99 [Ingwe 007]",
             "Channel ID": "UCiyZfds9EbgACBuVyuONCKA",
             "Author": "patrickyooo",
             "Description": "https://www.discogs.com/Touch-Of-Insanity-Ingwe-7/release/452265",
@@ -23355,7 +23355,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EjTUrRuSxy8",
-            "Title": "Be Yoself",
+            "title": "Be Yoself",
             "Channel ID": "UCeBLeLdXAKcu2Z4XhIS6GWQ",
             "Author": "Omar-S - Topic",
             "Description": "Provided to YouTube by The Orchard Enterprises  Be Yoself · Omar S  Thank You for Letting Me Be Myself  ℗ 2017 FXHE RECORDS  Released on: 2017-08-02  Music Publisher: FXHE MUSIC ASCAP  Auto-generated by YouTube.",
@@ -23381,7 +23381,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zD7_QUCaaa4",
-            "Title": "REEL TO REEL - MADE IN TWO MINUTES (1990)",
+            "title": "REEL TO REEL - MADE IN TWO MINUTES (1990)",
             "Channel ID": "UCPs1iGeaMeOk6Cbrq3dUjCw",
             "Author": "Renegade Sound",
             "Description": "REEL TO REEL - MADE IN TWO MINUTES* CAT # R TO R 003 (B1) FORMAT: VINYL COUNTRY OF RELEASE:UK Track Written By 𝐆𝐑𝐀𝐍𝐓 𝐁𝐎𝐖𝐃𝐄𝐍 --------------------------------------------------------------- https://www.discogs.com/Various-Back-To-Attack-Vol-1/master/196928 --------------------------------------------------------------- *Released as 'Sudden Impact' Back to Attack volume one (WLP) ----------------------------------------------------------------",
@@ -23407,7 +23407,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1_cEdLt5cKM",
-            "Title": "Charonne - Vice City [Imprints 014]",
+            "title": "Charonne - Vice City [Imprints 014]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From [Imprints 014] Various Artists - Imprints 014   https://www.discogs.com/es/Various-Imprints-014/release/11788887 Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: Facebook: https://www.facebook.com/since1994.yt/ Instagram: https://www.instagram.com/since1994.yt/ Gmail: since1994.yt@gmail.com",
@@ -23433,7 +23433,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0Mf57DRqjSU",
-            "Title": "Sparky D- Sparky's Turn (DUB MIX)",
+            "title": "Sparky D- Sparky's Turn (DUB MIX)",
             "Channel ID": "UCD4ZNFxLIOMfz-nEBrPdkpg",
             "Author": "hart70",
             "Description": "(Roxanne You're Through)",
@@ -23459,7 +23459,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TwRUReiulK8",
-            "Title": "SPD & Jessie - Backroom Tings",
+            "title": "SPD & Jessie - Backroom Tings",
             "Channel ID": "UC056lRq6KmKi6VTHAzkjNEw",
             "Author": "GarageVybez98",
             "Description": "Ahead of its time this one",
@@ -23485,7 +23485,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "sOAw1iEmZCs",
-            "Title": "WAFFLES 007 - Side B",
+            "title": "WAFFLES 007 - Side B",
             "Channel ID": "UCpn3ZHTduunTWoPNft4-IJw",
             "Author": "Nouwii",
             "Description": "Track as of yet untitled.  https://www.discogs.com/fr/Waffles-Waffles-007/release/11953009  Uploaded for promotion use only. I do not own any material.",
@@ -23511,7 +23511,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-2PWSMITQ7Q",
-            "Title": "Ro-Cham-Bo - Intergalactic Inter City [WOK1200699]",
+            "title": "Ro-Cham-Bo - Intergalactic Inter City [WOK1200699]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From [WOK1200699] Ro-Cham-Bo - Rollin' With The Ro EP  https://www.discogs.com/es/Ro-Cham-Bo-Rollin-With-The-Ro-EP/master/253344  Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: Facebook: https://www.facebook.com/since1994.yt/ Instagram: https://www.instagram.com/since1994.yt/ Gmail: since1994.yt@gmail.com",
@@ -23537,7 +23537,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vC879wuyqjc",
-            "Title": "Subfunk - Pressures Of Love [SCIFUNK002]",
+            "title": "Subfunk - Pressures Of Love [SCIFUNK002]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From Subfunk / Rudedog ‎- Pressures Of Love / Pennies In Your Eyes EP  https://www.discogs.com/es/Subfunk-vs-Rudedog-Pressures-Of-Love/master/1144961  Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: Facebook: https://www.facebook.com/since1994.yt/ Instagram: https://www.instagram.com/since1994.yt/ Gmail: since1994.yt@gmail.com",
@@ -23563,7 +23563,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WuZxAcEVKvo",
-            "Title": "Alienage - Dance-A-Holic [gr95001]",
+            "title": "Alienage - Dance-A-Holic [gr95001]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From [gr950001] Alienage ‎– Abduction EP  https://www.discogs.com/Alienage-Abduction-Ep/master/383485  Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: Facebook: https://www.facebook.com/since1994.yt/ Instagram: https://www.instagram.com/since1994.yt/ Gmail: since1994.yt@gmail.com",
@@ -23589,7 +23589,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "P_P-Kq6cBhk",
-            "Title": "Formidable Force - Mind Games (Brett's He Said, She Said Mix) [OFFICIAL]",
+            "title": "Formidable Force - Mind Games (Brett's He Said, She Said Mix) [OFFICIAL]",
             "Channel ID": "UCBHiy9r_AepFwIXww3ero0g",
             "Author": "Brett Johnson",
             "Description": "Download & Stream: https://tinyurl.com/y86xqdlp Vinyl: https://tinyurl.com/yb8udrbv  Label: 20:20 Vision ‎– VIS083 Country: UK Released: 2002  Facebook: https://www.facebook.com/DJBrettJohnson Instagram: https://www.instagram.com/jet_bronson/ Soundcloud: https://soundcloud.com/brett-johnson Discogs: https://www.discogs.com/artist/14297-Brett-Johnson",
@@ -23615,7 +23615,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MdAFO0QWF8E",
-            "Title": "Roby J - Crossed Movements (L.O.M. Extended Version) [LOM-001]",
+            "title": "Roby J - Crossed Movements (L.O.M. Extended Version) [LOM-001]",
             "Channel ID": "UCv99d1vZoBGFI7bX9WJ3LPA",
             "Author": "Electronic Love Collective",
             "Description": "Support the label and artist, buy it here:  https://bordelloaparigi.com/shop/musica/life-of-marvin-vol-1/  http://www.phonicarecords.com/product/roby-j-sick-hardcore-life-of-marvin-volume-one-life-of-marvin/145716  Artist: Roby J  Label: Life Of Marvin Genre: Electronic Release date: 16 Jun 2017  Tracklist: Roby J - Crossed Movements (L.O.M. Extended Version)   Sick Hardcore - Clinic Rhythm (L.O.M. Extended Version)  Life of Marvin is a Joint Venture between Manfredi Romano (aka Dj Tennis) and Marvin & Guy (Italo Deviance’s Marcello Giordani and Alessandro Parlatore), these crazy Italian diggers went deep into the most obscure Italian Techno tunes from early 90’s and what they discovered was quite amazing.  There was a huge club scene in Tuscany during the mid-90s called “Progressive Techno”. L.O.M. aim is to explore the sounds that preceded that movement The first EPs are giving new light to Tracks taken from the original catalogue of the Interactive Test Record label owned by Franco Falsini, that became key figures in the Italian Disco scene since early 80s (see Italo-Hit “Electra feat. Tara Butler – Feels good”) and the brother Riccardo.  That label was the incubator of the whole pre-Progressive movement (1991-1993) and the first releases are coming from great djs and producers like Roby J, Francesco Farfa, Gabry Fasano, Marco Calderoni etc.  The music genre is impossible to define properly… just give it a listen. This is the 1st Volume with monster dance floor tracks by Roby J and Sick Hardcore.",
@@ -23641,7 +23641,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "P3xeKJDsq3k",
-            "Title": "Blue - Ausentia [EVA005]",
+            "title": "Blue - Ausentia [EVA005]",
             "Channel ID": "UCkuMxGjzdGrDtp8qGi9TXbA",
             "Author": "Since 1994",
             "Description": "From [EVA005] Blue - Pleasure / Ausentia EP  https://www.discogs.com/es/Blue-Pleas...  Channel created with the objective of democratizing access to music. All the tracks shared here have a quality of 128 kbps.  If you are the owner or producer of the track and do not want the track online, contact me and I will remove it instantly. -- Canal creado con el objetivo de democratizar el acceso a la música.  Todas las pistas compartidas aquí tienen una calidad de 128 kbps. Si eres el dueño o productor de la pista y no quieres la pista online, contáctame y la removeré al instante. -- Contact/Contacto: Facebook: https://www.facebook.com/since1994.yt/ Instagram: https://www.instagram.com/since1994.yt/ Gmail: since1994.yt@gmail.com",
@@ -23667,7 +23667,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zCIe78p6Ys8",
-            "Title": "Techfunkers - Da Bomb",
+            "title": "Techfunkers - Da Bomb",
             "Channel ID": "UCM3x9Vsf5iCYo-qYLG0YeAw",
             "Author": "Sean Burke - breaks / house",
             "Description": "Electro Breaks House 1996  by DJ Duke the Apache break cuts in with flange effects  the second half is amazing for any classic electro/breaks fan",
@@ -23693,7 +23693,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hpZ-pFQq-v4",
-            "Title": "Sound Virus - Inverted Frequencies (Xtrovert Mix) [LUX003]",
+            "title": "Sound Virus - Inverted Frequencies (Xtrovert Mix) [LUX003]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 https://www.discogs.com/Sound-Virus-Inverted-Frequencies/release/590080 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -23719,7 +23719,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bvkYiSScamo",
-            "Title": "Foremost Poets -  The Spy-chiatrist (Session Mix)",
+            "title": "Foremost Poets -  The Spy-chiatrist (Session Mix)",
             "Channel ID": "UCUj21iGJJtmYvN00VrjtBew",
             "Author": "ELconDe 🇧🇪",
             "Description": "* Foremost Poets - The Spy-chiatrist (Session Mix)     (( with subtitles )) * Producer /Narrator: JOHNNY DANGEROUs. * Soundmen On Wax ‎– SOW-424 * Vinyl - US -1998 * https://www.discogs.com/Foremost-Poets-The-Spy-Chiatrist/release/57245 (support the artist) _______________________________________ ... how are you today oops anyway okay now what I want you to do today is just relax relax close your eyes okay your eyes are closed good now I want you to just clear your mind clear your mind okay now let's go somewhere we never went before let's go into complete peace ........",
@@ -23745,7 +23745,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RmJNogWhRaE",
-            "Title": "Mr Peach - Let's Dance (Original Peach Mix)",
+            "title": "Mr Peach - Let's Dance (Original Peach Mix)",
             "Channel ID": "UCyHJZAEEw6WV2iRGYDgbBjA",
             "Author": "HOUSE ALL TIMES",
             "Description": "Olympic Recordings. 1993",
@@ -23771,7 +23771,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "F5WdYKRi4wg",
-            "Title": "Kyng Nova - Feori",
+            "title": "Kyng Nova - Feori",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Kyng-Nova-What-Time-Izit/release/328959  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld   For promotional purpose only",
@@ -23797,7 +23797,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "DaWy27-svSk",
-            "Title": "Antoine Sy - Passion Vitesse [OPIA001]",
+            "title": "Antoine Sy - Passion Vitesse [OPIA001]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "➤ Check out the label: https://www.facebook.com/OPIARECORDINGS/ ➤ Follow me here: https://www.facebook.com/CMYKitsme/ ➤ Release info: https://www.discogs.com/Various-Elektropia-Ep/release/11736205  All uploads have low-bitrate audio (128kbps) - not for club use!",
@@ -23823,7 +23823,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4HfopnzBpXA",
-            "Title": "nnm productions ‎– funk shy",
+            "title": "nnm productions ‎– funk shy",
             "Channel ID": "UCGFUlAmDgzRO4uATp5yfdhg",
             "Author": "ӨФӨ",
             "Description": "NNM Productions ‎– Funk Shy @ https://www.discogs.com/release/1455846",
@@ -23849,7 +23849,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vvBpaUYQUx4",
-            "Title": "Midnight Tenderness \"Hydra\"",
+            "title": "Midnight Tenderness \"Hydra\"",
             "Channel ID": "UCbiZfxvkjBZi9_i7k8sxMXg",
             "Author": "Dream Chimney",
             "Description": "DC Promo Tracks #161: \"Hydra\" by Midnight Tenderness is part of the upcoming release \"Refresco\" on Ken Oath Records   The EP’s closer, Hydra, pushes the tempo way down and introduces some smooth guitar licks, courtesy of Riffin’ Rory as well as some lithe flute play. The end result is a sleazy New Jack Swing jam that works as well for warm-up as it does for cooling down.  Coming soon at https://kenoathrecords.bandcamp.com/  Subscribe to our weekly email: http://dreamchimney.com/subscribe",
@@ -23875,7 +23875,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SxC7yP1B76w",
-            "Title": "Etienne - 4 Motion",
+            "title": "Etienne - 4 Motion",
             "Channel ID": "UC3ojymgvC61RvmpOHJIjQaQ",
             "Author": "Em' TV",
             "Description": "I'm not the owner , Just for Promo. Will Remove on Request (low bitrate : 192kbps)  https://www.discogs.com/Evan-Baggs-Etienne-From-Drysdale-Street-To-Here/release/11784476",
@@ -23901,7 +23901,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qqqPNlwOW5Q",
-            "Title": "Benedek - MACA",
+            "title": "Benedek - MACA",
             "Channel ID": "UCvQ1Jtd1qCQYuUFyA08ZWJA",
             "Author": "Music From Memory",
             "Description": "Taken from 'Benedek - Earlyman Dance EP' (SC010) Buy Vinyl: http://www.musicfrommemory.com Buy Digital: https://music-from-memory.bandcamp.com/ © 2018 Second Circle",
@@ -23927,7 +23927,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EPtwxlRZ01Y",
-            "Title": "Random Factor - Old News [VIS048]",
+            "title": "Random Factor - Old News [VIS048]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 https://www.discogs.com/Random-Factor-Ricochet-EP/release/2952 --- Dear producer/owner, the only purpose of this channel is to give you/artists the recognition they deserve. No copyright intended!  So if you still don't want your music to be online, please contact me first - and i'll remove what you asked for -  and please DON'T remove it by your own, it could cause my channel to be closed.  Thanks! 🙌 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -23953,7 +23953,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mPr9pgz-gIE",
-            "Title": "Anthill Mob - Things Just Started",
+            "title": "Anthill Mob - Things Just Started",
             "Channel ID": "UCAySG82ra866kPwMBv2Xe9w",
             "Author": "ModeratorUK",
             "Description": "Anthill Mob - Things Just Started  From https://www.discogs.com/Anthill-Mob-Why-Things-Just-Started/release/214571  No copyright infringement intended",
@@ -23979,7 +23979,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ljWwlcLev7Y",
-            "Title": "Gray - 1967",
+            "title": "Gray - 1967",
             "Channel ID": "UCZ_wg8frVc0itnZ2jyZwMXA",
             "Author": "Jelboy's Jams",
             "Description": "Label: Apeman Records ‎– APE 010 Country: UK Released: 13 Aug 2001",
@@ -24005,7 +24005,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rYCD05L9NSk",
-            "Title": "Skepta x Suspect OTB - Look Alive (BlocBoy JB & Drake Remix) #StayAlive [Music Video] | GRM Daily",
+            "title": "Skepta x Suspect OTB - Look Alive (BlocBoy JB & Drake Remix) #StayAlive [Music Video] | GRM Daily",
             "Channel ID": "UCqTwKvjbTENZDGbz2si47ag",
             "Author": "GRM Daily",
             "Description": "Prod By: Tay Keith   ▶ SUBSCRIBE: http://bit.ly/GRMsubscribe    ▶ VISIT: http://grmdaily.com/  ▶ DOWNLOAD THE GRM APP FOR iPHONE & iPAD NOW: https://itunes.apple.com/us/app/grm-daily/id1170798576  ▶ DOWNLOAD FOR ANDROID NOW: https://play.google.com/store/apps/details?id=com.grmdaily.grmdaily  WWW.GRMDAILY.COM @GRMDAILY  TWITTER : http://www.twitter.com/grmdaily FACEBOOK : http://www.facebook.com/grmdaily INSTAGRAM : https://www.instagram.com/grmdaily  -~-~~-~~~-~~-~- Check out J Styles - Daily Duppy   KToXKXWscJ0 -~-~~-~~~-~~-~-",
@@ -24031,7 +24031,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GwqrkwckDhY",
-            "Title": "Audio Quest - The Mental Screen [BONES 003]",
+            "title": "Audio Quest - The Mental Screen [BONES 003]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 https://www.discogs.com/Audio-Quest-Luminous-Egg/release/62431   - video upload powered by https://www.TunesToTube.com --- Dear producer/owner, the only purpose of this channel is to give you/artists the recognition they deserve. No copyright intended!  So if you still don't want your music to be online, please contact me first - and i'll remove what you asked for -  and please DON'T remove it by your own, it could cause my channel to be closed.  Thanks! 🙌 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -24057,7 +24057,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Nso5K9hL-Ng",
-            "Title": "Evil C & The Hustler - Hi Sexy [PAPA-03]",
+            "title": "Evil C & The Hustler - Hi Sexy [PAPA-03]",
             "Channel ID": "UCg0xndiZDA0_gRxJgr-TTbQ",
             "Author": "Eating Records",
             "Description": "https://www.discogs.com/Evil-C-The-Hustler-Terrasse/release/57715  Evil C & The Hustler ‎– Terrasse Label: Paparazzi Records ‎– PAPA-03 Format: Vinyl, 12\", 33 ⅓ RPM  Country: Switzerland Released: 1999 Genre: Electronic Style: Techno, Minimal",
@@ -24083,7 +24083,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "avqDU1RbPHA",
-            "Title": "DJ Paleface - Lighter (Mix 1)",
+            "title": "DJ Paleface - Lighter (Mix 1)",
             "Channel ID": "UC056lRq6KmKi6VTHAzkjNEw",
             "Author": "GarageVybez98",
             "Description": "",
@@ -24109,7 +24109,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9Igy58Xmn4M",
-            "Title": "Unknown Artist ‎– 地球",
+            "title": "Unknown Artist ‎– 地球",
             "Channel ID": "UCalzWsPk0q1f6n8pcxoZhZg",
             "Author": "Guilhem",
             "Description": "Came across this one randomly few weeks ago, what a discovery, what a voyage ! If anyone knows something about this release, feel free to contact me !  https://www.discogs.com/release/11569840",
@@ -24135,7 +24135,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "YFaOxqCOPdw",
-            "Title": "Outerzone - The Deep [ZODIAC 002]",
+            "title": "Outerzone - The Deep [ZODIAC 002]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 https://www.discogs.com/Outerzone-Welcome-To-The-Outerzone/release/114135   - video upload powered by https://www.TunesToTube.com --- Dear producer/owner, the only purpose of this channel is to give you/artists the recognition they deserve. No copyright intended!  So if you still don't want your music to be online, please contact me first - and i'll remove what you asked for -  and please DON'T remove it by your own, it could cause my channel to be closed.  Thanks! 🙌 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -24161,7 +24161,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NZCxfgUZiEE",
-            "Title": "Workin' Happily - Feel It (Tic Tac Dub) [UDP 1004]",
+            "title": "Workin' Happily - Feel It (Tic Tac Dub) [UDP 1004]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 https://www.discogs.com/Workin-Happily-Feel-It/release/76727   - video upload powered by https://www.TunesToTube.com --- Dear producer/owner, the only purpose of this channel is to give you/artists the recognition they deserve. No copyright intended!  So if you still don't want your music to be online, please contact me first - and i'll remove what you asked for -  and please DON'T remove it by your own, it could cause my channel to be closed.  Thanks! 🙌 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -24187,7 +24187,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2cT0t_DuDfw",
-            "Title": "BRYZ - Morning Light",
+            "title": "BRYZ - Morning Light",
             "Channel ID": "UC13qnQOO1_U8cc2YAHzuptw",
             "Author": "Sakiz",
             "Description": "Buy it: https://www.beatport.com/release/special-gold-ep/2194305 Follow BRYZ: https://www.facebook.com/Emanuelbryz/ Follow Tzinah: https://www.facebook.com/TzinahRecords/   - video upload powered by https://www.TunesToTube.com",
@@ -24213,7 +24213,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tR2nAb-mpGY",
-            "Title": "Suspect OTB - Say It With Your Chest [Music Video] | GRM Daily",
+            "title": "Suspect OTB - Say It With Your Chest [Music Video] | GRM Daily",
             "Channel ID": "UCqTwKvjbTENZDGbz2si47ag",
             "Author": "GRM Daily",
             "Description": "Stream Say It With Your Chest: https://rinse.lnk.to/siwycID  Catch up with the last video from Suspect: https://rinse.lnk.to/onepointfiveID/youtube  ▶ SUBSCRIBE: http://bit.ly/GRMsubscribe    ▶ VISIT: http://grmdaily.com/  ▶ DOWNLOAD THE GRM APP FOR iPHONE & iPAD NOW: https://itunes.apple.com/us/app/grm-daily/id1170798576  ▶ DOWNLOAD FOR ANDROID NOW: https://play.google.com/store/apps/details?id=com.grmdaily.grmdaily  WWW.GRMDAILY.COM @GRMDAILY  TWITTER : http://www.twitter.com/grmdaily FACEBOOK : http://www.facebook.com/grmdaily INSTAGRAM : https://www.instagram.com/grmdaily  -~-~~-~~~-~~-~- Check out J Styles - Daily Duppy   KToXKXWscJ0 -~-~~-~~~-~~-~-",
@@ -24239,7 +24239,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TXtRYaAZUI4",
-            "Title": "P. Pitstop - I Know How To Love!",
+            "title": "P. Pitstop - I Know How To Love!",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Anthill-Mob-P-Pitstop-Feel-The-Groove/release/245004  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld Follow : https://www.instagram.com/kermesseworld/  For promotional purpose only",
@@ -24265,7 +24265,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xnAZvT_SRxk",
-            "Title": "Niko - Peace On Earth",
+            "title": "Niko - Peace On Earth",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Niko-Dont-Thank-Me-Now/release/173150  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld Follow : https://www.instagram.com/kermesseworld/  For promotional purpose only",
@@ -24291,7 +24291,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GkXbZq8dcuU",
-            "Title": "B. Calloway - First Class Flight [SUBJPCD-002]",
+            "title": "B. Calloway - First Class Flight [SUBJPCD-002]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    https://www.discogs.com/B-Calloway-Black-Grooves/release/398597 / |",
@@ -24317,7 +24317,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "W4xlF5AqihA",
-            "Title": "Rockers Hi-Fi - Stoned (Manali Cream Mix) [BRLPD 615]",
+            "title": "Rockers Hi-Fi - Stoned (Manali Cream Mix) [BRLPD 615]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 https://www.discogs.com/Rockers-Hi-Fi-Rockers-To-Rockers/release/131367   - video upload powered by https://www.TunesToTube.com --- Dear producer/owner, the only purpose of this channel is to give you/artists the recognition they deserve. No copyright intended!  So if you still don't want your music to be online, please contact me first - and i'll remove what you asked for -  and please DON'T remove it by your own, it could cause my channel to be closed.  Thanks! 🙌 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -24343,7 +24343,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FaiplGoAzIg",
-            "Title": "The 2 - Lovin' You",
+            "title": "The 2 - Lovin' You",
             "Channel ID": "UCi0Ol3buLFzzUijWsDwoOCA",
             "Author": "decoracionltd",
             "Description": "Not On Label ‎– 100 %, 1992 - http://www.discogs.com/2-Lovin-You-We-Is-1/release/221625",
@@ -24369,7 +24369,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FPVHXzYj3mw",
-            "Title": "Lukid - Another Victory for Furniture",
+            "title": "Lukid - Another Victory for Furniture",
             "Channel ID": "UC6y-D8ueMEwfkXoxy84iA0A",
             "Author": "GLUM",
             "Description": "https://glumrecords.bandcamp.com/album/twisted-blood",
@@ -24395,7 +24395,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oOkxb36GW2Y",
-            "Title": "Stranger Music - Better Days [STR 002]",
+            "title": "Stranger Music - Better Days [STR 002]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    https://www.discogs.com/Stranger-Music-Strifes-Fukt/release/533065 / |",
@@ -24421,7 +24421,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8k394XV9-Cw",
-            "Title": "Dennis DeSantis - Warning Fatigue",
+            "title": "Dennis DeSantis - Warning Fatigue",
             "Channel ID": "UC98VGFuPY3E4WqzFpT1QVgw",
             "Author": "Vincent G",
             "Description": "Label: K2 O Records ‎– k2o30 Format: Vinyl, 12\"  Country: Germany Released: 14 Apr 2003 Genre: Electronic Style: Techno  https://www.discogs.com/Dennis-DeSantis-Warning-Fatigue/release/137095  Don't own the track, for promotinal purpose only",
@@ -24447,7 +24447,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1RcQxG8rlEU",
-            "Title": "DJ Central & Soft Armour - Invitare",
+            "title": "DJ Central & Soft Armour - Invitare",
             "Channel ID": "UCgtxYSf5FbDyn1g7LHME09w",
             "Author": "Safe Distribution",
             "Description": "B1 on PARTNERS003 Check: https://partnersaarhus.bandcamp.com/ https://www.discogs.com/DJ-Central-Soft-Armour-Untitled/release/9753195",
@@ -24473,7 +24473,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8xgkKF6HoC0",
-            "Title": "The Groove Corporation Meet Original Rockers - Stoned (Manali Cream Mix)",
+            "title": "The Groove Corporation Meet Original Rockers - Stoned (Manali Cream Mix)",
             "Channel ID": "UC6NEeGR4c2GC3cknoatgY7A",
             "Author": "Florent B",
             "Description": "Yo ! Call me if u need cream for your chilled after Bisous   Artist : The Groove Corporation meet Original rockers Title : Stoned Label : The Cake Label Cat : 12 GOO 1 6 Country : UK Year : 93   I do not own any right for this track, I'm just sharing it in low quality (96kbps). If you want me to remove it, please let me know and I'll do it right away.",
@@ -24499,7 +24499,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Vfgt11fvjoI",
-            "Title": "Rubikz Kube / Anderson / Wex 001 [2017]",
+            "title": "Rubikz Kube / Anderson / Wex 001 [2017]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Bandcamp: https://wexrecords.bandcamp.com/ Discogs: https://www.discogs.com/Anderson-Continuum/release/10474270  Facebook [Wex]: https://www.facebook.com/wexrecords/ Facebook [Anderson]: https://www.facebook.com/andersonmusik1/  Track: Rubikz Kube Artist: Anderson EP Title: Continuum Label: Wex Catalog #: Wex 001 Genre: Acid, Experimental, IDM, House, Techno Year: 2017  Facebook [the Proud Mistress]: https://www.facebook.com/theproudmistress/",
@@ -24525,7 +24525,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6qSBbZU-7C0",
-            "Title": "Zombie Zombie - Hyperespace (Tolouse Low Trax Remix)",
+            "title": "Zombie Zombie - Hyperespace (Tolouse Low Trax Remix)",
             "Channel ID": "UCobvYGCOSIcZoE_MnYUq1qg",
             "Author": "Ongo Gablogian",
             "Description": "Heads down, eyes closed. We're going on a journey down the rabbit hole. [Read: K hole.] Old Gilb picked the A-team for this remix EP. A1 from 'Hyperespace' on Versatile Records. Released last October, still available. Buy it: http://shop.versatilerecords.com/album/zombie-zombie-hyperespace-remixes UK: http://www.phonicarecords.com/product/zombie-zombie-hyperspace-incl-icube-toulo-versatile/140697 DE: https://hardwax.com/52843/zombie-zombie/hyperspace-remixes/ https://www.deejay.de/Zombie_Zombie_Hyperspace_i:cube_Gilbr_Remixes_VER111_Vinyl__244511 NL: https://clone.nl/item42306.html http://www.rushhour.nl/store_detailed.php?item=92443 US: https://www.pbvinyl.com/products/zombie-zombie-hyperspace-rmxs DISCOGS: https://www.discogs.com/Zombie-Zombie-Hyperespace-/release/9230786  LABEL/ARTIST PAGES: http://shop.versatilerecords.com/ https://www.facebook.com/versatilerec/ http://www.zombiezombieband.com/ https://www.facebook.com/zombiezombieband/ https://www.facebook.com/TOLOUSE-LOW-TRAX-252370514818268/ https://soundcloud.com/detlefnet  Follow me on Facebook for mixes and radio shows and that:  https://www.facebook.com/gablogian/",
@@ -24551,7 +24551,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pLLORg67H7E",
-            "Title": "Sovereign - Do Well",
+            "title": "Sovereign - Do Well",
             "Channel ID": "UC056lRq6KmKi6VTHAzkjNEw",
             "Author": "GarageVybez98",
             "Description": "",
@@ -24577,7 +24577,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "QbGXLUYtR54",
-            "Title": "B. Calloway - Training Day",
+            "title": "B. Calloway - Training Day",
             "Channel ID": "UCalzWsPk0q1f6n8pcxoZhZg",
             "Author": "Guilhem",
             "Description": "https://www.discogs.com/B-Calloway-Space-Travler/release/494042  I do not own the rights of anything uploaded and broadcasted from this channel. Copyright holder? Please message me, comment below  before sending a strike. I always remove everything I am requested to remove.    - video upload powered by https://www.TunesToTube.com",
@@ -24603,7 +24603,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MmyoXa36xG0",
-            "Title": "The Morning After",
+            "title": "The Morning After",
             "Channel ID": "UCyQkOE3K7DLl0L88CHzE2eg",
             "Author": "Fallout - Topic",
             "Description": "Provided to YouTube by Believe SAS  The Morning After · Fallout · Tommy Musto · Lenny Dee  The Morning After  ℗ Metrophon Music Spain S.L.  Released on: 2017-11-23  Auto-generated by YouTube.",
@@ -24629,7 +24629,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xJxQyH3pel4",
-            "Title": "DJ Deller - Bumpin'",
+            "title": "DJ Deller - Bumpin'",
             "Channel ID": "UCukVH2Rk4os9rDaU3skW63w",
             "Author": "BlueDollarBillz",
             "Description": "UKG.",
@@ -24655,7 +24655,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KQR1E959Rk8",
-            "Title": "Rac - Nine",
+            "title": "Rac - Nine",
             "Channel ID": "UCCZzrgSavFLFG8PiDBYle0A",
             "Author": "dPs _",
             "Description": "WAP61",
@@ -24681,7 +24681,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VZMVb4lst7A",
-            "Title": "On Your Way",
+            "title": "On Your Way",
             "Channel ID": "UCeBLeLdXAKcu2Z4XhIS6GWQ",
             "Author": "Omar-S - Topic",
             "Description": "Provided to YouTube by The Orchard Enterprises  On Your Way · Diviniti · Omar S  The Best!  ℗ 2017 FXHE RECORDS  Released on: 2017-08-02  Music  Publisher: FXHE MUSIC ASCAP  Auto-generated by YouTube.",
@@ -24707,7 +24707,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Hpoquy9wC5E",
-            "Title": "Heard'chew Single",
+            "title": "Heard'chew Single",
             "Channel ID": "UCeBLeLdXAKcu2Z4XhIS6GWQ",
             "Author": "Omar-S - Topic",
             "Description": "Provided to YouTube by The Orchard Enterprises  Heard'chew Single · John F.M. · Omar S  The Best!  ℗ 2017 FXHE RECORDS  Released on: 2017-08-02  Music  Publisher: FXHE MUSIC ASCAP  Auto-generated by YouTube.",
@@ -24733,7 +24733,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xVmCmOCb5x4",
-            "Title": "Sphere I (Original Mix) / Deep² ‎/ Sphere [90's/Early 00's]",
+            "title": "Sphere I (Original Mix) / Deep² ‎/ Sphere [90's/Early 00's]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/Deep%C2%B2-Sphere/release/1061046  Discogs: https://www.discogs.com/user/theproudmistress Instagram: https://www.instagram.com/theproudmistress Soundcloud: https://soundcloud.com/theproudmistress Facebook: https://www.facebook.com/theproudmistress/  Track: Sphere I (Original Mix) Artist: Deep² EP Title: Sphere Label: Phoenix Records Catalog #: FIRE 1 Genre: Breakbeat Year: Late 90's / Early 00's",
@@ -24759,7 +24759,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SNisjnb60b0",
-            "Title": "B15 project - Girls Like Us instrumental",
+            "title": "B15 project - Girls Like Us instrumental",
             "Channel ID": "UCix7TbD13LZ8jotmQGaqfng",
             "Author": "GudangGaram",
             "Description": "I saw AJ Tracey spitting over this groovy garage tune. Soooooo I decided to make an easy instrumental loop of it.  Shoutout to the original artists, support those guys (they deserve it)!",
@@ -24785,7 +24785,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_Ny6XHeX86Y",
-            "Title": "Ricky Rouge - The Satisfiers",
+            "title": "Ricky Rouge - The Satisfiers",
             "Channel ID": "UCOkpc7Pa7N4cDUb-uoJHY4Q",
             "Author": "Kermesse World",
             "Description": "https://www.discogs.com/Ricky-Rouge-Song-For-Every-Man-The-Satisfiers/release/34043  Join the movement : https://www.facebook.com/KermesseWorld/  Podcasts : https://soundcloud.com/kermesseworld Follow : https://www.instagram.com/kermesseworld/  For promotional purpose only",
@@ -24811,7 +24811,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "K0QA4nLHl48",
-            "Title": "Laccy - Owt For Nowt [TL 02.2]",
+            "title": "Laccy - Owt For Nowt [TL 02.2]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    https://www.discogs.com/Various-TL-022-/release/10944347 / |",
@@ -24837,7 +24837,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "d8L-KxRnksA",
-            "Title": "Monte Carlo Rally Sport - Testarossa [PAGER005]",
+            "title": "Monte Carlo Rally Sport - Testarossa [PAGER005]",
             "Channel ID": "UCv0Ufd_Af9VBEi6xoW6ZTfw",
             "Author": "VNRD",
             "Description": "—    https://www.discogs.com/Various-Waterslide-Chronicles-EP/release/10746839 / |",
@@ -24863,7 +24863,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PDh0jePawaM",
-            "Title": "Taboo [M.J Cole Mix] - Glamma Kid & Shola Ama",
+            "title": "Taboo [M.J Cole Mix] - Glamma Kid & Shola Ama",
             "Channel ID": "UCvuYFrVvvLIPLyLopfmDQzg",
             "Author": "Thomas Gibbo",
             "Description": "Original UK garage full length vinyl version  I do not own the rights to this track. Just keeping the vibe alive.  Support the artists and buy some old skool vinyl!",
@@ -24889,7 +24889,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9vMNor_njdM",
-            "Title": "Truth - Emotional [FUNKY4]",
+            "title": "Truth - Emotional [FUNKY4]",
             "Channel ID": "UCsVobWFH1jXsXt_yfsLttog",
             "Author": "DanceOD",
             "Description": "Label: Funky Groove Records ‎– FUNKY 4 Format: Vinyl, 12\", Promo, 33 ⅓ RPM Country: UK Released: 1992 Genre: Electronic Style: Techno   A1  The End   A2  Calm Down   AA1 Newlands   AA2 Emotional     Vocals – Bianca (16) AA3 The Start  https://www.discogs.com/Truth-The-End/release/967958",
@@ -24915,7 +24915,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OrdPqu4aNfk",
-            "Title": "Teebone - Overload",
+            "title": "Teebone - Overload",
             "Channel ID": "UCjl5we0dflVWvxKrebKROag",
             "Author": "luprdubz",
             "Description": "2002 - Solid City Records",
@@ -24941,7 +24941,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xt2uop9h1y0",
-            "Title": "Peekay - Scarface",
+            "title": "Peekay - Scarface",
             "Channel ID": "UCjl5we0dflVWvxKrebKROag",
             "Author": "luprdubz",
             "Description": "High Rollerz",
@@ -24967,7 +24967,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1nuSXNb6P8U",
-            "Title": "Tune Squad with Valerie M - Untitled B",
+            "title": "Tune Squad with Valerie M - Untitled B",
             "Channel ID": "UC056lRq6KmKi6VTHAzkjNEw",
             "Author": "GarageVybez98",
             "Description": "",
@@ -24993,7 +24993,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WLW4xnWbofY",
-            "Title": "Riccardo - Naturia",
+            "title": "Riccardo - Naturia",
             "Channel ID": "UCoXLcwGvqY05_rRDi8gsFqQ",
             "Author": "Schlechte",
             "Description": "https://www.discogs.com/Riccardo-Natural-consciousness/release/10530063  https://soundcloud.com/shhlekt",
@@ -25019,7 +25019,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "g4WLou0Sw50",
-            "Title": "BLAK BEAT NIKS - A TRUE POET (MIX1)",
+            "title": "BLAK BEAT NIKS - A TRUE POET (MIX1)",
             "Channel ID": "UCulq2bDMBVkorFUXLJ38MvA",
             "Author": "Music Preservation Society",
             "Description": "Originally released as a white label Test pressing that came in a generic white sleeve with Europadisk, Ltd. Direct Metal Mastering sticker and a photocopied sheet of paper showing labels print proofs attached to the sleeve. The original contains several pressing faults. A small drop out and a sticking groove.  This is a UK test pressing for a reissue due out in November 2017. The main difference is there is no second track on the A Side which on the original sounds more like a cutting fault than an actual track.  For this edition the faults have been fixed,The original tapes are lost so a mint condition vinyl copy was used as the source, recorded in to Prism Sound Orpheus. Further restoration was performed by Robin Allinson @ Music Preservation Society using Izotope RX. Subvert Central Mastering mastered the restored audio. The vinyl was cut by Keith Tenniswood at Curve Pusher. This is an official Club House Records Release Manufactured at MPO Ten test pressings produced, MPO test pressing label and outer sleeve",
@@ -25045,7 +25045,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Fau6uzsLdAg",
-            "Title": "Deanne Day - Body Control",
+            "title": "Deanne Day - Body Control",
             "Channel ID": "UCoVVs4GiUnSjjLT9r-1VqMA",
             "Author": "King Sweet",
             "Description": "https://www.discogs.com/Deanne-Day-The-Day-After-EP/master/43682",
@@ -25071,7 +25071,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Dt_bBeNuDJU",
-            "Title": "Electrodelia - Visions of Electrobombay",
+            "title": "Electrodelia - Visions of Electrobombay",
             "Channel ID": "UC9G2HsggRq3I6FPslT5Lp3A",
             "Author": "Parels Voor De Zwijnen",
             "Description": "Something to play out loud at your local after party, pitched down.  Not for sale!",
@@ -25097,7 +25097,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cRnldDpctkQ",
-            "Title": "SOULPHICTION PRESENTS SBM - GOTTA HAVE IT (PHILPOT RECORDS)",
+            "title": "SOULPHICTION PRESENTS SBM - GOTTA HAVE IT (PHILPOT RECORDS)",
             "Channel ID": "UCrgSrKO2ZUYJCirOP9bzDQg",
             "Author": "Maslow Unknown",
             "Description": "New collab between Soulphiction and Blunted Monkz, recorded during one of their jam sessions.  Buy wax here: https://www.deejay.de/Soulphiction_Presents_Sbm_Criticize_PHP074_Vinyl__285265 http://www.juno.co.uk/products/soulphiction-presents-sbm-criticize/661073-01/ http://www.phonicarecords.com/artist/soulphiction-presents-sbm/146905/all/latest/desc For promo use only.  Please email hangthedjs@hotmail.co.uk if you would like the track taken down.",
@@ -25123,7 +25123,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Vda7IUHBiv0",
-            "Title": "Galcher Lustwerk - Red Rose (White Material Records)",
+            "title": "Galcher Lustwerk - Red Rose (White Material Records)",
             "Channel ID": "UCBZoYoCPnvTnVBs_5I_CydQ",
             "Author": "Galcher Lustwerk",
             "Description": "https://galcherlustwerk.bandcamp.com/album/dark-bliss https://whitematerialrecords.bandcamp.com",
@@ -25149,7 +25149,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "swYJe40PbIA",
-            "Title": "Galcher Lustwerk - What U Want Me To Do (White Material Records)",
+            "title": "Galcher Lustwerk - What U Want Me To Do (White Material Records)",
             "Channel ID": "UCBZoYoCPnvTnVBs_5I_CydQ",
             "Author": "Galcher Lustwerk",
             "Description": "https://galcherlustwerk.bandcamp.com/album/dark-bliss https://whitematerialrecords.bandcamp.com",
@@ -25175,7 +25175,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "htNn334y9u8",
-            "Title": "Josh B - Back 2 Life (Original Mix)",
+            "title": "Josh B - Back 2 Life (Original Mix)",
             "Channel ID": "UCZTE8luDz6QHP11bEJiWQ9Q",
             "Author": "JOSH B",
             "Description": "My Latest oldskool hardcore style track, hope you enjoy :)",
@@ -25201,7 +25201,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "w-YjccWxGew",
-            "Title": "Josh B - Back 2 Life",
+            "title": "Josh B - Back 2 Life",
             "Channel ID": "UCJYI6gHkjLBYn8iBSVG91Mg",
             "Author": "MickeyBeam75",
             "Description": "Josh B - Back 2 Life Another quality new 92' sounding Breakbeat Hardcore track from Josh B he was kind enough to send over for me to share here. Please give his channel a sub for some more of the same :)",
@@ -25227,7 +25227,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "yjNpCM7LH1c",
-            "Title": "Beatrice Dillon and Call Super - Fluo [Hessle Audio]",
+            "title": "Beatrice Dillon and Call Super - Fluo [Hessle Audio]",
             "Channel ID": "UC-jzXXiPZonAPTeniFNYy_Q",
             "Author": "Hessle Audio",
             "Description": "Bandcamp: https://hessleaudio.bandcamp.com/album/inkjet-fluo  Download:  http://ks.kud.li/hes031 Subscribe: http://sb.kud.li/UC-jzXXiPZonAPTeniFNYy_Q Official stream from Hessle Audio. Distributed by Kudos Records. On iTunes:  http://it.kud.li/hes031 On Spotify:  http://sp.kud.li/hes031 On Amazon:  http://az.kud.li/hes031 More music playlists: http://pl.kud.li/UC-jzXXiPZonAPTeniFNYy_Q  Album: Inkjet / Fluo [SINGLE] Track: 2 of 2 Title: Fluo Artist: Beatrice Dillon & Call Super Label: Hessle Audio Cat#: HES031 Formats: 12\" Vinyl/Digital Digital Release: 22nd September 2017 Physical Release: 22nd September 2017  About This Release:  Beatrice Dillon and Call Super debut on Hessle Audio with their first collaboration, an EP of intricate and immersive club tools",
@@ -25253,7 +25253,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6pwWekflD4k",
-            "Title": "Creepy Autograph - Makeup & Fashion",
+            "title": "Creepy Autograph - Makeup & Fashion",
             "Channel ID": "UCPGMjZCJAmBrTuVav-FIv3g",
             "Author": "Luke Ellul",
             "Description": "This is Erase In Mind E.P made by Jimmy Edgar aka Creepy Autograph. Released on Valentine Connexion Records in 5th Jun 2008 made in the US. I do not own this music. All rights reserved to the respective owners.",
@@ -25279,7 +25279,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5Rxc8mi9z74",
-            "Title": "Josh B - It's Not Over",
+            "title": "Josh B - It's Not Over",
             "Channel ID": "UCZTE8luDz6QHP11bEJiWQ9Q",
             "Author": "JOSH B",
             "Description": "Oldskool style track i made.",
@@ -25305,7 +25305,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9Wwx3DEtkrg",
-            "Title": "Josh B - The Tape",
+            "title": "Josh B - The Tape",
             "Channel ID": "UCZTE8luDz6QHP11bEJiWQ9Q",
             "Author": "JOSH B",
             "Description": "Oldskool track i made.",
@@ -25331,7 +25331,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KYM7Q2fhxcY",
-            "Title": "Josh B - Burning",
+            "title": "Josh B - Burning",
             "Channel ID": "UCZTE8luDz6QHP11bEJiWQ9Q",
             "Author": "JOSH B",
             "Description": "Oldskool rave style track",
@@ -25357,7 +25357,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IbulO_FUwiI",
-            "Title": "Dj Relay - No Way Out",
+            "title": "Dj Relay - No Way Out",
             "Channel ID": "UCjl5we0dflVWvxKrebKROag",
             "Author": "luprdubz",
             "Description": "2000  rare dark stepper  Two-Step 2",
@@ -25383,7 +25383,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1DNLavVf-yw",
-            "Title": "Andromeda - Survival (Urban Mix)",
+            "title": "Andromeda - Survival (Urban Mix)",
             "Channel ID": "UCw1C01zFZGx8KtXcIIjrzZQ",
             "Author": "F.P. Recordings",
             "Description": "Track one from Control of the dance floor 1991",
@@ -25409,7 +25409,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fKSPsmVb_Ts",
-            "Title": "oh. - Charme 75",
+            "title": "oh. - Charme 75",
             "Channel ID": "UCwZcHPbQ0TupJKZBMJrVwsA",
             "Author": "Ravier 2000",
             "Description": "https://www.discogs.com/oh-Charme-75/release/101115  Dear producer/owner, the only purpose of this channel is to give artist the recognition they deserve..No copyright infringment intended ! So if you still don't want your music to be online, please contact me first - and i'll remove what you asked for -  and DON'T remove it the 'hard way' : it could cause my channel to be closed",
@@ -25435,7 +25435,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mBwtRylu1aw",
-            "Title": "Daddy's Favourite - I Feel Good Things For You (Kevin Yost Mix)",
+            "title": "Daddy's Favourite - I Feel Good Things For You (Kevin Yost Mix)",
             "Channel ID": "UCoXLcwGvqY05_rRDi8gsFqQ",
             "Author": "Schlechte",
             "Description": "https://www.discogs.com/Harry-The-Bastard-Club-H/release/68236   -Video Upload powered by https://www.TunesToTube.com",
@@ -25461,7 +25461,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cvYx-6aP-co",
-            "Title": "Ivan Iacobucci - Magnetic Flux [IMP012]",
+            "title": "Ivan Iacobucci - Magnetic Flux [IMP012]",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "➤ Check out the label: https://www.facebook.com/imprintsrecords/ ➤ Follow me here: https://www.facebook.com/CMYKitsme/ ➤ Release info: https://www.discogs.com/Ivan-Iacobucci-Taboos/release/10407908  All uploads have low-bitrate audio (128kbps) - not for club use!",
@@ -25487,7 +25487,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MDfUK_9PfdI",
-            "Title": "PREMIERE: Rydm Sectors - Sensuality [Cosmic Rhythm]",
+            "title": "PREMIERE: Rydm Sectors - Sensuality [Cosmic Rhythm]",
             "Channel ID": "UCnZDjWyUph0jdEG8sT-HLdw",
             "Author": "Ransom Note",
             "Description": "The light in the room was moody and low as the red curtains hung elegantly alongside the walls. She was sat upon a couch observing the chaotic scene which whizzed past in the bar all around her. She however, was a perfect ocean of calm, a flickering candle in a room packed with bright sparks and heated flames. Her sensuality was somewhat overpowering for those in the room who sat alone, she was provocative yet unattainable. Do the math...  Rydm Sectors are next up on the Cosmic Rhythm imprint. More sun kissed house which could have been recorded decades ago yet very much made in the present.    -Video Upload powered by https://www.TunesToTube.com",
@@ -25513,7 +25513,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "I5XrRVwEqos",
-            "Title": "Josh B - Blame It On The State",
+            "title": "Josh B - Blame It On The State",
             "Channel ID": "UCJYI6gHkjLBYn8iBSVG91Mg",
             "Author": "MickeyBeam75",
             "Description": "Josh B - Blame It On The State Another quality new mash up from Josh B on a 92' or thereabouts vibe!",
@@ -25539,7 +25539,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zC8grV0Jalk",
-            "Title": "Awesome 3 - Don't Go (Josh B Remix)",
+            "title": "Awesome 3 - Don't Go (Josh B Remix)",
             "Channel ID": "UCZTE8luDz6QHP11bEJiWQ9Q",
             "Author": "JOSH B",
             "Description": "My attempt of recreating a classic oldskool hardcore track, with sam smith vocals and a few added extras.",
@@ -25565,7 +25565,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zG1HpzcdgPk",
-            "Title": "Josh B - I Need XTC",
+            "title": "Josh B - I Need XTC",
             "Channel ID": "UCZTE8luDz6QHP11bEJiWQ9Q",
             "Author": "JOSH B",
             "Description": "3rd track i ever made.",
@@ -25591,7 +25591,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vDtJUXypOGo",
-            "Title": "JET - Super Modern Intelligent",
+            "title": "JET - Super Modern Intelligent",
             "Channel ID": "UCoXLcwGvqY05_rRDi8gsFqQ",
             "Author": "Schlechte",
             "Description": "https://www.discogs.com/Jet-OK/release/394535",
@@ -25617,7 +25617,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "X9J0pQB5_v8",
-            "Title": "As One: To See Tomorrow (2002 Ubiquity) *KIRK DEGIORGIO*",
+            "title": "As One: To See Tomorrow (2002 Ubiquity) *KIRK DEGIORGIO*",
             "Channel ID": "UCnKxBzn_K7a6xvsAdhmKH0A",
             "Author": "ART Records",
             "Description": "The Kirk Degiorgio Collection: 2000-2009",
@@ -25643,7 +25643,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HbRHhQhECxQ",
-            "Title": "Random Access - Peace Of Mind",
+            "title": "Random Access - Peace Of Mind",
             "Channel ID": "UCYIU31KJdObJaYwaAxSDpYA",
             "Author": "Bwi-Bwi",
             "Description": "https://www.discogs.com/fr/Random-Access-Revival/release/10332",
@@ -25669,7 +25669,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tlZdLVuyGKY",
-            "Title": "RAC - Root",
+            "title": "RAC - Root",
             "Channel ID": "UCReYzertX6orFSx0AhdLF0Q",
             "Author": "Saw-mon and Natalie",
             "Description": "https://www.discogs.com/RAC-Doublejointed-EP/master/80191  ------------------------------------------------------------------------------ https://www.facebook.com/sawmonandnatalie/",
@@ -25695,7 +25695,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9YOuUJtlF38",
-            "Title": "Vertical Cat - In Love",
+            "title": "Vertical Cat - In Love",
             "Channel ID": "UCb93xhlKTtk_ezZCMYxPBeg",
             "Author": "NADs Underground Cutz",
             "Description": "https://www.discogs.com/Vertical-Cat-Remote_-Split/release/114881 Smallfish ‎- 12FISH002",
@@ -25721,7 +25721,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zntYLyHl8d0",
-            "Title": "Housey Doingz - Brothers",
+            "title": "Housey Doingz - Brothers",
             "Channel ID": "UCCZzrgSavFLFG8PiDBYle0A",
             "Author": "dPs _",
             "Description": "BB1001",
@@ -25747,7 +25747,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TqGuDj5ZonY",
-            "Title": "Mothersole & Haris - Blackeye",
+            "title": "Mothersole & Haris - Blackeye",
             "Channel ID": "UCCZzrgSavFLFG8PiDBYle0A",
             "Author": "dPs _",
             "Description": "SWAG 011",
@@ -25773,7 +25773,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BhWGGaqigiM",
-            "Title": "A-Sides - Mix To The Max - AA2 [SHARE 003] 1992",
+            "title": "A-Sides - Mix To The Max - AA2 [SHARE 003] 1992",
             "Channel ID": "UCH7f5LguAmTdLt0IuhdNW_A",
             "Author": "tnt90s",
             "Description": "",
@@ -25799,7 +25799,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jLRFAwDrd1g",
-            "Title": "DJ Oji & Una - We Lift Our Hands in the Sanctuary! (Original Demo Mix)",
+            "title": "DJ Oji & Una - We Lift Our Hands in the Sanctuary! (Original Demo Mix)",
             "Channel ID": "UCBM5dsGdz_yh74Jg0oTknfg",
             "Author": "biesoid",
             "Description": "The best version  https://www.discogs.com/DJ-Oji-Una-We-Lift-Our-Hands-In-The-Sanctuary/release/62240",
@@ -25825,7 +25825,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "F_SFDYUa59Y",
-            "Title": "Sounds Of The Suburbs - This Is The",
+            "title": "Sounds Of The Suburbs - This Is The",
             "Channel ID": "UCb1l35fNY9I9bBmRBjS9X6A",
             "Author": "Outsider",
             "Description": "2003  https://www.discogs.com/Sounds-Of-The-Suburbs-This-Is-The/master/746440   -Video Upload powered by https://www.TunesToTube.com",
@@ -25851,7 +25851,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5lv1ZcJ_q9g",
-            "Title": "Sounds Of The Suburbs - All You Need",
+            "title": "Sounds Of The Suburbs - All You Need",
             "Channel ID": "UCb1l35fNY9I9bBmRBjS9X6A",
             "Author": "Outsider",
             "Description": "2003 https://soundofthesuburbs.bandcamp.com/  https://www.discogs.com/Sounds-Of-The-Suburbs-Beautifly/release/112111",
@@ -25877,7 +25877,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4i-EZVFhpxA",
-            "Title": "O.H.M. - Oceanic (Original Mix)",
+            "title": "O.H.M. - Oceanic (Original Mix)",
             "Channel ID": "UCj3vN6TqNByJl5Rn0_LEAsw",
             "Author": "DJ Paulo Costa",
             "Description": "O.H.M. - Entropy EP Vinyl, 12\", EP 1995 US Defective Records ‎– DR 008    Mastered At - National Sound Corporation",
@@ -25903,7 +25903,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wN8r-_xwomo",
-            "Title": "Lixir - Sunshine",
+            "title": "Lixir - Sunshine",
             "Channel ID": "UC3ASRahHy8zpF1PJZS3hOpw",
             "Author": "miNIMMAl movement",
             "Description": "first track on the A side from Lixir's 2017 release on my own label miNIMMAl movement 'Sunshine EP'  Catalog: NIMMA003  https://www.discogs.com/sell/release/9429511?ev=rb",
@@ -25929,7 +25929,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hO57xDizbbk",
-            "Title": "Close-Up ‎– My Forbidden Fruit (Instrumental)",
+            "title": "Close-Up ‎– My Forbidden Fruit (Instrumental)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1992. https://www.discogs.com/release/86109",
@@ -25955,7 +25955,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mJKF2-D8hZs",
-            "Title": "Salmon - Jumbo Woodman",
+            "title": "Salmon - Jumbo Woodman",
             "Channel ID": "UCZqMDtNsUQ8mmS2A1l3s5tA",
             "Author": "petiteecole",
             "Description": "Salmon & Gonno - WC Succession EP on Prec Trax  https://www.discogs.com/fr/Salmon-Gonno-WC-Succession-EP/release/813954",
@@ -25981,7 +25981,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fkdPyWJWcmU",
-            "Title": "Emotive Force - Spun Out [Intelligence Records]",
+            "title": "Emotive Force - Spun Out [Intelligence Records]",
             "Channel ID": "UClC6KoCwAB_2qW84S-TvZOw",
             "Author": "Detroit Robot",
             "Description": "Intelligence Records – INT002  Emotive Force (John Litchfield, Steve Paton) - Voyages (1993)",
@@ -26007,7 +26007,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2SfqBUbOZS0",
-            "Title": "Phreax ‎– Lindup Skinup",
+            "title": "Phreax ‎– Lindup Skinup",
             "Channel ID": "UChLLpA1mYRSkJmWc2SnABXQ",
             "Author": "esquisse22",
             "Description": "Phreax ‎– Jitterballz EP Label: M.C. Projects ‎– Project 29 Format: Vinyl, 12\", EP Country: UK Released: 1997 https://www.discogs.com/Phreax-Jitterballz-EP/release/344703  ______________________________________________ I do not own any material in this post. No copyright infringement intended - low bitrate versions are uploaded for promotional matters only. If the owner doesn't wish to have his items on display, please contact me via PM before flagging the video, and I will remove it immediately.",
@@ -26033,7 +26033,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4SXij4rY9Ds",
-            "Title": "Studio Mody Feat. L. EFA - 1017 (Remix)",
+            "title": "Studio Mody Feat. L. EFA - 1017 (Remix)",
             "Channel ID": "UCPA0_eSzVKpl-vmHHjcxsdg",
             "Author": "Sam Wild",
             "Description": "Deep & mystical track from Studio Mody AKA Hashman Deejay.. this dropped just last week on a new label distributed by the Going Good crew..  Don't sleep - https://www.discogs.com/Studio-Mody-Count-01/release/10301575",
@@ -26059,7 +26059,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "aE-XocxguqE",
-            "Title": "Deetroit ‎– Untitled C3 (DEETROITRAX)",
+            "title": "Deetroit ‎– Untitled C3 (DEETROITRAX)",
             "Channel ID": "UCtRqRREl3B1l3eP8Z4vA6PA",
             "Author": "Marcus Caisey",
             "Description": "https://www.discogs.com/Deetroit-DEETROITRAX/release/9398717 http://www.juno.co.uk/products/deetroitrax/631021-01/ https://www.redeyerecords.co.uk/vinyl/79300-udr777lp-deetroit-deetroitrax-2-x-lp",
@@ -26085,7 +26085,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JmVY17dfL5A",
-            "Title": "Seafoam-Mr.Green",
+            "title": "Seafoam-Mr.Green",
             "Channel ID": "UCxXJW0xGlGgfyGCnZrl-hqw",
             "Author": "Vlad G",
             "Description": "NOTICE: Dear labels & artists, if anyone has any objections to the music or to the video and don't want them on youtube, please, contact ME, and I shall remove them immediately!   -Video Upload powered by https://www.TunesToTube.com",
@@ -26111,7 +26111,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xYn8nsrG7QA",
-            "Title": "Smino - Ciabatta (Prod by Monte Booker)",
+            "title": "Smino - Ciabatta (Prod by Monte Booker)",
             "Channel ID": "UCMeZXSJBp65lZZf3XnyxK_w",
             "Author": "Imperial Tracks",
             "Description": "Smino - Ciabatta (Prod by Monte Booker) Ol classic by Smino just HAD to upload this so that you guys don't miss out on it! Make sure to check Smino's stuff out, the dude is blowin' up!!  #zerofatigue  his IG: https://www.instagram.com/smino/ his soundcloud: https://soundcloud.com/sminoworld",
@@ -26137,7 +26137,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5CTIYxGUkcc",
-            "Title": "Shawn Ward - Nu Shoes [PR04]",
+            "title": "Shawn Ward - Nu Shoes [PR04]",
             "Channel ID": "UC41Owmnn9xs-7wjIQn1orBg",
             "Author": "ɥɔıʌǝʞsıp",
             "Description": "Sign-up for the audiophile quality digitization of wanted records through crowdfunding 👉 https://shorturl.at/cdMO2 Label: Polyphonics Recordings ‎– PR04 Format: Vinyl, 12\", EP  Country: France Released: 03 Jun 2005 Genre: Electronic Style: House, Tech House --- https://www.discogs.com/Shawn-Ward-Nu-Shoes-EP/release/435671  --- Dear producer/owner, the only purpose of this channel is to give you/artists the recognition they deserve. No copyright intended!  So if you still don't want your music to be online, please contact me first - and i'll remove what you asked for -  and please DON'T remove it by your own, it could cause my channel to be closed.  Thanks! 🙌 Link to my SoundCloud page:  https://soundcloud.com/diskevich",
@@ -26163,7 +26163,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-zdpP0oVVWo",
-            "Title": "Mystic Matt & Anthill Mob - Enchanted Rhythm",
+            "title": "Mystic Matt & Anthill Mob - Enchanted Rhythm",
             "Channel ID": "UCvsmo4t1Af17FncBRBYmd3w",
             "Author": "BinarySound Music",
             "Description": "Artist: Mystic Matt & Anthill Mob  Label: Love Peace And Unity Recordings ‎– LOVE-05 Released: 1999  • BinarySound : https://soundcloud.com/binarysoundmusic https://www.facebook.com/binarysoundmusic  128kbps Upload  DISCLAIMERS IMPORTANT: I don't own the track or the image, if the owner does not wish to have their items on display, please contact me and i will remove it right away. If you enjoy the music, please support the artist by buying their tracks.",
@@ -26189,7 +26189,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fzsteTr5qtQ",
-            "Title": "JΔIME - Bingo",
+            "title": "JΔIME - Bingo",
             "Channel ID": "UC58C_BhzlZIJTeomuVSD2lA",
             "Author": "Houseum",
             "Description": "JΔIME Bandcamp: https://supportlocaljunkies.bandcamp.com/releases JΔIME Soundcloud: https://soundcloud.com/jaime-andres-restrepo-salazar ------------------------------------------------------------------------------------------------------------------------------------------------------------------- Houseum Soundcloud: https://soundcloud.com/houseum Houseum Facebook: https://www.facebook.com/houseum.yt Houseum Contact: houseum.yt@gmail.com",
@@ -26215,7 +26215,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Bx6ZtudcUyk",
-            "Title": "CMYK - Mix for XLR8R, March 2017",
+            "title": "CMYK - Mix for XLR8R, March 2017",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "A mix of some of my favorite records, from sped-up downtempo breaks to progressive trance... and few upcoming tracks on my label Kommuna Tapes, enjoy! ➤ Full story: https://www.xlr8r.com/news/2017/03/download-a-new-mix-from-cmyk/  ➤ Follow me here: https://www.facebook.com/CMYKitsme/ ➤ Or here https://soundcloud.com/cmykitsme  Thanks XLR8R for the feature!",
@@ -26241,7 +26241,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tJPfVx5oB-U",
-            "Title": "Soulphiction - B3B4URD1",
+            "title": "Soulphiction - B3B4URD1",
             "Channel ID": "UCeGkyYcYtT3Wl2Hucv9AORg",
             "Author": "Stamp The Wax",
             "Description": "Subscribe for more sessions & premieres: http://bit.ly/stw-youtube. Soulphiction samples Cameroonian funk master Eko Roosevelt on his new EP for Lumberjacks in Hell. Drawn out strings, jazzy keys and stabbing trumpets and gospel vocals that wouldn’t go a miss on a Floorplan EP.  Read more & buy: http://www.stampthewax.com/2017/04/05/premiere-soulphiction-b3b4urd1/",
@@ -26267,7 +26267,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "f0S714P9yD8",
-            "Title": "Nitrogen / Straylight / Tronik 004 [1998]",
+            "title": "Nitrogen / Straylight / Tronik 004 [1998]",
             "Channel ID": "UCoAEGKn_jSCsd-6P6pGN_Rg",
             "Author": "The Proud Mistress",
             "Description": "[Any copyright issues: please email theproudmistress@gmail.com - all tracks are to promote the artist, no profit is made here. Just spreading the music love!]  Discogs: https://www.discogs.com/Straylight-Fire-It-Up/release/93331  Discogs: https://www.discogs.com/user/theproudmistress Instagram: https://www.instagram.com/theproudmistress Soundcloud: https://soundcloud.com/theproudmistress Facebook: https://www.facebook.com/theproudmistress/  Track: Nitrogen Artist: Straylight EP Title: Fire It Up Label: Tronik Catalog #: Tronik 004 Genre: Deep House, Techno Year: 1998",
@@ -26293,7 +26293,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "s3ertnWN1fE",
-            "Title": "Thinktank - Bent Chemistry",
+            "title": "Thinktank - Bent Chemistry",
             "Channel ID": "UCxFbUAKwokk0a5iCXt24QAg",
             "Author": "TheMitabiciclista",
             "Description": "enjoy!",
@@ -26319,7 +26319,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "QuanILh0Sos",
-            "Title": "Intelligent Hoodlum ‎- Back To Reality (UK Dub). 1990 A&M Records, Inc.",
+            "title": "Intelligent Hoodlum ‎- Back To Reality (UK Dub). 1990 A&M Records, Inc.",
             "Channel ID": "UCXsdXy6crDWYd4w0Gwz23YQ",
             "Author": "Raridades e Atualidades da Black Music",
             "Description": "",
@@ -26345,7 +26345,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "A5dscJYF7Uc",
-            "Title": "MP (Mihai Popescu) - Muzie Clue",
+            "title": "MP (Mihai Popescu) - Muzie Clue",
             "Channel ID": "UCfHJRUpF8FlM4FQ0zUtZIMA",
             "Author": "UFO Beats",
             "Description": "160kbps. Available: https://www.yoyaku.io/vinyl/bcltd002/ https://www.deejay.de/Mp_Sense_Ep_Pt2_BCLTD002_Vinyl__257400 http://www.juno.co.uk/products/mp-mihai-popescu-sense-ep-pt-2/636773-01/ http://www.viniil.com/vinyl/bcltd-002-mp-aka-mihai-popescu-sense-ep-pt-2-12-bass-culture-france + more vinyl shops",
@@ -26371,7 +26371,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LIiKdhlF-MA",
-            "Title": "The He-Men - 3 Hours (Tone Dropout 17003)",
+            "title": "The He-Men - 3 Hours (Tone Dropout 17003)",
             "Channel ID": "UCpWePSgsr1cOAOrmL3pW5FQ",
             "Author": "Tobi 9000",
             "Description": "The He-men, DJPC (2), Dawl ‎– Tone Dropout Vol 3 Label: Tone Dropout ‎– TD17003 Format: Vinyl, 12\", 45 RPM, EP Country: UK Released: 2017 Genre: Electronic Style: Acid House, Techno, Deep House   https://www.discogs.com/The-He-men-DJPC-2-Dawl-Tone-Dropout-Vol-3/release/9945337  Please respect the artists work and buy a original record!",
@@ -26397,7 +26397,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_qxfg4IsMqg",
-            "Title": "Enrico Mantini - I Wanna Tell You",
+            "title": "Enrico Mantini - I Wanna Tell You",
             "Channel ID": "UChb-HtqYKo62moKsFK5PIiQ",
             "Author": "Deep & Roll",
             "Description": "Composed in 1992 / Released in 2017 Remastered by MB Studio, Paris.  Thanks for supporting the Artist & the Label.  Enrico Mantini / The 1992 Lost Tapes EP - DEEPR002 Vinyl release : March 2017 Digital release : April 2017  Discogs  : http://urlz.fr/50SC Artist page : http://urlz.fr/50SB  Label page : http://urlz.fr/50Sy",
@@ -26423,7 +26423,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "AQK_nmZPRl4",
-            "Title": "My Desire (Dreem Team Remix)",
+            "title": "My Desire (Dreem Team Remix)",
             "Channel ID": "UCHV-9xlejgTgVxUAOSl3WUQ",
             "Author": "Amira - Topic",
             "Description": "Provided to YouTube by Slip 'N' Slide  My Desire (Dreem Team Remix) · Amira  My Desire  ℗ 1997 Defected Records Limited dba Slip 'n' Slide  Composer, Writer: Josh Milan Composer, Writer: Kevin Hedge  Auto-generated by YouTube.",
@@ -26449,7 +26449,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nOjVeNSpmqc",
-            "Title": "Lab Technicians - Sweet Perfection",
+            "title": "Lab Technicians - Sweet Perfection",
             "Channel ID": "UCF2TCU1Nn7TgFvhF1jcjWXQ",
             "Author": "Northern Electric Recordings",
             "Description": "Released in 1991 on Chill Records (TUV14 B).  Written and produced by Tony Boninsegna and Mykey T.  © Northern Electric Recordings.",
@@ -26475,7 +26475,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "j--2xUbv7OU",
-            "Title": "Original Clique -Come To Papa",
+            "title": "Original Clique -Come To Papa",
             "Channel ID": "UCF2TCU1Nn7TgFvhF1jcjWXQ",
             "Author": "Northern Electric Recordings",
             "Description": "Released in 1990 on Chill Records (TUV 1 A1).  Written and produced by Tony Boninsegna and Mykey T.  © Northern Electric Recordings.",
@@ -26501,7 +26501,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "enBlS_0vYWs",
-            "Title": "Riccardo - Spacetime Materials  [Imprints Records ‎– IMP010]",
+            "title": "Riccardo - Spacetime Materials  [Imprints Records ‎– IMP010]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (128kbps). Follow Imprints: https://www.facebook.com/imprintsrecords More Music: https://www.facebook.com/DoFunkk     Buy Record: (Open the description) Buy Record: https://www.discogs.com/Riccardo-Lets-Move-To-The-Future-Together/release/9454584   I do not own the rights of anything uploaded and broadcasted from this channel.  Copyright holder?  Please message me, comment below or email me to dofunkk.channel2@gmail.com before sending a strike. I always remove everything I am requested to remove within 10 min of receiving a message.   This would prevent this channel to close after the strike and would allow music lovers and record diggers find some fantastic music which they more likely buy in record stores, second-hand shops and discos.   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (96kbps) to avoid any kind of piracy and youtube rips.",
@@ -26527,7 +26527,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bjKxYoMc6hg",
-            "Title": "Two Full Minds - Untitled A1",
+            "title": "Two Full Minds - Untitled A1",
             "Channel ID": "UCCZzrgSavFLFG8PiDBYle0A",
             "Author": "dPs _",
             "Description": "PLANK002",
@@ -26553,7 +26553,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Wmgsk12r_JQ",
-            "Title": "Dave - Music Talks [De Dormitor 003]",
+            "title": "Dave - Music Talks [De Dormitor 003]",
             "Channel ID": "UC6IaQo9eeJg5TPoBOIGOAWA",
             "Author": "Planetaria TV",
             "Description": "Excelent & Free Download. check below.  https://archive.org/download/DDN-003_de_dormitor_003/DDN-003_de_dormitor_003_vbr_mp3.zip",
@@ -26579,7 +26579,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zLFIC0PG6II",
-            "Title": "Chris Simmonds - Safe Mode 2 - 1996",
+            "title": "Chris Simmonds - Safe Mode 2 - 1996",
             "Channel ID": "UCI3y-LAESU4L1aCaNUcY0xQ",
             "Author": "dzanful",
             "Description": "https://www.discogs.com/master/1050824",
@@ -26605,7 +26605,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oTjoiCxRQQ0",
-            "Title": "Carter & Weston ‎– Packing List",
+            "title": "Carter & Weston ‎– Packing List",
             "Channel ID": "UC1LDAOvNSg2Kw0NvO-2gTrQ",
             "Author": "Phunk_sub",
             "Description": "Carter & Weston ‎– Packing List (Virtual Earth, UK, 1997) Catalog: VE 002 Format: Vinyl, 12\"  Country: UK Released: 1997 Genre: Electronic Style: Techno, Electro  For promo only, we don’t have the rights. If there is any problem, please contact us.",
@@ -26631,7 +26631,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cxgAFAViQw4",
-            "Title": "02 Lerosa - Line Bass [Idle Hands]",
+            "title": "02 Lerosa - Line Bass [Idle Hands]",
             "Channel ID": "UCjI1za8OOUR4wybKo9ZA9Rw",
             "Author": "Idle Hands",
             "Description": "Download:  http://ks.kud.li/idle040 Subscribe: http://sb.kud.li/UCjI1za8OOUR4wybKo9ZA9Rw Official stream from Idle Hands. Distributed by Kudos Records. On iTunes:  http://it.kud.li/idle040 On Amazon:  http://az.kud.li/idle040 More music playlists: http://pl.kud.li/UCjI1za8OOUR4wybKo9ZA9Rw  Album: Subcouture [SINGLE] Track: 2 of 4 Title: Line Bass Artist: Lerosa Label: Idle Hands Cat#: IDLE040 Formats: 12\" Vinyl/Digital Digital Release: 20th January 2017 Physical Release: 20th January 2017  About This Release:",
@@ -26657,7 +26657,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Rud1K7h5sEs",
-            "Title": "D.M.T. (Remix Version)",
+            "title": "D.M.T. (Remix Version)",
             "Channel ID": "UCz8TZtfsoCxYKJUjRLFqN6g",
             "Author": "Deee-Lite - Topic",
             "Description": "Provided to YouTube by Rhino/Elektra  D.M.T. (Remix Version) · Deee-Lite  Sampladelic Relics & Dancefloor Oddities  ℗ 1996 Elektra Entertainment, A Division of Warner Communications Inc. for the United States and WEA International Inc. for the world outside of the United States.  Unknown: DJ Silver Producer: Deee-Lite for Sampadelic Productions Unknown, Unknown: Supa DJ Dmitry at Living Room Studios Unknown: Tuta Aquino Composer: Deee-Lite for Sampadelic Productions Contributor: Dream Street Management Contributor: Hiroyuki Nakano for Graphickers Contributor: Ichiro Tanida for Graphickers Lyricist: Lady Miss Kier  Auto-generated by YouTube.",
@@ -26683,7 +26683,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TXZTgI0Ota0",
-            "Title": "How Do You Say... Love (Remix Version)",
+            "title": "How Do You Say... Love (Remix Version)",
             "Channel ID": "UCz8TZtfsoCxYKJUjRLFqN6g",
             "Author": "Deee-Lite - Topic",
             "Description": "Provided to YouTube by Rhino/Elektra  How Do You Say... Love (Remix Version) · Deee-Lite  Sampladelic Relics & Dancefloor Oddities  ℗ 1990 Elektra Entertainment, A Division of Warner Communications Inc. for the United States and WEA International Inc. for the world outside of the United States.  Producer: Deee-Lite for Sampadelic Productions Unknown: Pal Joey Unknown: Supa DJ Dmitry at Living Room Studios Unknown: Tuta Aquino Composer: Deee-Lite for Sampadelic Productions Contributor: Dream Street Management Contributor: Hiroyuki Nakano for Graphickers Contributor: Ichiro Tanida for Graphickers Lyricist: Lady Miss Kier  Auto-generated by YouTube.",
@@ -26709,7 +26709,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "T3fMnDFhHaU",
-            "Title": "DJ Pro One - Electronic Underclass",
+            "title": "DJ Pro One - Electronic Underclass",
             "Channel ID": "UC1LDAOvNSg2Kw0NvO-2gTrQ",
             "Author": "Phunk_sub",
             "Description": "DJ Pro One - Electronic Underclass (Basic Electronic, UK, 1997) Catalog: BASIC003 Format: Vinyl, 12\"  Country: UK Released: 1997 Genre: Electronic Style: Techno  For promo only, we don’t have the rights. If there is any problem, please contact us.",
@@ -26735,7 +26735,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kixz_gAPIyY",
-            "Title": "Slack City - Detox",
+            "title": "Slack City - Detox",
             "Channel ID": "UCCZzrgSavFLFG8PiDBYle0A",
             "Author": "dPs _",
             "Description": "Pacific Records FIC013",
@@ -26761,7 +26761,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ahdH2u-I6lA",
-            "Title": "97.4 - Dodo Lé La  [Eklo ‎– EKLO036]",
+            "title": "97.4 - Dodo Lé La  [Eklo ‎– EKLO036]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (96kbps). Follow Eklo Records: https://www.facebook.com/EkloMusic/ Buy Record: http://www.decks.de/decks-sess/workfloor/details/details.php?code=c8p-8h&wo=ten&whatform=details&howmuch=1&ma=yes&addwhich=96 More Music: https://www.facebook.com/DoFunkk  I do not own the rights of anything uploaded and broadcasted from this channel.  Copyright holder?  Please message me, comment below or email me to dofunkk.channel2@gmail.com before sending a strike. I always remove everything I am requested to remove within 10 min of receiving a message.   This would prevent this channel to close after the strike and would allow music lovers and record diggers find some fantastic music which they more likely buy in record stores, second-hand shops and discos.   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (96kbps) to avoid any kind of piracy and youtube rips.",
@@ -26787,7 +26787,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "N0mhO9wRLPE",
-            "Title": "Sounds Of The Suburbs – Beautifly",
+            "title": "Sounds Of The Suburbs – Beautifly",
             "Channel ID": "UCeqrG_zgjkvDyTsfdNgrofw",
             "Author": "atr0",
             "Description": "Sounds Of The Suburbs – Beautifly : https://www.discogs.com/Sounds-Of-The-Suburbs-Beautifly/master/797083 Sounds Of The Suburbs, Beautifly",
@@ -26813,7 +26813,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1GpNcZoAzgo",
-            "Title": "4 Brakes - Don't Wanna Hurt",
+            "title": "4 Brakes - Don't Wanna Hurt",
             "Channel ID": "UCYRBNfkzPaMu20rvGHgSz6g",
             "Author": "Probable Cauz Breaks/Jungle/DnB",
             "Description": "Notwithstanding the provisions of sections 17 U.S.C. § 106 and 17 U.S.C. § 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. if you own the rights to this music please let me know and i will take it down immediately. please do not report it. i am just posting this music so others can enjoy it.   -Video Upload powered by https://www.TunesToTube.com",
@@ -26839,7 +26839,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BaW0IODr-ik",
-            "Title": "DJ Tiny & Dominick - Throwin' Down (Bass It Down Dub)",
+            "title": "DJ Tiny & Dominick - Throwin' Down (Bass It Down Dub)",
             "Channel ID": "UCYRBNfkzPaMu20rvGHgSz6g",
             "Author": "Probable Cauz Breaks/Jungle/DnB",
             "Description": "Notwithstanding the provisions of sections 17 U.S.C. § 106 and 17 U.S.C. § 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. if you own the rights to this music please let me know and i will take it down immediately. please do not report it. i am just posting this music so others can enjoy it.   -Video Upload powered by https://www.TunesToTube.com",
@@ -26865,7 +26865,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zEhKM-RIaVM",
-            "Title": "Point Blank - Rog (Herbert's Breakfast Remix) [Phono ‎– PHONO8]",
+            "title": "Point Blank - Rog (Herbert's Breakfast Remix) [Phono ‎– PHONO8]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (96kbps). Follow Phono Records: https://www.discogs.com/label/1121-Phono Buy Record: https://www.discogs.com/Point-Blank-A-Game-Of-Two-Halves-Rog/release/23705?ev=rr More Music: https://www.facebook.com/DoFunkk  I do not own the rights of anything uploaded and broadcasted from this channel.  Copyright holder?  Please message me, comment below or email me to dofunkk.channel2@gmail.com before sending a strike. I always remove everything I am requested to remove within 10 min of receiving a message.   This would prevent this channel to close after the strike and would allow music lovers and record diggers find some fantastic music which they more likely buy in record stores, second-hand shops and discos.   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (96kbps) to avoid any kind of piracy and youtube rips.",
@@ -26891,7 +26891,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xVStYVhJH3w",
-            "Title": "Korsakow - Line Vision (1997)",
+            "title": "Korsakow - Line Vision (1997)",
             "Channel ID": "UC2PQS54zuxhaljTubySEUUw",
             "Author": "Lrnz",
             "Description": "Artist: Korsakow Title: Line Vision EP: Line Vision Year: 1997 Country: Germany Genre: House",
@@ -26917,7 +26917,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PH-AT35eGTI",
-            "Title": "Och - Love Unconditional [Trelik ‎– TR029]",
+            "title": "Och - Love Unconditional [Trelik ‎– TR029]",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (96kbps). Follow Trelik: https://www.discogs.com/label/2163-Trelik Buy Record: https://www.discogs.com/Och-Love-Unconditional-EP/release/9427568 More Music: https://www.facebook.com/DoFunkk  I do not own the rights of anything uploaded and broadcasted from this channel.  Copyright holder?  Please message me, comment below or email me to dofunkk.channel2@gmail.com before sending a strike. I always remove everything I am requested to remove within 10 min of receiving a message.   This would prevent this channel to close after the strike and would allow music lovers and record diggers find some fantastic music which they more likely buy in record stores, second-hand shops and discos.   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (96kbps) to avoid any kind of piracy and youtube rips.",
@@ -26943,7 +26943,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5ni5BOoJH54",
-            "Title": "Acronym City - Powermoves",
+            "title": "Acronym City - Powermoves",
             "Channel ID": "UC1LDAOvNSg2Kw0NvO-2gTrQ",
             "Author": "Phunk_sub",
             "Description": "Acronym City - Powermoves (Sub Freq Recordings, US - 1996)  Catalog: SFR 003 Format: Vinyl, 12’’, 33 ⅓ RPM, EP  Country: US Released: 1996 Genre: Electronic  Style: Techno Written-By  Acronym City, D. Jesrani https://www.discogs.com/Acronym-City-Powermoves-EP/release/663480  For promo only, we don’t have the right. If there is any problem, please contact us.",
@@ -26969,7 +26969,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "k9VMLsbvtow",
-            "Title": "Moondog - Orgy",
+            "title": "Moondog - Orgy",
             "Channel ID": "UCFUd3zHjy7xAMpVc7KuaLOA",
             "Author": "Zsk Ly",
             "Description": "https://www.discogs.com/Moondog-Vegas-Or-Burst-EP/release/20383   -Video Upload powered by https://www.TunesToTube.com",
@@ -26995,7 +26995,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "n35uxZG19jo",
-            "Title": "Gerald Mitchell Nobody But You",
+            "title": "Gerald Mitchell Nobody But You",
             "Channel ID": "UC5meheFa53nbOLsd29gWW_Q",
             "Author": "Paty Pat",
             "Description": "Family Property   -Video Upload powered by https://www.TunesToTube.com",
@@ -27021,7 +27021,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "F-pntiH9WkU",
-            "Title": "Michael \"Kidd\" Gomez - We're Gonna Dance - [M.K.G. EP]",
+            "title": "Michael \"Kidd\" Gomez - We're Gonna Dance - [M.K.G. EP]",
             "Channel ID": "UCE3ysb9ORFTyRVOy6W-KkPw",
             "Author": "Vex Underground",
             "Description": "Michael \"Kidd\" Gomez - We're Gonna Dance - A1 1991 - [M.K.G. EP]  Requestline Records ‎– RR-565 Executive Producer – John Laskowski Mastered By – Dick Charles Producer, Arranged By – Michael Kidd Gomez  Recorded at Int'l Dance Studios.  Published by MKG Music (SESAC).  (P) 1991 Requestline Records",
@@ -27047,7 +27047,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FdylbRK0FdE",
-            "Title": "Mik Poynter - Elysium Groove",
+            "title": "Mik Poynter - Elysium Groove",
             "Channel ID": "UC9_uRCO9WPRZnicwjQkD0VQ",
             "Author": "Remkowski remko",
             "Description": "Label:  Ugly Music ‎– FF 001  Format:  Vinyl, 12\", 45 RPM   Country:   UK   Released:   1996   Genre:  Electronic  Style:  Techno",
@@ -27073,7 +27073,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RXKaPKnrNeE",
-            "Title": "Florida Boys - Everglade - Atomium003",
+            "title": "Florida Boys - Everglade - Atomium003",
             "Channel ID": "UCD2ubjnF6gW6XNelEaL8IVw",
             "Author": "Atomium",
             "Description": "Atomium presents Florida Boys. LOW BITRATE (96kbps). Follow Atomium: https://www.facebook.com/atomiumrec Grab your copy : https://www.discogs.com/Florida-Boys-Starship-Groupies/release/8832347",
@@ -27099,7 +27099,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zF_mhfMSXHM",
-            "Title": "Paul Johnson - Let Me See You Butterfly (Dj Deeon Alternate Version 2)",
+            "title": "Paul Johnson - Let Me See You Butterfly (Dj Deeon Alternate Version 2)",
             "Channel ID": "UCdkVE94bTN9xCcjeJxY_pGQ",
             "Author": "Benjam",
             "Description": "",
@@ -27125,7 +27125,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VQzsAhlyXcw",
-            "Title": "Oshana - Arcadia [PTN001]",
+            "title": "Oshana - Arcadia [PTN001]",
             "Channel ID": "UCtSYkZGP9nkvXPMQgjeEIow",
             "Author": "Yoyaku Record Store",
             "Description": "160kpbs http://www.yoyaku.io/ptn001 https://www.discogs.com/Oshana-Arcadia-EP/release/9242857 Follow the label :  https://www.facebook.com/WEAREPARTISANLTD Follow the artist :  https://www.facebook.com/OshanaDJ",
@@ -27151,7 +27151,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xQn6Hsfx2WQ",
-            "Title": "BRS - You Know Why",
+            "title": "BRS - You Know Why",
             "Channel ID": "UC056lRq6KmKi6VTHAzkjNEw",
             "Author": "GarageVybez98",
             "Description": "",
@@ -27177,7 +27177,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bItUdwyt180",
-            "Title": "Swingtime Dee - You & I (Lunar Groove Mix)",
+            "title": "Swingtime Dee - You & I (Lunar Groove Mix)",
             "Channel ID": "UCnxIje1uidYNXKjKwsRjrjw",
             "Author": "Matteo Februo HMF90",
             "Description": "Year 1993 Label : http://www.discogs.com/it/label/1832-Z-Records https://www.discogs.com/it/Swingtime-Dee-You-I-Motivation/master/122206",
@@ -27203,7 +27203,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "q8Y0WfKQJaE",
-            "Title": "Kinki Roland ‎ –  Sighting",
+            "title": "Kinki Roland ‎ –  Sighting",
             "Channel ID": "UCytVX-UA1x88j0c0y_zagyg",
             "Author": "skawashers",
             "Description": "Taken from - Tales From The Farside  12\" Vinyl Mythology ‎– MYTH005 (1997)",
@@ -27229,7 +27229,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4M72405uRjA",
-            "Title": "Experiment IV - Technodome (Aftermath Mix)",
+            "title": "Experiment IV - Technodome (Aftermath Mix)",
             "Channel ID": "UCuDDsuLnDYmnr7d0ZlzAvjA",
             "Author": "mariopenati",
             "Description": "Experiment IV - Technodome Label: E-SA Records ‎(E-SA 22004) Year: 1991 Buy: https://www.discogs.com/fr/Experiment-IV-Technodome/release/365419 If you want this removed, contact me and i'll be glad to do it",
@@ -27255,7 +27255,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Cv4Fa_B1M6o",
-            "Title": "DJ Backspin - Weapon '97",
+            "title": "DJ Backspin - Weapon '97",
             "Channel ID": "UC8VHqU0XbiL3AQ6hD4YSWqg",
             "Author": "bassbytes",
             "Description": "Support the artist, buy his music: https://relicxuk.bandcamp.com/   https://djbackspin.bandcamp.com  https://www.discogs.com/DJ-Backspin-Sully-5-Etch-4-Reverend-Slippy-DRB01/release/8575252",
@@ -27281,7 +27281,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PNp1PnfWQD0",
-            "Title": "St Germain - Thank U Mum (K&F Edit)",
+            "title": "St Germain - Thank U Mum (K&F Edit)",
             "Channel ID": "UCEW8V6kOEt6iaWcSY0q9aeQ",
             "Author": "Bashed Groove",
             "Description": "Album : Persie Edits Volume 1 Label : Persies ‎– [PERSIE001] Country : UK Soundcloud - https://soundcloud.com/krywaldandfarrer Facebook - https://www.facebook.com/KrywaldandFarrer/ Twitter - https://twitter.com/Krywald_Farrer  http://www.deejay.de/PERSIE001_-_Unknown_-_Persie_Edits_Volume_1_-_12inch__239223  https://www.discogs.com/Unknown-Artist-Persie-Edits-Volume-1/release/9003480  Follow us : https://www.facebook.com/bashed.groove/ Listen to us : https://soundcloud.com/bashedgroove/  We do NOT own any rights to this track, we uploaded it ONLY because we wanted to share it. Send us a message at bashed.groove@gmail.com if you want us to delete the video.",
@@ -27307,7 +27307,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Bl3dSwAeoRo",
-            "Title": "KG Beat - Breathing Engine",
+            "title": "KG Beat - Breathing Engine",
             "Channel ID": "UCWVohiZfVUc97J1Xeapso1w",
             "Author": "smileacid",
             "Description": "",
@@ -27333,7 +27333,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "c3r58kGcwws",
-            "Title": "Chaos & Julia set - Bounce",
+            "title": "Chaos & Julia set - Bounce",
             "Channel ID": "UCjf3lyWoictKU5wxVV6fApw",
             "Author": "D",
             "Description": "Vintage hardcore!  #tommi #tommicayden #tommidarby #davedarby #daviddarby",
@@ -27359,7 +27359,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9dcRsW3Hcy4",
-            "Title": "The Unknown DJ - Basstronic (Instrumental) Vinyl",
+            "title": "The Unknown DJ - Basstronic (Instrumental) Vinyl",
             "Channel ID": "UCG1qiDUItraviqC2SRW4XyQ",
             "Author": "PedrãoDJ Rio de Janeiro",
             "Description": "Dunk Yer Funk Records.  Executive-Producer – Unknown Producer – Spock Recorded By, Mixed By – Dyno-Mike Written-By – A. Manuel Original: Techno Kut Records. 1988",
@@ -27385,7 +27385,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4PAoq_kBq8E",
-            "Title": "T-Power - Blissed Out Snacking Zombies",
+            "title": "T-Power - Blissed Out Snacking Zombies",
             "Channel ID": "UCaSt4Kxx5kb2Wuko05xbTMw",
             "Author": "Chris Laivier",
             "Description": "Label: Botchit & Scarper ‎- bos2lp 009 Format: 3 × Vinyl, LP, Album Country: UK Released: 2000 Genre: Electronic Style: Breaks, Electro  https://www.discogs.com/TPower-Long-Time-Dead/release/33139 https://www.beatport.com/track/blissed-out-snacking-zombies-original-mix/4336275",
@@ -27411,7 +27411,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MvMlNbdGloM",
-            "Title": "Mark Ambrose ‎– A1 - Dream Mode",
+            "title": "Mark Ambrose ‎– A1 - Dream Mode",
             "Channel ID": "UC3REe_sF54K57o_PcC_Pn_A",
             "Author": "Aleix Dorian",
             "Description": "Mark Ambrose ‎– Dream Mode Solid Groove ‎– SG 008 1997",
@@ -27437,7 +27437,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oSb6FMDk8M4",
-            "Title": "Sub Bleep Mayhem",
+            "title": "Sub Bleep Mayhem",
             "Channel ID": "UCy2MJsSwMLeC883e7IVSFGA",
             "Author": "Leslie Lyrics - Topic",
             "Description": "Provided to YouTube by Living Beat  Sub Bleep Mayhem · Leslie Lyrics · Henry · Leslie Stephen · Henry · Leslie Stephen  Ragamuffin Mayhem  ℗ Living Beat, under exclusive license to Music Manager  Released on: 1991-08-02  Auto-generated by YouTube.",
@@ -27463,7 +27463,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Z1VTRuzeJuU",
-            "Title": "37Hz - 37Hz (Kraymon Mix)",
+            "title": "37Hz - 37Hz (Kraymon Mix)",
             "Channel ID": "UCaSt4Kxx5kb2Wuko05xbTMw",
             "Author": "Chris Laivier",
             "Description": "Label: SkyDive Recordings ‎- SKY004 Format: Vinyl, 12\", Promo Country: UK Released: 24 Feb 2003 Genre: Electronic Style: Breakbeat  https://www.discogs.com/37Hz-37Hz/release/113213",
@@ -27489,7 +27489,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xrNVUpq11aA",
-            "Title": "Justin David - Hemisphere",
+            "title": "Justin David - Hemisphere",
             "Channel ID": "UCDWlGzmKIE2IaMhTgyaQ8Mg",
             "Author": "ツRubi",
             "Description": "ツ Justin David - Monument Tracks Vol. One, South Circular Recordings (SCR) (1996)  Follow me: http://www.facebook.com/itsmerubi  Buy: https://www.discogs.com/Justin-David-Monument-Tracks-Vol-One/release/133401",
@@ -27515,7 +27515,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KSzS8Sh-oz8",
-            "Title": "Wallwork & Tsvi feat. Nico Lindsay - Facts",
+            "title": "Wallwork & Tsvi feat. Nico Lindsay - Facts",
             "Channel ID": "UCO5tQs1DKMsAxe604cwAyxw",
             "Author": "Black Acre",
             "Description": "Black Acre Shop: http://smarturl.it/FactsFyah Bandcamp: http://smarturl.it/BandcampFacts iTunes: http://smarturl.it/iTunesFacts",
@@ -27541,7 +27541,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-4rhhNzJ9mM",
-            "Title": "András pres. House of Dad - Hard Working Man",
+            "title": "András pres. House of Dad - Hard Working Man",
             "Channel ID": "UCwsHdnyoBWVJxgmHVLu9bxg",
             "Author": "andras",
             "Description": "from the album \"house of dad\" http://andrasfox.bandcamp.com/album/house-of-dad  full info here:  https://www.discogs.com/Andr%C3%A1s-Andr%C3%A1s-PresentsHouse-Of-Dad/release/8792496",
@@ -27567,7 +27567,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4h8-XrGYmQw",
-            "Title": "DJ South Central - Wicked Sound - Underground Shakedown Part 1",
+            "title": "DJ South Central - Wicked Sound - Underground Shakedown Part 1",
             "Channel ID": "UC056lRq6KmKi6VTHAzkjNEw",
             "Author": "GarageVybez98",
             "Description": "Nice blend of rough and smooth from Mike Millrain",
@@ -27593,7 +27593,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mqcjScXFRWU",
-            "Title": "Crinan - Killimanjaro",
+            "title": "Crinan - Killimanjaro",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (96kbps). Follow Borft Records: https://www.facebook.com/B%C3%B6rft-Records-217403195117945/ Buy Record: https://www.discogs.com/Crinan-Bebopalola/release/108143 More Music: https://www.facebook.com/DoFunkk  I do not own the rights of anything uploaded and broadcasted form this channel.  Copyright holder?  Please message me, comment below or email me to dofunkk.channel2@gmail.com before sending a strike. I always remove everything I am requested to remove within 10 min of receiving a message.   This would prevent this channel to close after the strike and would allow music lovers and record diggers find some fantastic music which they more likely buy in record stores, second hand shops and discos.   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (96kbps) to avoid any kind of piracy and youtube rips.",
@@ -27619,7 +27619,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_XQ0aaOJsaA",
-            "Title": "Da Homies - Yorkshire (Garage Mix)",
+            "title": "Da Homies - Yorkshire (Garage Mix)",
             "Channel ID": "UC056lRq6KmKi6VTHAzkjNEw",
             "Author": "GarageVybez98",
             "Description": "",
@@ -27645,7 +27645,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wZjWFkVOaBE",
-            "Title": "Glissando Bros. - Man On The Moon",
+            "title": "Glissando Bros. - Man On The Moon",
             "Channel ID": "UC-unSThs97X6ke2KsjJEsWg",
             "Author": "solongyouth",
             "Description": "Label: STIR15 Recordings ‎– STiR- 157 Format: Vinyl, 12\"  Country: Germany Released: 1997",
@@ -27671,7 +27671,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "QvH05cwQi7Q",
-            "Title": "Intelligent Hoodlum - Back To Reality (UK Remix)",
+            "title": "Intelligent Hoodlum - Back To Reality (UK Remix)",
             "Channel ID": "UCDODZtVq8qthrveNxfyd5Ng",
             "Author": "AndyManch",
             "Description": "Label:A&M Records - Country:US - Released:1990 - Genre:Hip Hop https://twitter.com/tragedykhadafi",
@@ -27697,7 +27697,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8xumDn8woUI",
-            "Title": "Cosmic Galaxy - Walkin' On The Moon [Virtual World]",
+            "title": "Cosmic Galaxy - Walkin' On The Moon [Virtual World]",
             "Channel ID": "UC4MBIHEQ7NK7F49gwVmQyhw",
             "Author": "sometimes it stays",
             "Description": "much love and many thanks to @~ alex elisabeth molly jon :~) emre, charlotte, paul, james, vittorio, josephine, martin, ally, jalil, the kind security man. much obliged to little tapes and wonderful city of montreal. may everyone a summer ~at ease~",
@@ -27723,7 +27723,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PZ46nxUqZrQ",
-            "Title": "Mézigue  - Track 1 (Euromillion)",
+            "title": "Mézigue  - Track 1 (Euromillion)",
             "Channel ID": "UCnje9hKKrGiseHhWidzX8bg",
             "Author": "DKO Records",
             "Description": "Mézigue - Mangez Moi EP Label: D.KO Records ‎- D.KO10 Format: Vinyl, 12\", 33 ⅓ RPM, EP  Country: France Released: June 2016 Genre: Electronic Style: House, Deep House  https://www.discogs.com/Mézigue-Mangez-Moi/release/8406502",
@@ -27749,7 +27749,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RedJMHNZUBs",
-            "Title": "Space Chaos - My Stoned TB (Edit)",
+            "title": "Space Chaos - My Stoned TB (Edit)",
             "Channel ID": "UCBrkiKo2wcAlVMnjkUg8gMg",
             "Author": "lilje7",
             "Description": "Great track by Space Chaos released on Raum Records in 1996!  https://www.discogs.com/Space-Chaos-My-Stoned-TB/release/167226 https://www.discogs.com/artist/80906-Space-Chaos https://www.discogs.com/label/14008-Raum-Records  I do not own any rights of the music and the shown picture. This video is uploaded only for promotion of the used music and electronic music in general. If you like it, buy it and support the artist and the label, but if you're the copyright owner of the used music and you don't want this video to be on YouTube, please contact me and I will remove it immediately!",
@@ -27775,7 +27775,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ogmQl39xtwg",
-            "Title": "THE SUBMISSIVES - DO YOU REALLY LOVE ME? + CAN'T YOU SEE",
+            "title": "THE SUBMISSIVES - DO YOU REALLY LOVE ME? + CAN'T YOU SEE",
             "Channel ID": "UCbnfRW2QEBA4AfFGdp4lBcg",
             "Author": "hotjellyinthemorning",
             "Description": "THE SUBMISSIVES MONTREAL, QC MAY 2016  THANKS TO COLD CALL ST HENRI CABLE COMPANY  FILMED BY: ALEXIS CUTHBERT LIGHTS BY: ALANA RUTH STAGE HAND EXTRAORDINAIRE: ZOE CHRISTMAS",
@@ -27801,7 +27801,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mpc8oswdKqA",
-            "Title": "Wax Doctor - Atmospheric Funk",
+            "title": "Wax Doctor - Atmospheric Funk",
             "Channel ID": "UCNMWI93D5Ew7DmddrWvxhYw",
             "Author": "The Dig Mansion",
             "Description": "A proper player during Jungle's rise from underground during 1995-96, Paul Saunders' techno background hardly prepared listeners for the mellowed-out vibes and liquid tones of his work as Wax Doctor. Tracks like \"Kid'Caprice\" ( for Metalheadz ) and \"Atmospheric Funk\" ( for Talkin Loud ) were closely allied to L.T.J Bukem's Junglite fusion though just a bit chunkier. Saunders began DJing in the late 80's, and though he juggled part-time mixing with a full time football career for awhile (appearing as a reserve with Reading and later Crystal Palace), the Wax Doctor eventually debuted on production as well as several singles for Basement Records during 1992-93. He worked with fellow Techno-head Alex Reece on Creative Wax and Precious Materials, but began drifting towards the growing Drum 'n' Bass fascination with lighter tones of Jazz fusion. His singles for Metalheadz and Talkin Loud signalled the new direction, and Saunders signed to R&S -- noted more for listening Techno and Drum 'n' Bass -- for two 1995 singles, \"All I Need\" and \"Heat\". Wax Doctor contributed a remix to label - mate Juan Atkins for Model 500 single, \"The Flow\" R&S released the retrospective selected works in 1998.  https://www.discogs.com/Wax-Doctor-Atmospheric-Funk/release/52493",
@@ -27827,7 +27827,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tOd7fcQelP8",
-            "Title": "One True Doc - Gary Strange",
+            "title": "One True Doc - Gary Strange",
             "Channel ID": "UCAVSw3GL6ButxoUjWDNNDcA",
             "Author": "Ignition Musik",
             "Description": "Ignition Musik was a London based atmospheric drum and bass label which ran from ’94 to ’99  Our catalogue included DJs/ Producers The Kaleidoscope, Doc Format and DJ Code. We regularly played on internet radio stations Gaialive and Interface as well as popular venues in South London.  We had over 10 vinyl releases and 2 compilation CDs.",
@@ -27853,7 +27853,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RNnCCuTpmSs",
-            "Title": "Omar-S - Heard Chew Single (feat John Fm)",
+            "title": "Omar-S - Heard Chew Single (feat John Fm)",
             "Channel ID": "UC2hNyT8zrH3CZDgOFaDZPgA",
             "Author": "Zeinkali",
             "Description": "https://www.discogs.com/Omar-S-The-Best-/release/8319057",
@@ -27879,7 +27879,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WhqsIJil9rk",
-            "Title": "Omar S - On Your Way (ft.  Diviniti)",
+            "title": "Omar S - On Your Way (ft.  Diviniti)",
             "Channel ID": "UCcC1keQydQW6fLIzF97d0TA",
             "Author": "Dimitri Petry",
             "Description": "http://www.omarsdetroit.us/ https://www.discogs.com/Omar-S-The-Best-/release/8319057",
@@ -27905,7 +27905,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4_teRTXuGYc",
-            "Title": "hector spector   color fish",
+            "title": "hector spector   color fish",
             "Channel ID": "UC8fdAnQjDsBupki_10Ru-RQ",
             "Author": "Muggo Man",
             "Description": "",
@@ -27931,7 +27931,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wwgObx5ZluM",
-            "Title": "Fast Floor - I'm Here To Spread The love",
+            "title": "Fast Floor - I'm Here To Spread The love",
             "Channel ID": "UCZlIqMzrBnV6-Vly2NTqmgQ",
             "Author": "TA S95",
             "Description": "saw the channel that had this one up got shut down recently; what an lp..  https://www.discogs.com/Fast-Floor-On-A-Quest-For-Intelligence/release/419367   -Video Upload powered by https://www.TunesToTube.com",
@@ -27957,7 +27957,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qE4w0nxzWXs",
-            "Title": "Peggy Gou - Day Without Yesterday",
+            "title": "Peggy Gou - Day Without Yesterday",
             "Channel ID": "UCLbDngg7xrEbndFuiJdPeyQ",
             "Author": "ColdCuts // HotWax",
             "Description": "For promo-use only. If you would like this removed please contact us and we'll be happy to take it down.",
@@ -27983,7 +27983,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_vesMYHRCRk",
-            "Title": "Johnny P - Look Good (Metro Club Mix)",
+            "title": "Johnny P - Look Good (Metro Club Mix)",
             "Channel ID": "UCCL_rE8MCGxTlPESj4Rm9iw",
             "Author": "LukeyChoons",
             "Description": "https://www.discogs.com/Johnny-P-Look-Good/release/1465456   -Video Upload powered by https://www.TunesToTube.com",
@@ -28009,7 +28009,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4znwSF5VY7w",
-            "Title": "SR007 Vid Vai - Barracuda Vortex",
+            "title": "SR007 Vid Vai - Barracuda Vortex",
             "Channel ID": "UCu6oktW7Oil-Kpn1NOKpsQQ",
             "Author": "Sensual FFM",
             "Description": "https://www.discogs.com/de/Vid-Vai-Barracuda-Vortex-Ep/release/7890524",
@@ -28035,7 +28035,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "r3nm7j_JcfM",
-            "Title": "Japanese Telecom - The Man From The Pack Remix",
+            "title": "Japanese Telecom - The Man From The Pack Remix",
             "Channel ID": "UCrZ7BuZ8ErxcZHUno1SLkAg",
             "Author": "Drexciyans Wavejumpers",
             "Description": "Japanese Telecom - \"Japanese Telecom\" (Intuit Solar,2000)",
@@ -28061,7 +28061,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Lcu4jBi6dV8",
-            "Title": "Pure Science Presents Sci-Phi - Be-Dup [Lunar Tunes, 1998]",
+            "title": "Pure Science Presents Sci-Phi - Be-Dup [Lunar Tunes, 1998]",
             "Channel ID": "UCbcpZDGmJ02REppY1LbYeJQ",
             "Author": "DeepDown",
             "Description": "Pure Science Presents Sci-Phi - Be-Dup [Lunar Tunes, 1998]",
@@ -28087,7 +28087,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ApRdbICGIzQ",
-            "Title": "Tommy Vicari Jnr - D&E",
+            "title": "Tommy Vicari Jnr - D&E",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (96kbps). Follow YAY Records: https://www.facebook.com/Yay-247583668652523/ Buy Record: http://www.decks.de/t/tommy_vicari_jnr-mic_ang_ep/c6f-n9 More Music: https://www.facebook.com/DoFunkk  I do not own the rights of anything uploaded and broadcasted form this channel.  Copyright holder?  Please message me, comment below or email me to dofunkk.channel2@gmail.com before sending a strike. I always remove everything I am requested to remove within 10 min of receiving a message.   This would prevent this channel to close after the strike and would allow music lovers and record diggers find some fantastic music which they more likely buy in record stores, second hand shops and discos.   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (96kbps) to avoid any kind of piracy and youtube rips.",
@@ -28113,7 +28113,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jZUGOMoOrH8",
-            "Title": "Vikter Duplaix - Sensuality (Instrumental) [DJ-Kicks]",
+            "title": "Vikter Duplaix - Sensuality (Instrumental) [DJ-Kicks]",
             "Channel ID": "UC1Sk_3RL92QOIwfEAkHGFyA",
             "Author": "!K7 Records",
             "Description": "From the album 'Sensuality (DJ-Kicks)' out now on !K7 iTunes: https://itunes.apple.com/us/album/sensuality-single/id3868526?uo=4  Follow Vikter Duplaix: https://www.facebook.com/vikterduplaix/ https://twitter.com/Duplaix https://www.instagram.com/vikterduplaix/  Follow !K7: https://www.facebook.com/K7Records/ https://www.twitter.com/K7records/ https://www.instagram.com/k7records/ https://www.k7records.com/  Follow DJ-Kicks: https://www.facebook.com/K7DJKicks/ http://www.dj-kicks.com/",
@@ -28139,7 +28139,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cBfKRP54nCI",
-            "Title": "Medlar - In Dreams",
+            "title": "Medlar - In Dreams",
             "Channel ID": "UCbQlCUnmMwK-rpGfozq7RkQ",
             "Author": "On Loop",
             "Description": "Download Moxie presents Volume Two for FREE here  - soundcloud.com/djmoxie/sets/moxie-presents-vol-2-free/s-CfbgU  I wanted to kick off the new year with something fresh and exclusive to share with everyone and after the success of my first compilation Moxie Presents Vol.1 it felt only right to get cracking with a second instalment.  With the same premise as Vol.1 the 9 track compilation is made up of a collection of artists I support on my radio shows and in the clubs, with each track being an exclusive download to this compilation.  It features some up and coming artists alongside some slightly more established artists with everyone offering something totally different. I play so many different styles and I wanted to make sure this was a true reflection of that so I hope you enjoy. We’ll also be releasing some vinyl samplers later in the year so keep an eye out for that!  Artwork: Sam Coldy",
@@ -28165,7 +28165,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LRM6UR3P7pA",
-            "Title": "R-Zone - Jungle Raver (Down-E Rave)",
+            "title": "R-Zone - Jungle Raver (Down-E Rave)",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (96kbps). Follow R-Zone Records: https://www.facebook.com/rzonex/ Buy Record: http://www.discogs.com/R-Zone-R-Zone-05/release/4877173 More Music: https://www.facebook.com/DoFunkk  I do not own the rights of anything uploaded and broadcasted form this channel.  Copyright holder?  Please message me, comment below or email me to dofunkk.channel2@gmail.com before sending a strike. I always remove everything I am requested to remove within 10 min of receiving a message.   This would prevent this channel to close after the strike and would allow music lovers and record diggers find some fantastic music which they more likely buy in record stores, second hand shops and discos.   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (96kbps) to avoid any kind of piracy and youtube rips.",
@@ -28191,7 +28191,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "i_xSZbEE4xw",
-            "Title": "Andrea Giuditta - Escandalo Total (Sweet Revenge)",
+            "title": "Andrea Giuditta - Escandalo Total (Sweet Revenge)",
             "Channel ID": "UCFc5h422RhOiVzycjYzdnrg",
             "Author": "Pietro Mancini",
             "Description": "Interactive Test 1994",
@@ -28217,7 +28217,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bect-pJjXc0",
-            "Title": "Andrea Giuditta - Sweet Revenge (Global Mix)",
+            "title": "Andrea Giuditta - Sweet Revenge (Global Mix)",
             "Channel ID": "UCFc5h422RhOiVzycjYzdnrg",
             "Author": "Pietro Mancini",
             "Description": "Interactive Test 1994",
@@ -28243,7 +28243,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Eg3vwxVXB1M",
-            "Title": "Innershades - Inside Your Mind [Unknown To The Unknown]",
+            "title": "Innershades - Inside Your Mind [Unknown To The Unknown]",
             "Channel ID": "UC5rXILumTV11fEeq7nxWgOA",
             "Author": "Moskalus",
             "Description": "Fine spaced out jacking House/Electro https://soundcloud.com/innershades https://soundcloud.com/hothausrecs",
@@ -28269,7 +28269,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oZtXrZ-JDUw",
-            "Title": "Robin S - Love For Love (Stone's Extended Mix) [1993]",
+            "title": "Robin S - Love For Love (Stone's Extended Mix) [1993]",
             "Channel ID": "UCBod7M_EX2QsgsrV9ZA6J7g",
             "Author": "Old Skool Rewind Official",
             "Description": "If you enjoy my channel please consider donating to it via PayPal classichousejams@gmail.com  I love to create the videos and share the memories but I do not make any money from this channel. The ads playing create revenue for others, youtube does not allow me to monetize this channel.  Thanks in advance, any amount is appreciated.  Like us on Facebook https://www.facebook.com/OldSkoolRewindOfficial Follow Us on Instagram: http://instagram.com/oldskoolrewind Follow us on Twitter: http://twitter.com/OldSkoolRewind_",
@@ -28295,7 +28295,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "g9jyJVamDWI",
-            "Title": "The New Sound Of Soul - Techno Soul",
+            "title": "The New Sound Of Soul - Techno Soul",
             "Channel ID": "UCCL_rE8MCGxTlPESj4Rm9iw",
             "Author": "LukeyChoons",
             "Description": "http://www.discogs.com/New-Sound-Of-Soul-The-Strength/master/578774   -uploaded in HD at http://www.TunesToTube.com",
@@ -28321,7 +28321,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Mmx0zaU7Ni8",
-            "Title": "Air Freshner",
+            "title": "Air Freshner",
             "Channel ID": "UCRma2mF3JwnkHT7xc4h3RDw",
             "Author": "Tom & Jerry - Topic",
             "Description": "Provided to YouTube by The Orchard Enterprises  Air Freshner · Tom & Jerry  Jungle Hits, Vol. 2  ℗ 1994 Jet Star Music  Released on: 1994-02-04  Auto-generated by YouTube.",
@@ -28347,7 +28347,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "r40ejNrx7dM",
-            "Title": "DJ Nehpets - Na Na Na",
+            "title": "DJ Nehpets - Na Na Na",
             "Channel ID": "UCqSMQXJ8MieGFIxgZNDeLdQ",
             "Author": "Do Funkk",
             "Description": "LOW BITRATE (96kbps). Follow DanceMania: https://www.facebook.com/DanceManiaRecords Buy Record: http://www.discogs.com/Dee-Jay-Nehpets-The-Funk-Child-EP/release/175069 More Music: https://www.facebook.com/DoFunkk  I do not own the rights of anything uploaded and broadcasted form this channel.  Copyright holder?  Please message me, comment below or email me to dofunkk.channel2@gmail.com before sending a strike. I always remove everything I am requested to remove within 10 min of receiving a message.   This would prevent this channel to close after the strike and would allow music lovers and record diggers find some fantastic music which they more likely buy in record stores, second hand shops and discos.   Credit to artists, label, and purchase links are given in each upload to facilitate the listeners getting in touch to their favourite labels, artists and stores.  Every track has been compressed to a LOW BITRATE (96kbps) to avoid any kind of piracy and youtube rips.",
@@ -28373,7 +28373,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4gI4sYxTK24",
-            "Title": "KMA PRODUCTIONS - KAOTIC MADNESS #dubplateV1 95 #ukg",
+            "title": "KMA PRODUCTIONS - KAOTIC MADNESS #dubplateV1 95 #ukg",
             "Channel ID": "UCCdSimaJheD-hP-zXFmigOQ",
             "Author": "MADDNESS KMA",
             "Description": "The first ‪#‎ukg‬ track back in 1995 to implement Break beats into a 4x4 House and Garage genre was only started by KMA Productions ‪#‎Six‬ & Dj Maddness, with dubplate vocals which was sung by Melissa.K originally as just a jingle... its a shame alot of people do not know the boundaries this broke or the doors this opened for others to walk through. ‪#‎Foundation‬",
@@ -28399,7 +28399,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-b3RKjH9p2w",
-            "Title": "MBG,Rame,Alkemy,DJ Uovo - Late In The Morning (Peter Pan EP)",
+            "title": "MBG,Rame,Alkemy,DJ Uovo - Late In The Morning (Peter Pan EP)",
             "Channel ID": "UCfuSpFaRrTLpoF7iyCmMY7w",
             "Author": "Free Vibes",
             "Description": "(1992) MBG International Records http://www.discogs.com/MBG-Rame-Alkemy-DJ-Uovo-Peter-Pan-EP/release/294735",
@@ -28425,7 +28425,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EnglwC-BsDY",
-            "Title": "Groove Chronicles - Good Times",
+            "title": "Groove Chronicles - Good Times",
             "Channel ID": "UCXvRGQW6198ekIygdNr2Mgw",
             "Author": "Silly Noogie",
             "Description": "-uploaded in HD at http://www.TunesToTube.com",
@@ -28451,7 +28451,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nPSL7RasW9I",
-            "Title": "Julie Stapleton   Where's Your Love Gone? (New York Mix)",
+            "title": "Julie Stapleton   Where's Your Love Gone? (New York Mix)",
             "Channel ID": "UCQHI05Q6CBxrKm3DemRyPkA",
             "Author": "Massimo Cadamuro",
             "Description": "Label: V4Visions ‎– VIS 0612T, V4Visions ‎– VIS0612T Format: Vinyl, 12\", 45 RPM  Country: UK Released: 1991 Genre: Electronic Style: Deep House, Downtempo",
@@ -28477,7 +28477,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "iuOvcb2A-ck",
-            "Title": "Tirzah - Make It Up",
+            "title": "Tirzah - Make It Up",
             "Channel ID": "UC86EfPcMxAyJd3ty1GTYr8Q",
             "Author": "Greco-Roman",
             "Description": "Click here to subscribe - http://hyperurl.co/subscribeGrecoRoman   Tirzah - Make It Up  iTunes: smarturl.it/TirzahMIUiTunes  Follow Tirzah: facebook.com/TirzahMusic  Greco-Roman: We Make Colourful Music Because We Dance In The Dark  Left of centre popular music with one foot on the dance floor, from Joe Goddard, Roosevelt, Tirzah, Lxury, Disclosure, Totally Enormous Extinct Dinosaurs, JeanGa and George, Baio, Hackman and more.  Speakeasy parties and DJ squads in London, Berlin, various beaches and muddy fields.    http://www.greco-roman.com/ https://www.facebook.com/Greco.Roman/ https://twitter.com/grecoromanmusic",
@@ -28503,7 +28503,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "or49PQ9QWIs",
-            "Title": "Nightchair - Vinyl Vibes",
+            "title": "Nightchair - Vinyl Vibes",
             "Channel ID": "UCRTvsBTvhRa94hoCvQ2zMyA",
             "Author": "released4pleasure",
             "Description": "The City Trax (1997)",
@@ -28529,7 +28529,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Yn-dTQ1G2oQ",
-            "Title": "3 Elements   Ling o Ling",
+            "title": "3 Elements   Ling o Ling",
             "Channel ID": "UCajIO9mNVjkqCXDLDd2hpVA",
             "Author": "Rareitch Project",
             "Description": "Hopefully Andy , Spence and Greg wont sue their old mucker for posting this absolute tune from way back when.",
@@ -28555,7 +28555,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8PaIz4pEQYw",
-            "Title": "Luckystars - Train A [Urbantorque, 2006]",
+            "title": "Luckystars - Train A [Urbantorque, 2006]",
             "Channel ID": "UCbcpZDGmJ02REppY1LbYeJQ",
             "Author": "DeepDown",
             "Description": "Luckystars - Train A [Urbantorque, 2006]",
@@ -28581,7 +28581,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "2Sl_l62NN9c",
-            "Title": "The Groove Corporation Meet Original Rockers~Stoned [Kashmir Twist Mix]",
+            "title": "The Groove Corporation Meet Original Rockers~Stoned [Kashmir Twist Mix]",
             "Channel ID": "UCBRcAdkktqT3u1eNjT1Ysaw",
             "Author": "Waddleofwigan",
             "Description": "The Groove Corporation Meet Original Rockers~Stoned [Kashmir Twist Mix]  Classic House Music 1993.  For entertainment/non-profit purposes only.",
@@ -28607,7 +28607,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "sgWpMF7goPI",
-            "Title": "DJ Deeon   Da Bomb Dance Mania 067 1994",
+            "title": "DJ Deeon   Da Bomb Dance Mania 067 1994",
             "Channel ID": "UCl4Ed9tlBpCyuEHX0fLdkvg",
             "Author": "NewKindAgency",
             "Description": "For inquiries contact nb@newkindagency.com",
@@ -28633,7 +28633,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VXppWBVaxOg",
-            "Title": "BRS - Spring Dom",
+            "title": "BRS - Spring Dom",
             "Channel ID": "UCeqrG_zgjkvDyTsfdNgrofw",
             "Author": "atr0",
             "Description": "If you are the copyright owner and would like this video removed, please contact me directly. Thank you!  If you are the listener, buy the record : http://www.discogs.com/BRS-Spring-Dom-EP/release/266330",
@@ -28659,7 +28659,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0lPHCiuL4dQ",
-            "Title": "Peshay Piano Tune",
+            "title": "Peshay Piano Tune",
             "Channel ID": "UCVqtv9MOsrIQlJNrLL6YDrQ",
             "Author": "Drum & Bass Classics",
             "Description": "The Seminal Classic from Peshay - Piano Tune",
@@ -28685,7 +28685,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "c0PyL2es2Bg",
-            "Title": "DJs Take Control",
+            "title": "DJs Take Control",
             "Channel ID": "UC1MZVw8EsJOh7pCkrLrM5Dw",
             "Author": "SL2 - Topic",
             "Description": "Provided to YouTube by Beggars Group Digital Ltd.  DJs Take Control · SL2  DJs Take Control  ℗ 1991 XL Recordings Ltd  Released on: 2004-09-27  Associated  Performer: Jon Fernandez Associated  Performer: Matt Nelson Music  Publisher: Chill Music Music  Publisher: Universal Music Publishing Group Music  Publisher: Momentum Music Music  Publisher: CMRRA Composer  Lyricist: Jon Fernandez Composer  Lyricist: Matt Nelson  Auto-generated by YouTube.",
@@ -28711,7 +28711,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "n1yUzRK8N8g",
-            "Title": "Digital Domain - I Need Relief (1992)",
+            "title": "Digital Domain - I Need Relief (1992)",
             "Channel ID": "UCGUw3av2o2Xe-j5s-rFregQ",
             "Author": "DigitalBreaks",
             "Description": "1992 Rabbit City Records. Recorded from my vinyl. http://www.discogs.com/Digital-Domain-I-Need-Relief/release/25359",
@@ -28737,7 +28737,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vLg0AyjHMmI",
-            "Title": "Holdin' the Wall",
+            "title": "Holdin' the Wall",
             "Channel ID": "UCimZilXwhhXph5BIxlN86yw",
             "Author": "Coon Daddy - Topic",
             "Description": "Provided to YouTube by EPM Online  Holdin' the Wall · Coon Daddy  Big Baller EP  ℗ DJ Godfather Publishing ASCAP  Released on: 2004-12-01  Auto-generated by YouTube.",
@@ -28763,7 +28763,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fFjWiAR1c-I",
-            "Title": "UK Garage - M Dubs - 'Bump n Grind'",
+            "title": "UK Garage - M Dubs - 'Bump n Grind'",
             "Channel ID": "UC0KiatmRhETxWp5FxzWH3cw",
             "Author": "UK Garage Gold - Classic Vinyl Collection",
             "Description": "Checkout Our classic collection of UK Garage Vinyl on our live STOCK LIST👇🏻 https://www.discogs.com/seller/ukgaragevinyl/profile   Checkout our Insta Page 👇🏻  @uk_garage_vinyls  DJ GEAR 👇🏻 https://shorturl.at/HQSUW  Other Resources  FOR PRODUCERS: ’How to get your tunes on Spotify-iTunes-Apple Play & all online stores through music distribution:  https://distrokid.com/vip/seven/661896  DJ MIXES:  https://soundcloud.com/deepbeatzradio/dj-dubplate-fresh-presents-uk-garage-old-skool-mix-1620  https://www.mixcloud.com/DeepBeatzRadio/  RADIO :📻 ‘Looking for Garage,Grime,Dubstep,House & Dnb DJS to join our online radio station!!’ Get in contact via whatsaap +447510626420 https://www.deepbeatzradio.com  https://twitter.com/beatz_deep  #ukgarage #ukgarageclassics #ukgarageclassics #ukgaragemusic #ukgaragevinyl  Another UK Garage Club Classic from M Dubs. This was one of many massive tracks produced by the group that dominated the Scene from late 90's to early 2000's.  Check out 'M Dubs' other classic tunes by Subscribing Below!'  Checkout our new Underground Music Radio Station 📻 👉👉https://deepbeatzradio.com Playing the best in UK Garage - All House Genres - Drum&Bass - Grime - Dubstep - Drill & more!",
@@ -28789,7 +28789,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RJBpEjMwDfw",
-            "Title": "Lucas Rodenbush - Mediate",
+            "title": "Lucas Rodenbush - Mediate",
             "Channel ID": "UC9_uRCO9WPRZnicwjQkD0VQ",
             "Author": "Remkowski remko",
             "Description": "Immigrant ‎– IMM016 Format: Vinyl, 12\", EP  Country: US Released: 2003 Genre: Electronic Style: Techno",
@@ -28815,7 +28815,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kM8DGs8UNsM",
-            "Title": "Justin David - Starpoint",
+            "title": "Justin David - Starpoint",
             "Channel ID": "UC9_uRCO9WPRZnicwjQkD0VQ",
             "Author": "Remkowski remko",
             "Description": "Future Monument ‎– FMT 006 Format: Vinyl, 12\"  Country: UK Released: 1997 Genre: Electronic Style: Techno, Tech House",
@@ -28841,7 +28841,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "sxIQ_CpAbQg",
-            "Title": "Rework - You're So Just Just (Playhouse, exlove records)",
+            "title": "Rework - You're So Just Just (Playhouse, exlove records)",
             "Channel ID": "UCbrtrCJuLtvf0aFyraGpUTw",
             "Author": "Rework",
             "Description": "💚💋 NEW NEW Album 2022 \"Real Love\" Available Now Download/Stream:  https://exlove.bandcamp.com/album/real-love  + our new label \"exlove records\" with the artists Pola Women / Rework / Sceti / She Lies / Philipp Roller https://exlove.bandcamp.com/ www.exloverec.com  Follow Rework (Playhouse, Exlove Records, My Favorite Robot Records) Facebook - https://www.facebook.com/wannarework Instagram - https://www.instagram.com/wannarework/ www.wanna-rework.de   Follow Exlove Records Facebook - https://www.facebook.com/exloverecords Instagram - https://www.instagram.com/exloverecords/ www.exloverec.com",
@@ -28867,7 +28867,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MEF3rQtrsJA",
-            "Title": "Monie Love ‎– I Can Do This (Downtown Mix)",
+            "title": "Monie Love ‎– I Can Do This (Downtown Mix)",
             "Channel ID": "UCOmYb97fHXTDKPFtiSVPx-g",
             "Author": "Simon van der Burg",
             "Description": "I don't own the rights of this track. This upload is for remembering what great music was played in the clubs back in the days.  If the owner of this track has any problem with this, than let me now. I will remove it.  Let's celebrate house music!",
@@ -28893,7 +28893,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LE0YOVeEOMw",
-            "Title": "Ian Pooley - Disco love",
+            "title": "Ian Pooley - Disco love",
             "Channel ID": "UCwFMLiwPWMhP7H37BwSn-hQ",
             "Author": "Ian Pooley",
             "Description": "© pooledmusic 2015 originally released on V2 Records in 1998",
@@ -28919,7 +28919,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "YZCUJM-CTQU",
-            "Title": "General Levy - Scheming (Dong Ina de Jungle Mix)",
+            "title": "General Levy - Scheming (Dong Ina de Jungle Mix)",
             "Channel ID": "UCsmVzC6VT4xmHwL0hxi57vA",
             "Author": "n99",
             "Description": "Source: General Levy - Scheming Label: Downbeat Cat#: 4509-97969-2 Format: CD Release date: 1994 Track number: 1",
@@ -28945,7 +28945,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "lkxoVBHXnUk",
-            "Title": "You're never too young   The Cool Notes",
+            "title": "You're never too young   The Cool Notes",
             "Channel ID": "UCeazo5GQuTJNq_pmsgMWAXw",
             "Author": "obie2u1",
             "Description": "",
@@ -28971,7 +28971,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "d7osAwj7RBs",
-            "Title": "Robyn   Searching",
+            "title": "Robyn   Searching",
             "Channel ID": "UCeazo5GQuTJNq_pmsgMWAXw",
             "Author": "obie2u1",
             "Description": "",
@@ -28997,7 +28997,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VXaHUpT2TvI",
-            "Title": "Roots and Soul - Mr Kirk vs The Real Bassline",
+            "title": "Roots and Soul - Mr Kirk vs The Real Bassline",
             "Channel ID": "UCpDn30h7XQstJZs_Rz0U94A",
             "Author": "5h00m5",
             "Description": "http://www.discogs.com/Roots-And-Soul-Mr-Kirk-vs-The-Real-Bassline/release/364526  Roots And Soul ‎– Mr. Kirk v.s. The Real Bassline Label: Street Bwoyz Pro. ‎– SBP 003 Format: Vinyl, 12\", 45 RPM  Country: UK Released: 1991 Genre: Electronic Style: House, Techno Tracklist A Mr. Kirk v.s. The Real Bassline  B Mr. Kirk v.s. The Real Bassline (Dub Version)  Credits Producer, Arranged By – L.E. Blacka Face Notes Dist. by Jet Star  Tel: 081-961 5818   Track A samples:  Vocal from Think - Once You Understand   -uploaded in HD at http://www.TunesToTube.com",
@@ -29023,7 +29023,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vUFE6_6PB1M",
-            "Title": "PLO Man - Rare Plastic",
+            "title": "PLO Man - Rare Plastic",
             "Channel ID": "UCobvYGCOSIcZoE_MnYUq1qg",
             "Author": "Ongo Gablogian",
             "Description": "Dreamy, introspective breakbeat house on this Acting Press 002 from PLO Man - the follow up to CC Not's exquisite 001.  Out last month, still available in some shops. Don't pay the ridiculous discogs prices yet.  http://www.discogs.com/PLO-Man-Stations-Of-The-Elevated/release/7159205  Follow me on Facebook for mixes and radio shows and that:  https://www.facebook.com/gablogian/",
@@ -29049,7 +29049,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZkdtMcJUcLQ",
-            "Title": "BRS - Barbados Stalker",
+            "title": "BRS - Barbados Stalker",
             "Channel ID": "UCKXeo8UTCKBJhfh79zxhFvA",
             "Author": "MrHouseVinyl",
             "Description": "Label: Cyclo (CYC 0021.6) Format: Vinyl, 12\", EP  Country: UK Released: 2001 Genre: Electronic Style: House, Deep House, Garage House  http://www.discogs.com/BRS-Barbados-Stalker-EP/release/70167",
@@ -29075,7 +29075,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "31QGw3b7GZo",
-            "Title": "Bluey - Just One More",
+            "title": "Bluey - Just One More",
             "Channel ID": "UCY-D7uvfpi49P0imovTJpGQ",
             "Author": "Dubmission Records",
             "Description": "Download or stream \"Just One More\" by Bluey from https://dubmission.bandcamp.com/album/ocean-unknown or https://smarturl.it/oceanunknown  Taken from \"Ocean Unknown\": https://smarturl.it/oceanunknown  INFO Back in 2000, Golden Bay Records released an album hailed as one of the best New Zealand produced ambient records of the decade.  Featuring a warm, watery womb of sound that leaves you feeling naked and newborn, Bluey relies on the dislocating properties of dub to give a sense of strangeness and space, creating an effect that will have you sinking so deep into the upholstery, you'll need a ladder to climb out!  A journey into all things deep, downbeat and dubby, the album opens with the epic, Rhythm and Sound-esque title track, which has been a crowd favourite every time Bluey has played live. While Just One More and 8m Swell are bouncy breaks numbers, and All The Time In The World and Sticky Pond fuse dub and trance tracks such as Skip'n'Swing show a more funky side.   As Bluey puts it himself, \"the sound cannot be accurately defined by any well known genre. The tracks contain the inherent originality which comes from using modern technology in such an isolated and stunning place as Golden Bay\".  Ocean Unknown is a record to dream and drift to, a lavishly-textured, warm and weightless technological transmission from the heart of the echo chamber. It’s re-release was long overdue, having been out of print since 2002, and never before available digitally. .  A Dubmission Records release  http://dubmissionrecords.com/ http://dubmission.bandcamp.com/ https://www.instagram.com/dubmissionrecords/ https://www.facebook.com/dubmissionrecords http://www.mixcloud.com/dubmissionrecords/ http://soundcloud.com/dubmissionrecords http://twitter.com/dubmission",
@@ -29101,7 +29101,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Hve0FIu0Iqs",
-            "Title": "Sound Track - Sugarloaf",
+            "title": "Sound Track - Sugarloaf",
             "Channel ID": "UCeqrG_zgjkvDyTsfdNgrofw",
             "Author": "atr0",
             "Description": "If you are the copyright holder and would like this video removed, please contact me directly and I will be pleased to do so. Thank you! If you are the listener, please buy the record: http://www.discogs.com/Sound-Track-The-Cooler/release/100776",
@@ -29127,7 +29127,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "n6N9qorAbCY",
-            "Title": "Girl Eats Boy - Cool Disco (A1 People's Skool Disco Mix)",
+            "title": "Girl Eats Boy - Cool Disco (A1 People's Skool Disco Mix)",
             "Channel ID": "UCChHparJgGzbd_32ocOexwA",
             "Author": "ïtrema",
             "Description": "http://www.discogs.com/Girl-Eats-Boy-Cool-Disco/release/4363898  HOUSE ELECTRO - 1998",
@@ -29153,7 +29153,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "gmub3Oq171w",
-            "Title": "Smokin Beats ‎- One Fine Day",
+            "title": "Smokin Beats ‎- One Fine Day",
             "Channel ID": "UCCL_rE8MCGxTlPESj4Rm9iw",
             "Author": "LukeyChoons",
             "Description": "http://www.discogs.com/Smokin-Beats-One-Fine-Day-Make-Love-Until-The-Remix-Come/release/132610   -uploaded in HD at http://www.TunesToTube.com",
@@ -29179,7 +29179,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "CmddFLX8pQM",
-            "Title": "Night Children - Baby Booty Call",
+            "title": "Night Children - Baby Booty Call",
             "Channel ID": "UCJr6JAYILriJOGhxZAlYKLQ",
             "Author": "sfere71",
             "Description": "(199?) Zippy ‎– ZIPPY 018  http://www.discogs.com/Night-Children-Baby-Booty-Call/release/204045",
@@ -29205,7 +29205,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "yF3yuQgM6r0",
-            "Title": "Tuccillo - Take my joy",
+            "title": "Tuccillo - Take my joy",
             "Channel ID": "UCfI199acr5iUyn3PG3eUHAQ",
             "Author": "Jovan Lazovic",
             "Description": "Label: Ovum Recordings // Lunes EP Release Date: 2014-09-22 http://classic.beatport.com/release/lunes-ep/1367578  Disclaimer: I do not own any copyrights for this track. If there's any trouble with this upload, contact me and I will remove it right away. Please support artists and labels and BUY TRACKS.",
@@ -29231,7 +29231,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "V7bSdMUbzrs",
-            "Title": "Zone - Don't You Want Some More (Congo mix) A1 - 1990",
+            "title": "Zone - Don't You Want Some More (Congo mix) A1 - 1990",
             "Channel ID": "UCHyFrB5YED74CD0UMkvgJbQ",
             "Author": "Old Skool MAD",
             "Description": "Unavailable Old Skool Rave track from 1990 Pro-One Records Cat: PRONE 1T  I do not own the Rights to this music, if the Rights Holder requires me to remove this please say - This has been uploaded for IDing Purposes",
@@ -29257,7 +29257,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xA8Hl2T8O4k",
-            "Title": "Dj Texsta and Mario Cee - Groove Train / Same People (1998)  HD",
+            "title": "Dj Texsta and Mario Cee - Groove Train / Same People (1998)  HD",
             "Channel ID": "UCKcsZN74gVsS4Dzvhldzsng",
             "Author": "Enchanted Rhythms",
             "Description": "Check my mix for Dimensions Festival: https://soundcloud.com/dimensionsfestival/enchanted-rhythms-dimensions-mix",
@@ -29283,7 +29283,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "F7_ztnJP8EI",
-            "Title": "NNM Productions - Blue Times // Tot Records (1999)",
+            "title": "NNM Productions - Blue Times // Tot Records (1999)",
             "Channel ID": "UCKcsZN74gVsS4Dzvhldzsng",
             "Author": "Enchanted Rhythms",
             "Description": "Check my mix for Dimensions Festival: https://soundcloud.com/dimensionsfestival/enchanted-rhythms-dimensions-mix",
@@ -29309,7 +29309,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "aJFis2OAMIg",
-            "Title": "Kraymon   Time Waisting",
+            "title": "Kraymon   Time Waisting",
             "Channel ID": "UCnWQL2k9WkaEBADBHTGpT0A",
             "Author": "Bombita bomba",
             "Description": "Break Beat Año 2004",
@@ -29335,7 +29335,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WMGaGbPRXJ8",
-            "Title": "A Touch Of Jazz Respected Not Accepted (Precious Materials PM 003 1995)",
+            "title": "A Touch Of Jazz Respected Not Accepted (Precious Materials PM 003 1995)",
             "Channel ID": "UC9a-T_XW6jMuzEVT940v15A",
             "Author": "JonnyH179",
             "Description": "Precious Materials PM 003 1995  A Touch Of Jazz Respected Not Accepted (Precious Materials PM 003 1995)",
@@ -29361,7 +29361,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JZP_v8yfJtY",
-            "Title": "Ultramarine - Skyclad",
+            "title": "Ultramarine - Skyclad",
             "Channel ID": "UCStLJrvVqFfWwIGCsrccf1w",
             "Author": "ninauploadz",
             "Description": "Ultramarine ‎– Every Man And Woman Is A Star Genre: Electronic Style: House, Downtempo, Techno, Ambient Year: 1991 http://www.discogs.com/Ultramarine-Every-Man-And-Woman-Is-A-Star/master/33359",
@@ -29387,7 +29387,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5MIBShwvFxQ",
-            "Title": "Pal Joey - Harmony",
+            "title": "Pal Joey - Harmony",
             "Channel ID": "UC3p1aPxkoKHbPLHsV3eMmTQ",
             "Author": "Cheap Records Diggers",
             "Description": "Pal Joey - Harmony Laronte BPM-001 BPM records (Japan) first released in 1991  Support the artist and buy the track !!!",
@@ -29413,7 +29413,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TPDvI0D46Qo",
-            "Title": "Pure Science - Sunset EP - Cool Breeze",
+            "title": "Pure Science - Sunset EP - Cool Breeze",
             "Channel ID": "UCRTvsBTvhRa94hoCvQ2zMyA",
             "Author": "released4pleasure",
             "Description": "http://www.discogs.com/release/50604",
@@ -29439,7 +29439,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "QAKoBhQwD-A",
-            "Title": "Sunday Adams - I Wanna Feel It (Subtle Dub Mix)",
+            "title": "Sunday Adams - I Wanna Feel It (Subtle Dub Mix)",
             "Channel ID": "UCn9pgy_Ra51CGu9EpVRcsgQ",
             "Author": "estimulo101",
             "Description": "Sunday Adams - I Wanna Feel It (Subtle Dub Mix) 1992 - Remix by Subtle Houzze",
@@ -29465,7 +29465,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "sng8PAj4xPE",
-            "Title": "DJ Del Costa & Pedro Goya ‎– Freaky Mike (Original Cut)",
+            "title": "DJ Del Costa & Pedro Goya ‎– Freaky Mike (Original Cut)",
             "Channel ID": "UCSB3i8w87vRhcYL1ESYXQCw",
             "Author": "tmk321",
             "Description": "DJ Del Costa & Pedro Goya ‎– Freaky Mike Label: Exun ‎– exun 2027 Format: Vinyl, 12\", 45 RPM Country: Germany Released: 2003 Genre: Electronic Style: Electro, Tech House",
@@ -29491,7 +29491,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "quUSjngSmN0",
-            "Title": "Dance My Pain Away",
+            "title": "Dance My Pain Away",
             "Channel ID": "UCxpjg-opxhIwMWS0hkocN8Q",
             "Author": "Rod Lee - Topic",
             "Description": "Provided to YouTube by The Orchard Enterprises  Dance My Pain Away · Rod Lee · Roderick Lee  Vol. 5: The Official  ℗ 2005 Club Kings Records / Morphius Urban  Released on: 2006-03-28  Music  Publisher: Club Kingz / Morphius Urban  Auto-generated by YouTube.",
@@ -29517,7 +29517,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3Az5IWSDRBY",
-            "Title": "TWO 1 TWO - THE FONE TUNE (2 Clips)",
+            "title": "TWO 1 TWO - THE FONE TUNE (2 Clips)",
             "Channel ID": "UC0LEb6q47-BHRyw177PZiEw",
             "Author": "RAWFLAVA RECORDS",
             "Description": "Sound-byte! (PHONE 001) ***RARE 12\" GARAGE VINYL*** https://www.discogs.com/sell/item/332562811  For more info & updates check out the following links: http://www.facebook.com/RAWFLAVA http://www.facebook.com/RAWFLAV http://twitter.com/RAWFLAV http://myworld.ebay.co.uk/RAWFLAVA_RECORDS http://www.discogs.com/seller/SNAPS_PROVALONE",
@@ -29543,7 +29543,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fFzOYc3cvbU",
-            "Title": "Voyager - Beatnik",
+            "title": "Voyager - Beatnik",
             "Channel ID": "UC8XB6bI5GeuLG3O2UK5izww",
             "Author": "Berndard Vandenputte",
             "Description": "Point in time 9",
@@ -29569,7 +29569,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "W3fohtPyDgE",
-            "Title": "Great Rainbow Snake",
+            "title": "Great Rainbow Snake",
             "Channel ID": "UCuoBlYlNjiRxP18W1qkfzxQ",
             "Author": "Various Artists - Topic",
             "Description": "Provided to YouTube by NAXOS of America  Great Rainbow Snake · Petra Kat  Mastercuts Late Night Session  ℗ 2012 Mastercuts  Released on: 2012-10-02  Ensemble: Petra Kat Composer: Petra Katoona  Auto-generated by YouTube.",
@@ -29595,7 +29595,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rNInd-I1FfQ",
-            "Title": "The Darkness  - Don't Stop It  that rock   Michael Hammer Dub Mix",
+            "title": "The Darkness  - Don't Stop It  that rock   Michael Hammer Dub Mix",
             "Channel ID": "UCXQE-1APU6mrBBHJwf3vwUA",
             "Author": "MrTowerdub",
             "Description": "Descrizione",
@@ -29621,7 +29621,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PlPcWUXwx7M",
-            "Title": "Gemini - A Taste",
+            "title": "Gemini - A Taste",
             "Channel ID": "UC0oO4LoDQmsxthmhRRn7d3Q",
             "Author": "mrflowp",
             "Description": "Gemini ‎– Swimmin' Wit' Sharks EP Label: Classic ‎– CMC77 Format: Vinyl, 12\", EP, 33 ⅓ RPM  Country: UK Released: 1999 Genre: Electronic Style: House   -uploaded in HD at http://www.TunesToTube.com",
@@ -29647,7 +29647,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "J7k6AHFy4hs",
-            "Title": "Triplets",
+            "title": "Triplets",
             "Channel ID": "UCHhpzICG4_52YJLh88limqg",
             "Author": "Sticky - Topic",
             "Description": "Provided to YouTube by The Orchard Enterprises  Triplets · Sticky  UK Garage Beats V2  ℗ 2011 Perpetuity  Released on: 2011-03-27  Music Publisher: Fuel (UK)  Auto-generated by YouTube.",
@@ -29673,7 +29673,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ohLS-cC_-kQ",
-            "Title": "Round & Round",
+            "title": "Round & Round",
             "Channel ID": "UCit3kQf5aLQK--BvZPuLlpw",
             "Author": "Laissez Faire - Topic",
             "Description": "Provided to YouTube by Music Video Distributors Inc.  Round & Round · Laissez Faire  Hands Off  ℗ METROPOLITAN RECORDS  Released on: 2009-01-27  Artist: Laissez Faire Music  Publisher: METROPOLITAN RECORDS  Auto-generated by YouTube.",
@@ -29699,7 +29699,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bNotdWt4Byc",
-            "Title": "Fuera de órbita (Bonuxxx Track)",
+            "title": "Fuera de órbita (Bonuxxx Track)",
             "Channel ID": "UCki6HpPihnoIgyvSpJ8mNog",
             "Author": "Zeta - Topic",
             "Description": "Provided to YouTube by Altafonte  Fuera de órbita (Bonuxxx Track) · Zeta  Nrg Beatz  ℗ 1998 Tu pierdes  Released on: 1998-01-01  Producer: Ediciones Doctor Yo S.L Music  Publisher: Ediciones Doctor Yo  Auto-generated by YouTube.",
@@ -29725,7 +29725,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-jV1maO5gFg",
-            "Title": "Gemini | 'Ah'i | Chiwax",
+            "title": "Gemini | 'Ah'i | Chiwax",
             "Channel ID": "UC-Q42GCq7aMybwK75Rn1QIA",
             "Author": "Snax Trax",
             "Description": "www.snax-trax.com",
@@ -29751,7 +29751,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "P-axyUay7KM",
-            "Title": "Helium - Out There (1993)",
+            "title": "Helium - Out There (1993)",
             "Channel ID": "UCd9JE5DIBIxXXQOqBQLsOLg",
             "Author": "Hannes Kaechele",
             "Description": "http://www.discogs.com/Helium-The-Works-EP/release/172177",
@@ -29777,7 +29777,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Zj4Ib_8UhjQ",
-            "Title": "Gong Two - Girl (Extended Mix) (1992)",
+            "title": "Gong Two - Girl (Extended Mix) (1992)",
             "Channel ID": "UCd9JE5DIBIxXXQOqBQLsOLg",
             "Author": "Hannes Kaechele",
             "Description": "http://www.discogs.com/Gong-Two-Girl/release/169945",
@@ -29803,7 +29803,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bID083jb_IE",
-            "Title": "Renegade Soundwave (Leftfield Remix)",
+            "title": "Renegade Soundwave (Leftfield Remix)",
             "Channel ID": "UCJec-_K8rP8NoChMBZVjomQ",
             "Author": "Renegade Soundwave - Topic",
             "Description": "Provided to YouTube by PIAS  Renegade Soundwave (Leftfield Remix) · Renegade Soundwave  Rsw 1987-1995  ℗ The copyright in this compilation is owned by Mute Records Ltd  Released on: 1996-07-15  Composer: Danny Briottet Composer: Gary Asquith Composer: Karl Bonnie  Auto-generated by YouTube.",
@@ -29829,7 +29829,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fEWQHaUCjGw",
-            "Title": "Percussion Obsession (Back to Basics Trucker Mix)",
+            "title": "Percussion Obsession (Back to Basics Trucker Mix)",
             "Channel ID": "UCVlMD5UA69m7vZp7lasCqxQ",
             "Author": "Otaku - Topic",
             "Description": "Provided to YouTube by PIAS  Percussion Obsession (Back to Basics Trucker Mix) · Otaku  Percussion Obssession  ℗ Soma Records  Released on: 1993-03-22  Composer: Lawson and Bryson  Auto-generated by YouTube.",
@@ -29855,7 +29855,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ryqELi4SeYk",
-            "Title": "Cristi Cons - Was Zu Sagen",
+            "title": "Cristi Cons - Was Zu Sagen",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "🚀 Follow CMYK (DJ, events, label...): https://instagram.com/cmykitsme 🍓🏷️ My new vinyl label: https://soundcloud.com/jamdemsounds 📡☁️ My 24/7 Chill-Out Webradio: https://www.kanvas.fm",
@@ -29881,7 +29881,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WVX1VGDk9V0",
-            "Title": "Bet'cha Gonna Need My Lovin' (Instrumental)",
+            "title": "Bet'cha Gonna Need My Lovin' (Instrumental)",
             "Channel ID": "UCDc4AG75G29DqBkXPIGtTfg",
             "Author": "La Toya Jackson - Topic",
             "Description": "Provided to YouTube by Legacy Recordings  Bet'cha Gonna Need My Lovin' (Instrumental) · LaToya Jackson  Heart Don't Lie (Bonus Track Version)  ℗ 1984 Columbia Records, a division of Sony Music Entertainment  Released on: 2014-04-18  Composer, Producer: Amir Bayyan Composer: Kelly Barretto Composer: Cynthia Huggins  Auto-generated by YouTube.",
@@ -29907,7 +29907,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IMzn-jyifkY",
-            "Title": "My Love (So Good) (10 Below Club Mix)",
+            "title": "My Love (So Good) (10 Below Club Mix)",
             "Channel ID": "UC0xXsk6xSFw9x_1yISh68SQ",
             "Author": "10 Below & Kele Le Roc - Topic",
             "Description": "Provided to YouTube by Believe SAS  My Love (So Good) (10 Below Club Mix) · 10 Below · Kele Le Roc · Tim Liken · Omar Adimora · Nevil · Bradley Spalter · Louise Francis  My Love (So Good)  ℗ Ice Cream Records  Released on: 2008-01-01  Auto-generated by YouTube.",
@@ -29933,7 +29933,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3yvvuiBPoIQ",
-            "Title": "Enjoy (Sky Mix)",
+            "title": "Enjoy (Sky Mix)",
             "Channel ID": "UCRz_O8UhDWndIYunJCdRAbA",
             "Author": "Sunny Boyz - Topic",
             "Description": "Provided to YouTube by The Orchard Enterprises  Enjoy (Sky Mix) · Sunny Boyz · S. Grondin · M. Laflamme  Euro House Freestyle Club Culture  ℗ 1995 Hi-Bias Records  Released on: 2006-12-08  Contributor, Producer, Screenplay Author: S. Grondin Contributor, Screenplay Author: M. Laflamme  Auto-generated by YouTube.",
@@ -29959,7 +29959,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5kwsCYW--Q0",
-            "Title": "Rhythm Invention - Luvly",
+            "title": "Rhythm Invention - Luvly",
             "Channel ID": "UCImZ5OIUUyFUfEGqpSRyONQ",
             "Author": "Audiosonic's Channel",
             "Description": "http://www.discogs.com/Rhythm-Invention-Crunch/release/132842  1992 - NUKE 2 - Nucleus - UK  (N. Simpson - R. Brown)",
@@ -29985,7 +29985,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "dBJspCLVzXQ",
-            "Title": "Viola   Dub Things Happen",
+            "title": "Viola   Dub Things Happen",
             "Channel ID": "UCbcK77_U23Pb2oiYktC1Zmw",
             "Author": "Planète Sauvage",
             "Description": "",
@@ -30011,7 +30011,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0NqM4EAcbt8",
-            "Title": "Get Ghetto",
+            "title": "Get Ghetto",
             "Channel ID": "UCcg-2_e2C6JFSkbS6oMdgvg",
             "Author": "EMS - Topic",
             "Description": "Provided to YouTube by The Orchard Enterprises  Get Ghetto · EMS  Synchronaut  ℗ 2004 Satamile  Released on: 2004-10-12  Auto-generated by YouTube.",
@@ -30037,7 +30037,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JaSV19T6EFU",
-            "Title": "Aphradan ‎– Strut (Original Mix)",
+            "title": "Aphradan ‎– Strut (Original Mix)",
             "Channel ID": "UCKyYnYVEEP0YPCQkFVP6PhA",
             "Author": "Inercia HuelvaTV",
             "Description": "Aphradan ‎– Strut  Label: Ruff City Recordings ‎– RUFFCIT-2 Format: Vinyl, 12\"  Country: UK Released: 1997 Genre: Electronic Style: Breakbeat, House",
@@ -30063,7 +30063,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MJNDO6bkMh8",
-            "Title": "Gymball Percussion Mix (Orginal Mix)",
+            "title": "Gymball Percussion Mix (Orginal Mix)",
             "Channel ID": "UCq8u9B0DVYVUdBC8q5435eA",
             "Author": "The Poor Knight - Topic",
             "Description": "Provided to YouTube by Paradise Entertainment & Distribution GmbH  Gymball Percussion Mix (Orginal Mix) · The Poor Knight  Cabinet 14  ℗ 1998 Cabinet Records  Released on: 1998-09-01  Associated Performer: The Poor Knight Producer: Dj Zky & Daniel P Composer: Dj Zky & Daniel P Lyricist: Dj Zky & Daniel P Music Publisher: Copyright Control  Auto-generated by YouTube.",
@@ -30089,7 +30089,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "R1sZ28blotg",
-            "Title": "Antonio - Hyperfunk (Steve Gurley Mix)",
+            "title": "Antonio - Hyperfunk (Steve Gurley Mix)",
             "Channel ID": "UCgjUeDQQ0EV4nhDSw-SQvWw",
             "Author": "L",
             "Description": "",
@@ -30115,7 +30115,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1qz_LAkiwxA",
-            "Title": "Space Trax - Aura",
+            "title": "Space Trax - Aura",
             "Channel ID": "UCqVfRcVeA5--TZ3azVA7VOw",
             "Author": "Underground Source",
             "Description": "1992 | Stealth Records",
@@ -30141,7 +30141,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0EEw14IuPCI",
-            "Title": "Debbie Malone - Rescue Me (12\" Mix) - 1989",
+            "title": "Debbie Malone - Rescue Me (12\" Mix) - 1989",
             "Channel ID": "UCmPtVkxKwGRwQX1rMFaXfoA",
             "Author": "sticksquash",
             "Description": "Drum samples in this 12\" press were used in various 90's breakbeat dance music.",
@@ -30167,7 +30167,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XGvaVTc5qgY",
-            "Title": "Metacomplex - Biosequence Analysis",
+            "title": "Metacomplex - Biosequence Analysis",
             "Channel ID": "UCGKc9v4MrXxxA6x1ywfHXrQ",
             "Author": "NUT WAVE",
             "Description": "Artist: Metacomplex Track: Biosequence Analysis Album: Time Capsule 808 Box Label: Fundamental Records Year: 2013",
@@ -30193,7 +30193,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hjaF9LhzioM",
-            "Title": "Deep Style - Well Well Well (Breakdown Wo Mello Dub)",
+            "title": "Deep Style - Well Well Well (Breakdown Wo Mello Dub)",
             "Channel ID": "UCqVfRcVeA5--TZ3azVA7VOw",
             "Author": "Underground Source",
             "Description": "1992 | Paramodo Records",
@@ -30219,7 +30219,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Kpc8Ph0MyZg",
-            "Title": "Blunted Dummies - House For All (S-Man's Deep In The Vibe Edit)",
+            "title": "Blunted Dummies - House For All (S-Man's Deep In The Vibe Edit)",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "More rare/new House & Techno vinyl rips, tips, news and cool stuff: https://www.facebook.com/CMYKitsme  Nice DJ friendly edit of a classic early 90's track.  Like it? Buy it!  http://www.discogs.com/Various-Choice-A-Collection-Of-Classics-Exclusive-Roger-Sanchez-Re-Edits-2/release/883243  DISCLAIMER : I do not own any rights on the material in this video. All tracks upload are for promotional use only and are uploaded in very low quality, ripping them is useless.  If any of the legal owners do not want their music on YouTube PLEASE SEND ME A PRIVATE MESSAGE BEFORE FLAGGING the video and I will REMOVE THE VIDEO IMMEDIATELY! Thank you very much for your understanding.",
@@ -30245,7 +30245,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "H99u1OQkujo",
-            "Title": "3 A.M. - I Love This Place",
+            "title": "3 A.M. - I Love This Place",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "Label: Movin' Records ‎-- MR025 Format: Vinyl, 12\", 33 ⅓ RPM  Country: US Released: 1994 Genre: Electronic Style: Garage House",
@@ -30271,7 +30271,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "AyYkKDDI5Sg",
-            "Title": "Caron Wheeler - UK Blak",
+            "title": "Caron Wheeler - UK Blak",
             "Channel ID": "UCnxkNWoq29_z9di9h4OWOtw",
             "Author": "FarmYardFlavours",
             "Description": "Written by Caron Wheeler and Carl Mcintosh  Many moons ago .... We were told the streets were paved with gold So our people came by air and sea To earn a money they could keep Then fly back home Sadly this never came to be When we learned we had just been invited To clean up after the war Back in '49 never intended to stay here Who could afford to leave these shores  UK Blak, ending the silence now UK Blak, letting you know that we're about  Born and raised this way Is a different thing,  bi-culturally Fresh direction, new ideas Opening our eyes and ears Allowing us to save our day No more frustration Pushed back in isolation Positive creativity Finding ourselves Aching to be set free  UK Blak, ending the silence now UK Blak, letting you know that we're about UK Blak, ending the silence now UK Blak, letting you know that we're about  In society you can find me If you stop living life so blindly Daddy says we'll never change things But I have faith in the African abroad, yes  UK Blak, ending the silence now UK Blak, letting you know that we're about UK Blak, ending the silence now UK Blak, letting you know that we're about  UK Blak, ending the silence now UK Blak, letting you know that we're about UK Blak, ending the silence now UK Blak, letting you know that we're about",
@@ -30297,7 +30297,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nPqq-HTyWT0",
-            "Title": "Nick Holder - Feelin' Sad",
+            "title": "Nick Holder - Feelin' Sad",
             "Channel ID": "UC4zfJ32xdMaP6XqBEbqsCGA",
             "Author": "adrian cojocaru",
             "Description": "Label: DNH Records ‎-- DNH-048 Format: Vinyl, 12\", EP  Country: Canada Released: 1998 Genre: Electronic Style: House, Deep House, Disco",
@@ -30323,7 +30323,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "231HAz-3uNs",
-            "Title": "Jazz-N-Groove - My Heart",
+            "title": "Jazz-N-Groove - My Heart",
             "Channel ID": "UCVewxC9zPTsk5vb-1bjMWjg",
             "Author": "martz67oldskool",
             "Description": "Jazz-N-Groove ‎-- Raw Flava E.P. Vol. No.1 Label:Doghouse Records ‎-- DH-007 Format:Vinyl, 12\", EP Country:US Released:1994 Genre:Electronic Style:Deep House, Garage House",
@@ -30349,7 +30349,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0RNu9YIju30",
-            "Title": "Mood II Swing Feat Carol Sylvan - Closer (King Street Moody Club)",
+            "title": "Mood II Swing Feat Carol Sylvan - Closer (King Street Moody Club)",
             "Channel ID": "UCy1Gf12AFE6d37jThhSJDOQ",
             "Author": "DEEPBEATZ1",
             "Description": "http://www.traxsource.com/title/242984/closer",
@@ -30375,7 +30375,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xDvrQVG040g",
-            "Title": "Omni Trio - Renegade Snares (Foul Play VIP Remix)",
+            "title": "Omni Trio - Renegade Snares (Foul Play VIP Remix)",
             "Channel ID": "UCf8phIry4P0-nNRcNkiHQTQ",
             "Author": "naechancepal",
             "Description": "http://www.discogs.com/Omni-Trio-The-Deepest-Cut-Vol-1/release/9758 | ASHADOW1CD",
@@ -30401,7 +30401,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "X_0Hiifm3Fs",
-            "Title": "Biotrans    Freedom 1",
+            "title": "Biotrans    Freedom 1",
             "Channel ID": "UCjE9ZtzIAMX90bW-fqvtxlw",
             "Author": "onlyraretracks",
             "Description": "Techno , Techouse 1993",
@@ -30427,7 +30427,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EDr3FUhWB44",
-            "Title": "Glass House Projectz - Evolve",
+            "title": "Glass House Projectz - Evolve",
             "Channel ID": "UCzdIN_rBGPHmHeHlHfMhbgg",
             "Author": "SRIPromotions",
             "Description": "Title: Evolve Artist: Glass House Projectz Label: Soiree Records International (1997) Catalog No. SRT125 - Colours EP Soiree Records International - available on vinyl and digital download",
@@ -30453,7 +30453,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VIyILRn9CBc",
-            "Title": "Metro - Here For The Love (Metropolitan Acid Mix)",
+            "title": "Metro - Here For The Love (Metropolitan Acid Mix)",
             "Channel ID": "UC5jMfQemCzz8CCWdeIctkGA",
             "Author": "House and Techno (late 80s to mid 90s)",
             "Description": "Metro ‎-- Here For The Love Label: Bassex Records ‎-- BASSEX 002 Format: Vinyl, 12\" Country: US Released: #1994 Genre: Electronic Style: Breaks, #Techno, #Acid Tracklist A   Here For The Love (Metropolitan Acid Mix) B   Here For The Love (Trans To Funk Mix)",
@@ -30479,7 +30479,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "e6UOL_bOUj0",
-            "Title": "Ron Trent - Feel The Rhythm",
+            "title": "Ron Trent - Feel The Rhythm",
             "Channel ID": "UCmDBb8p7bpeUcChaErpd-bg",
             "Author": "Bozak DLA",
             "Description": "",
@@ -30505,7 +30505,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HbgO5emZXqY",
-            "Title": "Soul Of Man: Killa Brew (Brew Mix)",
+            "title": "Soul Of Man: Killa Brew (Brew Mix)",
             "Channel ID": "UCzg2NZ_1-86xLDWOJX39_PQ",
             "Author": "Tobias Enstrom",
             "Description": "Any errors please let me know and I will amend.  No copyright infringement intended. If you want it taken down please let me know and I will.  http://www.discogs.com/Soul-Of-Man-Killa-Brew/release/15639",
@@ -30531,7 +30531,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nAehuZV-aZk",
-            "Title": "I Wantcha Love by Apple Blue",
+            "title": "I Wantcha Love by Apple Blue",
             "Channel ID": "UCsx8r3aY3q1zwZA9jZgUqSA",
             "Author": "Hyper GoGo",
             "Description": "Vocal club house track 'I wantcha love' by Dutch house duo Apple Blue. Vocals by Sanne. The First Experience EP was released in 1994 on label Turn Tool Experience. This track has never been released on CD. It wasn't a big hit at the time but it got some airtime on local radio stations.  More info: http://www.discogs.com/Various-First-Experience-EP/release/177087",
@@ -30557,7 +30557,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NUlu7DNXlRQ",
-            "Title": "Derek Carr - L'Equipe",
+            "title": "Derek Carr - L'Equipe",
             "Channel ID": "UCeg2NXyk1A2oxfkc_LhRF_Q",
             "Author": "F.U.B.",
             "Description": "Label: Headspace Recordings (UK) ‎-- HS-015 Format: Vinyl, 12\", 33 ⅓ RPM, EP  Country: UK Released: 04 Mar 2004 Genre: Electronic Style: Techno, Deep House",
@@ -30583,7 +30583,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "sgw1XsvMtmo",
-            "Title": "Dreamlogic - Mistral",
+            "title": "Dreamlogic - Mistral",
             "Channel ID": "UCxC_Z7DxXiR_WQ-u6aeZbPQ",
             "Author": "robertsheamusic",
             "Description": "first released on the Map Music compilation \"Welcome To Lotus Land\" in 1997 and on double a-sided 12\" with Pilgrims Of The Mind - \"Who.Is.That?\". Coming out late 2017 as part of a special double vinyl version of the classic 1996 compilation \"Welcome To Lotus Land\"",
@@ -30609,7 +30609,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_0l3HD64aRE",
-            "Title": "Tekkamaki Runner: Dave",
+            "title": "Tekkamaki Runner: Dave",
             "Channel ID": "UC_aZa03hfCaQSCqxN2U1WWg",
             "Author": "Sleep Deprivation Labs",
             "Description": "from the album \"Good\" (Ausfahrt CD, 2000)",
@@ -30635,7 +30635,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wURQJ2x-Xww",
-            "Title": "WAX DOCTOR   \"KIDD CAPPRICE\"   METALHEADZ 005 (1994)",
+            "title": "WAX DOCTOR   \"KIDD CAPPRICE\"   METALHEADZ 005 (1994)",
             "Channel ID": "UCRBSTt_UBqQlP1qjj9YdKSQ",
             "Author": "SIDSJS73",
             "Description": "WAX DOCTOR   \"KID CAPPRICE\"   MET005, DRUM & BASS RELEASED 1994. Written and produced for Rufige Kru Productions. Mastered at The Exchange. samples A Man Called Adam \"Earthly Powers\".",
@@ -30661,7 +30661,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "XZNds_1MvqA",
-            "Title": "Geeks 'N' Freaks EP - Calming Influence",
+            "title": "Geeks 'N' Freaks EP - Calming Influence",
             "Channel ID": "UCzFXly4ICx2YOOe3WqH_qww",
             "Author": "House Head For Life",
             "Description": "1996. http://www.discogs.com/Justin-David-Geeks-N-Freaks-EP/release/124527",
@@ -30687,7 +30687,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "opiu6gShfxc",
-            "Title": "KCC presents Aldeoni - Move Closer (Tripping Mix)",
+            "title": "KCC presents Aldeoni - Move Closer (Tripping Mix)",
             "Channel ID": "UCJr6JAYILriJOGhxZAlYKLQ",
             "Author": "sfere71",
             "Description": "199? track from Tomp Records ‎-- OMP005  http://www.discogs.com/KCC-Presents-Aldeoni-Move-Closer/release/353233",
@@ -30713,7 +30713,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "DmjmKjr0VNw",
-            "Title": "R.I.P Productions - Mellow Works (1996)",
+            "title": "R.I.P Productions - Mellow Works (1996)",
             "Channel ID": "UCcDyXTo4DTQbDeWLqOJNK5w",
             "Author": "Samlighty",
             "Description": "1996 - R.I.P Productions Club Trax Vol. 1  https://www.discogs.com/RIP-Productions-Club-Trax-Vol-1/release/51419",
@@ -30739,7 +30739,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8wKka6zFMkY",
-            "Title": "Esther Duijn - Eavalon Rises",
+            "title": "Esther Duijn - Eavalon Rises",
             "Channel ID": "UC_9j-jI_P6heeJpQRvz0eOw",
             "Author": "CMYK",
             "Description": "More rare/new House & Techno vinyl rips, mixes and cool stuff: https://www.facebook.com/CMYKitsme  Artist: Esther Duijn Track: Eavalon Rises EP: Various - Earth Tones 5 (SPMETV005) Label: Soul People Music  Like it? Buy it! http://www.discogs.com/Various-Earth-Tones-5/release/5159116",
@@ -30765,7 +30765,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NSKsUvVV83Y",
-            "Title": "Psi Spy - Grayam",
+            "title": "Psi Spy - Grayam",
             "Channel ID": "UCJu1Mx85grohhfUHexVOUsw",
             "Author": "x-trent",
             "Description": "Bake N Bite EP (2004)",
@@ -30791,7 +30791,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "p7p7o-Mm2bY",
-            "Title": "Donna Dee   Haunted House",
+            "title": "Donna Dee   Haunted House",
             "Channel ID": "UC_B26IldsJsHfyIuGHsB-aQ",
             "Author": "Mark Barry",
             "Description": "She not only trains hard as a B-girl and battles when ever she can but over the last 12 years she has had over 30 records released and an album on various independent and major labels. She currently has many music projects on the go which will be released in the near future and also has a new artist album coming out in 2006. As well as professionally producing music, Donna has been a DJ since 1998. She has toured and DJed all over the globe playing everything from Breaks, Drum & Bass, House (Deep & Funky) and of course Funk and Hip Hop. She is one of the few girls in the world that can take out a lot of men at scratching and turntable skills. Her latest mixes are available on her website so down load one and see for your self.   Style: UK Garage   Year: 1998  Donna Dee -  Haunted House (Mecca Recordings)",
@@ -30817,7 +30817,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "44cK8P5ha5w",
-            "Title": "Deanne Day - The Long First Friday",
+            "title": "Deanne Day - The Long First Friday",
             "Channel ID": "UCpBYFd5OTDufxgqC-GJbxoQ",
             "Author": "deejaypipe",
             "Description": "MCA Music / EMI Music (P) Sabres Of Paradise Ltd. (C) Sabres Of Paradise Ltd.  Released on Emissions Audio Output in 1996. Produced and written by Deanne Day and James Hardway.",
@@ -30843,7 +30843,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "dqv5mYSG3Qw",
-            "Title": "Evan Bags - Arises Passes Away",
+            "title": "Evan Bags - Arises Passes Away",
             "Channel ID": "UC-Ds1DsoRQTpYHGHcMQ3KgA",
             "Author": "Substantia Nigra",
             "Description": "Evan Baggs ‎- Arises Passes Away / Race  Label: Kurbits Sweden ‎| KURBITS 008 Format: Vinyl, 12\"  Country: Germany Released: Aug 2013 Genre: Electronic Style: Techno, Deep House  Tracklist: A Arises Passes Away B Race",
@@ -30869,7 +30869,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "joQlXOS-plM",
-            "Title": "Silver Lining - Pearl Divers",
+            "title": "Silver Lining - Pearl Divers",
             "Channel ID": "UCJ-m9bt2iV5pbTD4_xq7dNA",
             "Author": "Francois Pittion",
             "Description": "Nice techno",
@@ -30895,7 +30895,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IXsKF48J89k",
-            "Title": "Alexander Skancke - Ravelle",
+            "title": "Alexander Skancke - Ravelle",
             "Channel ID": "UC-Ds1DsoRQTpYHGHcMQ3KgA",
             "Author": "Substantia Nigra",
             "Description": "Alexander Skancke ‎- Jalien EP (Part 2)  Label: Neostrictly | 005 Format: Vinyl, 12\"  Country: Germany Released: Jul 2013 Genre: Electronic Style: Minimal Techno  Tracklist: A Ravelle B RE201",
@@ -30921,7 +30921,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "u03Ub9dbonU",
-            "Title": "Wax Doctor - Never As Good (1995)",
+            "title": "Wax Doctor - Never As Good (1995)",
             "Channel ID": "UC6K5mgbprl8aOabbP1RhS7Q",
             "Author": "pilatusz",
             "Description": "couldn't find this masterpiece on youtube, so here it is  release: http://www.discogs.com/Wax-Doctor-Atmospheric-Funk/master/30542",
@@ -30947,7 +30947,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MpC_N-h9sXs",
-            "Title": "Megalon - Semblance",
+            "title": "Megalon - Semblance",
             "Channel ID": "UC8VHqU0XbiL3AQ6hD4YSWqg",
             "Author": "bassbytes",
             "Description": "From Parasols Volume One compilation: http://www.discogs.com/Various-Parasols-Volume-One/release/185466",
@@ -30973,7 +30973,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IWl2alN1BHs",
-            "Title": "Night Communication - Lose Control (In Dub We Trust Mix)",
+            "title": "Night Communication - Lose Control (In Dub We Trust Mix)",
             "Channel ID": "UC6l6MAj4aH8G40CCmDngZwA",
             "Author": "LUX4INTERIOR",
             "Description": "Night Communication - Lose Control (In Dub We Trust Mix)  W+P by Leo Mas + Gemolotto + Portaluri 2 x Vinyl - 12\" - EP - B Side Heartbeat The Global House - HB 001 - 1992  https://itunes.apple.com/it/album/lose-control-ep/id353527702  http://www.discogs.com/Night-Communication-Night-Communication-EP/release/26186",
@@ -30999,7 +30999,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pTDC_t5K-xw",
-            "Title": "JJ Louis & Sovereign - Herbalist (UK Garage 2000)",
+            "title": "JJ Louis & Sovereign - Herbalist (UK Garage 2000)",
             "Channel ID": "UCHF0Nuog2F53jhCV0LVx_0g",
             "Author": "Ben Riddick",
             "Description": "UK Ragga Garage rarity from JJ Louis & Sovereign  (N19 records promo, 2000)  http://www.discogs.com/JJ-Louis-Sovereign-Dreamlover/release/534981",
@@ -31025,7 +31025,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "dIVGHDQVYMY",
-            "Title": "Miles Maeda - My force",
+            "title": "Miles Maeda - My force",
             "Channel ID": "UCRzYQuJTCodIOkrxu9XzgGw",
             "Author": "ErlangHouse Grooves",
             "Description": "Miles Maeda - My force  Label: .dotbleep ‎-- DBR004 Format: Vinyl, 12\", EP  Country: UK Released: 22 Apr 2005",
@@ -31051,7 +31051,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RxfnBhwc9xg",
-            "Title": "Sade - Surrender Your Love (Kenny Larkin Remix)",
+            "title": "Sade - Surrender Your Love (Kenny Larkin Remix)",
             "Channel ID": "UCvSmMHAvqdxb-iVpBbDcAbQ",
             "Author": "treedmusic",
             "Description": "http://www.discogs.com/Sade-Surrender-Your-Love-Illegal-Remixes/release/38019",
@@ -31077,7 +31077,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "C0YhgtJIcMw",
-            "Title": "Submission Featuring Jackie Buckley ‎-- Trouble (Underhappy)",
+            "title": "Submission Featuring Jackie Buckley ‎-- Trouble (Underhappy)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1992. http://www.discogs.com/release/259334",
@@ -31103,7 +31103,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ig_PrnrUz8Q",
-            "Title": "Sweat  Jay Williams  (Light Years)",
+            "title": "Sweat  Jay Williams  (Light Years)",
             "Channel ID": "UCRFgutjaR0c462Yy8IFxlaQ",
             "Author": "Davide Angelonidjnewark",
             "Description": "",
@@ -31129,7 +31129,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MBUvhCmaeDE",
-            "Title": "Bed & Bondage - Don't Take The Mick (Houserockers Dub) 1999",
+            "title": "Bed & Bondage - Don't Take The Mick (Houserockers Dub) 1999",
             "Channel ID": "UC8UX3iKXSAjqwxTktzkOUpA",
             "Author": "BackToOldNight",
             "Description": "",
@@ -31155,7 +31155,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "nA6oPtGPpAU",
-            "Title": "Global Logic - The Tank",
+            "title": "Global Logic - The Tank",
             "Channel ID": "UCPaO3t4D4VtJbmVMeZoghQw",
             "Author": "Underground Music Channel",
             "Description": "Track from Basement 282. Year 1994.",
@@ -31181,7 +31181,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-qh6LbJxf54",
-            "Title": "Paul Hester - Millenium",
+            "title": "Paul Hester - Millenium",
             "Channel ID": "UCCL_rE8MCGxTlPESj4Rm9iw",
             "Author": "LukeyChoons",
             "Description": "Paul Hester ‎-- Millennium / Days Gone By  Label:Moon Music ‎-- moon 002 Format:Vinyl, 12\", 33 ⅓ RPM Country:UK Released:1999 Genre:Electronic Style:Deep House, Tech House   http://www.discogs.com/Paul-Hester-Millennium-Days-Gone-By/release/69650",
@@ -31207,7 +31207,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_y1qB20i2LA",
-            "Title": "Derrick L. Carter 'Birthday Song (For Andy)'",
+            "title": "Derrick L. Carter 'Birthday Song (For Andy)'",
             "Channel ID": "UCFNfezEnS1klpHCbH0fFlZA",
             "Author": "Classic Music Company",
             "Description": "Three tracks from Chicago's finest, kicking off with 'Dreaming Again' which harks back to the very best of Sound Patrol, Blue Cucaracha and the Red Nail vibe. A trademark Carter groove that builds and develops perfectly with narration from the man himself, think KC Flight's 'Voices' with Cajmere on the mix. 'Birthday Song (For Andy)' is bottom end bass ridden down tempo cut with DC on fine singing form. The real hit pick though comes in the form of 'Boompty Boomp Theme', without doubt the most downright funkiest track on the EP. Although the BPMs will keep this off 'safe' DJ sets, those who dare certainly will win.",
@@ -31233,7 +31233,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9o0rAvZtM7w",
-            "Title": "Adventures Of Stevie V - Dirty Cash (Money Talks) (Official Video)",
+            "title": "Adventures Of Stevie V - Dirty Cash (Money Talks) (Official Video)",
             "Channel ID": "UCFRe1i5lu0H26RgEBWR1gpA",
             "Author": "Altra Moda Music",
             "Description": "Download at iTunes (Single) : http://tinyurl.com/lns87ye Stream with Spotify (Single) : http://tinyurl.com/kl4kndy  Download at iTunes (Album) : http://tinyurl.com/o56d7zt Stream with Spotify (Album) : http://tinyurl.com/qasjrpv  The Adventures of Stevie V was a British dance music act, who in the late 1980s & early 1990s scored several hits on the UK Singles Chart, and the US Hot Dance Music/Club Play chart. Assembled by producer Stevie Vincent, the group also included singers Melody Washington and Mick Walsh. Their most successful single was \"Dirty Cash (Money Talks)\", a #1 dance chart hit that crossed over to pop radio and hit #2 on the UK Singles Chart, as well as peaking at #25 on the Billboard Hot 100 in 1990. Follow-up single \"Jealousy,\" hit #2 on the US dance chart in early 1991, and climbed to #95 on the Hot 100.",
@@ -31259,7 +31259,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oluiOw4jyLk",
-            "Title": "Nobody Stops - Kenneth Graham & Steve Loria",
+            "title": "Nobody Stops - Kenneth Graham & Steve Loria",
             "Channel ID": "UCE7VMUd_MDegDH3HzhEo1Pw",
             "Author": "Marian",
             "Description": "From Pacific Coast House Sounds & beatsnonstop EP Vinyl",
@@ -31285,7 +31285,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "k-ZazLdtDRI",
-            "Title": "The Creations - Kinky Girl [1984] HQ Audio",
+            "title": "The Creations - Kinky Girl [1984] HQ Audio",
             "Channel ID": "UCrnfy52M0tsMb7uED6yqp8A",
             "Author": "The Soul Box",
             "Description": "Label : Dre-Mar Records Format : Vinyl, 12\" Country : US Released : 1984   From personal collection, no copyrights owned.  Subscribe !  Don't forget the notification bell to get instant updates. New videos each week (Fridays and/or Sundays at 8pm CET).",
@@ -31311,7 +31311,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "I-SyRPHEge8",
-            "Title": "B.B. Keys - Such A Lovely Feeling",
+            "title": "B.B. Keys - Such A Lovely Feeling",
             "Channel ID": "UCObsUupit1C6-DdIoYaw-4g",
             "Author": "dholter1987",
             "Description": "Sneak Tip Records 1994",
@@ -31337,7 +31337,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qlB5tEVNutk",
-            "Title": "Adam F ft. MC Conrad - F Jam (album edit)",
+            "title": "Adam F ft. MC Conrad - F Jam (album edit)",
             "Channel ID": "UC9WX5esxoggqikUCcbeqUEg",
             "Author": "NENAD198",
             "Description": "Artist: Adam F Album: Colours Song: F-Jam (album edit)  Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.",
@@ -31363,7 +31363,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "psyAiINJBV0",
-            "Title": "Essa - Up There Out There",
+            "title": "Essa - Up There Out There",
             "Channel ID": "UCuAWqiJSzgiUoksblSNzPQw",
             "Author": "Dave Vintner",
             "Description": "Strictly For Groovers, from the legendary DiY stable...",
@@ -31389,7 +31389,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tcqXjgKX31Q",
-            "Title": "Jill Scott - Golden (Kaytranada Remix)",
+            "title": "Jill Scott - Golden (Kaytranada Remix)",
             "Channel ID": "UCAVPqVQjf3oA19XSlDntv8Q",
             "Author": "TankTop Summers",
             "Description": "Music that helps you appreciate the moment, and never forget it. ► Twitter: https://twitter.com/TankTopSummers ► Subscribe: http://bit.ly/XRlcoC  Download Song: ☼ https://soundcloud.com/kaytranada/jill-scott-golden-kaytranadas  Support Kaytranada: ☼ https://soundcloud.com/kaytranada ☼ http://www.facebook.com/Kaytranada ☼ https://twitter.com/kaytranada  Legal Bit: Any external members that would like their content removed from this channel, please inform me and I will be more than happy to comply.",
@@ -31415,7 +31415,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "I9gpDF7Le2M",
-            "Title": "Rogue Unit - Dance Of The Sarooes",
+            "title": "Rogue Unit - Dance Of The Sarooes",
             "Channel ID": "UCK-TytUBBZGPqCNPNX0R2iA",
             "Author": "Tom Mason",
             "Description": "Labello Blanco Recordings ‎-- NLB11 1994",
@@ -31441,7 +31441,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VLjwyRkaK8o",
-            "Title": "Omar-S - Be Yoself",
+            "title": "Omar-S - Be Yoself",
             "Channel ID": "UC0e_WJvYECS6k0n1yMl8tmw",
             "Author": "titledun",
             "Description": "Track 4 from Omar-S - Thank You For Letting Me Be Myself (FXHE) 2013  if u want removed message me  http://www.discogs.com/Omar-S-Thank-You-For-Letting-Me-Be-Myself/release/4402935",
@@ -31467,7 +31467,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cZlsqFg1psE",
-            "Title": "The Chimes - I Still Haven't Found What Im Looking For (Boom Mix) HQ AUDIO",
+            "title": "The Chimes - I Still Haven't Found What Im Looking For (Boom Mix) HQ AUDIO",
             "Channel ID": "UC5g295aCB0BOH5M2gIA3Fzg",
             "Author": "Ultra Ajvar",
             "Description": "Chimes, The ‎-- I Still Haven't Found What I'm Looking For Label: CBS ‎-- 655980 3 Format: CD, Mini, Maxi-Single  Country: UK & Europe Released: 1990 Genre: Electronic, Funk / Soul, Pop Style: Rhythm & Blues",
@@ -31493,7 +31493,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Qprxe1S9paU",
-            "Title": "Back To Front - Viewfinder - 1992",
+            "title": "Back To Front - Viewfinder - 1992",
             "Channel ID": "UC1_SsulrZsyIzneNauJsMNw",
             "Author": "Oldskoolclubmusic",
             "Description": "Back II Front* ‎-- Viewfinder - Original Mix Label: - Deep Distraxion ‎-- OILY 014 Format: - Vinyl, 12\"  Country: - UK Released: - 1992 Genre: - Electronic Style: - House",
@@ -31519,7 +31519,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "D5Vi1RUTJlc",
-            "Title": "Future Funk Squad-BLAZE UP",
+            "title": "Future Funk Squad-BLAZE UP",
             "Channel ID": "UCkdV_pYEWIfbc94WnZDy4UQ",
             "Author": "zoldleves",
             "Description": "",
@@ -31545,7 +31545,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "sgFPjuuk4Kk",
-            "Title": "N'n'G - Right Before My Eyes - The Remix feat. MC Neat (UK Garage)",
+            "title": "N'n'G - Right Before My Eyes - The Remix feat. MC Neat (UK Garage)",
             "Channel ID": "UCm_gBTF_Cxi1lCWLD47ia8w",
             "Author": "Diggy Dan Lee",
             "Description": "N'n'G - Right Before My Eyes - The Remix feat. MC Neat (UK Garage)",
@@ -31571,7 +31571,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BZNgKZMRpsM",
-            "Title": "Soichi Terada - Do It Again",
+            "title": "Soichi Terada - Do It Again",
             "Channel ID": "UCIV1fmzKy79g1cNLVSXmxRA",
             "Author": "UtopiaSpb",
             "Description": "Various ‎-- Far East Recording Label:Far East Recording ‎-- FER-06859 Format:Vinyl, 12\", EP, 33 ⅓ RPM  Country:Japan Released:1992 Genre:Electronic Style:House, Downtempo",
@@ -31597,7 +31597,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6-7Jb6g6-TA",
-            "Title": "Rick Wade - Night Track",
+            "title": "Rick Wade - Night Track",
             "Channel ID": "UCzcg7JT6FKj4zf9YcerDpYg",
             "Author": "sedenkalkavan",
             "Description": "Night Trackin' EP",
@@ -31623,7 +31623,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fLKStKplU-o",
-            "Title": "Paradise Girls - Holding Back (Paul's Back - Dubmental Mix II) [Easy Street, 1986]",
+            "title": "Paradise Girls - Holding Back (Paul's Back - Dubmental Mix II) [Easy Street, 1986]",
             "Channel ID": "UCbcpZDGmJ02REppY1LbYeJQ",
             "Author": "DeepDown",
             "Description": "Paradise Girls - Holding Back (Paul's Back - Dubmental Mix II) [Easy Street, 1986]",
@@ -31649,7 +31649,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "b6-1jQIG6pg",
-            "Title": "Interloper - Series (1996)",
+            "title": "Interloper - Series (1996)",
             "Channel ID": "UCL4J20Y1UpQGttcNXMB2j9Q",
             "Author": "2trancentral",
             "Description": "505..345..675..505.. :) \\o/ old school techno-trance gem, taken from Dream Injection 4: Bright / Dark  Label: Sub Terranean",
@@ -31675,7 +31675,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bvryQhye3vo",
-            "Title": "Romanthony \"Let Me Show You Love\" (Gerd's Crooklyn Full Vox Mix)",
+            "title": "Romanthony \"Let Me Show You Love\" (Gerd's Crooklyn Full Vox Mix)",
             "Channel ID": "UCSsZM91uoLr0PG4H5h_ZaIw",
             "Author": "Glasgow Underground",
             "Description": "https://www.facebook.com/glasgowunderground",
@@ -31701,7 +31701,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5XsGqpmbkKc",
-            "Title": "Quentin Harris - Beautiful Black Women Come From Brooklyn (Zed Bias Remix)",
+            "title": "Quentin Harris - Beautiful Black Women Come From Brooklyn (Zed Bias Remix)",
             "Channel ID": "UCjLQpbl7tOfQS9c7ToT-qWA",
             "Author": "Jamal Finni",
             "Description": "The full version of Zed Bias's Remix of Quentin Harris's Beautiful Black Women Come From Brooklyn  Download here http://www.sendspace.com/file/3upln5",
@@ -31727,7 +31727,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fY6na5tjrCw",
-            "Title": "Peekay - Don Badman",
+            "title": "Peekay - Don Badman",
             "Channel ID": "UCx0Bv71ORyelwzo-Mt5JLow",
             "Author": "dasgoods",
             "Description": "**No longer for sale** Vinyl recorded to the PC by me, in 2012.",
@@ -31753,7 +31753,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Y-Fcx4SGKqo",
-            "Title": "Kraftwerk - The Telephone Call (Full 12-Inch EP) [1987]",
+            "title": "Kraftwerk - The Telephone Call (Full 12-Inch EP) [1987]",
             "Channel ID": "UCXPaRibqi5rxeDMc67SFiZw",
             "Author": "KingOSynthPop",
             "Description": "The Telephone Call (German: \"Der Telefon-Anruf\") is a 1987 single by German techno group Kraftwerk, on the 1986 album Electric Café. \"The Telephone Call\" was number one on the dance charts for two weeks, and was the second single that Kraftwerk took to number one in four months. In the UK, the song peaked at number eighty-nine. It is the only Kraftwerk song to feature Karl Bartos on vocals. The versions of the song on the single were remixed by François Kevorkian.  Track Listing: 1 - The Telephone Call (Remix) 2 - House Phone 3 - Der Telefon Anruf (German Version)",
@@ -31779,7 +31779,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZQSbFHS9RA4",
-            "Title": "Detroit In Effect - Shake A Lil Faster",
+            "title": "Detroit In Effect - Shake A Lil Faster",
             "Channel ID": "UCXTyghSaiU22dlDMjI_dlyg",
             "Author": "detroitineffect",
             "Description": "Download for best quality: http://boomkat.com/downloads/479935-detroit-in-effect-work-it",
@@ -31805,7 +31805,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SKzyp2F0dfM",
-            "Title": "The B15 Project Feat Mr Vegas- The Birmingham Crew",
+            "title": "The B15 Project Feat Mr Vegas- The Birmingham Crew",
             "Channel ID": "UCPa2KgkeEd34-zOrW7XGQkw",
             "Author": "Angus Campbell",
             "Description": "Original cut circa 1999 Your looking at an original 1999 un played copy. There was only ever 100 white labels cut of this ...the rest were poor bootlegs",
@@ -31831,7 +31831,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zsmcYaie77o",
-            "Title": "Tarika Blue - Dreamflower",
+            "title": "Tarika Blue - Dreamflower",
             "Channel ID": "UCA8jW_aPLydl1kBurbcL7DA",
             "Author": "Atanas Gunchev",
             "Description": "",
@@ -31857,7 +31857,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Q82ehPTelMg",
-            "Title": ".g - Proteger",
+            "title": ".g - Proteger",
             "Channel ID": "UCxc6Bn1n03SmABKu2OLFCzg",
             "Author": "prop4g",
             "Description": ".g - The Raw EP B1 - Proteger Yellow Productions (YP025) - 1997  http://www.discogs.com/release/51366",
@@ -31883,7 +31883,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tFt29yTJz54",
-            "Title": "Montego Bay - Magic (Don Carlos Jazzy Mix)",
+            "title": "Montego Bay - Magic (Don Carlos Jazzy Mix)",
             "Channel ID": "UCx1Ug6KnR3qc32jVNejRqtQ",
             "Author": "I'll House You",
             "Description": "Calypso Records (Released: 1992) 12\" http://www.discogs.com/Montego-Bay-Everything/release/234232",
@@ -31909,7 +31909,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5RqMgupbnWA",
-            "Title": "Ursula Rucker - Circe (Rob Yancey Vocal Mix) [Guidance, 1999]",
+            "title": "Ursula Rucker - Circe (Rob Yancey Vocal Mix) [Guidance, 1999]",
             "Channel ID": "UCbcpZDGmJ02REppY1LbYeJQ",
             "Author": "DeepDown",
             "Description": "Ursula Rucker - Circe (Rob Yancey Vocal Mix) [Guidance, 1999]",
@@ -31935,7 +31935,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "g1WMOeDUbK8",
-            "Title": "Gabrielle vs Angie Stone - Wish I Didn't Miss You (UK Garage)",
+            "title": "Gabrielle vs Angie Stone - Wish I Didn't Miss You (UK Garage)",
             "Channel ID": "UCm_gBTF_Cxi1lCWLD47ia8w",
             "Author": "Diggy Dan Lee",
             "Description": "Gabrielle vs Angie Stone - Wish I Didn't Miss You (UK Garage)",
@@ -31961,7 +31961,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rjYmzjjNf6w",
-            "Title": "Terry Francis - Loving you",
+            "title": "Terry Francis - Loving you",
             "Channel ID": "UCyrDnF5FQRRpIkowJwyoQrA",
             "Author": "djlink18",
             "Description": "http://www.discogs.com/Terry-Francis-Strong-Woman-EP/release/70090  Stunning gem from the master of tech-house.",
@@ -31987,7 +31987,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "d1ZdRTvF0MI",
-            "Title": "Ron Roland - Nassaur Bassed Party [Surreal, 1996]",
+            "title": "Ron Roland - Nassaur Bassed Party [Surreal, 1996]",
             "Channel ID": "UCbcpZDGmJ02REppY1LbYeJQ",
             "Author": "DeepDown",
             "Description": "Ron Roland - Nassaur Bassed Party [Surreal, 1996]",
@@ -32013,7 +32013,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "7TudUY_Bg6Y",
-            "Title": "Spooky - Land Of Oz (Poppyfield Mix)",
+            "title": "Spooky - Land Of Oz (Poppyfield Mix)",
             "Channel ID": "UCBXyLT3NG0_Dhyx9WLV44Vw",
             "Author": "Chris Martin",
             "Description": "Label: Guerilla -- GRRR36 Format: Vinyl, 12\", 33 ⅓ RPM  Country: UK Released: 1992 Genre: Electronic Style: Progressive House, House",
@@ -32039,7 +32039,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bqJ47HU013I",
-            "Title": "Crustation - Flame (Mood II Swing Vocal Mix)",
+            "title": "Crustation - Flame (Mood II Swing Vocal Mix)",
             "Channel ID": "UCREadQARXQpBiunb09acVCQ",
             "Author": "Steve Jax",
             "Description": "Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use",
@@ -32065,7 +32065,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cIA5iVtn79c",
-            "Title": "Lil Silva - Venture",
+            "title": "Lil Silva - Venture",
             "Channel ID": "UC3vfuGrqgIxmDTqTjTBDbZw",
             "Author": "OnlyVibez",
             "Description": "WILL REMOVE ON REQUEST. First heard this in his recent Boiler Room Mix, this one goes off! Taken from his mix  for Hyponik, which you can download here: http://soundcloud.com/hyponik-com/hyp-091-lil-silva Contact OnlyVibez: Facebook:https://www.facebook.com/pages/OnlyVibez/273895889304875 Soundcloud: http://soundcloud.com/onlyvibez Email: onlyvibez@hotmail.co.uk",
@@ -32091,7 +32091,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HyH05NwW-dY",
-            "Title": "D-Ren 1 - Brothers And Sisters - E-Mail Part 1 & 2 (Ugly Music 1997)",
+            "title": "D-Ren 1 - Brothers And Sisters - E-Mail Part 1 & 2 (Ugly Music 1997)",
             "Channel ID": "UCGrm4wt6XOejbmhosKOfgmw",
             "Author": "cynicrecords",
             "Description": "Released 1997 © Ugly Music cynicmusic.co.uk",
@@ -32117,7 +32117,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GHY83LjYMBA",
-            "Title": "Space Bunny - Space Bunny [Surreal, 1997]",
+            "title": "Space Bunny - Space Bunny [Surreal, 1997]",
             "Channel ID": "UCbcpZDGmJ02REppY1LbYeJQ",
             "Author": "DeepDown",
             "Description": "Space Bunny - Space Bunny [Surreal, 1997]",
@@ -32143,7 +32143,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "O2W2B1-0r-8",
-            "Title": "Mark Pritchard - Heavy As Stone (DEEP MEDi Musik)",
+            "title": "Mark Pritchard - Heavy As Stone (DEEP MEDi Musik)",
             "Channel ID": "UCHIMOBczd8O5ooWUCuC1w7w",
             "Author": "DEEP MEDi",
             "Description": "Mark Pritchard - Heavy As Stone [MEDI025] © 2010 Deep Medi Musik  A side / Heavy As Stone B side / Elephant Dub  Purchase: Vinyl - http://www.surus.co.uk/deep-medi-musik/elephant-dub-/-heavy-as-stone-14531.aspx  Mark Pritchard:  http://soundcloud.com/pritch/ http://en.wikipedia.org/wiki/Mark_Pritchard_(music_producer)  DEEP MEDi: http://www.deepmedi.com http://www.facebook.com/deepmedi http://www.twitter.com/deepmedimusik http://deepmedi.tumblr.com",
@@ -32169,7 +32169,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "aJsFnRwJurk",
-            "Title": "13. Ice Cube - Rollin' wit' the Lench Mob",
+            "title": "13. Ice Cube - Rollin' wit' the Lench Mob",
             "Channel ID": "UC5HPMnG14ZkcRfTS2eLGEog",
             "Author": "O'Shea Jackson",
             "Description": "AmeriKKKa's Most Wanted is the debut album by rapper Ice Cube.[1] It was released after his acrimonious split from his former group N.W.A. It was originally released on May 16, 1990. Primarily produced by Public Enemy's production team' The Bomb Squad, the album was an unexpectedly large critical and commercial success, and remains one of the defining hip hop albums of the 1990s.  Track Listing :  1 Better Off Dead  2 Der Nigga Ya Love to hate  3 AmeriKKKa die Most Wanted  4 Was Sie Hittin 'Feind?  5 Sie kann nicht verblassen Me / JD 's Gaffilin'  6 Once Upon a Time in den Projekten  7 Schalten Sie das Radio  8 Endangered Species (Tales from the Darkside)  9 Ein Gangsta 's Fairytale  10 Ich bin nur Out for One Thang  11 Get Off My Dick and Tell yo bitch, hierher zu kommen  12 Die Drive-By  13 Rollin 'Wit das Lench Mob  14 Wer ist der Mack?  15 Es ist eine Welt der Männer  16 The Bomb  17. Ice Cube - Endangered Species (Tales From The Darkside) (Remix) 18. Ice Cube - Jackin' For Beats 19. Ice Cube - Get Off My Dick & Tell Yo Bitch To Come Here (Remix) 20. Ice Cube - The Product 21. Ice Cube - Dead Homiez 22. Ice Cube - JD's Gaffilin', Pt. 2 23. Ice Cube - I Gotta Say What Up!!!   iTunes Shop :http://itunes.apple.com/us/artist/ice-cube/id471370?albumPage=1#albumPage",
@@ -32195,7 +32195,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LF_Ija-wLO4",
-            "Title": "Walt J - Magic Love",
+            "title": "Walt J - Magic Love",
             "Channel ID": "UC5UObqN1Z7bZvOyav8ypx9A",
             "Author": "Distantshores",
             "Description": "Genre: Electronic Style: Techno, Deep House Year: 1996 http://www.discogs.com/Walt-J-The-Walt-J-Project/master/418576",
@@ -32221,7 +32221,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "LWAO3knDoeI",
-            "Title": "Missy Elliot vs. Stanton Warriors - She's a Bitch [filthy dub]",
+            "title": "Missy Elliot vs. Stanton Warriors - She's a Bitch [filthy dub]",
             "Channel ID": "UCf0lP3q15vK15Hid6-TuGcw",
             "Author": "The Electronic Music Archive",
             "Description": "© 1999 - FiftyFirst Recordings  since i posted the [cold mix] version of this track over a year ago, i actually got to see Stanton Warriors 8) so even though it's up everywhere, i figured i'd post the other version... with the signed label =)",
@@ -32247,7 +32247,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Gwybpk9IGfU",
-            "Title": "John Dahlback - By The Sunset",
+            "title": "John Dahlback - By The Sunset",
             "Channel ID": "UCMSs04yiVKkGkQ9GU1O04Jw",
             "Author": "TheDrMiam",
             "Description": "",
@@ -32273,7 +32273,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "w0oR4UVkQuU",
-            "Title": "[chalant 001] Ewan Jansen - Pi Chord",
+            "title": "[chalant 001] Ewan Jansen - Pi Chord",
             "Channel ID": "UCTtatYJJn3_Q3svAbxfLodw",
             "Author": "Mike Adams",
             "Description": "I own the vinyl but the copyright belongs of course to the artist and label - shared for love of music only and not for profit. http://www.discogs.com/Ewan-Jansen-Pi-Chord/release/80705 Ewan Jansen -- Pi Chord Label: Chalant Music -- Chalant 001 Format: Vinyl, 12\"  Country: US Released: Jan 2001 Genre: Electronic Style: House - uploaded via http://www.mp32u.net/",
@@ -32299,7 +32299,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "h8vJMOHSsBs",
-            "Title": "Global Communication - Alpha Phase [Full Song][HD]",
+            "title": "Global Communication - Alpha Phase [Full Song][HD]",
             "Channel ID": "UCR6_uP4ciBRf3qyIrFtnUKw",
             "Author": "Ambi3ntL0ver",
             "Description": "From the very rare album : Pentamerous Metamorphosis (1993)",
@@ -32325,7 +32325,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "z0xbL23HsZE",
-            "Title": "Eddie Richards - Yr What",
+            "title": "Eddie Richards - Yr What",
             "Channel ID": "UCViINcytUrDisUaWlPfCL9Q",
             "Author": "tthrober",
             "Description": "Label - Storm Recordings, Year - 2003 http://www.discogs.com/Eddie-Richards-Feel-So/release/228757",
@@ -32351,7 +32351,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mHGHOTPc3Zo",
-            "Title": "Lego Feet (Autechre) | KeyoP  (1991)",
+            "title": "Lego Feet (Autechre) | KeyoP  (1991)",
             "Channel ID": "UC2aKZMgG2FlOywUwAJ1QlsQ",
             "Author": "0AntN",
             "Description": "Lego Feet -- Lego Feet Label: Skam -- SKA001 Format: Vinyl, LP Country: UK Released: 1991 Genre: Electronic Style: Abstract, IDM, Electro, Experimental   http://www.discogs.com/Lego-Feet-Lego-Feet/release/1926  http://www.factmag.com/2011/12/13/autechres-lego-feet-ep-to-be-released-on-vinyl/",
@@ -32377,7 +32377,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "P4Wtojbw040",
-            "Title": "Haris & Gideon - Moonlight",
+            "title": "Haris & Gideon - Moonlight",
             "Channel ID": "UCVkbkLiRdLTATyO3d99DWTQ",
             "Author": "macari81",
             "Description": "London Housing Benefit -- LHB 004 Vinyl, 12\" UK Released: 2001",
@@ -32403,7 +32403,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "kXv0U-M5lfo",
-            "Title": "Psychotropic - Hypnosis",
+            "title": "Psychotropic - Hypnosis",
             "Channel ID": "UCit1ItPmCYxuWg8klmNOCGQ",
             "Author": "DeejaayMrEd",
             "Description": "",
@@ -32429,7 +32429,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jdPcflGJDoM",
-            "Title": "Herbert - See you on Monday",
+            "title": "Herbert - See you on Monday",
             "Channel ID": "UC9_uRCO9WPRZnicwjQkD0VQ",
             "Author": "Remkowski remko",
             "Description": "Label:Phono -- PHONO 02  Format:Vinyl, 12\"   Country:UK  Released:1995  Genre:Electronic  Style:House, Deep House",
@@ -32455,7 +32455,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BdCF1Fi-r9Q",
-            "Title": "CARPE DIEM 4 - The Buzz - 1994",
+            "title": "CARPE DIEM 4 - The Buzz - 1994",
             "Channel ID": "UCQrdVNCrw4jFwGNYo1Xgw_w",
             "Author": "paolosounds",
             "Description": "Disco Storia",
@@ -32481,7 +32481,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zIvl02TRiFQ",
-            "Title": "DJ Lewi - Hold Me Tight (Dark Mix)",
+            "title": "DJ Lewi - Hold Me Tight (Dark Mix)",
             "Channel ID": "UCDSx_qqVqI-mDCxwJOah3cQ",
             "Author": "Kola Nut",
             "Description": "Now available to buy digitally on all platforms. https://distrokid.com/hyperfollow/djlewi/hold-me-tight-mixes  Classic garage track from 1999.",
@@ -32507,7 +32507,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "rlPVd5S-iXY",
-            "Title": "Kode9 - Dislokated (Grime 2)",
+            "title": "Kode9 - Dislokated (Grime 2)",
             "Channel ID": "UCu7Om9JeN3Dzjqxs46T6IMA",
             "Author": "Logos Cafe",
             "Description": "Reminiscent of earlier dubstep days.  Grime 2 was released in October 2004 under Rephlex Records (CAT160), featuring music from Kode9, Loefah, and Digital Mystikz. This preceded the release of DMZ001.   All copyright belongs to respective owners.",
@@ -32533,7 +32533,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IuEd1WBlL4Q",
-            "Title": "ABTX001 - JENIFA MAYANJA - JAGGED EDGES",
+            "title": "ABTX001 - JENIFA MAYANJA - JAGGED EDGES",
             "Channel ID": "UCwT1Zw4BbBVxt97jOE4gO9Q",
             "Author": "AbstractTheoryRec",
             "Description": "Ugandan born Jenifa Mayanja has been part of the underground electronic deep house music scene in New York for the last fifteen plus years. Her reputation while firmly cemented in New York circles as a dj/artist/producer unafraid to break down genres in her sets and produce music not easily definable as 'deep house', most outside of that circle have been largely unaware of Ms. Mayanja.Through a natural progression, Jenifa felt the need to create a platform for her own musical point of view through parties and eventually a record label. The Bu-Mako parties which were held in private spaces around New York cemented her brand as a free thinker along the way getting write ups in 'TimeOut NY and New York Magazine. In late 2006 the Bu-mako recordings label was borne with the release of the 'Stream of consciousness' album featuring many of the musical ideas that Jenifa loved and was well known for in her dj sets. The label has received its share of press, in Resident Advisor, Little White Earbuds and a recent article in Igloo Magazine describes the label this way, 'Bu-mako is not creating sounds of stripped down space excursions or a lulling reaction to social issues, Bu-Mako comes from a new age aspect. It is a label that promulgates life, wholeness and musical exploration'.  Jenifa's most current collaborations include Isoul8 aka Volcov, Marco Nega, remixes for Fred P aka Black Jazz Consortium, DJ Jus-Ed, and Anton Zap Also a full length album from Jenifa is on track for release in May of 2011 with special vinyl remixes by Dj Jus-Ed and Kai Alce. Along with that Jenifa holds down her own radio show",
@@ -32559,7 +32559,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "9MP6BODZTRU",
-            "Title": "Marcus Mixx - The Spell - Ron Hardy Mix",
+            "title": "Marcus Mixx - The Spell - Ron Hardy Mix",
             "Channel ID": "UC2GK1jS6xrYTh4Xo9qsYSgQ",
             "Author": "Gazzz696",
             "Description": "http://www.discogs.com/Marcus-Mixx-Without-Makeup/release/633461",
@@ -32585,7 +32585,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PzcXZHWmZEI",
-            "Title": "Intelligent Communication - Drive",
+            "title": "Intelligent Communication - Drive",
             "Channel ID": "UC3qcXwTEMWFpXU_9A8iLiMg",
             "Author": "DuffMcShark80",
             "Description": "Label: Jumpin & Pumpin Released: 1991 Genre: Electronic Style: Breakbeat, Techno",
@@ -32611,7 +32611,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "e4imUOY-wZw",
-            "Title": "Marcus Intalex & ST Files - How You Make Me Feel (Original)",
+            "title": "Marcus Intalex & ST Files - How You Make Me Feel (Original)",
             "Channel ID": "UCJYI6gHkjLBYn8iBSVG91Mg",
             "Author": "MickeyBeam75",
             "Description": "Marcus Intalex & ST Files - How You Make Me Feel (Original) Quality 1999 Drum & Bass track from Marcus Intalex & ST Files and coined as one of the first 'Liquid Funk' tracks by the likes of DJ Fabio etc. The Photek remix is also uploaded on this channel.",
@@ -32637,7 +32637,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0gLDAMqEnBw",
-            "Title": "Trace - West Coast Flavor (1995)",
+            "title": "Trace - West Coast Flavor (1995)",
             "Channel ID": "UCMv3BgTVVZCVKOemvvflGow",
             "Author": "DarkoneDeadly",
             "Description": "Trace - West Coast Flavor  Sm:)e Communications - SM-9027-0 (1995) Release from Dee Jay Recordings on a limited edition transparent blue 10\" vinyl  Other Side: Trace - Have You Know",
@@ -32663,7 +32663,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jRlXE46wrUc",
-            "Title": "25th FRAME :: The french aphrodisiac E.P.  :: Will You Meet Me :: RAVE AGE RECORDS 008 DJ",
+            "title": "25th FRAME :: The french aphrodisiac E.P.  :: Will You Meet Me :: RAVE AGE RECORDS 008 DJ",
             "Channel ID": "UC1k94dqHA0Mdk-HZ5QlXp7g",
             "Author": "MrBardiBarda",
             "Description": "This promotional release came either without any information except for the runout, or with a sticker on the sleeve containing the tracklisting.  ---------------  This label was founded by Manu Casana. Before being a label, Rave Age was the name of the first Rave Parties ever organised in France by the \"Cosmos Factory\" organisation (the first ever took place in 1990 on September, 28 at the \"Fort de Champigny\" near Paris).",
@@ -32689,7 +32689,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Okrv98Dddok",
-            "Title": "Tactics Of Bass- Big Hips Blue Gloves (No Dubs)",
+            "title": "Tactics Of Bass- Big Hips Blue Gloves (No Dubs)",
             "Channel ID": "UCYh6XG7qlrD-YIjI832ywIA",
             "Author": "The Watchmen/Seize",
             "Description": "Old school acid electro tune from Tactics Of Bass -- Tactics Of Bass, 7th Voyage 1996",
@@ -32715,7 +32715,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "YaJsd9mwOTw",
-            "Title": "AFX - Liptons B Acid",
+            "title": "AFX - Liptons B Acid",
             "Channel ID": "UCTvzJGqkCnqGX4L_AN6b1Jw",
             "Author": "vertsk8er419",
             "Description": "previously unreleased Analord 9 track.  released digitally via http://www.rephlex.com/ in December 2009",
@@ -32741,7 +32741,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "aSqs-2o5axc",
-            "Title": "SHOW ME THE WAY (SE17 Remix)",
+            "title": "SHOW ME THE WAY (SE17 Remix)",
             "Channel ID": "UCJkxP00G0uZg-gJj8eR7_ng",
             "Author": "derek fevrier",
             "Description": "A Heritage Music Video",
@@ -32767,7 +32767,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "aODyXmoq1e4",
-            "Title": "Dub Two -- Sensi Tip.mp4",
+            "title": "Dub Two -- Sensi Tip.mp4",
             "Channel ID": "UCZ5WTXbR0wpW2VMACoYDfBA",
             "Author": "Unknown Tone",
             "Description": "",
@@ -32793,7 +32793,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GXHRBxF4hnQ",
-            "Title": "MAD Productions Feat Carroll Thompson - Too Late (Underground Dub Mix)",
+            "title": "MAD Productions Feat Carroll Thompson - Too Late (Underground Dub Mix)",
             "Channel ID": "UC1-lbNgJjSrf8iSFKsO3_aw",
             "Author": "oldskoolgaragenutter",
             "Description": "Released on the E1 Recordings record label in 1998 Written By MJ Cole & Daryl B Tracks also on the EP  A  Too Late (Deep Vocal Mix)   slaneydore - oldskoolgaragenutters.freeforums.org",
@@ -32819,7 +32819,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "945a7xcoYI0",
-            "Title": "Groove Chronicles  - The Power EP - X Wants You Back",
+            "title": "Groove Chronicles  - The Power EP - X Wants You Back",
             "Channel ID": "UC1-lbNgJjSrf8iSFKsO3_aw",
             "Author": "oldskoolgaragenutter",
             "Description": "X Wants You Back taken from the Groove Chronicles -- Another Endless Groove - The Power EP released in 1998 on the Groove Chronicles label slaneydore - oldskoolgaragenutters.freeforums.org",
@@ -32845,7 +32845,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "uZvDH-BhwXY",
-            "Title": "Nexus 21 - Self Hypnosis",
+            "title": "Nexus 21 - Self Hypnosis",
             "Channel ID": "UC3qcXwTEMWFpXU_9A8iLiMg",
             "Author": "DuffMcShark80",
             "Description": "Label: Network Records Released: 1990 Genre: Electronic Style: Techno, Deep House",
@@ -32871,7 +32871,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "p92FVyY9WIM",
-            "Title": "Erik Travis- I.O.S.  The Many Voices Of Erik",
+            "title": "Erik Travis- I.O.S.  The Many Voices Of Erik",
             "Channel ID": "UCeWquzgnjPBK4YW5sd6zJkg",
             "Author": "Erik Travis",
             "Description": "I.O.S. (Industry of Sound) The Many Voices of Erik.The electro track that keep people dancing and jitters on the floor. Another Detroit classic from an electro pioneer. https://eriktravis.bandcamp.com/track/the-many-voices-of-erik",
@@ -32897,7 +32897,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "E-B5B31gpS0",
-            "Title": "Ambusher - I Know What You Mean [Grayhound, 2000]",
+            "title": "Ambusher - I Know What You Mean [Grayhound, 2000]",
             "Channel ID": "UCbcpZDGmJ02REppY1LbYeJQ",
             "Author": "DeepDown",
             "Description": "Ambusher - I Know What You Mean [Grayhound, 2000]",
@@ -32923,7 +32923,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GwKcCNcxb-4",
-            "Title": "DJ Hart- The Vibe",
+            "title": "DJ Hart- The Vibe",
             "Channel ID": "UCYh6XG7qlrD-YIjI832ywIA",
             "Author": "The Watchmen/Seize",
             "Description": "FL electro breaks from DJ Hart -- And Yet Another Rises From The Swamp, Hoodwink Records 1998",
@@ -32949,7 +32949,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "EMtbBz2YUwA",
-            "Title": "Wouldn't You Like To Be a Ho Too - DJ Slugo",
+            "title": "Wouldn't You Like To Be a Ho Too - DJ Slugo",
             "Channel ID": "UCL3AMAL1BwIk0n8_gFYTMtg",
             "Author": "shmunk17",
             "Description": "bumpn beats from DJ Slugo",
@@ -32975,7 +32975,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hIqeQ-Nk01g",
-            "Title": "Intense - Positive Notions",
+            "title": "Intense - Positive Notions",
             "Channel ID": "UCdNcuTHuGnEYktVJ9JjUHkg",
             "Author": "isgoanrain",
             "Description": "one of my favourites",
@@ -33001,7 +33001,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_qmXhGIlQ24",
-            "Title": "Herbert - Shuffler [Phono, 1996]",
+            "title": "Herbert - Shuffler [Phono, 1996]",
             "Channel ID": "UCbcpZDGmJ02REppY1LbYeJQ",
             "Author": "DeepDown",
             "Description": "Herbert - Shuffler [Phono, 1996]",
@@ -33027,7 +33027,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vfe2d9Yrfuc",
-            "Title": "Phenom - Sage [Phono, 1997]",
+            "title": "Phenom - Sage [Phono, 1997]",
             "Channel ID": "UCbcpZDGmJ02REppY1LbYeJQ",
             "Author": "DeepDown",
             "Description": "Phenom - Sage [Phono, 1997]",
@@ -33053,7 +33053,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "W6UpA2PcJ-I",
-            "Title": "DJ LEO MAS & OVAL PROD. - Infunktuation (1992)",
+            "title": "DJ LEO MAS & OVAL PROD. - Infunktuation (1992)",
             "Channel ID": "UCddrJk0oSap15QuMPF-TClw",
             "Author": "jo rocco",
             "Description": "",
@@ -33079,7 +33079,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tv8AKLrcOHg",
-            "Title": "Khetama - Trancelate (1996)",
+            "title": "Khetama - Trancelate (1996)",
             "Channel ID": "UCL4J20Y1UpQGttcNXMB2j9Q",
             "Author": "2trancentral",
             "Description": "Rare old school techno-trance gem. Khetama - Club Works Vol. 1 / Time Unlimited   ~~~~~~~~~~~~~~~~~~~~~~~~~~~  https://www.discogs.com/user/3.am.eternal  https://soundcloud.com/2trancentral  Support my channel - https://paypal.me/2trancentral",
@@ -33105,7 +33105,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "YZHnGRD7Jp4",
-            "Title": "Chris Shivers - Care",
+            "title": "Chris Shivers - Care",
             "Channel ID": "UCXkKF2Vcrtgs7uA9SypOE2w",
             "Author": "Monsieur Cedric",
             "Description": "Rare Deep, Serious Grooves 1994, countains vocal from UR-016",
@@ -33131,7 +33131,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qKnG4DYSifc",
-            "Title": "Brett Johnson - Lovin Life",
+            "title": "Brett Johnson - Lovin Life",
             "Channel ID": "UCSB3i8w87vRhcYL1ESYXQCw",
             "Author": "tmk321",
             "Description": "Aesoteric recordings",
@@ -33157,7 +33157,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bWCHR_HdS5w",
-            "Title": "Sovereign, JJ Louis & Fuze -- Licence To Kill 007",
+            "title": "Sovereign, JJ Louis & Fuze -- Licence To Kill 007",
             "Channel ID": "UC8Tp5iQLasFCedMYIgDjBrw",
             "Author": "Ian64003",
             "Description": "Label: Southside Recordings -- SS 018 Format: Vinyl, 12\" Country: UK Released: 2000",
@@ -33183,7 +33183,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "n40SEtTaKBs",
-            "Title": "Rebel MC - I Can't Get No Sleep (Jungle Fever Dub)",
+            "title": "Rebel MC - I Can't Get No Sleep (Jungle Fever Dub)",
             "Channel ID": "UCJYI6gHkjLBYn8iBSVG91Mg",
             "Author": "MickeyBeam75",
             "Description": "Rebel MC - I Can't Get No Sleep (Jungle Fever Dub Quality mid 1992 release from Rebel MC, and the flip side to the Jungle fever mix uploaded a little while back.",
@@ -33209,7 +33209,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KHNxKjjW3d0",
-            "Title": "Sunscreem - Perfect Motion (Boys Own Mix).",
+            "title": "Sunscreem - Perfect Motion (Boys Own Mix).",
             "Channel ID": "UCs27FBypdoi-2Zjgbmi9HJw",
             "Author": "Johnny Cat",
             "Description": "The Boys Own Mix of Perfect Motion by Sunscreem. Original version can be found on their album O3. http://www.sunscreem.com  http://www.luciaholm.com  http://www.myspace.com/luciaholm",
@@ -33235,7 +33235,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MC8cgQcO0h4",
-            "Title": "Ruben Carerra - Sexuality (Slam Horny Dub) (1992)",
+            "title": "Ruben Carerra - Sexuality (Slam Horny Dub) (1992)",
             "Channel ID": "UCd9JE5DIBIxXXQOqBQLsOLg",
             "Author": "Hannes Kaechele",
             "Description": "Logic Records (UK) - Promo http://www.discogs.com/Ruben-Carrera-Sexuality/release/104920",
@@ -33261,7 +33261,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MLvBVsrWMTA",
-            "Title": "Kaidi Tatham - Armz R Deh",
+            "title": "Kaidi Tatham - Armz R Deh",
             "Channel ID": "UC8Tp5iQLasFCedMYIgDjBrw",
             "Author": "Ian64003",
             "Description": "Label: Laws Of Motion -- LM 015 Format: Vinyl, 12\", 33 ⅓ RPM Country: UK Released: 1999",
@@ -33287,7 +33287,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pPjaYHIv9Mc",
-            "Title": "Choo Ables - Hard To Get (B.T.'s Massive Groove)",
+            "title": "Choo Ables - Hard To Get (B.T.'s Massive Groove)",
             "Channel ID": "UCxyGFm5U3R9mK11ofYps7EA",
             "Author": "yellowidhouse",
             "Description": "Brian Tappert | Marc Pomeroy | E-SA Records | 1993",
@@ -33313,7 +33313,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "L8NYgc6ySc4",
-            "Title": "Skatebård - Conga",
+            "title": "Skatebård - Conga",
             "Channel ID": "UCh1slvkCTkt_RJKJ85edABg",
             "Author": "skatebaard",
             "Description": "Repress coming autumn 2019!  ::::::::::::::::::::::::::  15 YEARS OF SEX TAGS MANIA! Established in Bergen 2004 and ran by DJ Sotofett & DJ Fett Burger the first 4-5 years as one of Norways only labels consistently releasing House & Techno on vinyl. Since about 2008/09 it's been operated by DJ Sotofett.  Skatebård's \"Conga\" has turned to be one of the most sought after releases from the Sex Tags Mania catalog with it's sparse pressing of about 2-300 copies – though most of the original stock was given away as the record gained minimal interest in 2005. The original record was cut with excellence by Lawrie Immersion – and pressed in his own plant – the now defunct Curved Pressings. MANIA 30 – the repress of \"Conga\" has as close to original sound as possible and it also carries a new B-side – the Crystal Bois live version of \"Conga\" from 2007, featuring Skatebård on male vox!  Released September/October 2019.   JUNO https://www.juno.co.uk/products/skatebard-crystal-bois-conga/736044-01/  REDEYE https://www.redeyerecords.co.uk/vinyl/111338-mania-30-skateb%C3%A5rd-crystal-bois-feat--skateb%C3%A5rd-",
@@ -33339,7 +33339,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "q5XRQ1WeAqw",
-            "Title": "Lumumba  - Sing With The Birds",
+            "title": "Lumumba  - Sing With The Birds",
             "Channel ID": "UCfkxURW6eQ2Rg_zR3Ns1iJQ",
             "Author": "Nicky Vour / Νίκος Βουρεκάς",
             "Description": "Lumumba - Lumumba comes from the Center of the Earth with the World Beat  . Released in 1974.   ◄●►◄●►◄●►◄●►◄●►◄●►◄●►◄●►◄●►◄●►​   .....I don't know the story behind Lumumba. All the musicians except for two are credited as coming from Ghana (the two non-Africans, West Indies and Los Angeles). Though the group is named after the singer Lumumba, it seems as though a fellow named Rim Kwaku Obeng is the leader of the band. Obeng has records under his own name and they are sought after by Afrobeat collectors. The record was recorded in Los Angeles, which is rare for an Afrobeat record. How is the album? Spotty and sometimes suspect. I am not sure if the musicians were cobbled together by A&M looking to break Afrobeat or if some American producer stumbled upon them in Africa, brought them to the States and put them in a fancy studio. Many of the songs are over produced and some sound very studio musicianish. ....  Info From : http://crudcrud.blogspot.com/search?q=Lumumba+  ◄●►◄●►◄●►◄●►◄●►◄●►◄●►◄●►◄●►◄●►​   Lumumba - Narration, Doroben Durugya (whistle flute), Ammoo Durugya  (long flute), Fritwiwa (thumb gong), Dawuro (gong gong), Akasawa (shaker), Jews Harp, Conga, Ntoa (round drum), Flugel Horn, Vocals  Rim Kwaku Obeng - Ntumpan (talking drum), Drums, Donno (squeeze drum), Fritwiwa (thumb gong), Akaswaa (shaker), Brekete Drum, Dawuro (gong gong), Conga, Ntoa (round drum), Electric Piano, Ammoo Durugya (long flute), Vocals Emmanuel Rentzos - Electric Piano, Organ, Vocals Luther Coffey - Fender Bass Kwabena Gyanfi - Fender Bass, Electric Guitar David T. Walker - Electric Guitar  George Bohanon - Bass Euphonium, Red Callendar-Acoustic Bass Bobbye Hall - Conga Victoria Miles - Vocals Gloria Green - Vocals George Lee - Vocals Eddie Quansah - Vocals Willie Cheetan - Vocals",
@@ -33365,7 +33365,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ZtUhvqv7sAI",
-            "Title": "General Levy &  Apache Indian - The New Style - Junglee Mix 1994",
+            "title": "General Levy &  Apache Indian - The New Style - Junglee Mix 1994",
             "Channel ID": "UCR6J1daW0gGtrik9cQxQ_7Q",
             "Author": "herman",
             "Description": "General Levy & Apache Indian  - The New Style - Ragga Jungle 1994 LEVXDJ 1",
@@ -33391,7 +33391,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "WpGIoxTmhqY",
-            "Title": "The Night Writers, Let The Music (Use You) - 1988",
+            "title": "The Night Writers, Let The Music (Use You) - 1988",
             "Channel ID": "UCtNRd7QWmgC3g7-ZJYjV4nQ",
             "Author": "Shrinechick88",
             "Description": "Follow Us On Instagram: http://bit.ly/InstagramVibesof88 Twitter: http://bit.ly/vibesof88ontwitter Facebook: http://bit.ly/vibesof88onfb   An Absolute Anthem & A Personal Favourite Of Mine!! :)  Produced By Frankie Knuckles Genre: Electronic Style: Deep House  https://www.discogs.com/artist/29075-The-Night-Writers",
@@ -33417,7 +33417,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "scgyHrFcDYs",
-            "Title": "Pimp Daddy Nash - Our Man In Stockholm (E-Z Rollers Remix)",
+            "title": "Pimp Daddy Nash - Our Man In Stockholm (E-Z Rollers Remix)",
             "Channel ID": "UCWCm7Ff1tpChnTEKqj_LURQ",
             "Author": "m0mper",
             "Description": "------------------------------------------------------------------------------------------------ Label: SSR Records  |  Catalog#: SSR 165  |  Released: 1996 ------------------------------------------------------------------------------------------------",
@@ -33443,7 +33443,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KkLy9rke18w",
-            "Title": "Big Bang - Ping Pong",
+            "title": "Big Bang - Ping Pong",
             "Channel ID": "UChna7uHanzUiifMJGSIgkPA",
             "Author": "IAmPeteRockFan",
             "Description": "Good nu-jazz track.    I've got it from Saint Germain des Pres Cafe 3. Amazon link: http://www.amazon.com/St-Germain-Pres-Cafe-3/dp/B00007M01P",
@@ -33469,7 +33469,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bBXYUW8n53U",
-            "Title": "Projection - heart and soul",
+            "title": "Projection - heart and soul",
             "Channel ID": "UC7CUIdCnPG_yCsalgDDKFew",
             "Author": "ruffcast",
             "Description": "Throwback Track from the 90's when music was music",
@@ -33495,7 +33495,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8Iol_YmmKSA",
-            "Title": "Victor Simonelli Presents Solution - Feels So Right (Solutions Original Mix 1993)",
+            "title": "Victor Simonelli Presents Solution - Feels So Right (Solutions Original Mix 1993)",
             "Channel ID": "UCB6WUoQ-2im9Xhg9-24NtMA",
             "Author": "ILoveHouseMusicTV",
             "Description": "Classic House Music... Victor Simonelli's name is synonymous with the cutting edge of the Dance Music scene. Simonelli is one of the New York’s finest and most prolific DJ's. He was also one of the early pioneers of the unique NYC underground dance music movement that has now become a phenomenon it its own right and religiously followed by the clubbing faithful the world over. A producer/re-mixer, song writer, record label owner, and highly sought after DJ, are just four facets of this multi-talented young man. His discography of production, writing. mixing and editing credits reads like a \"Who's Who!   Victor's love for music began as a youngster growing up in Brooklyn, New York. At a young age he was intrigued by his father's huge record collection of jazz, blues, electronic, disco, new age, rock, soul, classical, new wave, ethnic, and world music. His parents could see he was talented at an early age and encouraged him to listen to all kinds of music. With this encouragement, and guidance of his parents, Victor took lessons in piano, drums, guitar and bass, as well as voice lessons. But something was missing.I liked trying all of the instruments, but nothing really grabbed me.By the age of 11, he began tuning into NY's Radio Mix Shows on WBLS, WKTU and WXLO, (which later became WRKS,98.7 Kiss fm) and this is where he discovered the Art of mixing. When I started spinning - I just simply got lost in the music,\" Victor said.   By 1992 Victor began receiving calls to DJ at clubs from countries as far away as Japan , thanks to Victors engineer of the time , Gomi. It was also at this time that two of Victor's tracks, \"Feel So Right\" by Solution and \"I Want you To Know\" by Groove Committee (which Larry Levan championed in his sets at some of his final gigs in Japan) went on to become a significant piece of the ‘Simonelli Sound’.Todd Terry , approached Victor to commend , him on his works , and to license Production from him. Todd told Victor , \"When you got a sound thats working , just keep on with it\".   1993 saw Victor working on \"In The .Closet\" by Michael Jackson, featuring The Mystery Girl, Madonna (their only ever duet). At this point he began pumping out productions steadily,such as the blinding, \"It's So Good\" by Creative Force , which then new to the business Mathius Heilbronn Engineered. The unforgettable , “I Know A Place” by Sound Of One , which Roger Sanchez released on his first Label at the time , and the classic \"Dirty Games\" on Nu Groove (USA) and Vinyl Solution (UK). Street Players Vol 1 EP was also made this year , which went onto inspire the making of Kenny Dopes \"The Bomb\" (which was created a couple of years later by Kenny). Deep Dish had not yet formed but both Sharam and Dubfire approached Victor and asked his advise on making tracks , equing , mixing , etc.Shortly thereafter they formed Yoshi Toshi Records and began Producing themselves. During this year Victor made his first of many trips to England, and helped set up Suburban Records with Tommy Musto who also owned Fourth Floor Records at the time.",
@@ -33521,7 +33521,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "IQ7uNAobmcA",
-            "Title": "my love haris & stubbs",
+            "title": "my love haris & stubbs",
             "Channel ID": "UCqsbaRIStC8-mgQNEmpbn7Q",
             "Author": "Deany Dev",
             "Description": "brilliant sound from swag love this one",
@@ -33547,7 +33547,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GgJKWPJFQZs",
-            "Title": "Paolo Zerletti  - Magic Armony",
+            "title": "Paolo Zerletti  - Magic Armony",
             "Channel ID": "UCjE9ZtzIAMX90bW-fqvtxlw",
             "Author": "onlyraretracks",
             "Description": "Techno 1993",
@@ -33573,7 +33573,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "S-Wtl7Nxd9U",
-            "Title": "Pablo Toto - You Got No Pinga",
+            "title": "Pablo Toto - You Got No Pinga",
             "Channel ID": "UCZwSKyxW6mjtPGcMBLy3Tzw",
             "Author": "DeejayHerk",
             "Description": "Pablo Toto - You Got No Pinga ----- I Put The Static In It!! --- Go Buy The Record Support The Artist!!",
@@ -33599,7 +33599,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HQiV2SCSVE4",
-            "Title": "Move D - Flashback",
+            "title": "Move D - Flashback",
             "Channel ID": "UCnqC9fuN5u1oIw7Y5fY3gnw",
             "Author": "DSRTovDeReeL",
             "Description": "Soulful and passionate House. Come back sweet memories...  http://www.discogs.com/release/130875",
@@ -33625,7 +33625,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "1aiFroK2jDA",
-            "Title": "Uk Garage - Dj Deller - Mercenary Kutz vol 1",
+            "title": "Uk Garage - Dj Deller - Mercenary Kutz vol 1",
             "Channel ID": "UCWS5ql9emT6qDHAvQMExu2Q",
             "Author": "mastercarper",
             "Description": "",
@@ -33651,7 +33651,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MzpVvNjweMY",
-            "Title": "Geeneus & Zinc - Emotions (Feat. Nikki)",
+            "title": "Geeneus & Zinc - Emotions (Feat. Nikki)",
             "Channel ID": "UCjLQpbl7tOfQS9c7ToT-qWA",
             "Author": "Jamal Finni",
             "Description": "Taken from 'Volumes: One'. Play in HD for best quality.",
@@ -33677,7 +33677,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-01k8eyv9Wc",
-            "Title": "Soichi Terada - Grand Senshuraku - Sumo Jungle Far East Recording",
+            "title": "Soichi Terada - Grand Senshuraku - Sumo Jungle Far East Recording",
             "Channel ID": "UCR6J1daW0gGtrik9cQxQ_7Q",
             "Author": "herman",
             "Description": "Soichi Terada - Grand Senshuraku - Sumo Jungle Far East Recording jungle dnb lp from japan 95/96 ?",
@@ -33703,7 +33703,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "YnMIRz6gN7s",
-            "Title": "Ten City, Devotion (Extended version) - 1987",
+            "title": "Ten City, Devotion (Extended version) - 1987",
             "Channel ID": "UCtNRd7QWmgC3g7-ZJYjV4nQ",
             "Author": "Shrinechick88",
             "Description": "Follow Us On Instagram: http://bit.ly/InstagramVibesof88 Twitter: http://bit.ly/vibesof88ontwitter Facebook: http://bit.ly/vibesof88onfb  Old School House, 1987  https://www.discogs.com/artist/5310-Ten-City  Style:House Year: 1987",
@@ -33729,7 +33729,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MtBGFsjsCCg",
-            "Title": "Addison Groove - It's Got Me",
+            "title": "Addison Groove - It's Got Me",
             "Channel ID": "UCy_5FmZdAjslKjMbb7p30Bg",
             "Author": "tastydubz",
             "Description": "\"Addison Groove squares up to the 'floor with two twinkle-toed specials for Martyn's 3024 label. It's his 3rd single in as many weeks, following the 'Work It' session for Swamp 81 and 'This Is It' on Tectonic but these vibes are more red-lit and sensuous than any of those. The midnight-primed 'It's Got Me' swaggers to dextrously nipped and tucked 808 programming and Martyn-styled rhodes motifs resulting in one of the most laidback AG tunes we've heard. With 'Minutes Of Funk' he drops the tempo to roll at House pace, sounding kinda like Fast Eddie got blunted with Virgo on some weird, obscure Dance Mania episode.\"  Buy it here:http://boomkat.com/vinyl/400441-addison-groove-it-s-got-me-minutes-of-funk",
@@ -33755,7 +33755,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "chn7z9CqhXo",
-            "Title": "Jackmaster Curt - It's A Man's World (Dub Mix)",
+            "title": "Jackmaster Curt - It's A Man's World (Dub Mix)",
             "Channel ID": "UCz5DnBksrU8YliL-NGojeHA",
             "Author": "houzbizness303",
             "Description": "1987  http://www.discogs.com/release/459638",
@@ -33781,7 +33781,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xVOxub1RRDc",
-            "Title": "HORNBOSTEL EP1 - Obsession (Shadow mix) 1993",
+            "title": "HORNBOSTEL EP1 - Obsession (Shadow mix) 1993",
             "Channel ID": "UCddrJk0oSap15QuMPF-TClw",
             "Author": "jo rocco",
             "Description": "",
@@ -33807,7 +33807,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Jl8zTS0Cxzo",
-            "Title": "Gemini - Log In",
+            "title": "Gemini - Log In",
             "Channel ID": "UCViINcytUrDisUaWlPfCL9Q",
             "Author": "tthrober",
             "Description": "Year - 1997, Label - Distance http://www.discogs.com/Gemini-Shadowland-EP/release/11450",
@@ -33833,7 +33833,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ckizoS_V_8Y",
-            "Title": "Lil Silva - Seasons (HQ)",
+            "title": "Lil Silva - Seasons (HQ)",
             "Channel ID": "UCYWivgtk-pJ8OF_m_Fvks3w",
             "Author": "joeisnotyourfriend",
             "Description": "Big big song by Lil Silva on Night Slugs Mad drunk drums",
@@ -33859,7 +33859,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "B6qShA4vKGs",
-            "Title": "El-B ft Rumpus - Bubble",
+            "title": "El-B ft Rumpus - Bubble",
             "Channel ID": "UCONYKRRP8VrEyu-43O9p4zQ",
             "Author": "BAREBONESBEATS",
             "Description": "Scorpion 002A   2000",
@@ -33885,7 +33885,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GPuk_Cpmidg",
-            "Title": "Ten City - Say Something (John Robinson Classic mix)",
+            "title": "Ten City - Say Something (John Robinson Classic mix)",
             "Channel ID": "UCoOMI28zj0oVzKqn_G19nKg",
             "Author": "levettski",
             "Description": "Nice remix from John Robinson of the Robinson Wall Project team,will upload the Original L.P mix soon too,one of my favourite Ten City numbers from 94...Enjoy...Levettski",
@@ -33911,7 +33911,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "A5BGDOgizko",
-            "Title": "michael knight (dmx krew) - knight ryder (hip house mix)",
+            "title": "michael knight (dmx krew) - knight ryder (hip house mix)",
             "Channel ID": "UCJCA3_IvWaok_vHGzJmPMVQ",
             "Author": "somenen",
             "Description": "rrrrrrrrr yeaaah 1998 http://www.discogs.com/Michael-Knight-Knight-Ryder/release/90110",
@@ -33937,7 +33937,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "h6S7f9GRJ_0",
-            "Title": "A Guy Called Gerald - Silent Cry",
+            "title": "A Guy Called Gerald - Silent Cry",
             "Channel ID": "UC8VHqU0XbiL3AQ6hD4YSWqg",
             "Author": "bassbytes",
             "Description": "Support the artist, buy it: https://aguycalledgerald.bandcamp.com/album/black-secret-technology-remastered  Taken from the 2008 reisse of Black Secret Technology.",
@@ -33963,7 +33963,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-lqF7S2ifBw",
-            "Title": "Kruder & Dorfmeister - High Noon",
+            "title": "Kruder & Dorfmeister - High Noon",
             "Channel ID": "UCGkNNoNqp56kIkDlgB-bL_w",
             "Author": "Louis Ray",
             "Description": "From the EP: Kruder & Dorfmeister - G-Stoned - Label: G-Stone Recordings - Released: 1993  Problem with the video? Please tell me and it will be removed immediately!  http://www.discogs.com/Kruder-Dorfmeister-G-Stoned/release/170440",
@@ -33989,7 +33989,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-6nSXqzogB4",
-            "Title": "Sans Filtre King Kooba",
+            "title": "Sans Filtre King Kooba",
             "Channel ID": "UCSwk2SG_IWudVsSwZ6vBoRQ",
             "Author": "gnwert",
             "Description": "",
@@ -34015,7 +34015,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "McNVgTDrZoI",
-            "Title": "Justin Drake & Kevin Griffiths 'Midnight Special'",
+            "title": "Justin Drake & Kevin Griffiths 'Midnight Special'",
             "Channel ID": "UCbBs3EA8hmHugv86ZRA310w",
             "Author": "Tsuba Records",
             "Description": "Download & Streaming Links Can Be Found Here:  http://tsubarecords.com/news-article/10-years-of-tsuba-essentials  Vinyl: http://www.juno.co.uk/ppps/products/416943-01.htm",
@@ -34041,7 +34041,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "yz5kt5nHsoI",
-            "Title": "Yakari - Positive Transphere (1994)",
+            "title": "Yakari - Positive Transphere (1994)",
             "Channel ID": "UCL4J20Y1UpQGttcNXMB2j9Q",
             "Author": "2trancentral",
             "Description": "Rare old school trance gem. Yakari - Tranquiliser EP / Loop Records  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  https://www.discogs.com/user/3.am.eternal  https://soundcloud.com/2trancentral  Support my channel - https://paypal.me/2trancentral",
@@ -34067,7 +34067,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hseZ3Z1Dw7M",
-            "Title": "Onur Özer - Orion",
+            "title": "Onur Özer - Orion",
             "Channel ID": "UCfHfAVCUey7V6qJuMUHHWIg",
             "Author": "vakantofficial",
             "Description": "For more please visit:  http://vakant.net https://vakant.bandcamp.com",
@@ -34093,7 +34093,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GpQvN0q8jUo",
-            "Title": "Deep Dish Presents Prana - The Dream (Sharam's Deep Dish Dreamscape)",
+            "title": "Deep Dish Presents Prana - The Dream (Sharam's Deep Dish Dreamscape)",
             "Channel ID": "UCGkNNoNqp56kIkDlgB-bL_w",
             "Author": "Louis Ray",
             "Description": "From the LP: Deep Dish Presents Prana (2) - The Dream - Label: TRIBAL America - Released: 1994  Problems with the video? Please tell me and it will be removed immediately!",
@@ -34119,7 +34119,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Rtykp7YQXwo",
-            "Title": "Rob Paine - Never Can Say Goodbye (Rocket dubmix)",
+            "title": "Rob Paine - Never Can Say Goodbye (Rocket dubmix)",
             "Channel ID": "UCtDjNjxuEDotnsrXB29YaGQ",
             "Author": "Eduard Werft",
             "Description": "http://www.discogs.com/viewimages?release=25221",
@@ -34145,7 +34145,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wkARsMptvZ4",
-            "Title": "Trans-4M - Dencity (1992)",
+            "title": "Trans-4M - Dencity (1992)",
             "Channel ID": "UCL4J20Y1UpQGttcNXMB2j9Q",
             "Author": "2trancentral",
             "Description": "Old school ambient-techno gem. Trans-4M - Sublunar Oracles / Buzz   ~~~~~~~~~~~~~~~~~~~~~~~~~~~  https://www.discogs.com/user/_2trancentral_  https://soundcloud.com/2trancentral  if you want to support my channel - https://paypal.me/2trancentral",
@@ -34171,7 +34171,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Q_LkjSnXGcs",
-            "Title": "Armand Van Helden - Flowerz (feat. Roland Clark)",
+            "title": "Armand Van Helden - Flowerz (feat. Roland Clark)",
             "Channel ID": "UC50D0Y9g8YwNk7-brknXJeg",
             "Author": "musiquecollection",
             "Description": "i dont own the song in the video. it is copyright © 1999 armand van helden/roland clark. ℗ 1999 by tinted records.  http://www.musiquecollection.blogspot.com/  'flowerz' is the final track & 2nd single from armand van helden's album '2 future 4 u'. it features roland clark on vocals.  download the song here: http://bit.ly/hma0ar  make sure you check out my website: http://www.musiquecollection.blogspot.com/  © & ℗ 1999 armand van helden/roland clark/tinted records.",
@@ -34197,7 +34197,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "J7z69loi1i4",
-            "Title": "audio deluxe....60 seconds..[no vocal version]..HQ",
+            "title": "audio deluxe....60 seconds..[no vocal version]..HQ",
             "Channel ID": "UCaa-qm_V-6vlE3VOmk8ZNpQ",
             "Author": "clothmonkeybag",
             "Description": "upload from cd single...quality all the way..enjoy this classic",
@@ -34223,7 +34223,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PE5TS-LTchw",
-            "Title": "Pal Joey - Spend The Night.wmv",
+            "title": "Pal Joey - Spend The Night.wmv",
             "Channel ID": "UC_J5nESrnImnH2lnkNZd1Tg",
             "Author": "phunktek system",
             "Description": "Pal Joey - Spend The Night  Label: Loop D' Loop 1991  Arranged By [Edit Arrangements] - Julio Rodriguez Executive Producer - Reynald \"Crazy Frenchman\" Deschamps Written-By, Producer - Pal Joey",
@@ -34249,7 +34249,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Xu-gYmOyRi4",
-            "Title": "Fatback Band - I Found Lovin' (12\" Version)",
+            "title": "Fatback Band - I Found Lovin' (12\" Version)",
             "Channel ID": "UCIslxYW_aALyKiCr5ZnqHnw",
             "Author": "FUNKNATION",
             "Description": "FUNKNATION Facebook Group Link Below: https://www.facebook.com/groups/615349122180598/",
@@ -34275,7 +34275,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OGp4KYi8z1A",
-            "Title": "BBQ (Mike Shannon & Brett Johnson) · BBQ Bounce",
+            "title": "BBQ (Mike Shannon & Brett Johnson) · BBQ Bounce",
             "Channel ID": "UCQBuyKS38-S9qKSihacyrPA",
             "Author": "Cynosure Recordings",
             "Description": "CYN044 · My Way Home EP",
@@ -34301,7 +34301,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NoQiHHeJjGg",
-            "Title": "New Latin Age - Mama (Philly Groove) OLD SCHOOL HOUSE",
+            "title": "New Latin Age - Mama (Philly Groove) OLD SCHOOL HOUSE",
             "Channel ID": "UCjbYJ9w-0WfHIPGL6o6Ig_A",
             "Author": "EDUARDO TEPPER (shadowband account)",
             "Description": "LATIN HOUSE OF 1989 / 1990",
@@ -34327,7 +34327,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4BJQpIbSNNw",
-            "Title": "B2 Jean Caffeine - Jean's Afterthought",
+            "title": "B2 Jean Caffeine - Jean's Afterthought",
             "Channel ID": "UCSBZj4otvLY2lZJpI6ShJHQ",
             "Author": "Salo",
             "Description": "Jean Caffeine  - Downtime, Turn Around And Go Backwards Label: Classic Catalog#: CMC083 Format: Vinyl, 12\" Country: UK Released: 1998 Genre: Electronic Style: Deep House",
@@ -34353,7 +34353,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ng9HSXRTjlw",
-            "Title": "Liberty City - Thats What I Got (MURK Vocal)",
+            "title": "Liberty City - Thats What I Got (MURK Vocal)",
             "Channel ID": "UCiaMbDsdYuxdrg_2O8Rg3-Q",
             "Author": "1210tech",
             "Description": "Dirty dirty music....but nice =]",
@@ -34379,7 +34379,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jK9RYxppVIc",
-            "Title": "Chapter 1 - Unleash The Groove (Love In Sheffield Mix)",
+            "title": "Chapter 1 - Unleash The Groove (Love In Sheffield Mix)",
             "Channel ID": "UCx7lVAls7ocqnr9o-qAdvrw",
             "Author": "taranteo",
             "Description": "classic SR groove",
@@ -34405,7 +34405,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "W6bx11zs924",
-            "Title": "Names \"I Love Your Body\" (Lover's Mix)",
+            "title": "Names \"I Love Your Body\" (Lover's Mix)",
             "Channel ID": "UCjpSMLRIl1JPhlQfWATX9_A",
             "Author": "HeavenlyHouse",
             "Description": "Names - I Love Your Body Label: New Music International Catalog#: NMX 1200 Format: Vinyl, 12\", Promo Country: Italy Released: 1993/94?  Tracklist: A    I Love Your Body (Lovers Mix) 7:40 B1    I Love Your Body (L.A. Mix) 6:05 B2    I Love Your Body (Suspended Mix) 6:37  Notes: Only for Dee Jay",
@@ -34431,7 +34431,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Dyfuyrp200g",
-            "Title": "The Source - You got the love (Upside vocal remix)",
+            "title": "The Source - You got the love (Upside vocal remix)",
             "Channel ID": "UCpDn30h7XQstJZs_Rz0U94A",
             "Author": "5h00m5",
             "Description": "Source, The Featuring Candi Staton - You Got The Love (The Remixes) Label: Truelove Electronic Communications, Truelove Electronic Communications Catalog#: TLOVE R1, TLOVER1 Format: Vinyl, 12\", 45 RPM, Promo Country: UK Released: 1991 Genre: Electronic Style: House Tracklist A1    You Got The Love (Dave Harrow And Charlie Hall Remix)       Remix - Charlie Hall , Dave Harrow* A2    You Got The Love  B1    You Got The Love (BPM Remix)       Remix - BPM B2    You Got The Love (Up Side Instrumental)  B3    You Got The Love (Sow The Seed You Reap Accapella)  Credits Vocals - Candi Staton Notes Promo version has one extra track, A2 which is 2 minutes of synths and baseline from A1.   Cover has a barcode sticker with the cat # TLOVER1  Runout groove is etched with the cat # TLOVE R1  Side one etchings:  DAMONT  PAULS  . . . LOVE IS . . .  . . . THE MESSAGE IS . . .   Side two etchings:  S.D.  CDBD EYES",
@@ -34457,7 +34457,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "wUJ7qErI7ME",
-            "Title": "Omar S -Day (A1)",
+            "title": "Omar S -Day (A1)",
             "Channel ID": "UCN_S7GxiLqOqF1ra0dKK-RA",
             "Author": "themathematicalbrain",
             "Description": "from motor city to memphis;jus'buckin' and jookin' to the supreme beats",
@@ -34483,7 +34483,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "sCzOctlWr4c",
-            "Title": "Nail - I've Been There",
+            "title": "Nail - I've Been There",
             "Channel ID": "UC0a_qQVpe7yjhVdxG1IXwxw",
             "Author": "TheHeynow420",
             "Description": "Obsession Music 1998 - http://www.discogs.com/Various-Obsession-Music-Presents-Diy-Classic-EP/release/85210",
@@ -34509,7 +34509,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tjuynOikZkA",
-            "Title": "J Da Flex & EL-B - When I Fall In Love (Dub Mix)",
+            "title": "J Da Flex & EL-B - When I Fall In Love (Dub Mix)",
             "Channel ID": "UCr3SxPOoiZoKBIlcu28eeSA",
             "Author": "TheCunce",
             "Description": "White Label",
@@ -34535,7 +34535,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NoLqRGgVEdI",
-            "Title": "Rick Wade & Brett Dancer - Dr Love (Deep)",
+            "title": "Rick Wade & Brett Dancer - Dr Love (Deep)",
             "Channel ID": "UC2b5UOQqM7j4K-DRiuNUnHw",
             "Author": "exiledlarky",
             "Description": "CHORD 3-44  (1999)",
@@ -34561,7 +34561,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Q7MAqm1U8hw",
-            "Title": "Take One - Say My Name (I Don't Think So) - Strictly Rhythm",
+            "title": "Take One - Say My Name (I Don't Think So) - Strictly Rhythm",
             "Channel ID": "UCz1dKgQo9PraJG1K7VcHUHw",
             "Author": "Sugar@THM",
             "Description": "Released:1992 Genre:Electronic Style:House, Deep House",
@@ -34587,7 +34587,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "smovHO6CoQY",
-            "Title": "Indopepsychics - Gemini IV V Space Nova!",
+            "title": "Indopepsychics - Gemini IV V Space Nova!",
             "Channel ID": "UCVVAVYkV-Gqd0v004KX68Ig",
             "Author": "PROGRESSIVE FOrM",
             "Description": "http://port.rittor-music.co.jp/sound/interview/post-927.php",
@@ -34613,7 +34613,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "C1cz7gYsJ5o",
-            "Title": "Rhythm Masters - Virgin Eyes (Safe Sax Mix)",
+            "title": "Rhythm Masters - Virgin Eyes (Safe Sax Mix)",
             "Channel ID": "UC_E4HZJDb26n7Mxf4SCyoOQ",
             "Author": "deradera456",
             "Description": "Rhythm Masters - Virgin Eyes (Safe Sax Mix) 1990 Nu Groove Records",
@@ -34639,7 +34639,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "jV-qW7OwJRA",
-            "Title": "El B ft. Natasha - I Feel",
+            "title": "El B ft. Natasha - I Feel",
             "Channel ID": "UCCCXLi_T2LzGojYA1kLwDHg",
             "Author": "Loic Kinstrie",
             "Description": "A nice uk funky house track from El B ft. Natasha. Keep Supporting UK Music :-)",
@@ -34665,7 +34665,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HTN_4hzLVTk",
-            "Title": "Thump - Magika (Ambient Mix)",
+            "title": "Thump - Magika (Ambient Mix)",
             "Channel ID": "UCCgRFKgc2jHlGR6MjAy32ng",
             "Author": "yoshiochamaable",
             "Description": "Label:Junk Rock Records",
@@ -34691,7 +34691,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "np0r9zSfV4A",
-            "Title": "Kalisha - I Got Something Here (1992)",
+            "title": "Kalisha - I Got Something Here (1992)",
             "Channel ID": "UC4qM07rjiGE9aldfY5F0F5Q",
             "Author": "outy1978",
             "Description": "Label:-N-Sync Inc. Catalog#:JS 529 Format:Vinyl, 12\" Country:US Released:1992 Genre:Electronic  Style:Garage House",
@@ -34717,7 +34717,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "dSVqRe97QKI",
-            "Title": "Rhythm & Sound - Mango Drive",
+            "title": "Rhythm & Sound - Mango Drive",
             "Channel ID": "UCdo296t-DO1KNMfLHbEhKpQ",
             "Author": "b0nkb0nkb0nk",
             "Description": "Artist: Rhythm & Sound //// Song: Mango Drive //// Album: Rhythm & Sound //// Year: 2001",
@@ -34743,7 +34743,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "DLyJeMweyQI",
-            "Title": "Alessandro Leone aka The45dj Long Waves The Order Male Productions 1992 Sound of Rome.wmv",
+            "title": "Alessandro Leone aka The45dj Long Waves The Order Male Productions 1992 Sound of Rome.wmv",
             "Channel ID": "UCY_eMpMc170WDX9Kr6owOzQ",
             "Author": "Alessandro Leone",
             "Description": "Traccia 2 lato B LONG WAVES dall' EP: THE ORDER \"The Underground Rythmic Project\" - Male Productions (1992) (Alessandro Leone)",
@@ -34769,7 +34769,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "HrO3zQzljSw",
-            "Title": "Paolo Zerletti - What Is Techno (1994)",
+            "title": "Paolo Zerletti - What Is Techno (1994)",
             "Channel ID": "UCvu1o5VZEJk-r1GR1Il-tCA",
             "Author": "junbexx",
             "Description": "http://www.discogs.com/Paolo-Zerletti-Mind-Bleep/release/127842",
@@ -34795,7 +34795,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "bkXxQL-nyQw",
-            "Title": "The Midas Touch (Hell Interface remix)",
+            "title": "The Midas Touch (Hell Interface remix)",
             "Channel ID": "UC-LwQjOCRdGiCmv0Z7rn7uA",
             "Author": "brettleemovies",
             "Description": "Midnight Star - The Midas Touch (Hell Interface remix). http://www.boardsofcanada.com/",
@@ -34821,7 +34821,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zAyq1xBN8gY",
-            "Title": "Dax Inc. \"Be Ya Fool\" (Deep Organmix)",
+            "title": "Dax Inc. \"Be Ya Fool\" (Deep Organmix)",
             "Channel ID": "UCjpSMLRIl1JPhlQfWATX9_A",
             "Author": "HeavenlyHouse",
             "Description": "Dax Inc. - Be Ya Fool Label: Marcon Music Catalog#: MRC 019 Format: Vinyl, 12\" Country: Italy Released: 1993  Tracklist: A1  Be Ya Fool (4.47 A.M. Mix) A2  Be Ya Fool (Deep Organmix) A3  Be Ya Fool (F.L.U.X. 33 Version)     Mixed By - Pasquale 33 B  Be Ya Fool (Extended Club)",
@@ -34847,7 +34847,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "5t8CJhRR3Ck",
-            "Title": "Bobby Konders' House Rhythms The Poem.wmv",
+            "title": "Bobby Konders' House Rhythms The Poem.wmv",
             "Channel ID": "UCjMWLWRRqC-yD9yixvIoHGw",
             "Author": "albertomoderno",
             "Description": "registrato con technics sl1210 mk II puntine Stanton Classico House ed Acid House 1990 su Nugroove",
@@ -34873,7 +34873,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ucHgqyeme2k",
-            "Title": "Aphrodisiac ''The Rare Source EP'' - Earth Whispers",
+            "title": "Aphrodisiac ''The Rare Source EP'' - Earth Whispers",
             "Channel ID": "UCPgtR9eyMiX2KI640v6kb0w",
             "Author": "Jonny Roberts",
             "Description": "French Deep House 1996 [BPM Records (France)]",
@@ -34899,7 +34899,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "l_MjmS4N_mo",
-            "Title": "Alias ''Who's Story?'' - Da Journey",
+            "title": "Alias ''Who's Story?'' - Da Journey",
             "Channel ID": "UCPgtR9eyMiX2KI640v6kb0w",
             "Author": "Jonny Roberts",
             "Description": "UK Garage 1998 [V.I.P. (Very Important Plastic)] - Note: Previously uploaded, audio quality has been improved.",
@@ -34925,7 +34925,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Q5R_Ayo_urY",
-            "Title": "Roska, Jamie George - Love 2 Nite",
+            "title": "Roska, Jamie George - Love 2 Nite",
             "Channel ID": "UCVnWcdkrTTQtoUHk5PYLVjA",
             "Author": "* ρ h.ı l s k i ' 8 2 * HIGHKRAP *",
             "Description": "Roska, Jamie George - Love 2 Nite",
@@ -34951,7 +34951,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "GtV1jrCOu08",
-            "Title": "Satoshi Tomiie ft Arnold Jarvis  - And I Loved You (Classic Club Mix) 1990",
+            "title": "Satoshi Tomiie ft Arnold Jarvis  - And I Loved You (Classic Club Mix) 1990",
             "Channel ID": "UC4qM07rjiGE9aldfY5F0F5Q",
             "Author": "outy1978",
             "Description": "Label:FFRR Catalog#:FXDJ 134 Format:Vinyl, 12\", Promo Country:UK Released:1990 Genre:Electronic  Style:House, Deep House",
@@ -34977,7 +34977,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_hmH2qrYUGE",
-            "Title": "Alternations - Feel It For You (Planetary Access Mix)",
+            "title": "Alternations - Feel It For You (Planetary Access Mix)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1989. http://www.discogs.com/release/78918",
@@ -35003,7 +35003,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "N4jxS6yO9fo",
-            "Title": "Original Clique \"Now Hear Me Now\"",
+            "title": "Original Clique \"Now Hear Me Now\"",
             "Channel ID": "UCjpSMLRIl1JPhlQfWATX9_A",
             "Author": "HeavenlyHouse",
             "Description": "Original Clique - North Of Watford E.P. Label: Chill Catalog#: TUV 2 Format: Vinyl, 12\", 45 RPM, EP Country: UK Released: 1990  Tracklist: A1  Now Hear Me Now8:20 A2  AZ674:28 B1  \"F\" (Whistle Mix)4:20 B2  Sinistral7:22  Credits: Producer - Original Clique Notes ℗© 1990 Chill Records.  Made in England.  Etchings side A: Ice cold northern house  side B: A \"Tim Raidl\" signing",
@@ -35029,7 +35029,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8cN2Q2gPvWk",
-            "Title": "Spring - No Time (For Crying) (12\" Mix) 1992",
+            "title": "Spring - No Time (For Crying) (12\" Mix) 1992",
             "Channel ID": "UC4qM07rjiGE9aldfY5F0F5Q",
             "Author": "outy1978",
             "Description": "One of the all time great house records. RIP John Robinson.  Another great track \"Spring - Stick Together\" EhPGEYPTETY  Label:Black Rain Records Catalog#:BRR 3002 Format:Vinyl, 12\" Country:US Released:1992 Genre:Electronic  Style:Deep House, Garage House",
@@ -35055,7 +35055,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "_eJRky-FAlo",
-            "Title": "Boswick Gates: You Are The Reason (2001 garage/house)",
+            "title": "Boswick Gates: You Are The Reason (2001 garage/house)",
             "Channel ID": "UCmmYMl-s1znvy64xNnAYVPQ",
             "Author": "low-pass party",
             "Description": "London native Simon Richmond has a little over a decade of major label deep house releases under his belt. Surprisingly, even though he only puts out a couple of songs each year, many of them are under different aliases or with a group of other like-minded producers. Keeping a low profile has not at all been a detriment to his career, and his releases on OM and Freerange have had a good amount of DJ support worldwide. In 2001, he took a bite at the UK garage phenomenon, and despite the fact that thousands of artists from outside the genre tried to cash in on it by making sub-par cookie-cutter garbage, Richmond was a diamond in the rough and did just the opposite: a track that sounded fresh and nicely balanced house and garage. You Are The Reason is a laid back 2-step garage piece which elegantly combines the pads, rhodes, and atmosphere of a left coast US house piece from around that time with the breaks and bassline workout of a well-produced 2-step joint from this bygone era. Most 2-step garage music foucsed on one of two things: the vocals, or the bassline. Here the bassline takes precedence, with the subdued vocal relegated to the background and reverberated over the stereo space. This track was a great fit for OM Recordings, and the supporting house remix on the other side was also proper. He produced this under his alias Boshwick Gates; under this guise he only released one or two other songs (plus a remix) on other compilations around that time for the label.",
@@ -35081,7 +35081,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Vd4kVponnFc",
-            "Title": "Dee-Vious: Cleopatra's Dream (1995 deep house)",
+            "title": "Dee-Vious: Cleopatra's Dream (1995 deep house)",
             "Channel ID": "UCmmYMl-s1znvy64xNnAYVPQ",
             "Author": "low-pass party",
             "Description": "deevious-cleopatras dream",
@@ -35107,7 +35107,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "okTnPyamgZk",
-            "Title": "Pluto - Rockefeller - 1995",
+            "title": "Pluto - Rockefeller - 1995",
             "Channel ID": "UCW0Ddu_zO_sQeW136qSaqfg",
             "Author": "ohfuku",
             "Description": "A Classic that is often forgotten released on cd & vinyl - Found on \"Trance Europe Express Vol 2\"   http://www.discogs.com/Pluto-Rising/master/84568  http://www.discogs.com/Various-Trance-Europe-Express-Volume-2/release/164501",
@@ -35133,7 +35133,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "hoh3NWs3IXg",
-            "Title": "Aritmya - Parabolic (Ipnotic Version)",
+            "title": "Aritmya - Parabolic (Ipnotic Version)",
             "Channel ID": "UCxyGFm5U3R9mK11ofYps7EA",
             "Author": "yellowidhouse",
             "Description": "Calypso Records | 1992",
@@ -35159,7 +35159,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "aoSq8L0UrGw",
-            "Title": "Nexus 21 - Self Hypnosis (taken from the ltd edition sampler), Network 1990",
+            "title": "Nexus 21 - Self Hypnosis (taken from the ltd edition sampler), Network 1990",
             "Channel ID": "UCdxIq4r90052aQXJhVOiU-A",
             "Author": "marcopeeee",
             "Description": "This video is not the original. I respect the copyrights of the original owner. This video is not commercially used and solely for sharing memories of the huge heritage of housemusic.  Paris Grey / Nexus 21 - Limited Edition Sampler Label: Network Records Catalog#: BIO DJ1 Format: Vinyl, 12\", Promo Country: UK Released: 1990 Genre: Electronic Style: Techno, Deep House Tracklist AParis Grey  - Dont Lead Me (2001 Version)     Remix - Nexus 21 BNexus 21  - Self Hypnosis NotesTaken from the Compilation Album \"Bio Rhythm\"  The centre label incorrectly states that the logo side is Self Hypnosis and the info side is Don't Lead Me. On the vinyl itself, the opposite is correct. Source: www.discogs.com",
@@ -35185,7 +35185,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4vW2ccXtpoE",
-            "Title": "Liquid City - Feeling Free (Master And Servants Mix) (1993)",
+            "title": "Liquid City - Feeling Free (Master And Servants Mix) (1993)",
             "Channel ID": "UCygzjdPR6EZ7luNBHM5ksjA",
             "Author": "MrDanceHouseRare",
             "Description": "Label:TRIBAL America Format:Vinyl, 12\", 33RPM Country:US Released:1993 Genre:Electronic Style:House, Deep House",
@@ -35211,7 +35211,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "G-7xLqRWkV0",
-            "Title": "Frankie Goes To Hollywood - Rage Hard       (✚) (✚✚) ✪",
+            "title": "Frankie Goes To Hollywood - Rage Hard       (✚) (✚✚) ✪",
             "Channel ID": "UC25K4vrnJGLTatDW0fCK6Lw",
             "Author": "maxinebendix",
             "Description": "The original CD single version of Rage Hard with big production sound of Steve Lipson and Trevor Horne. We shall be teased by a long merciless reverb.  I'm not convinced on the Jan Francis theory. Unless she herself can back it up with the valid paperwork.",
@@ -35237,7 +35237,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ErZR9ZqEWbA",
-            "Title": "Romanthony - Let Me Show You Love (Re-Edit) [LUV101]",
+            "title": "Romanthony - Let Me Show You Love (Re-Edit) [LUV101]",
             "Channel ID": "UCXYnqlRaWXxJeNmdUlJrSNQ",
             "Author": "SalzStreuer",
             "Description": "1994 - Original  2006 - Remix [LUV101]",
@@ -35263,7 +35263,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "AOgEh2C8cNk",
-            "Title": "Kerri Chandler - Raw Grooves 3 - Ladbroke Grove.wmv",
+            "title": "Kerri Chandler - Raw Grooves 3 - Ladbroke Grove.wmv",
             "Channel ID": "UCfuO0saOaU6aDrEewLIF53w",
             "Author": "OldSchoolMovement",
             "Description": "1997 - Large Records http://www.discogs.com/Kerri-Chandler-Raw-Grooves-3/release/3021",
@@ -35289,7 +35289,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ftu_YyC7hB4",
-            "Title": "hmc - science funktion - southern hemisphere ep - 1992",
+            "title": "hmc - science funktion - southern hemisphere ep - 1992",
             "Channel ID": "UCBv0ROw42vzlptisg5UH_KQ",
             "Author": "transience71",
             "Description": "a tune from heaven -oldschool analog electronics - love this one so much...",
@@ -35315,7 +35315,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xUl0WCOHm5g",
-            "Title": "Rhythm Section \"Thrill Me\" 1991",
+            "title": "Rhythm Section \"Thrill Me\" 1991",
             "Channel ID": "UCjpSMLRIl1JPhlQfWATX9_A",
             "Author": "HeavenlyHouse",
             "Description": "This is the \"K.F. In The Spirit\" Mix. Go Frank \"The Bean\" Balester! Ruff!  Rhythm Section, The (2) Featuring Sunday (2) - Thrill Me Label: Movin' Records Catalog#: MR014 Format: Vinyl, 12\", 33 ⅓ RPM Country: US Released: 1991  Tracklist: A1 Thrill Me (Travelin' Mix)6:10     Mixed By - George Lockett A2 Thrill Me (Pop's Thrill Mix)6:58     Mixed By - Tony Humphries B1 Thrill Me (K.F In The Spirit)5:10     Mixed By - Frank\"The Bean\" Balester B2 Thrill Me (Six 'O Clock Thrill)5:10     Mixed By - Tony Humphries B3 Thrill Me (Original Nite At Underground Mix)4:40  Credits: Featuring - Sunday (2)  Producer - Lee Collins Notes Produced By Lee Collins, Additional Production And Mix By Tony Humphries, George Lockett & Frank \"The Bean\" Balester. Overdubs By George Lockett Jr. and Kerri Chandler. Keboards by Jacques.",
@@ -35341,7 +35341,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "unNV6X-0Qds",
-            "Title": "Microworld - Smile",
+            "title": "Microworld - Smile",
             "Channel ID": "UC2b5UOQqM7j4K-DRiuNUnHw",
             "Author": "exiledlarky",
             "Description": "MS 22  (1999)",
@@ -35367,7 +35367,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "STiEnOgmkjE",
-            "Title": "►Huff & Puff ►Help Me Make It ► Deep Mix ▄▀■▄▀■▄▀■▄▀■▄",
+            "title": "►Huff & Puff ►Help Me Make It ► Deep Mix ▄▀■▄▀■▄▀■▄▀■▄",
             "Channel ID": "UC25K4vrnJGLTatDW0fCK6Lw",
             "Author": "maxinebendix",
             "Description": "▄▀■▄▀■▄▀■▄▀■▄▀  ► Deep Mix ▄▀■▄▀■▄▀■▄▀■▄BASSoptimized™ \"So you don't have to\"®",
@@ -35393,7 +35393,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oHJCbDXoq-U",
-            "Title": "Psychotropic - Only For The Headstrong (Out Of Your Head Mix)",
+            "title": "Psychotropic - Only For The Headstrong (Out Of Your Head Mix)",
             "Channel ID": "UCkdMSk2yoGWDqqPJjRrv-4g",
             "Author": "Mark Archer",
             "Description": "Label: Raw Bass Catalog#: 12 RBASS 003 Format: Vinyl, 12\", 45 RPM Country: UK Released: 1990 Genre: Electronic Style: Breakbeat, Downtempo",
@@ -35419,7 +35419,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ilYwPTu5rLc",
-            "Title": "MATT ANTONIO - CLOSER.",
+            "title": "MATT ANTONIO - CLOSER.",
             "Channel ID": "UCRFisC2TJooV5EJvm1JgVlA",
             "Author": "User 1",
             "Description": "",
@@ -35445,7 +35445,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "z_yEjHAjeao",
-            "Title": "Smith & Mighty feat. Niji 40 'B Line Fi Blow' Punch Drunk presents Unearthed",
+            "title": "Smith & Mighty feat. Niji 40 'B Line Fi Blow' Punch Drunk presents Unearthed",
             "Channel ID": "UC3ol4WRw1MBDkmYXa1OCoPA",
             "Author": "Peverelist",
             "Description": "Originally released in 2002.  Remastered and re-released Punch Drunk presents Unearthed 2010  12\" vinyl & Digital 18th January 2010  Unearthed is a new sister label from Punch Drunk Records reviving classic Bristol soundsystem anthems of yesteryear.",
@@ -35471,7 +35471,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "osYk6Fgdqic",
-            "Title": "Jalal Ouissal - Enter My Garden",
+            "title": "Jalal Ouissal - Enter My Garden",
             "Channel ID": "UCbRYTMRJJfpwZ3-k8FHbuKg",
             "Author": "deepfrequencies",
             "Description": "",
@@ -35497,7 +35497,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xXTGhneH20I",
-            "Title": "Karen Anderson - Thank You (12\").wmv",
+            "title": "Karen Anderson - Thank You (12\").wmv",
             "Channel ID": "UCfuO0saOaU6aDrEewLIF53w",
             "Author": "OldSchoolMovement",
             "Description": "1992 - Nott-Us Records http://www.discogs.com/Karen-Anderson-Thank-You/release/215838",
@@ -35523,7 +35523,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "De7KWNhMEoE",
-            "Title": "Obatala Sango Ochun - The Beginning (Afrikan Latino Mix)",
+            "title": "Obatala Sango Ochun - The Beginning (Afrikan Latino Mix)",
             "Channel ID": "UC3r7ero1IoeY1B0rnXUuNxw",
             "Author": "IDStatik",
             "Description": "Tony Real - My Little Party Bonus Trax 1989 US Vinyl Sunshine Music LTD SML2351 Freestyle, House, Deep House",
@@ -35549,7 +35549,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ix5G_hk6r0Y",
-            "Title": "Freakpower in Dub- My heart sings",
+            "title": "Freakpower in Dub- My heart sings",
             "Channel ID": "UCkpdqBapMEpOQOIwCRgn2sg",
             "Author": "Don Patron",
             "Description": "Give 'em enough dope Vol.2   You 're gonna hear some very real BLACK VOICE",
@@ -35575,7 +35575,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "H0Hcu-RFHkY",
-            "Title": "326 - Falling (Armando's House Mix)",
+            "title": "326 - Falling (Armando's House Mix)",
             "Channel ID": "UC3r7ero1IoeY1B0rnXUuNxw",
             "Author": "IDStatik",
             "Description": "1989 US Viny Muzique Records MR002",
@@ -35601,7 +35601,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "w8eeavV5qUU",
-            "Title": "UK GARAGE - MDUBS - OVER HERE FEATURING RICHIE DAN! CLASSIC UKG!",
+            "title": "UK GARAGE - MDUBS - OVER HERE FEATURING RICHIE DAN! CLASSIC UKG!",
             "Channel ID": "UC2rFzBwh5IiV_RobsoXdOZA",
             "Author": "djsp1047",
             "Description": "M DUBS - OVER HERE FT RICHIE DAN",
@@ -35627,7 +35627,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tw42cChPF3k",
-            "Title": "Morenas - Somnambulism",
+            "title": "Morenas - Somnambulism",
             "Channel ID": "UC3r7ero1IoeY1B0rnXUuNxw",
             "Author": "IDStatik",
             "Description": "(Stereo) Morenas - Hazme Soñar B- Side Italy 1990 Vinyl DFC DFC020 Genre:Electronic Style:Deep House",
@@ -35653,7 +35653,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xkp7cFqB_iE",
-            "Title": "[1992] piece - free your mind (future)",
+            "title": "[1992] piece - free your mind (future)",
             "Channel ID": "UC4NCpPTpoDSqsZkpV63wXYg",
             "Author": "thedeepestdream",
             "Description": "http://www.discogs.com/Piece-Free-Your-Mind/master/34574",
@@ -35679,7 +35679,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "lrpXArn3hII",
-            "Title": "Bruce Springsteen - I'm On Fire (Official Video)",
+            "title": "Bruce Springsteen - I'm On Fire (Official Video)",
             "Channel ID": "UCkZu0HAGinESFynhe3R4hxQ",
             "Author": "BruceSpringsteenVEVO",
             "Description": "Official Video of ”I'm On Fire\" by Bruce Springsteen  Listen to Bruce Springsteen: https://BruceSpringsteen.lnk.to/listenYD  Pre-Order the Legendary 1979 No Nukes Concerts: http://brucespringsteen.lnk.to/NoNukes  Subscribe to the official Bruce Springsteen YouTube channel: https://BruceSpringsteen.lnk.to/subscribe Watch more Bruce Springsteen videos: https://BruceSpringsteen.lnk.to/listen  Follow Bruce Springsteen:  Facebook: https://BruceSpringsteen.lnk.to/followFI Instagram: https://BruceSpringsteen.lnk.to/followII Twitter: https://BruceSpringsteen.lnk.to/followTI Website: https://BruceSpringsteen.lnk.to/followWI Spotify: https://BruceSpringsteen.lnk.to/followSI YouTube: https://BruceSpringsteen.lnk.to/subscribe  Lyrics: Oh, oh, oh I'm on fire Oh, oh, oh I'm on fire Oh, oh, oh I'm on fire  #BruceSpringsteen #ImOnFire #BornInTheUSA #OfficialVideo #ClassicRock",
@@ -35705,7 +35705,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "uYgVkZEtI-E",
-            "Title": "Audiophile - Electrofied",
+            "title": "Audiophile - Electrofied",
             "Channel ID": "UCpCdVrU4X7_OAYWVXxZUgTw",
             "Author": "Bryan Carter",
             "Description": "Those who were there, remember.",
@@ -35731,7 +35731,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qx00gypXpak",
-            "Title": "SMITH & MIGHTY - RUB (featuring the General)",
+            "title": "SMITH & MIGHTY - RUB (featuring the General)",
             "Channel ID": "UCN41s0NFI4HkUrZZTMthqOw",
             "Author": "bristolmassive2001",
             "Description": "from \"STEPPERS DELIGHT E.P.\" (1992). Mixed & produced by Smith & MIghty. http://www.myspace.com/smithandmighty",
@@ -35757,7 +35757,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NK6d2B1-ST0",
-            "Title": "Double Dealers - My Love (Club Version) 1991",
+            "title": "Double Dealers - My Love (Club Version) 1991",
             "Channel ID": "UC4qM07rjiGE9aldfY5F0F5Q",
             "Author": "outy1978",
             "Description": "Label:No Name Records (3) Catalog#:NN001291 Format:Vinyl, 12\" Country:Italy Released:1991",
@@ -35783,7 +35783,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6VFheWPjbC0",
-            "Title": "D.O.P. Take Me (Original Mix) 1991",
+            "title": "D.O.P. Take Me (Original Mix) 1991",
             "Channel ID": "UC4qM07rjiGE9aldfY5F0F5Q",
             "Author": "outy1978",
             "Description": "Label:TRIBAL America, Guerilla Catalog#:V-13843, US-GRRR 15 Format:Vinyl, 12\" Country:US Released:1991",
@@ -35809,7 +35809,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "NghrvYRojLE",
-            "Title": "The Safehouse - Full Therapy E.P.  - Music",
+            "title": "The Safehouse - Full Therapy E.P.  - Music",
             "Channel ID": "UCxyGFm5U3R9mK11ofYps7EA",
             "Author": "yellowidhouse",
             "Description": "The Safehouse - Full Therapy E.P. - Music   1991",
@@ -35835,7 +35835,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TsrKloxhfaw",
-            "Title": "Buju Banton - Champion (Official Music Video)",
+            "title": "Buju Banton - Champion (Official Music Video)",
             "Channel ID": "UC6g5ch050jB15lbdr9moM0Q",
             "Author": "BujuBantonVEVO",
             "Description": "REMASTERED IN HD! Music video by Buju Banton performing Champion. (C) 1995 The Island Def Jam Music Group A Universal Company #BujuBanton #Champion #Remastered",
@@ -35861,7 +35861,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "cjOdDfcvHzw",
-            "Title": "BACK II FRONT VIEWFINDER I WANT YOU ALL NIGHT",
+            "title": "BACK II FRONT VIEWFINDER I WANT YOU ALL NIGHT",
             "Channel ID": "UCCPbqpXP1tveDYLCgCsWa2w",
             "Author": "olympicheadzzreturns",
             "Description": "Label:Deep Distraxion Catalog#:OILY 014 Format:Vinyl, 12\" Country:UK Released:1992 Genre:Electronic Style:House",
@@ -35887,7 +35887,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "lrwIqDGKyu0",
-            "Title": "Bovel - Do It Your Way - Buzz fm Manchester",
+            "title": "Bovel - Do It Your Way - Buzz fm Manchester",
             "Channel ID": "UClxeKC88RQWIs6AoW5cH1sw",
             "Author": "snowmanbuzzfm",
             "Description": "If you like my channel - check out my new site! Dedicated to UK Pirate Radio!   http://www.towerblockradio.com  Live music 24/7 - FREE downloads - Chatroom - Forums - Videos ect.  Please show your support by registering as a member!!!  http://www.towerblockradio.com  Due to many requests in my in my private messages - ive uploaded some more tracks from Manchester singer/songwriter Bovel.  Bovel started in the Manchester underground scene back in 1995 with a 5 track EP named \"Bovel\". Then in 1996 she released a single named \"Check 4 U\" - already on my channel - which was a number 1 underground hit allover the UK, and is played in clubs and on radio to this day. Since 1996 she has released many tracks - and has continued working with producers from Manchester.  Im privilaged to have been in the company of this artist many times over the years, and she is one nice lady, never mind a god damn fine singer! A supporter of the Buzz fm and the Snowman's show, we salute you!   Enjoy!",
@@ -35913,7 +35913,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Rt_Jdb17OH8",
-            "Title": "general levy cool like that mix",
+            "title": "general levy cool like that mix",
             "Channel ID": "UCzi-kv4J8Tynnfcfcuw1Y9w",
             "Author": "kev318is",
             "Description": "rare jungle tune",
@@ -35939,7 +35939,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FoRqWHX1Ml8",
-            "Title": "The Beginnerz – Reckless Girl (Stanton Warriors Remix)",
+            "title": "The Beginnerz – Reckless Girl (Stanton Warriors Remix)",
             "Channel ID": "UCKxQ-DVLsytwZT0ahDiv4Fg",
             "Author": "Linas Time Machine",
             "Description": "2004 / Breakbeat, Breaks.",
@@ -35965,7 +35965,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mKkLjJHwRec",
-            "Title": "Computer Error Song",
+            "title": "Computer Error Song",
             "Channel ID": "UCN48R4Yu8xQ22GtgYy6GPJw",
             "Author": "Abrade",
             "Description": "",
@@ -35991,7 +35991,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TSSYuE0ExOw",
-            "Title": "The Funky Horns, DJ Duke - Blow",
+            "title": "The Funky Horns, DJ Duke - Blow",
             "Channel ID": "UCo3pk0Ff3LBMwdtPa3i-MsQ",
             "Author": "Hendrik Schirmann",
             "Description": "US 1995, Label: Music for Your Ears http://www.discogs.com/Funky-Horns-Blow/release/64629 beatport: https://www.beatport.com/de-DE/html/content/release/detail/167940/Blow",
@@ -36017,7 +36017,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "KXPzCYT3E-o",
-            "Title": "Soulclap - Conscious",
+            "title": "Soulclap - Conscious",
             "Channel ID": "UCDFS7bKYrCP88qo2VfIR5ig",
             "Author": "The Fishdog",
             "Description": "Soulcap edits wolf and lamb black label  A - concious  The Soul Clap boys have turned an 80s single by Womack & Womack into a chuggy, detroitish deephouse number that pushes all the right buttons. F. Kudos to the Soul Clap captains for managing to turn such a cheesy pop track into such a nice deep smokey affair",
@@ -36043,7 +36043,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "MdJrdmLutwg",
-            "Title": "Beat Foundation - Acoustic Ambience",
+            "title": "Beat Foundation - Acoustic Ambience",
             "Channel ID": "UCGAwQ9dBJif1W_WUrg339kg",
             "Author": "alderaanic",
             "Description": "Beat Foundation - Acoustic Ambience (Save Me EP) (Skinnymalinky Records) (SMR00395) Written & Produced by Mike Monday, Andy Cato & Dan Hewson , Downtempo / Ambient ,1995",
@@ -36069,7 +36069,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xO_NHg0PnJQ",
-            "Title": "HITHOUSE - Jack To The Sound of The Underground",
+            "title": "HITHOUSE - Jack To The Sound of The Underground",
             "Channel ID": "UC4aqYHn-WNSl49LJM3rg8iA",
             "Author": "skylineag4u2nv",
             "Description": "",
@@ -36095,7 +36095,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "k_4tQMdKN-Y",
-            "Title": "DJ Mystery ft Natalie K -  Speechless",
+            "title": "DJ Mystery ft Natalie K -  Speechless",
             "Channel ID": "UC9R1831eQOVMB--61euILKg",
             "Author": "StretchNova",
             "Description": "",
@@ -36121,7 +36121,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-TIj8ECzQgk",
-            "Title": "Menta-Sounds of da Future (2001 garage)",
+            "title": "Menta-Sounds of da Future (2001 garage)",
             "Channel ID": "UCmmYMl-s1znvy64xNnAYVPQ",
             "Author": "low-pass party",
             "Description": "Awesome garage/bassline track from 2001 by Menta, a duo who consisted of Arthur Smith and Danny Harrison. They only produced a small handful of garage tracks under this alias before moving on to work on a disco house project together once garage faded out of the limelight after 2003 titled Moto Blanco. However their work deserves a mention, specifically this track. The focus of this six minute piece of funk is it's simple yet catchy bassline, which is wrapped tightly around a nice fleeting 2-step drumloop. This tune was very similar in style to much of DJ Zinc's breakbeat work around that time, so it was only fitting that they had him take on the reigns and put out a drum and bass remix in 2003 as one of the earliest releases on his Bingo imprint. Darqwan also had a breaks remix on the flip side of this record, and a hard to find test press floating about that consisted of a remix of Menta which was based loosely off Nuyorican Soul's classic anthem \"Nervous Track\". Danny Harrison's biggest claim to fame was his work in speed garage in the late 1990's, serving as one half of 187 Lockdown.  Edit: I apologize for getting the track and group name reversed when I first posted this. After getting a nasty commont followed up with some personal attacks in my inbox by JOHYEAHM, I figured that fixing it was long overdue!",
@@ -36147,7 +36147,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ltMTwRPPJSs",
-            "Title": "Sandee - Notice Me",
+            "title": "Sandee - Notice Me",
             "Channel ID": "UC4aqYHn-WNSl49LJM3rg8iA",
             "Author": "skylineag4u2nv",
             "Description": "Fever Records 1988",
@@ -36173,7 +36173,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "oG_La5R9HQk",
-            "Title": "UK GARAGE CLASSICS HOBSONS CHOICE",
+            "title": "UK GARAGE CLASSICS HOBSONS CHOICE",
             "Channel ID": "UCCswGQj38ZD7l4x6YZ7ezZQ",
             "Author": "sdenn1s",
             "Description": "",
@@ -36199,7 +36199,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "VN5ffrlBPrA",
-            "Title": "Drexciya - Under Sea Disturbances",
+            "title": "Drexciya - Under Sea Disturbances",
             "Channel ID": "UCeUX6rvbmtaBuZXKFfaZ8aQ",
             "Author": "ampule",
             "Description": "tresor | tresor 181 | 2002",
@@ -36225,7 +36225,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "N2Dp2OaSEWw",
-            "Title": "UK Garage - Jameson vs Destiny's Child - Bug A Boo",
+            "title": "UK Garage - Jameson vs Destiny's Child - Bug A Boo",
             "Channel ID": "UCeB4VkxULSo2D2Uf1gkFVZQ",
             "Author": "Lawz158",
             "Description": "Another wicked Jameson remix",
@@ -36251,7 +36251,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JAtuQR-w-Jw",
-            "Title": "Lenny Dee Ice - We Are IE",
+            "title": "Lenny Dee Ice - We Are IE",
             "Channel ID": "UC_AolHJS6SflbhItmpD6Ytw",
             "Author": "3dbully",
             "Description": "Lennie De Ice - We Are IE  Label: i.e. Records   Catalog#: IE-001   Format: Vinyl, 12\", White Label, Promo Country: UK  Released: 1991  Genre: Electronic   Style: Breakbeat, Hardcore   Notes: White label with stamped information.  No artist or tracklisting.  Etchings: RTOR  This massive tune that blew up raves up and down the UK in 1991 was certainly a ground breaking track that opened the door to a whole new style of hardcore rave music, it is also often cited as the first hardcore dance track to incorporate the amen breakbeat.   This is in fact wrong as the amen sample was being used in other tracks at the time and the first hardcore tune to feature amen was Father Forgive Them by Holy Noise (Hithouse) which was released in 1990.  \"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"  Saying that We Are Ie is still one of the greatest tunes of a great era.",
@@ -36277,7 +36277,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "18N2k1TBBRE",
-            "Title": "Black Box - Everybody Everybody (Official Video)",
+            "title": "Black Box - Everybody Everybody (Official Video)",
             "Channel ID": "UCjbmxL4AN29gt992sVoY99w",
             "Author": "BlackBoxHouse",
             "Description": "Official Black Box video \"Everybody Everybody\"  Release 1990 NOTE: The Lady in the video is not the actual Singer, she is  lip-syncing Grab the Release: https://ingroov.es/dreamland-jq5ko See our official website at:  http://www.blackboxhouse.eu  Join Facebook on  http://www.facebook.com/BlackBoxHouse.Eu Join Instagram:    http://www.instagram.com/blackboxband/",
@@ -36303,7 +36303,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FafWChd8DcE",
-            "Title": "Ronald Burrell - In The Summertime",
+            "title": "Ronald Burrell - In The Summertime",
             "Channel ID": "UCxyGFm5U3R9mK11ofYps7EA",
             "Author": "yellowidhouse",
             "Description": "Jazzy Records | 1992",
@@ -36329,7 +36329,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "O3QOEDZnKb8",
-            "Title": "Moodymann - Your Sweet Lovin'",
+            "title": "Moodymann - Your Sweet Lovin'",
             "Channel ID": "UCM3YxW5efOOe_lLevDrvKMA",
             "Author": "Reverberations",
             "Description": "Only Quality House",
@@ -36355,7 +36355,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Canosgftohc",
-            "Title": "East Men - U Dig (Pacific Dub)",
+            "title": "East Men - U Dig (Pacific Dub)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1994. http://www.discogs.com/release/48173",
@@ -36381,7 +36381,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "FEKfgWIQACo",
-            "Title": "King Of Brazil - Forms Of Expression (Deep Down Dub Mix)",
+            "title": "King Of Brazil - Forms Of Expression (Deep Down Dub Mix)",
             "Channel ID": "UCxyGFm5U3R9mK11ofYps7EA",
             "Author": "yellowidhouse",
             "Description": "King Of Brazil - Forms Of Expression - Deep Down Dub Mix",
@@ -36407,7 +36407,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "4bC43dDx770",
-            "Title": "Deception - Seventh Heaven (Uptown Mix)",
+            "title": "Deception - Seventh Heaven (Uptown Mix)",
             "Channel ID": "UCxyGFm5U3R9mK11ofYps7EA",
             "Author": "yellowidhouse",
             "Description": "1994 Thumpin! Records",
@@ -36433,7 +36433,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "riuegh8HHCg",
-            "Title": "tom & jerry - dancer",
+            "title": "tom & jerry - dancer",
             "Channel ID": "UC7aS6HoI2r1-0JAk6mNSskg",
             "Author": "kishcub",
             "Description": "tom & jerry Mark Gus Dego 4 Hero",
@@ -36459,7 +36459,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "6Ojex6eDADg",
-            "Title": "Larry Heard - Night Images (Swayzak Mix)",
+            "title": "Larry Heard - Night Images (Swayzak Mix)",
             "Channel ID": "UC2b5UOQqM7j4K-DRiuNUnHw",
             "Author": "exiledlarky",
             "Description": "MEC CD002  (2002)",
@@ -36485,7 +36485,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "V_ZIam8_TPc",
-            "Title": "Pizarro Ft Donna Blakely Mine Forever Mine 1993 Razz",
+            "title": "Pizarro Ft Donna Blakely Mine Forever Mine 1993 Razz",
             "Channel ID": "UCKQK1dh-yrQ7ucf1TfpEFwg",
             "Author": "casteoj",
             "Description": "Pizarro and Donna Blakely deep house on Razz Records",
@@ -36511,7 +36511,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "zElV19gjnvo",
-            "Title": "Dayeene - Body Action - 1992",
+            "title": "Dayeene - Body Action - 1992",
             "Channel ID": "UC4qM07rjiGE9aldfY5F0F5Q",
             "Author": "outy1978",
             "Description": "Label: Faze 2   Catalog#: 12 FAZE 3   Format: Vinyl, 12\", EP, 45 RPM Country: UK  Released: 1992",
@@ -36537,7 +36537,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "xcXrRtS10ls",
-            "Title": "Alex Lee -Take It (Vital Ital Version)",
+            "title": "Alex Lee -Take It (Vital Ital Version)",
             "Channel ID": "UCJYI6gHkjLBYn8iBSVG91Mg",
             "Author": "MickeyBeam75",
             "Description": "Alex Lee - Take It. 1991 Italian house track which has been sampled on many occasions( SMD#2 , The Joker Yeah Yeah Yeah etc.).",
@@ -36563,7 +36563,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "b0k7TnaLAjo",
-            "Title": "Original Rockers Push Push (the Underwater World of Jah Cousteau) Groove Corp. remix 1991",
+            "title": "Original Rockers Push Push (the Underwater World of Jah Cousteau) Groove Corp. remix 1991",
             "Channel ID": "UCx7lVAls7ocqnr9o-qAdvrw",
             "Author": "taranteo",
             "Description": "great dub dated 1991 the Cake label UK",
@@ -36589,7 +36589,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "fhZuTKlUqEI",
-            "Title": "Dj Zinc Ft Ms Dynamite - Freenote",
+            "title": "Dj Zinc Ft Ms Dynamite - Freenote",
             "Channel ID": "UC1BJHSPPOwpcRFo2DL6-kgw",
             "Author": "Jason Merchant",
             "Description": "Drum & Bass",
@@ -36615,7 +36615,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tY1kMjuPqVE",
-            "Title": "Cheek - Venus (Original Mix)",
+            "title": "Cheek - Venus (Original Mix)",
             "Channel ID": "UCO5wJeqKCnGKk2XXXRoKVKw",
             "Author": "bastard88",
             "Description": "Artist:Cheek  Track:Venus (Original Mix) Genre:French House Year:1996",
@@ -36641,7 +36641,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "pEqwPdSHOZI",
-            "Title": "Clubhouse - Deep In My Heart (Red Zone Mix)",
+            "title": "Clubhouse - Deep In My Heart (Red Zone Mix)",
             "Channel ID": "UC4qM07rjiGE9aldfY5F0F5Q",
             "Author": "outy1978",
             "Description": "Label: Atlantic   Catalog#: DMD 1682   Country: US  Released: 1991",
@@ -36667,7 +36667,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-vgM9T3QjY8",
-            "Title": "The SOUL System 'It's gonna be a Lovely Day' (deep house instrumental mix Arista 1992)",
+            "title": "The SOUL System 'It's gonna be a Lovely Day' (deep house instrumental mix Arista 1992)",
             "Channel ID": "UCx7lVAls7ocqnr9o-qAdvrw",
             "Author": "taranteo",
             "Description": "Deep House Instrumental mix",
@@ -36693,7 +36693,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0QOHBWGKLPg",
-            "Title": "B.G. The Prince Of Rap - Take Control Of The Party (Ken Lou Dub)",
+            "title": "B.G. The Prince Of Rap - Take Control Of The Party (Ken Lou Dub)",
             "Channel ID": "UC4qM07rjiGE9aldfY5F0F5Q",
             "Author": "outy1978",
             "Description": "Label: Epic   Catalog#: 49 74056   Country: US  Released: 1991",
@@ -36719,7 +36719,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "PJeaTk9BkuM",
-            "Title": "Kreamcicle - No News Is News",
+            "title": "Kreamcicle - No News Is News",
             "Channel ID": "UCqOqNgseTFxyx20oGj_hd2Q",
             "Author": "Mixsensei",
             "Description": "1983 tune featuring Paula Anderson: Kreamcicle - No News Is News",
@@ -36745,7 +36745,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Pmoan734E9w",
-            "Title": "Hard House Banton - Sirens",
+            "title": "Hard House Banton - Sirens",
             "Channel ID": "UCGWlX2Xh09Oqpsfm3dq5tqA",
             "Author": "FunkyVibesUK",
             "Description": "",
@@ -36771,7 +36771,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "W9_jy_VkVms",
-            "Title": "Club M.C.M - It's Me",
+            "title": "Club M.C.M - It's Me",
             "Channel ID": "UCClE5UXG_aW8o0PpQ8k085A",
             "Author": "Adriana M.",
             "Description": ".",
@@ -36797,7 +36797,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "g4YHogEx0l8",
-            "Title": "Masters of the Universe- Space Talk (1989)",
+            "title": "Masters of the Universe- Space Talk (1989)",
             "Channel ID": "UC3Bq7mIEThocYqTALXfCfxg",
             "Author": "Lee,M7LAS CT3183",
             "Description": "Classic Piano early track from Dave Lee and Mark Ryder",
@@ -36823,7 +36823,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "p8pGpiLUnHc",
-            "Title": "Paradise's Deep Groove - Innermind",
+            "title": "Paradise's Deep Groove - Innermind",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1992. http://www.discogs.com/release/246535",
@@ -36849,7 +36849,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "JHdcmoOlkdE",
-            "Title": "L.A.N.D.R.O. & Co. - I've Got Your Love",
+            "title": "L.A.N.D.R.O. & Co. - I've Got Your Love",
             "Channel ID": "UC4qM07rjiGE9aldfY5F0F5Q",
             "Author": "outy1978",
             "Description": "Label: New Music International  Catalog#: NMX 350  Country: Italy  Released: 1990",
@@ -36875,7 +36875,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "iZR6qAJQJA4",
-            "Title": "Richard Rogers - All I Want (John Robinson Club Mix)",
+            "title": "Richard Rogers - All I Want (John Robinson Club Mix)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1992. http://www.discogs.com/release/390996  One of my favorite mixes by DJ & producer John Robinson, who was tragically killed in a car accident in the UK in the late 90s.  Richard Rogers YouTube: https://www.youtube.com/channel/UC9skYy_pxzRQjEmf-fBnBxA",
@@ -36901,7 +36901,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "TJ6bDXNa4Jk",
-            "Title": "Leviticus Featuring Victor Cook - Life Story (Studio 54 Disco Mix)",
+            "title": "Leviticus Featuring Victor Cook - Life Story (Studio 54 Disco Mix)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1992. http://www.discogs.com/release/76741   Roland Clark MySpace: http://www.myspace.com/rolandclark",
@@ -36927,7 +36927,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "W1k7BICQ56U",
-            "Title": "Paradise Inc. - Deep Thoughts (Shelter Instrumental)",
+            "title": "Paradise Inc. - Deep Thoughts (Shelter Instrumental)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1991. http://www.discogs.com/release/41159",
@@ -36953,7 +36953,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-wlKw9rLMoc",
-            "Title": "Bobby Caldwell - What You Won't Do For Love (DZ Remix).wmv",
+            "title": "Bobby Caldwell - What You Won't Do For Love (DZ Remix).wmv",
             "Channel ID": "UCx-7AA96FPjEWJvfVt39ANA",
             "Author": "meath0le",
             "Description": "",
@@ -36979,7 +36979,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "lseVlZK6bec",
-            "Title": "Sasha (2) - A Key To Heaven For A Heavenly Trance",
+            "title": "Sasha (2) - A Key To Heaven For A Heavenly Trance",
             "Channel ID": "UCzTO3S2rT-BiIKhez6CAntw",
             "Author": "David Mohan",
             "Description": "Label:Limited Underground Records Catalog#:UDRGRND 424 Format:Vinyl, 12\", Promo, 45 RPM Country:Italy Released:1992 Genre:Electronic Style:House, Deep House Credits:Arranged By - Marcucci Composed By - Sasha-Giorgi* Producer, Mixed By - Sasha (2) Notes:Black vinyl version. Rating:   5.0/5 THIS IS THE ITALIAN SASHA",
@@ -37005,7 +37005,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "vpLUj8b0xz8",
-            "Title": "Ben Nevile - Designer Drugs",
+            "title": "Ben Nevile - Designer Drugs",
             "Channel ID": "UCrtj7AvkD3AivDLuqIoldEg",
             "Author": "Tarikatlar",
             "Description": "Ben Nevile - Designer Drugs",
@@ -37031,7 +37031,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Ci3mDk4Wrgc",
-            "Title": "Tyree: Lonely (No More)",
+            "title": "Tyree: Lonely (No More)",
             "Channel ID": "UCaigMWammbrjINTO0hXjKog",
             "Author": "ODJ Pirkka",
             "Description": "DJ International 12\"",
@@ -37057,7 +37057,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "ODDUKNLUSic",
-            "Title": "Moodymann - Ya Blessin' Me",
+            "title": "Moodymann - Ya Blessin' Me",
             "Channel ID": "UC2b5UOQqM7j4K-DRiuNUnHw",
             "Author": "exiledlarky",
             "Description": "KDJ 25A  (2000)",
@@ -37083,7 +37083,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "Fz7KH59HyZI",
-            "Title": "X Project & Frankie Paul (feat. Tenor Fly) - Jah Sunshine",
+            "title": "X Project & Frankie Paul (feat. Tenor Fly) - Jah Sunshine",
             "Channel ID": "UCvqOqN3mWi3Kn__w83JVZdw",
             "Author": "onarpos",
             "Description": "congo natty classic 10\" featuring bad man tenor fly",
@@ -37109,7 +37109,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "N2Wos19auk0",
-            "Title": "Derek Carr - Improv",
+            "title": "Derek Carr - Improv",
             "Channel ID": "UC4_NgVId3kycBV0flzCYzMQ",
             "Author": "Derek Carr",
             "Description": "From the Berlin Detroit Westmeath e.p. on Headspace Records",
@@ -37135,7 +37135,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "SOVTFfQcXCw",
-            "Title": "Terry Francis - Took from me",
+            "title": "Terry Francis - Took from me",
             "Channel ID": "UCSB3i8w87vRhcYL1ESYXQCw",
             "Author": "tmk321",
             "Description": "Surreal",
@@ -37161,7 +37161,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "3wjAgE6CrpY",
-            "Title": "Larry Heard - Burning 4 Love",
+            "title": "Larry Heard - Burning 4 Love",
             "Channel ID": "UCxVXpIl452mYb5tDygHWjcg",
             "Author": "lostinsotchi",
             "Description": "Label:Black Market International Catalog#:BMI 015 Format:Vinyl, 12\", 33 ⅓ RPM Country:UK Released:1994  http://www.discogs.com/release/36077",
@@ -37187,7 +37187,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tNJZxecWvIM",
-            "Title": "Dina Carroll - Special Kind of Love (Fierce \"Tribal\" Mix)",
+            "title": "Dina Carroll - Special Kind of Love (Fierce \"Tribal\" Mix)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1992. http://www.discogs.com/release/117585",
@@ -37213,7 +37213,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8-9G6h0DLuY",
-            "Title": "PLEIN SOLEIL (MAW MIX) - YASUSHI IDE",
+            "title": "PLEIN SOLEIL (MAW MIX) - YASUSHI IDE",
             "Channel ID": "UCO2OlSSMA7uLkhrYkorE_Xw",
             "Author": "mike6011",
             "Description": "PLEIN SOLEIL (MAW MIX) - YASUSHI IDE",
@@ -37239,7 +37239,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "16a7lFnkGw0",
-            "Title": "VIL-N-X feat. Jacqui Gray - De' Jah Voo (Snip Snap Mix)",
+            "title": "VIL-N-X feat. Jacqui Gray - De' Jah Voo (Snip Snap Mix)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "http://www.discogs.com/release/53220  Nathaniel X aka James Tinsley, Hans Vil & Jacqueline K. Gray.",
@@ -37265,7 +37265,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "D6pTSGvp7T8",
-            "Title": "Skream - Midnight Request Line",
+            "title": "Skream - Midnight Request Line",
             "Channel ID": "UCS53oulvizanVz9NkIXuNOA",
             "Author": "Liam C",
             "Description": "Be sure to check:   http://bagul.bandcamp.com -  http://nayla.bandcamp.com -   for the ill'est thing since dubstep",
@@ -37291,7 +37291,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "yRuYIILyXRU",
-            "Title": "Deep Space Network -  À la Pulpe d'Orange",
+            "title": "Deep Space Network -  À la Pulpe d'Orange",
             "Channel ID": "UCRkUxsRlcTIHqEeEfc4YB4A",
             "Author": "ttebroc235 ttebroc235",
             "Description": "Various -- Sunflower Liberation Movement E.P. Label: Urban Flow -- Urban Flow 01 Format: Vinyl, 12\", EP, 33 ⅓ RPM Country: Germany Released: 1993 Genre: Electronic Style: House, Deep House Tracklist ▼    Other A1  Natives --  It Grows    A2  D-Man --  Kordz 'n' Grooves    A3  D-Man --  Da' Houze Stoned & High Jack Dub       This B1  2 Suns Of P --  Big Butt Mac    B2  Deep Space Network --  A La Pulpe De L'Orange    Notes▼  1.500 copies pressed (Source: Frontpage-Germany-Special, Summer 1994).   1 recorded by Sebastian Dresel and Gregor Dietz, Ma 94 2, 3 recorded by Dirk Mantei at Blue Room, Hd 94 4 recorded by Sebastian Dresel and Davd Moufang at reSource studio, Hd 94 5 recorded by David Moufang and Jonas Grossmann reSource, Hd 94",
@@ -37317,7 +37317,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "mo8is1XSTSc",
-            "Title": "CTI - Elemental 7 - Dancing Ghosts - 1984",
+            "title": "CTI - Elemental 7 - Dancing Ghosts - 1984",
             "Channel ID": "UCu1xmQGf9d4cSWlz89I_0RA",
             "Author": "placid34",
             "Description": "One of the first records made with a 303 and an 808, if not the first. Beautiful record in every way, shape and form from Chris and Cosey",
@@ -37343,7 +37343,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "BBm9dZL7m1g",
-            "Title": "Some Treat Lost In Vegas",
+            "title": "Some Treat Lost In Vegas",
             "Channel ID": "UCUzziZ-EYRQjImRjjTQtgIQ",
             "Author": "This Exciting World",
             "Description": "Big UK garage classic from back in the day. Samples Suzanne Vega..",
@@ -37369,7 +37369,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "OurIz54DXcU",
-            "Title": "Visions - Coming Home (N.Y. Danny Tenaglia Mix)",
+            "title": "Visions - Coming Home (N.Y. Danny Tenaglia Mix)",
             "Channel ID": "UCXG_MHlRfXWHYN_qlBXKxdA",
             "Author": "RJJNY",
             "Description": "1993. Featuring Magic Juan Atkins and Dianne Lynn.  http://www.discogs.com/release/72892  Price sticker tribute to the long-running East Village record store Dance Tracks on East 3rd St, now sadly closed.",
@@ -37395,7 +37395,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0QQJXtrgRGM",
-            "Title": "Zhane sending my love",
+            "title": "Zhane sending my love",
             "Channel ID": "UCVFsdFJBZyTPe5tjNLW5fGQ",
             "Author": "aimeedus",
             "Description": "This used to be my song.  I remember I use to trip out when I watched their videos because they were the first females that I seen with fades LOL",
@@ -37421,7 +37421,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "df0rlvjxl_A",
-            "Title": "Meli'sa Morgan - Still In Love (House version)",
+            "title": "Meli'sa Morgan - Still In Love (House version)",
             "Channel ID": "UC4aqYHn-WNSl49LJM3rg8iA",
             "Author": "skylineag4u2nv",
             "Description": "Electra 1992",
@@ -37447,7 +37447,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "0TNkFrhznzI",
-            "Title": "Urban Myths Without You 1999",
+            "title": "Urban Myths Without You 1999",
             "Channel ID": "UCUzziZ-EYRQjImRjjTQtgIQ",
             "Author": "This Exciting World",
             "Description": "Big, big, big UK Garage from the old skool. Even the chipmunk vocal takes nothing away from this monster tune!",
@@ -37473,7 +37473,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "uuEg1aimXDI",
-            "Title": "Separate Minds 1st Bass",
+            "title": "Separate Minds 1st Bass",
             "Channel ID": "UCI3O7HUdLmyWOf-MsrdB7Pw",
             "Author": "Chicagowax",
             "Description": "Amazing Detroit Techno track from 1988 on Express records EXP 014. IMHO this is the best and most memorable track from an awesome 4 track EP. An essential piece of vinyl.",
@@ -37499,7 +37499,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "qd2JaSnYQDU",
-            "Title": "The Raid - Jump Up In The Air",
+            "title": "The Raid - Jump Up In The Air",
             "Channel ID": "UC4aqYHn-WNSl49LJM3rg8iA",
             "Author": "skylineag4u2nv",
             "Description": "Lumar Music 1991",
@@ -37525,7 +37525,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "r5T5Ml61V_c",
-            "Title": "The Ragga Twins - Wipe The Needle",
+            "title": "The Ragga Twins - Wipe The Needle",
             "Channel ID": "UC0V7sdEEwpjc-kHUsnL37vA",
             "Author": "browno1971",
             "Description": "Shut Up And Dance Records from 1991, this is the original version.",
@@ -37551,7 +37551,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RMy3ze58GvQ",
-            "Title": "Heller and Farley - Ultra Flava",
+            "title": "Heller and Farley - Ultra Flava",
             "Channel ID": "UCWcp2Afyp2LNUluvN1whecg",
             "Author": "Barretti",
             "Description": "Heller and Farley - Ultra Flava",
@@ -37577,7 +37577,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "u7KsQTYsCb0",
-            "Title": "Todd Terry - Weekend",
+            "title": "Todd Terry - Weekend",
             "Channel ID": "UCMhsG_p0bplyL6O7oNcmueQ",
             "Author": "whassup1908",
             "Description": "Ouderwetse partyknaller",
@@ -37603,7 +37603,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "csDzaxsFjVs",
-            "Title": "Orange Lemon - Dreams Of Santa Anna (Extended Club Mix)",
+            "title": "Orange Lemon - Dreams Of Santa Anna (Extended Club Mix)",
             "Channel ID": "UC0V7sdEEwpjc-kHUsnL37vA",
             "Author": "browno1971",
             "Description": "Oldskool classic right at the start of the scene, Orange Lemon aka Todd Terry. This is my earliest memory of \"raving\", the Thunderdome Manchester, wicked night in a shady as f**k club, whistles,airhorns and a top night.",
@@ -37629,7 +37629,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "8edVxpAX_WA",
-            "Title": "Biosphere - Novelty waves",
+            "title": "Biosphere - Novelty waves",
             "Channel ID": "UCyNJDq0fr8EZYT-0bLIKMLA",
             "Author": "deaflikeelvis",
             "Description": "http://www.biosphere.no/",
@@ -37655,7 +37655,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "RsrdANlEz8I",
-            "Title": "CJ Bolland - Camargue [1992]",
+            "title": "CJ Bolland - Camargue [1992]",
             "Channel ID": "UCLZnh2NuZD1zjPOEtHzI31g",
             "Author": "statenhal",
             "Description": "Label: R & S Records   Catalog#: RS 92024   Format: 2 x Vinyl, 12\", 33 ⅓ RPM, Album   Country: Belgium  Released: 1992  Genre: Electronic   Style: Techno   Credits: Producer, Written-By - C.J. Bolland* , Cisco Ferreira (tracks: B2, C1, D1) , Kris Vanderheyden (tracks: B1)   Notes: Recorded at The R&S Laboratories. .   Find me on Facebook: https://www.facebook.com/statenhal",
@@ -37681,7 +37681,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "46woerdzQ78",
-            "Title": "RAZE - BREAK 4 LOVE",
+            "title": "RAZE - BREAK 4 LOVE",
             "Channel ID": "UCxgd6YUtvpZLekkQff_eNZA",
             "Author": "KUOTA51",
             "Description": "RAZE",
@@ -37707,7 +37707,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "7Ml9yDkjenI",
-            "Title": "Chez Damier - Can You Feel It (MK New York Dub) [1992]",
+            "title": "Chez Damier - Can You Feel It (MK New York Dub) [1992]",
             "Channel ID": "UCLZnh2NuZD1zjPOEtHzI31g",
             "Author": "statenhal",
             "Description": "Find me on Facebook: https://www.facebook.com/statenhal  Label: KMS (UK)   Catalog#: KMS UK 03   Format: Vinyl, 12\"   Country: UK  Released: 1992  Genre: Electronic   Style: House   Credits: Written-By - Marese Thomas  Written-By, Producer - Chez Damier .",
@@ -37733,7 +37733,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "tDb9TJIvQBY",
-            "Title": "The Aloof - Never Get out the Boat (Gosh Mix short version)",
+            "title": "The Aloof - Never Get out the Boat (Gosh Mix short version)",
             "Channel ID": "UCQ25dnVPb5JwyhPQehEPl6A",
             "Author": "TheMadFerret",
             "Description": "Great tune from 1991",
@@ -37759,7 +37759,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "aQQ-p3Xw7nU",
-            "Title": "UTFO -Ya Cold Wanna Be With Me",
+            "title": "UTFO -Ya Cold Wanna Be With Me",
             "Channel ID": "UCRVKXuN2kKCMdE-DDAxHnLA",
             "Author": "Guwd Music & Thangz",
             "Description": "U.T.F.O. (which stood for \"Untouchable Force Organization\") (Doctor Ice was the \"Hip-Hop Physician,\" Educated Rapper was a college student who wore a suit and tie, Mix Master Ice assumed the persona of a ninja since he would \"cut things up\" on the turntables, and Kangol Kid got his name due to his affinity for always wearing Kangol-brand hats)",
@@ -37785,7 +37785,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "-3dJ-_qE0N4",
-            "Title": "Wiley, Eskiboy Freestyle",
+            "title": "Wiley, Eskiboy Freestyle",
             "Channel ID": "UCaMR38PMLPluIExj9YDT9wA",
             "Author": "ItMeDaG",
             "Description": "Eskiboy, Wiley Freestyle",
@@ -37811,7 +37811,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "W8Y3piodWes",
-            "Title": "Squarepusher - My Red Hot Car (Girl)",
+            "title": "Squarepusher - My Red Hot Car (Girl)",
             "Channel ID": "UCd9xNHuCNFnQ47xHHTZnX1Q",
             "Author": "Film Life",
             "Description": "Squarepusher - My Red Hot Car (Girl) My Red Hot Car 2001 Warp Records (WAP 147 UK,EP)             Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car - Squarepusher - My Red Hot Car (Girl)",
@@ -37837,7 +37837,7 @@ export const HubData = {
                 "digging"
             ],
             "Video ID": "480Q_aZUcxw",
-            "Title": "Source Direct 'Secret Liaison'",
+            "title": "Source Direct 'Secret Liaison'",
             "Channel ID": "UC-QhbE_tWC0DlLzFtRz1DXg",
             "Author": "secphas001",
             "Description": "All time classic from the SD boys. Got to be one of my favorite tracks from 96'.",

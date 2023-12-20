@@ -15,8 +15,6 @@ const ProductPage = () => {
     };
 
     
-
-    
     return (
         <section className="py-10 font-roboto pt-36 dark:bg-gray-800">
             <div className="max-w-6xl mx-auto px-4">
