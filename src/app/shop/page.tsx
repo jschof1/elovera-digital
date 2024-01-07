@@ -94,11 +94,11 @@ const Shop: React.FC = () => {
                                                 <Link href={`/shop/${product.id}`} passHref>
                                                     <div className="w-full overflow-hidden">
                                                         <motion.div
-                                                            className="hover:grayscale-0 grayscale transition duration-300 ease-in-out"
+                                                            className="hover:grayscale-0 grayscale transition duration-300 ease-in-out bg-white border border-green-400"
                                                             variants={gridItemVariants}
                                                         >
                                                             <Image
-                                                                className="object-cover mb-2"
+                                                                className="object-cover"
                                                                 src={product.images[0].src}
                                                                 alt={product.title || 'Product Image'}
                                                                 width={500}
@@ -107,18 +107,25 @@ const Shop: React.FC = () => {
                                                             />
                                                         </motion.div>
                                                     </div>
-                                                </Link>
+                                                        </Link>
                                             ) : (
                                                 <p>No image available</p>
                                             )}
-                                            <div className='flex justify-between items-center'>
-                                                <div className="text-xl">{product.title}</div>
-                                                <HeartIcon
-                                                    isFavorite={isFavorite}
-                                                    onClick={() => toggleFavorite(product.id)}
-                                                />
+                                            <div className="py-4 flex justify-between items-center px-5 bg-primary text-white z-10">
+                                                {/* Container for Title and HeartIcon */}
+                                                <div className="flex items-center">
+                                                    <div className="text-xl mr-2">{product.title}</div>
+                                                    <div className="ml-5 mb-1">
+                                                        <HeartIcon
+                                                            isFavorite={isFavorite}
+                                                            onClick={() => toggleFavorite(product.id)}
+                                                            />
+                                                    </div>
+                                                </div>
+
+                                                {/* Price */}
+                                                <div className="text-m font-light bg-primary text-white">£{product.price}</div>
                                             </div>
-                                            <div className="text-xl font-light">£{product.price}</div>
                                         </li>
                                     );
                                 })}

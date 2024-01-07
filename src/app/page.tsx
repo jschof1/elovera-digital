@@ -6,7 +6,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 export default function Home() {
   const [pageReady, setPageReady] = useState(false);
-  
+
   const videoStyle = {
     position: 'fixed', // Use fixed or absolute depending on your use case
     top: 0,
@@ -52,7 +52,7 @@ export default function Home() {
 
   const centerImageClassName = "absolute top-[55%] z-10 left-[28%] -translate-x-1/2 -translate-y-1/2 md:top-1/1";
   const leftImageClassName = "absolute bottom-[30%] right-[64%]";
-  
+
   return (
     <>
       <div style={{ width: '100%', height: '100%', position: 'fixed', zIndex: '-1' }}>
@@ -63,66 +63,67 @@ export default function Home() {
           />
           Your browser does not support the video tag.
         </video>
-      <div className="pt-6">
-      <motion.div
-          className={centerImageClassName}
-        initial="hidden"
-        animate="visible"
-        variants={centerImageVariants} // Use the defined variants
-      >
-        {/* Centered Image */}
-        <Image
-          width={700}
-          height={700}
-          src="https://elovera.my.canva.site/your-paragraph-text/images/513c180505cdae6d658f1092b700074a.png"
-          alt="Centered Image"
-          ></Image>
-      </motion.div>
-
-      <motion.div
-        className={leftImageClassName}
-        initial="hidden"
-        animate="visible"
-        variants={leftImageVariants} // Use the defined variants
-      >
-        <Image
-          width={270}
-          height={270}
-          src="/walking-logo-white.gif"
-          alt="Left Image"
-          ></Image>
-      </motion.div>
-      </div>
-      <div className="z-20">
-        <button className="font-bold absolute bottom-0 left-1/2 -translate-x-1/2 pb-10 text-white md:text-lg">
-          scroll
-        </button>
-        <p className="absolute bottom-0 h-6 left-1/2 -translate-x-1/2 -translate-y-1/2 text-2xl text-white">
-          <svg
-            id="A8J3VXB3U159zCTg"
-            viewBox="0 0 16.0 31.347603289849417"
-            preserveAspectRatio="none"
-            className="block w-full h-full overflow-visible opacity-100 min-h-1 cursor-pointer" // Converted to Tailwind classes
-            style={{
-              stroke: "#ffffff",
-              fill: "#ffffff",
-              background: "url('data:image/png;base64,')" // You would replace the empty base64 with your actual background image
-            }}
+        <div className="pt-6">
+          <motion.div
+            className={centerImageClassName}
+            initial="hidden"
+            animate="visible"
+            variants={centerImageVariants} // Use the defined variants
           >
-            <g id="gYWlPgUXDGDTQDwk">
-              <path
-                d="M8.000000000000114,0.0 L8.000000000000114,20.347603289849417"
-                style={{ fill: "none", strokeWidth: "4px", strokeLinecap: "butt" }} // SVG-specific styles remain inline
-              />
-              <path
-                id="TS6repAaIuZKssxQ"
-                d="M14.0,21.347603289849303 L8.0,29.347603289849303 L2.0,21.347603289849307 Z"
-                style={{ strokeLinejoin: "round", strokeLinecap: "round", strokeWidth: "4px", fill: "inherit" }} // SVG-specific styles remain inline
-              />
-            </g>
-          </svg>
-        </p>
-      </div>
+            {/* Centered Image */}
+            <Image
+              width={700}
+              height={700}
+              src="https://elovera.my.canva.site/your-paragraph-text/images/513c180505cdae6d658f1092b700074a.png"
+              alt="Centered Image"
+            ></Image>
+          </motion.div>
+
+          <motion.div
+            className={leftImageClassName}
+            initial="hidden"
+            animate="visible"
+            variants={leftImageVariants} // Use the defined variants
+          >
+            <Image
+              width={270}
+              height={270}
+              src="/walking-logo-white.gif"
+              alt="Left Image"
+            ></Image>
+          </motion.div>
+        </div>
+        <div className="z-20">
+          <button className="font-bold absolute bottom-0 left-1/2 -translate-x-1/2 pb-10 text-white md:text-lg">
+            scroll
+          </button>
+          <p className="absolute  bottom-0 h-6 left-1/2 -translate-x-1/2 -translate-y-1/2 text-2xl text-white">
+            <svg
+            
+              id="A8J3VXB3U159zCTg"
+              viewBox="0 0 16.0 31.347603289849417"
+              preserveAspectRatio="none"
+              className="block w-full h-full overflow-visible opacity-100 min-h-1 cursor-pointer" // Converted to Tailwind classes
+              style={{
+                stroke: "#ffffff",
+                fill: "#ffffff",
+                background: "url('data:image/png;base64,')" // You would replace the empty base64 with your actual background image
+              }}
+            >
+              <g id="gYWlPgUXDGDTQDwk">
+                <path
+                  d="M8.000000000000114,0.0 L8.000000000000114,20.347603289849417"
+                  style={{ fill: "none", strokeWidth: "4px", strokeLinecap: "butt" }} // SVG-specific styles remain inline
+                />
+                <path
+                  id="TS6repAaIuZKssxQ"
+                  d="M14.0,21.347603289849303 L8.0,29.347603289849303 L2.0,21.347603289849307 Z"
+                  style={{ strokeLinejoin: "round", strokeLinecap: "round", strokeWidth: "4px", fill: "inherit" }} // SVG-specific styles remain inline
+                />
+              </g>
+            </svg>
+          </p>
+        </div>
       </div>
     </>
   );

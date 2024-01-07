@@ -47,11 +47,11 @@ const SingleProductCompo = (props: { id: number | string }) => {
     return (
         <section className="py-10 font-roboto pt-36 dark:bg-gray-800">
             <div className="max-w-6xl mx-auto px-4">
-                <div className="flex flex-wrap mb-24 -mx-4">
+                <div className="flex flex-wrap mb-10 -mx-4 backdrop-blur-md bg-white/70 rounded-md p-10">
                     <div className="w-full md:w-1/2 px-4 mb-8 md:mb-0">
                         <div className="sticky top-0 overflow-hidden">
                             <div className="relative mb-6 lg:mb-10">
-                                <Dialog >
+                                <Dialog>
                                     <DialogTrigger>
                                         <Image className="object-contain w-full lg:h-full" src={currentImageSrc} alt={product.title} width={500} height={300}  />
                                     </DialogTrigger>
@@ -93,13 +93,13 @@ const SingleProductCompo = (props: { id: number | string }) => {
                         </div>
                     </div>
                 </div>
-                <div className="w-full md:w-1/2 px-4">
-                    <div className="lg:pl-20 mt-9">
+                    <div className="w-full md:w-1/2 px-4">
+                    <div className="mt-9 p-6">
                         <div className="mb-6">
-                            <div className="text-2xl font-bold text-primary pb-5">
+                            <div className="text-xl font-bold text-primary pb-5">
                                 ELOVERA
                             </div>
-                            <h1 className="text-4xl font-semibold text-gray-700 dark:text-gray-300 leading-loose tracking-wide max-w-xl -mt-6">
+                            <h1 className="text-3xl font-bold text-gray-700 dark:text-gray-300 leading-loose tracking-wide max-w-xl -mt-6">
                                 {product.title}
                             </h1>
                             <div className="text-md font-bold text-gray-500 dark:text-gray-400">
@@ -138,10 +138,10 @@ const SingleProductCompo = (props: { id: number | string }) => {
                     </div>
                 </div>
             </div>
-            <Accordion type="single" collapsible>
+                <Accordion className="backdrop-blur-md bg-white/70 rounded-md p-10" type="single" collapsible>
 
                 <AccordionItem value="description">
-                    <AccordionTrigger>Product Description</AccordionTrigger>
+                            <AccordionTrigger className="text-green-700">Product Description</AccordionTrigger>
                     <AccordionContent>
                         This premium quality t-shirt is made from 100% organic cotton, offering both comfort and durability. Available in a variety of colors, it's perfect for everyday wear.
                     </AccordionContent>
@@ -149,7 +149,7 @@ const SingleProductCompo = (props: { id: number | string }) => {
 
 
                 <AccordionItem value="size-chart">
-                    <AccordionTrigger>Size Chart</AccordionTrigger>
+                            <AccordionTrigger className="text-green-700">Size Chart</AccordionTrigger>
                     <AccordionContent>
                         <div className="overflow-x-auto">
                             <table className="min-w-full text-sm divide-y divide-gray-200">
@@ -185,7 +185,7 @@ const SingleProductCompo = (props: { id: number | string }) => {
 
 
                 <AccordionItem value="care-instructions">
-                    <AccordionTrigger>Care Instructions</AccordionTrigger>
+                    <AccordionTrigger className="text-green-700">Care Instructions</AccordionTrigger>
                     <AccordionContent>
                         Machine wash cold with like colors. Do not bleach. Tumble dry low. Do not iron decoration.
                     </AccordionContent>
@@ -193,7 +193,7 @@ const SingleProductCompo = (props: { id: number | string }) => {
 
 
                 <AccordionItem value="shipping">
-                    <AccordionTrigger>Shipping Information</AccordionTrigger>
+                    <AccordionTrigger className="text-green-700">Shipping Information</AccordionTrigger>
                     <AccordionContent>
                         Ships within 3-5 business days. Free shipping on orders over $50.
                     </AccordionContent>
