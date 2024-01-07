@@ -85,7 +85,7 @@ export default function Nav() {
                     </div>
                     </div>
             )}
-            <nav className={`sticky flex w-full items-center justify-between md:flex-col lg:flex-row z-10 py-5 pr-70 bg-primary invisible md:visible md:flex ${shadow}`}>
+            <nav className={`fixed flex w-full items-center justify-between md:flex-col lg:flex-row z-10 py-5 pr-70 bg-primary invisible md:visible md:flex ${shadow}`}>
                 <div className="flex items-center md:w-full md:justify-center lg:w-auto text-2xl px-12">
                     <Link href="/" passHref>
                         <Image src="/logo-white.svg" width={30} height={30} alt="logo" />
@@ -111,7 +111,7 @@ export default function Nav() {
                 {pathname === '/shop' ? (
                     <div className="px-12">
                         <svg fill="none" height="30" viewBox="0 0 24 24" width="155" xmlns="http://www.w3.org/2000/svg">
-                            <g stroke="#fff" stroke-linecap="round" stroke-linejoin="round" strokeWidth="2">
+                            <g stroke="#fff" strokeLinecap="round" stroke-linejoin="round" strokeWidth="2">
                                 <path d="m3 3h1.37144c.94838 0 1.76637.66607 1.95852 1.59479l2.34008 11.31041c.19215.9287 1.01014 1.5948 1.95856 1.5948h6.8714" />
                                 <path d="m6.82422 7h12.85008c.6643 0 1.144.6359.9615 1.27472l-1.0141 3.54948c-.368 1.2879-1.5452 2.1758-2.8846 2.1758h-8.45976" />
                                 <g fill="#000">

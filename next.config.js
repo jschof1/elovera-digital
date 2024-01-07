@@ -13,6 +13,7 @@ const nextConfig = {
       "elovera.my.canva.site",
       "goodhoodstore.com",
       "i.postimg.cc",
+      "lh3.googleusercontent.com",
       "i.ytimg.com",
       "imgproxy.ra.co",
     ],

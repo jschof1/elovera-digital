@@ -1,16 +1,44 @@
-"use client"; // Import necessary libraries and components
+"use client";
 import React, { useState, useEffect, useRef, useCallback } from 'react';
-import { HubData } from "@/data"; // Ensure this import path is correct
+import { HubData } from "@/data";
+import styled from "styled-components";
+import VideoModal from "../components/videoModal";
 import VerticalNav from "../components/verticalNav";
-import GridItem from "../components/gridItem"; // This should be in a separate file
-import shuffleArray from "../utils/shuffleArray"; // This should be in a separate file
-import createModalContent from "../components/createModalContent";
+import GridItem from "../components/gridItem";
+import shuffleArray from "../utils/shuffleArray";
 
-const Hub = ({ onItemClick }) => {
+const VideoListStyled = styled.div`
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  .video-list {
+    display: grid;
+    place-items: center;
+    gap: 1rem;
+    scroll-snap-type: y fmandatory;
+    overflow-y: scroll;
+    max-height: calc(100vh + 1rem);
+    @media (min-width: 768px) {
+      & {
+        gap: 2rem;
+      }
+    }
+    & > div:first-child {
+      margin-top: 1rem;
+    }
+    & .video {
+      scroll-snap-align: center;
+    }
+  }
+`;
+
+const Hub = () => {
   // State initialization
   const [page, setPage] = useState(1);
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [modalContent, setModalContent] = useState(null);
+  const [modalVideoItems, setModalVideoItems] = useState([]);
+  const [hasMoreItemsToFetch, setHasMoreItemsToFetch] = useState(true);
+  const [selectedVideoId, setSelectedVideoId] = useState(null);
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [favorites, setFavorites] = useState({});
   const [isLoading, setIsLoading] = useState(false);
@@ -39,17 +67,70 @@ const Hub = ({ onItemClick }) => {
     if (loader.current) observer.observe(loader.current);
     return () => observer.disconnect();
   }, [handleObserver]);
+  const getMoreVideos = async (page, pageSize) => {
+    // Assuming HubData is available here. If not, you might need to pass it as a parameter or fetch it.
 
-  // Handlers for item click and favorite toggle
-  const handleItemClick = (item) => {
-    setModalContent(createModalContent(item));
-    setIsModalOpen(true);
+    // Determine the category key
+    const categoryKey = selectedCategory ? selectedCategory.toLowerCase() : "all";
+
+    // Filter the data based on the category
+    let data = categoryKey === "all" ? [].concat(...Object.values(HubData)) : HubData[categoryKey] || [];
+    data = shuffleArray(data); // Shuffle only if needed
+
+    // Calculate start and end index for slicing the data array
+    const startIndex = (page - 1) * pageSize;
+    const endIndex = startIndex + pageSize;
+
+    // Return the sliced data for the current page
+    return data.slice(startIndex, endIndex);
+  };
+
+  const fetchMoreData = async () => {
+    if (isLoading) return;
+    setIsLoading(true);
+
+    try {
+      // Fetch more videos logic
+      const nextPage = page + 1;
+      const moreVideos = await getMoreVideos(nextPage, pageSize);
+
+      setModalVideoItems(prevVideos => {
+        // Avoid duplication if the clicked video is already in the list
+        return prevVideos[0]?.src === selectedVideoId
+          ? [...prevVideos, ...moreVideos.filter(video => video.src !== selectedVideoId)]
+          : [...prevVideos, ...moreVideos];
+      });
+
+      setPage(nextPage);
+      setHasMoreItemsToFetch(moreVideos.length === pageSize);
+    } catch (error) {
+      console.error("Error fetching more videos:", error);
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   const toggleFavorite = (id) => {
     setFavorites((prev) => ({ ...prev, [id]: !prev[id] }));
   };
 
+
+  const handleItemClick = (videoId) => {
+    setSelectedVideoId(videoId);
+    setIsModalOpen(true);
+
+    // Rearrange modalVideoItems so the clicked item comes first
+    const clickedVideoIndex = contentData.findIndex(video => video.src === videoId);
+    if (clickedVideoIndex >= 0) {
+      const clickedVideo = contentData[clickedVideoIndex];
+      const restOfVideos = [
+        ...contentData.slice(0, clickedVideoIndex),
+        ...contentData.slice(clickedVideoIndex + 1)
+      ];
+      setModalVideoItems([clickedVideo, ...restOfVideos]);
+    }
+    setHasMoreItemsToFetch(true); // Reset for new modal opening
+  };
   useEffect(() => {
     setIsLoading(true);
     setContentData([]); // Clear existing data when category changes
@@ -80,15 +161,23 @@ const Hub = ({ onItemClick }) => {
                   <GridItem
                     key={item.id}
                     item={item}
-                    index={index}
                     favorites={favorites}
                     toggleFavorite={toggleFavorite}
-                    onItemClick={onItemClick}
+                    onItemClick={() => handleItemClick(item["src"])}
                   />
                 </li>
               ))}
             </ul>
           )}
+          <VideoListStyled className="container">
+          <VideoModal
+            isOpen={isModalOpen}
+            onClose={() => setIsModalOpen(false)}
+            videoItems={modalVideoItems}
+            fetchMoreData={fetchMoreData}
+            hasMore={hasMoreItemsToFetch}
+          />
+    </VideoListStyled >
           {isLoading && <div>Loading...</div>}
           {!isLoading && contentData.length === 0 && <div>No items to display.</div>}
         </div>

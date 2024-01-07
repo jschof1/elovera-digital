@@ -1,23 +1,23 @@
 export const Products = [
       {
         "id": "01",
-    "thumb_src": "https://goodhoodstore.com/cdn/shop/products/GOODHOOD-WORLDWIDE-BASIC-SMILE-T-SHIRT---WHITE-_SS22_GOODHOOD_ELEVATED_170683_2.jpg?v=1682008736",
+    "thumb_src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQqKtGAftdPlKdw-bcRim_pfHoYTKQzgDQT73gtnx3ccldZaPRbsvH1cSQCA9PmRhDi50KWUgPr-_FCJ172EBvTL23dUw=s1600",
         "thumb_alt": "watch-image",
         "images": [
           {
-            "src": "https://goodhoodstore.com/cdn/shop/products/GOODHOOD-WORLDWIDE-BASIC-SMILE-T-SHIRT---WHITE-_SS22_GOODHOOD_ELEVATED_170683_2.jpg?v=1682008736",
+            "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQqKtGAftdPlKdw-bcRim_pfHoYTKQzgDQT73gtnx3ccldZaPRbsvH1cSQCA9PmRhDi50KWUgPr-_FCJ172EBvTL23dUw=s1600",
             "alt": "first_image"
           },
           {
-            "src": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80",
+            "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRwimFnzJVrWrHGqRdDVcn6CZbOUy0iFfpTIldXL5El5aoHGEL3KVYiwaVq7rIPy3tCoe2QvkijOR98P3w6s1676UfVvA=s1600",
             "alt": "second_image"
           },
           {
-            "src": "https://images.unsplash.com/photo-1513116476489-7635e79feb27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80",
+            "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYR_9pIB0CQGiwHOP1MUGFIutzy7XevahvmfPGqSgeCnT-til0pz5XSf9YjcaeVHKzzvFdWNh--4wkcJRCmynZCEjwlYAg=s1600",
             "alt": "third_image"
           },
           {
-            "src": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+            "src": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSZvgFcTzhOR7J8aV-yvczsvUfj0dTjTApsH7AyY8_4t0OhbJyQ6L9PgrF9woxR2KPuJ0D6761KaFn0rZOWbJaRg9uI=s1600",
             "alt": "fourth_image"
           }
         ],
@@ -27,10 +27,10 @@ export const Products = [
           "blue", 
           "green"
         ],
-        "title": "Basic Starter Pack",
-        "price": 399,
-        "type": "t-shirt",
-        "description": "That’s the main thing people are controlled by! Thoughts- their perception of themselves!",
+        "title": "Originals 2.0",
+        "price": 30,
+        "type": "T-Shirt",
+    "description": "Our Premium Organic Cotton T-Shirt redefines comfort and style, blending eco-conscious manufacturing with contemporary fashion. Made with 100% organic cotton, this t-shirt is not only soft to the touch but also gentle on the environment.",
         "full_description": "The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out.",
         "details": "There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill. I’m not really specifically talented at anything except for the ability to learn.",
         "highlights": [

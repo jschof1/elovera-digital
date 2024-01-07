@@ -1,11 +1,17 @@
 'use client'
 import { motion } from 'framer-motion';
+import { useRouter } from 'next/router';
 import { useState } from 'react';
 import { Products } from '@/data';
 import Image from 'next/image';
 
 
 const ProductPage = () => {
+
+    const router = useRouter()
+    const { id } = router.query
+    const product = Products.find((p) => p.id.toString() === id)
+
     // State to hold the current image source
     const [currentImageSrc, setCurrentImageSrc] = useState(Products[0].images[0].src);
 

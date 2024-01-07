@@ -91,7 +91,7 @@ const Shop: React.FC = () => {
                                     return (
                                         <li key={product.id} className="mb-4 flex flex-col">
                                             {hasImages ? (
-                                                <Link href={`/shop/${encodeURIComponent(product.id)}`} passHref>
+                                                <Link href={`/shop/${product.id}`} passHref>
                                                     <div className="w-full overflow-hidden">
                                                         <motion.div
                                                             className="hover:grayscale-0 grayscale transition duration-300 ease-in-out"
