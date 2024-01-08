@@ -23,15 +23,16 @@ const VerticalNav: React.FC<VerticalNavProps> = ({ onCategoryClick, selectedCate
             <Head>
                 <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;700&display=swap" rel="stylesheet" />
             </Head>
-            <div className="fixed top-0 z-50 w-1/8 mt-32 ml-16 mr-20 md:py-12" style={{ fontFamily: "'League Spartan Variable', sans-serif" }}>
-                <ul className='md:block flex justify-around gap-5 text-white'>
+            <div className="fixed z-20 w-1/8 mr-10 lg:mt-32 lg:ml-10 lg:top-0 md:m-0 sm:m-0 overflow-y-auto max-h-screen" style={{ fontFamily: "'League Spartan Variable', sans-serif" }}>
+                <ul className='flex justify-around text-white md:block md:gap-1'>
                     {categories.map((category) => (
                         <li key={category}
-                            className={`font-bold p-3  md:text-5xl sm:text-xl cursor-pointer ${selectedCategory === category ? 'text-primary' : ''}`}
+                            className={`font-bold p-2 md:p-3 lg:p-4 md:text-4xl lg:text-5xl cursor-pointer ${selectedCategory === category ? 'text-primary' : ''}`}
+                            
                             onClick={() => handleCategoryClick(category)}
                         >
-                            <span className="hover:bg-primary p-2">
-                            {category}
+                            <span className="hover:bg-primary lg:p-2 md:p-0">
+                                {category}
                             </span>
                         </li>
                     ))}

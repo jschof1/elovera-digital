@@ -45,7 +45,7 @@ const SingleProductCompo = (props: { id: number | string }) => {
     };
 
     return (
-        <section className="py-10 font-roboto pt-36 dark:bg-gray-800">
+        <section className="font-roboto lg:pt-36 lg:py-10 md:p-0 md:py-0 sm:p-0 sm:py-0 dark:bg-gray-800">
             <div className="max-w-6xl mx-auto px-4">
                 <div className="flex flex-wrap mb-10 -mx-4 backdrop-blur-md bg-white/70 rounded-md p-10">
                     <div className="w-full md:w-1/2 px-4 mb-8 md:mb-0">
@@ -55,9 +55,9 @@ const SingleProductCompo = (props: { id: number | string }) => {
                                     <DialogTrigger>
                                         <Image className="object-contain w-full lg:h-full" src={currentImageSrc} alt={product.title} width={500} height={300}  />
                                     </DialogTrigger>
-                                    <DialogContent className="bg-transparent border-0">
-                                        <Carousel className="h-[700px] w-[700px]" >
-                                            <CarouselContent className="h-[700px] w-[700px]">
+                                    <DialogContent className="bg-transparent border-0 p-4 max-w-full lg:max-w-[700px] xl:max-w-[800px] max-h-[90vh]">
+                                        <Carousel className="max-h-[90vh] lg:max-h-[700px] xl:max-h-[800px] max-w-full lg:max-w-[700px] xl:max-w-[800px]">
+                                            <CarouselContent className="h-full w-full">
                                                 {product.images.map((image, index) => (
                                                     <CarouselItem key={index}>
                                                         <Image

@@ -62,7 +62,7 @@ export default function Nav() {
     </div>
     </nav>
             {isActive && (
-                <div className={`bg-primary fixed top-0 left-0 h-full w-full ${shadow}`}>
+                <div className={`bg-primary fixed top-0 left-0 h-full w-full ${shadow} z-30`}>
                 <div className="fixed top-0 left-0 h-full w-full z-behind flex flex-col items-center justify-center">
                     <Link href="/hub">
                         <div onClick={toggleActive} style={largeNavFont} className="text-white font-extrabold py-2">HUB</div>

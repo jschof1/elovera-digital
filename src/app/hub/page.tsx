@@ -144,8 +144,9 @@ const Hub = () => {
 
   return (
     <>
-      <div className="container mx-auto mt-10 grid grid-cols-12">
-        <div className="col-span-3">
+      <div className="container mx-auto mt-10 md:z-0">
+        {/* Vertical Navigation */}
+        <div className="md:hidden">
           <VerticalNav
             selectedCategory={selectedCategory ?? ''}
             onCategoryClick={setSelectedCategory}
@@ -153,33 +154,46 @@ const Hub = () => {
           />
         </div>
 
-        <div className="col-span-9 mt-8 mx-20">
-          {!isLoading && contentData.length > 0 && (
-            <ul className={gridClasses}>
-              {contentData.map((item, index) => (
-                <li key={item.id} className="mx-0 flex flex-col">
-                  <GridItem
-                    key={item.id}
-                    item={item}
-                    favorites={favorites}
-                    toggleFavorite={toggleFavorite}
-                    onItemClick={() => handleItemClick(item["src"])}
-                  />
-                </li>
-              ))}
-            </ul>
-          )}
-          <VideoListStyled className="container">
-          <VideoModal
-            isOpen={isModalOpen}
-            onClose={() => setIsModalOpen(false)}
-            videoItems={modalVideoItems}
-            fetchMoreData={fetchMoreData}
-            hasMore={hasMoreItemsToFetch}
-          />
-    </VideoListStyled >
-          {isLoading && <div>Loading...</div>}
-          {!isLoading && contentData.length === 0 && <div>No items to display.</div>}
+        {/* Main Content Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-12">
+          {/* Vertical Navigation for Medium and Larger Screens */}
+          <div className="hidden md:block md:col-span-3">
+            <VerticalNav
+              selectedCategory={selectedCategory ?? ''}
+              onCategoryClick={setSelectedCategory}
+              categories={categories}
+            />
+          </div>
+
+          {/* Main Content Area */}
+          <div className="md:col-span-9 mt-8 md:mx-20">
+            {!isLoading && contentData.length > 0 && (
+              <ul className={gridClasses}>
+                {contentData.map((item, index) => (
+                  <li key={item.id} className="mx-0 flex flex-col">
+                    <GridItem
+                      key={item.id}
+                      item={item}
+                      favorites={favorites}
+                      toggleFavorite={toggleFavorite}
+                      onItemClick={() => handleItemClick(item["src"])}
+                    />
+                  </li>
+                ))}
+              </ul>
+            )}
+            <VideoListStyled className="container">
+              <VideoModal
+                isOpen={isModalOpen}
+                onClose={() => setIsModalOpen(false)}
+                videoItems={modalVideoItems}
+                fetchMoreData={fetchMoreData}
+                hasMore={hasMoreItemsToFetch}
+              />
+            </VideoListStyled>
+            {isLoading && <div>Loading...</div>}
+            {!isLoading && contentData.length === 0 && <div>No items to display.</div>}
+          </div>
         </div>
       </div>
       <div ref={loader} className="loader p-5" />
