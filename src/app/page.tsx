@@ -3,9 +3,14 @@ import Image from 'next/image';
 import { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
+import { getDocs, collection, query, orderBy } from "firebase/firestore"
+
 
 export default function Home() {
   const [pageReady, setPageReady] = useState(false);
+
+  const [documentData, setDocumentData] = useState(null);
+  const [error, setError] = useState(null);
 
   const videoStyle = {
     position: 'fixed', // Use fixed or absolute depending on your use case
@@ -17,15 +22,31 @@ export default function Home() {
     zIndex: -1, // Ensures the video stays in the background
   };
 
-  useEffect(() => {
-    // Simulate a loading time for page setup tasks or data fetching
-    const timer = setTimeout(() => {
-      setPageReady(true);
-    }, 2000); // Adjust time as needed for your setup
 
-    // Cleanup the timer if the component unmounts before the timer fires
-    return () => clearTimeout(timer);
-  }, []);
+
+  // async function getServerSideProps() {
+
+  //   const postsRef = query(collection(db, "hub"))
+
+  //   const postsSnapshot = await getDocs(postsRef)
+  //   const posts = postsSnapshot.docs.map((doc) => doc.data());
+  //   return { props: { hub } };
+  // }
+
+  // if (!documentData) {
+  //   return <p>Loading...</p>;
+  // }
+
+
+  // useEffect(() => {
+  //   // Simulate a loading time for page setup tasks or data fetching
+  //   const timer = setTimeout(() => {
+  //     setPageReady(true);
+  //   }, 2000); // Adjust time as needed for your setup
+
+  //   // Cleanup the timer if the component unmounts before the timer fires
+  //   return () => clearTimeout(timer);
+  // }, []);
 
 
   const centerImageVariants = {

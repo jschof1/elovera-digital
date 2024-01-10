@@ -89,7 +89,7 @@ const GridItem = ({ item, favorites, toggleFavorite, onItemClick }) => {
                         }}
                     />
                 </div>
-                <HubFetch item={item} />
+                <HubFetch item={item} height={300} width={340} autoplay={0}/>
                 
                 <div
                     onClick={() => onItemClick && onItemClick()}
