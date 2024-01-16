@@ -22,8 +22,6 @@ export default function Home() {
     zIndex: -1, // Ensures the video stays in the background
   };
 
-
-
   // async function getServerSideProps() {
 
   //   const postsRef = query(collection(db, "hub"))

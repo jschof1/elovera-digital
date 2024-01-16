@@ -10,6 +10,9 @@ export default function Nav() {
     const pathname = usePathname();
     const [searchParams, setSearchParams] = useSearchParams();
 
+    // set any to can be anyrthing
+    // const any = either a string or a number
+
     const suggestions: string[] = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew"];
     const [searchInput, setSearchInput] = useState<string>('');
     const [filteredSuggestions, setFilteredSuggestions] = useState<string[]>([]);
@@ -107,9 +110,12 @@ export default function Nav() {
                         <div className={`drop-shadow text-white transition duration-300 underline-effect ${pathname === '/shop' ? 'border-b-2 border-white' : ''}`}>SHOP</div>
                     </Link>
                 </div>
-
-                {pathname === '/shop' ? (
+                {/* {pathname === '/shop' starts with` ? ( */}
+                {pathname === '/shop' || 'shop/01' ? (
                     <div className="px-12">
+                        <Link href="/cart">
+                    
+
                         <svg fill="none" height="30" viewBox="0 0 24 24" width="155" xmlns="http://www.w3.org/2000/svg">
                             <g stroke="#fff" strokeLinecap="round" stroke-linejoin="round" strokeWidth="2">
                                 <path d="m3 3h1.37144c.94838 0 1.76637.66607 1.95852 1.59479l2.34008 11.31041c.19215.9287 1.01014 1.5948 1.95856 1.5948h6.8714" />
@@ -120,6 +126,7 @@ export default function Nav() {
                                 </g>
                             </g>
                         </svg>
+                        </Link>
                     </div>
                 ) : (
                     <div className="relative z-20 pr-12">

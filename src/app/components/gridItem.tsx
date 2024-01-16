@@ -89,7 +89,7 @@ const GridItem = ({ item, favorites, toggleFavorite, onItemClick }) => {
                         }}
                     />
                 </div>
-                <HubFetch item={item} height={300} width={340} autoplay={0}/>
+                <HubFetch item={item} height={300} width={375} autoplay={0}/>
                 
                 <div
                     onClick={() => onItemClick && onItemClick()}
@@ -100,7 +100,7 @@ const GridItem = ({ item, favorites, toggleFavorite, onItemClick }) => {
                     {/* <div className="absolute top-0 right-0 m-6 rotate-45 bg-primary text-white text-xs font-bold rounded-full px-2 py-1 z-10">
                         {item.type}
                     </div> */}
-                    <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-slate-900 rounded-full px-3 py-1" style={{ width: '5vw', height: '5vw' }}>
+                    <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-slate-900 rounded-full px-3 py-1 pointer-events" style={{ width: '5vw', height: '5vw' }}>
                         <Image
                             width={90}
                             height={90}

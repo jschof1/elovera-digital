@@ -27,11 +27,11 @@ const VerticalNav: React.FC<VerticalNavProps> = ({ onCategoryClick, selectedCate
                 <ul className='flex justify-around text-white md:block md:gap-1'>
                     {categories.map((category) => (
                         <li key={category}
-                            className={`font-bold p-2 md:p-3 lg:p-4 md:text-4xl lg:text-5xl cursor-pointer ${selectedCategory === category ? 'text-primary' : ''}`}
+                            className={`font-bold p-2 md:p-3 lg:p-4 md:text-4xl lg:text-5xl cursor-pointer`}
                             
                             onClick={() => handleCategoryClick(category)}
                         >
-                            <span className="hover:bg-primary lg:p-2 md:p-0">
+                            <span className={`lg:p-2 md:p-0 hover:bg-primary ${selectedCategory === category ? 'bg-primary' : ''}`}>
                                 {category}
                             </span>
                         </li>

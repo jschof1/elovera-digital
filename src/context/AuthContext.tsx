@@ -44,7 +44,6 @@ export function AuthContextProvider({ children }: AuthContextProviderProps): JSX
   return (
     <AuthContext.Provider value={{ user }}>
       <Nav />
-
           <video autoPlay loop muted style={videoStyle}>
             <source
               src="https://elovera.my.canva.site/your-paragraph-text/videos/fb6e4467e7053efb0979ec228db7d7e1.mp4"
