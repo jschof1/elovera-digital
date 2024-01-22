@@ -25,6 +25,27 @@ const boxVariants = {
     },
 };
 
+const findHyphen = (str) => {
+    const hyphenIndex = str.indexOf("-");
+    return hyphenIndex;
+}
+
+const makeBold = (str, hyphenIndex) => {
+    const firstPart = str.slice(0, hyphenIndex);
+    const secondPart = str.slice(hyphenIndex + 1);
+    return (
+        <>
+            <span className="font-bold">{firstPart} - </span>
+             {secondPart}
+        </>
+    );
+};
+
+const makeBoldIfHyphen = (str) => {
+    const hyphenIndex = findHyphen(str);
+    if (hyphenIndex === -1) return str;
+    return makeBold(str, hyphenIndex);
+};
 const cardVariants: Variants = {
     offscreen: {
         y: 300
@@ -42,6 +63,11 @@ const GridItem = ({ item, favorites, toggleFavorite, onItemClick }) => {
     const isFavorite = favorites[item.id];
     const [styleOnHover, setStyleOnHover] = useState({});
     const [itemStyle, setItemStyle] = useState({});
+    const [isHovering, setIsHovering] = useState(false);  // Hover state
+
+    // Add the URLs for your still image and GIF here
+    const stillImageUrl = '/walking-logo-white-still.png';
+    const gifImageUrl = '/walking-logo-white.gif';
 
     const stripedBackground = {
         zIndex: 1,
@@ -50,23 +76,24 @@ const GridItem = ({ item, favorites, toggleFavorite, onItemClick }) => {
     };
 
 
-    const onMouseEnter = () => setStyleOnHover({ transition: 'background 0.3s ease', });
+    const onMouseEnter = () => setStyleOnHover({ transition: 'background 0.3s ease', } );
+    
     return (
         <>
         <motion.div
             initial="offscreen"
             whileInView="onscreen"
             viewport={{ once: true, amount: 0.8 }}
-            animate={{
-                scale: [1, 1.02, 1, 1.01, 1],  // Subtle scaling effect
-                borderRadius: ["0%", "0%", "50%", "50%", "0%"]  // Keeping the borderRadius animation as it is
-            }}
-            transition={{
-                duration: 9,
-                ease: "easeInOut",
-                times: [0, 0.2, 0.5, 0.8, 1],
-                repeat: Infinity,
-            }}
+            // animate={{
+            //     scale: [1, 1.02, 1, 1.01, 1],  // Subtle scaling effect
+            //     borderRadius: ["0%", "0%", "50%", "50%", "0%"]  // Keeping the borderRadius animation as it is
+            // }}
+            // transition={{
+            //     duration: 9,
+            //     ease: "easeInOut",
+            //     times: [0, 0.2, 0.5, 0.8, 1],
+            //     repeat: Infinity,
+            // }}
         >
             <motion.div
                 whileHover={{
@@ -77,7 +104,9 @@ const GridItem = ({ item, favorites, toggleFavorite, onItemClick }) => {
 
                 style={itemStyle}
                 variants={cardVariants}
-                className="relative overflow-hidden mx-5 rounded-lg shadow-xl shadow-green-600"
+                className="relative overflow-hidden mx-5 rounded-lg shadow-xl "
+                    onMouseEnter={() => setIsHovering(true)}
+                    onMouseLeave={() => setIsHovering(false)}
             >
 
                 <div className="absolute top-0 right-0 p-2 z-10">
@@ -93,7 +122,7 @@ const GridItem = ({ item, favorites, toggleFavorite, onItemClick }) => {
                 
                 <div
                     onClick={() => onItemClick && onItemClick()}
-                    className="bottom-0 left-0 w-full h-full text-white text-xl font-light text-center rounded-b-lg"
+                    className="bottom-0 left-0 w-full h-full text-xl font-light text-center rounded-b-lg"
                     style={{ ...stripedBackground, ...styleOnHover }}
                     onMouseEnter={onMouseEnter}
                 >
@@ -104,12 +133,13 @@ const GridItem = ({ item, favorites, toggleFavorite, onItemClick }) => {
                         <Image
                             width={90}
                             height={90}
-                            src="/walking-logo-white.gif"
+                            src={isHovering ? gifImageUrl : stillImageUrl}
                             alt="Left Image"
                         ></Image>
                     </div>
-                    <div className="absolute flex text-base top-0 bg-black w-full py-3 px-4 justify-start">
-                        {item.title}
+                    <div className="absolute flex text-base top-0 bg-gray-300 w-full py-3 px-4 justify-start  text-gray-700">
+                        {/* {item.title} */}
+                        {makeBoldIfHyphen(item.title)}
                     </div>
                 </div>
             </motion.div>

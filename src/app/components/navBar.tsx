@@ -111,7 +111,7 @@ export default function Nav() {
                     </Link>
                 </div>
                 {/* {pathname === '/shop' starts with` ? ( */}
-                {pathname === '/shop' || 'shop/01' ? (
+                {pathname === '/shop' ? (
                     <div className="px-12">
                         <Link href="/cart">
                     

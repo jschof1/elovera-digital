@@ -100,6 +100,8 @@ body {
     .video-container {
       position: relative;
       overflow: hidden;
+      /* add filter */
+      filter: grayscale(100%);
     }
     
     /* Use Tailwind's classes to handle dimensions and positioning */

@@ -36,3 +36,7 @@ next-env.d.ts
 .env
 src/app/components/ytPlayer.tsx
 Archive.zip
+src/app/components/hubGrid.tsx
+src/app/components/shortsMain.tsx
+src/app/components/stripeBuyButton.tsx
+src/app/components/useInViewport.tsx

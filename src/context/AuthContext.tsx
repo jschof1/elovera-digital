@@ -19,6 +19,7 @@ interface AuthContextProviderProps {
 
 export function AuthContextProvider({ children }: AuthContextProviderProps): JSX.Element {
   const [user, setUser] = useState<User | null>(null);
+  const [blur, setBlur] = useState(false);
 
   const videoStyle = {
     position: 'fixed', // Use fixed or absolute depending on your use case
@@ -28,11 +29,20 @@ export function AuthContextProvider({ children }: AuthContextProviderProps): JSX
     height: '100%',
     objectFit: 'cover',
     zIndex: -6, // Ensures the video stays in the background
+    filter: `blur(${blur}px)`
   };
+
+
   useEffect(() => {
     // Subscribe to the auth state changes
     const unsubscribe = onAuthStateChanged(auth, (user) => {
       setUser(user); // Set the user or null if not logged in
+      const handleScroll = () => {
+        const newBlur = window.scrollY / 100; // Calculate blur value based on scroll position
+        setBlur(newBlur);
+      };
+      window.addEventListener('scroll', handleScroll);
+
     });
 
     // Clean up the subscription on unmount

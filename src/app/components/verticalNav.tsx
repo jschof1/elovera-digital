@@ -1,21 +1,24 @@
+import React from 'react';
 import Head from 'next/head';
-import React from 'react'; // Import React (sometimes needed depending on your setup)
 
 interface VerticalNavProps {
     onCategoryClick: (category: string) => void;
     selectedCategory: string;
     categories: string[];
+    onRemovePadding: () => void;
 }
 
-// const verticalStyle: React.CSSProperties = {
-//     padding: '0px 0px 10px 10px',
-//     whiteSpace: 'nowrap',
-// };
-
-const VerticalNav: React.FC<VerticalNavProps> = ({ onCategoryClick, selectedCategory, categories = [] }) => { // Default categories to an empty array
+const VerticalNav: React.FC<VerticalNavProps> = ({
+    onCategoryClick,
+    selectedCategory,
+    categories,
+    onRemovePadding
+}) => {
     const handleCategoryClick = (category: string) => {
         const singularCategory = category.endsWith('S') ? category.slice(0, -1) : category;
         onCategoryClick(singularCategory);
+        console.log('category', category);
+        onRemovePadding();
     };
 
     return (
@@ -28,7 +31,6 @@ const VerticalNav: React.FC<VerticalNavProps> = ({ onCategoryClick, selectedCate
                     {categories.map((category) => (
                         <li key={category}
                             className={`font-bold p-2 md:p-3 lg:p-4 md:text-4xl lg:text-5xl cursor-pointer`}
-                            
                             onClick={() => handleCategoryClick(category)}
                         >
                             <span className={`lg:p-2 md:p-0 hover:bg-primary ${selectedCategory === category ? 'bg-primary' : ''}`}>

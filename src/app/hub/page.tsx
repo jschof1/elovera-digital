@@ -7,6 +7,7 @@ import VerticalNav from "../components/verticalNav";
 import GridItem from "../components/gridItem";
 import shuffleArray from "../utils/shuffleArray";
 import HubFetch from '../components/hubFetch'; 
+// import ScrollButton  from '../components/scrollButton';
 
 
 const Hub = () => {
@@ -18,6 +19,15 @@ const Hub = () => {
   const [contentData, setContentData] = useState([]);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [selectedVideo, setSelectedVideo] = useState(null);
+  const [removePadding, setRemovePadding] = useState(false);
+  const [animateIcon, setAnimateIcon] = useState(false);
+
+
+
+  
+  const handleRemovePadding = () => {
+    setRemovePadding(true); // Update the removePadding state
+  };
 
 
   const videoRefs = useRef([]);
@@ -124,22 +134,28 @@ const Hub = () => {
             selectedCategory={selectedCategory ?? ''}
             onCategoryClick={setSelectedCategory}
             categories={categories}
+            onRemovePadding={handleRemovePadding} 
+            
           />
         </div>
 
         {/* Main Content Grid */}
+    {/* <ScrollButton />  */}
         <div className="grid grid-cols-1 md:grid-cols-12">
+  
           {/* Vertical Navigation for Medium and Larger Screens */}
           <div className="hidden z-50 md:block md:col-span-3">
             <VerticalNav
               selectedCategory={selectedCategory ?? ''}
               onCategoryClick={setSelectedCategory}
               categories={categories}
+              onRemovePadding={handleRemovePadding}
             />
           </div>
 
           {/* Main Content Area */}
-          <div className="md:col-span-9 mt-8 md:mx-20">
+          
+          <div className={`md:col-span-9 mt-8 md:mx-20 ${removePadding ? 'pt-0' : 'pt-[701px]'}`}>
             {!isLoading && contentData.length > 0 && (
               <ul className={gridClasses}>
                 {contentData.map((item, index) => (
@@ -162,6 +178,7 @@ const Hub = () => {
               <Image
                 width={90}
                 height={90}
+                  
                 src="/walking-logo-white.gif"
                 alt="Left Image"
               ></Image>
@@ -179,7 +196,7 @@ const Hub = () => {
               const isFavorite = favorites[item.id];
               videoRefs.current[index] = React.createRef();
               return (
-                <div key={item.id} ref={el => videoRefs.current[index] = el} className="snap-start h-screen flex flex-col items-center justify-center relative shadow-green-600">
+                <div key={item.id} ref={el => videoRefs.current[index] = el} className="snap-start h-screen flex flex-col items-center justify-center relative ">
                   {/* HubFetch Component */}
                   <HubFetch item={item} height={700} width={632} autoplay={1} />
                   <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-slate-900 rounded-full px-3 py-1 pointer-events-none" style={{ width: '5vw', height: '5vw' }}>
@@ -195,7 +212,7 @@ const Hub = () => {
                     {/* Title */}
                     <div className="flex-1 text-primary font-bold text-lg">
                       <span className='bg-white p-2'>
-                        {/* bg different color on hover */}
+      
                       {item.title}
                       </span> 
                     </div>

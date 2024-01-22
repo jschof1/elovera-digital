@@ -6,7 +6,8 @@ const BackgroundVideo = ({ children }) => {
         width: '100%',
         height: '100%',
         objectFit: 'cover',
-        zIndex: -1, // Ensures the video stays in the background
+        zIndex: '-1', // Ensures the video stays in the background
+        filter: 'blur(2px)'
     };
 
     return (
